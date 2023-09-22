@@ -138,11 +138,11 @@ Cut off time,Heure limite d’expédition
 "If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Si vous ne pensez pas avoir le temps de préparer les commandes des clients le jour même, vous pouvez sélectionner « Désactiver » et votre client verra un délai de livraison générique pour chaque service UPS disponible. Par exemple : « UPS® Standard — généralement livré sous 1 à 3 jours ouvrables en Europe. »"
 Save,Sauvegarder
 Please select at least one shipping service.,Veuillez sélectionner au moins un service d’expédition.
-UPS Access Point™ Economy,UPS Access Point™ Economy
-UPS® Standard,UPS® Standard
+Point Retrait,Point Retrait
+UPS Standard,UPS Standard
 UPS Expedited®,UPS Expedited®
 UPS Express Saver®,UPS Express Saver®
-UPS Express®,UPS Express®
+UPS Express,UPS Express
 UPS Express Plus®,UPS Express Plus®
 //======================= Collect on Delivery (COD) page,Page Contre remboursement (COD)
 Collect on Delivery (COD),Contre remboursement (COD)
@@ -236,8 +236,8 @@ Click on the 'Complete Configuration' button to finish the configuration of the 
 Search UPS Access Point™,Rechercher un relais UPS Access Point™
 Print form,Imprimer le formulaire
 //======================= E-shopper page,Page Client
-Deliver to an UPS Access Point<sup>TM</sup>,Livrer en relais UPS Access Point™
-Your package will be delivered to an UPS Access Point<sup>TM</sup>,Votre colis sera livré dans un relais UPS Access Point™
+Deliver to an UPS Access Point<sup>TM</sup>,Livrer en relais Point Retrait
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Votre colis sera livré dans un relaisPoint Retrait
 Open 24 hours,Ouvert 24 heures sur 24
 The address is required,L’adresse est obligatoire
 Please select an Access Point to process,Veuillez sélectionner un relais Access Point pour passer à l’étape suivante
@@ -252,7 +252,7 @@ Thursday,Jeudi
 Friday,Vendredi
 Saturday,Samedi
 Sunday,Dimanche
-Search for the UPS Access Point<sup>TM</sup>,Rechercher le relais UPS Access Point™
+Search for the UPS Access Point<sup>TM</sup>,Rechercher le relais Point Retrait
 Near,À proximité
 Delivered by End of Business Day,Livraison dans la journée
 "Address line, City, State, Postcode","Adresse, Ville, État, Code postal"

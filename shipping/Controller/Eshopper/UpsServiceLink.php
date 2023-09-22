@@ -64,7 +64,8 @@ class UpsServiceLink extends \Magento\Framework\App\Action\Action
      */
     public function execute()
     {
-        $getSecurityToken = $this->scopeConfig->getValue(\UPS\Shipping\Helper\Config::UPS_SERVICE_LINK_SECURITY_TOKEN);
+	    $getSecurityToken = $this->scopeConfig->getValue(\UPS\Shipping\Helper\Config::UPS_SERVICE_LINK_SECURITY_TOKEN);
+	
         $params = $this->getRequest()->getContent();
         if (!empty($params)) {
             $params = json_decode($params);

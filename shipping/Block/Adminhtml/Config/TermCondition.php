@@ -101,15 +101,15 @@ class TermCondition extends \Magento\Framework\View\Element\Template
     {
         $checkHandshake = false;
         $handshakeToken = $this->scopeConfig->getValue(\UPS\Shipping\Helper\Config::UPS_SERVICE_LINK_SECURITY_TOKEN);
-        if (!empty($handshakeToken)) {
+	 
+	if (!empty($handshakeToken)) {
             $checkHandshake = true;
         } elseif ($this->callAPIHandshake()) {
             $checkHandshake = true;
         } else {
             $checkHandshake = false;
         }
-
-        if ($checkHandshake) {
+	if ($checkHandshake) {
             // get user name
             $userName = $this->authSession->getUser()->getUsername();
             $locate = explode('_', $this->userModel->loadByUsername($userName)->getData('interface_locale'));
@@ -119,24 +119,30 @@ class TermCondition extends \Magento\Framework\View\Element\Template
                 "CountryCode" => $this->scopeConfig->getValue($countryCodeString),
                 "LanguageCode" => $locate[0]
             ];
-            $bearerToken = $this->scopeConfig->getValue(\UPS\Shipping\Helper\Config::PRE_REGISTERED_PLUGIN_TOKEN);
+	    $bearerToken = $this->scopeConfig->getValue(\UPS\Shipping\Helper\Config::PRE_REGISTERED_PLUGIN_TOKEN);
+	    
             $response = '';
             if (!empty($bearerToken)) {
-                $response = $this->apiLicense->access1($arrCountryCode, $bearerToken);
+		    
+		    $response = $this->apiLicense->access1($arrCountryCode, $bearerToken);
+		    
             } else {
-                $this->callAPIHandshake();
-                $bearerToken = $this->scopeConfig->getValue(\UPS\Shipping\Helper\Config::PRE_REGISTERED_PLUGIN_TOKEN);
+                $this->callAPIHandshake();		
+		$bearerToken = $this->scopeConfig->getValue(\UPS\Shipping\Helper\Config::PRE_REGISTERED_PLUGIN_TOKEN);
+		
                 if (!empty($bearerToken)) {
                     $response = $this->apiLicense->access1($arrCountryCode, $bearerToken);
                 }
-            }
+	    }
+	   
             // check empty response
             if (empty($response)) {
                 return [];
             }
             $response1 = json_decode($response);
             $check = $this->modelLicense->checkIsset();
-            $countCheck = count($check);
+	    $countCheck = count($check);
+	    
             if ($countCheck == 0) {
                 (isset($response1->AccessLicenseAgreementResponse->AccessLicenseText))
                 ? $this->modelLicense ->insertAccessLicenseText($response1->AccessLicenseAgreementResponse->AccessLicenseText)
@@ -175,8 +181,8 @@ class TermCondition extends \Magento\Framework\View\Element\Template
                 $this->cacheTypeList->cleanType($type);
             }
             $resultCallHandshakeApi = true;
-        }
-        return $resultCallHandshakeApi;
+	}
+	return $resultCallHandshakeApi;
     }
 
     /**

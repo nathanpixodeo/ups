@@ -10,6 +10,7 @@
  * at: https://www.ups.com/assets/resources/media/ups-license-and-data-service-terms.pdf
  * @link      https://www.ups.com/pl/en/services/technology-integration/ecommerce-plugins.page
  */
+
 namespace UPS\Shipping\Model;
 
 use Magento\Quote\Model\Quote\Address\RateRequest;
@@ -17,6 +18,7 @@ use Magento\Shipping\Model\Rate\Result;
 use Magento\Framework\Setup\Lists;
 use Magento\Framework\Pricing\PriceCurrencyInterface;
 use Magento\Framework\Stdlib\DateTime\DateTime;
+use Magina\ProductSubscription\Helper\Data;
 
 /**
  * Carrier class
@@ -57,61 +59,62 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
     /**
      * Carrier __construct
      *
-     * @param string   $scopeConfig        //The scopeConfig
-     * @param string   $rateErrorFactory   //The rateErrorFactory
-     * @param string   $logger             //The logger
-     * @param string   $rateResultFactory  //The rateResultFactory
-     * @param string   $rateMethodFactory  //The rateMethodFactory
-     * @param string   $storeManager       //The storeManager
-     * @param string   $currencyFactory    //The currencyFactory
-     * @param string   $checkoutSession    //The checkoutSession
-     * @param string   $apiLocator         //The apiLocator
-     * @param string   $apiRate            //The apiRate
-     * @param string   $modelService       //The modelService
-     * @param string   $modelDeliveryRates //The modelDeliveryRates
-     * @param string   $quoteFactory       //The quoteFactory
-     * @param string   $modelAccount       //The modelAccount
-     * @param string   $modelPackage       //The modelPackage
-     * @param string   $regionFactory      //The regionFactory
-     * @param string   $modelAccessorial   //The modelAccessorial
-     * @param string   $modelBackupRate    //The  modelBackupRate
-     * @param string   $packageDimension   //The pacakge dimension
-     * @param string   $timezone           //The timezone
-     * @param string   $priceCurrency      //The priceCurrency
-     * @param string   $priceHelper        //The priceHelper
-     * @param string   $lists              //The lists
-     * @param DateTime $dateTime           //The dataTime
-     * @param string   $data               //The data
+     * @param string $scopeConfig //The scopeConfig
+     * @param string $rateErrorFactory //The rateErrorFactory
+     * @param string $logger //The logger
+     * @param string $rateResultFactory //The rateResultFactory
+     * @param string $rateMethodFactory //The rateMethodFactory
+     * @param string $storeManager //The storeManager
+     * @param string $currencyFactory //The currencyFactory
+     * @param string $checkoutSession //The checkoutSession
+     * @param string $apiLocator //The apiLocator
+     * @param string $apiRate //The apiRate
+     * @param string $modelService //The modelService
+     * @param string $modelDeliveryRates //The modelDeliveryRates
+     * @param string $quoteFactory //The quoteFactory
+     * @param string $modelAccount //The modelAccount
+     * @param string $modelPackage //The modelPackage
+     * @param string $regionFactory //The regionFactory
+     * @param string $modelAccessorial //The modelAccessorial
+     * @param string $modelBackupRate //The  modelBackupRate
+     * @param string $packageDimension //The pacakge dimension
+     * @param string $timezone //The timezone
+     * @param string $priceCurrency //The priceCurrency
+     * @param string $priceHelper //The priceHelper
+     * @param string $lists //The lists
+     * @param DateTime $dateTime //The dataTime
+     * @param string $data //The data
      *
      * @return null
      */
     public function __construct(
-        \Magento\Framework\App\Config\ScopeConfigInterface $scopeConfig,
-        \Magento\Quote\Model\Quote\Address\RateResult\ErrorFactory $rateErrorFactory,
-        \Psr\Log\LoggerInterface $logger,
-        \Magento\Shipping\Model\Rate\ResultFactory $rateResultFactory,
+        \Magento\Framework\App\Config\ScopeConfigInterface          $scopeConfig,
+        \Magento\Quote\Model\Quote\Address\RateResult\ErrorFactory  $rateErrorFactory,
+        \Psr\Log\LoggerInterface                                    $logger,
+        \Magento\Shipping\Model\Rate\ResultFactory                  $rateResultFactory,
         \Magento\Quote\Model\Quote\Address\RateResult\MethodFactory $rateMethodFactory,
-        \Magento\Store\Model\StoreManagerInterface $storeManager,
-        \Magento\Directory\Model\CurrencyFactory $currencyFactory,
-        \Magento\Checkout\Model\Session $checkoutSession,
-        \UPS\Shipping\API\Locator $apiLocator,
-        \UPS\Shipping\API\Rate $apiRate,
-        \UPS\Shipping\Model\Service $modelService,
-        \UPS\Shipping\Model\DeliveryRates $modelDeliveryRates,
-        \Magento\Quote\Model\QuoteFactory $quoteFactory,
-        \UPS\Shipping\Model\Account $modelAccount,
-        \UPS\Shipping\Model\Package $modelPackage,
-        \Magento\Directory\Model\RegionFactory $regionFactory,
-        \UPS\Shipping\Model\Accessorial $modelAccessorial,
-        \UPS\Shipping\Model\Backuprate $modelBackupRate,
-        \UPS\Shipping\Model\PackageDimension $packageDimension,
-        \Magento\Framework\Stdlib\DateTime\TimezoneInterface $timezone,
-        PriceCurrencyInterface $priceCurrency,
-        \Magento\Framework\Pricing\Helper\Data $priceHelper,
-        Lists $lists,
-        DateTime $dateTime,
-        array $data = []
-    ) {
+        \Magento\Store\Model\StoreManagerInterface                  $storeManager,
+        \Magento\Directory\Model\CurrencyFactory                    $currencyFactory,
+        \Magento\Checkout\Model\Session                             $checkoutSession,
+        \UPS\Shipping\API\Locator                                   $apiLocator,
+        \UPS\Shipping\API\Rate                                      $apiRate,
+        \UPS\Shipping\Model\Service                                 $modelService,
+        \UPS\Shipping\Model\DeliveryRates                           $modelDeliveryRates,
+        \Magento\Quote\Model\QuoteFactory                           $quoteFactory,
+        \UPS\Shipping\Model\Account                                 $modelAccount,
+        \UPS\Shipping\Model\Package                                 $modelPackage,
+        \Magento\Directory\Model\RegionFactory                      $regionFactory,
+        \UPS\Shipping\Model\Accessorial                             $modelAccessorial,
+        \UPS\Shipping\Model\Backuprate                              $modelBackupRate,
+        \UPS\Shipping\Model\PackageDimension                        $packageDimension,
+        \Magento\Framework\Stdlib\DateTime\TimezoneInterface        $timezone,
+        PriceCurrencyInterface                                      $priceCurrency,
+        \Magento\Framework\Pricing\Helper\Data                      $priceHelper,
+        Lists                                                       $lists,
+        DateTime                                                    $dateTime,
+        array                                                       $data = []
+    )
+    {
         $this->rateResultFactory = $rateResultFactory;
         $this->rateMethodFactory = $rateMethodFactory;
         $this->storeManager = $storeManager;
@@ -210,12 +213,103 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
             $amount /= $rateFrom;
         }
         if (($getCheapestFee > -1 || $getSelectedFee > -1)) {
+            // Customize for Subscription Product
+            $productsCollection = $this->checkoutSession->getQuote()->getAllItems();
+            if ($this->isSubscriptionProduct($productsCollection)) {
+
+//                dd($this->checkoutSession->getData());
+                $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+                $subscriptionHelper = $objectManager->get(\Magina\ProductSubscription\Helper\Data::class);
+
+                $requestProxy = $objectManager->get(\Magento\Framework\App\Request\Http\Proxy::class);
+                //var_dump($requestProxy->getUriString()); exit();
+                $productSubscription = $subscriptionHelper->getItemDetailSubscription($productsCollection[0]);
+                $sessionManager = $objectManager->get(\Magento\Framework\Session\SessionManagerInterface::class);
+
+                $sessionManager->start();
+                $sessionManager->setData('loadDefaultCount', 1);
+
+                if (!empty($productSubscription)) {
+                    $nb_month = $productSubscription['nb_month'];
+                    $shippingPrice = $productSubscription['shipping_price'];
+                    $method->setMethodTitle((int)$shippingPrice === 9 ? 'UPS Standard':'Point Retrait');
+                    if ($shippingPrice > 0) {
+                        $amount = $amount * $nb_month;
+                        if ($this->isCartPageFromAjax()) {
+                            $amount = $shippingPrice * $nb_month;
+                            $shippingId = (int)$shippingPrice === 9 ? 40 : 34;
+                            $shippingService = $objectManager->get(\UPS\Shipping\Controller\Eshopper\ShippingService::class);
+                            $shippingService->setSelectedService(['method' => 'selectedService', 'selectedShippingService' => $shippingId]);
+                        }
+                    } else {
+                        $amount = $amount * $nb_month;
+                    }
+
+                }
+            }
+
             $method->setPrice($amount);
             $result->append($method);
             return $result;
         } else {
             return null;
         }
+    }
+
+    public function isCartPageFromAjax(): bool
+    {
+        $urlString = $_SERVER["HTTP_HOST"] . $_SERVER["HTTP_REFERER"];
+        if (str_contains($urlString, 'checkout/cart')) {
+            return true;
+        }
+        return false;
+    }
+
+    public function isSubscriptionProduct($collection)
+    {
+        foreach ($collection as $item) {
+            if ($item->getProductType() === 'subscription') {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public function getTitleFromprice(int $priceNumber) {
+
+    }
+
+    /**
+     * Extract some info from the cart if it's for a subscription
+     * @param null|\Magento\Quote\Api\Data\CartInterface $quote
+     * @param bool $reload
+     * @return mixed
+     */
+    public function getCartDetailSubscription($quote = null, $reload = false)
+    {
+        if (!$quote) {
+            $quote = $this->cart->getQuote();
+        }
+        $key = 'cart_detail_subscription';
+
+        if (!$quote->hasData($key) || $reload) {
+            $quote->setData($key, []);
+            try {
+                //quote with abo can only have 1 item, so if more (or less), ignore
+                if (count($quote->getAllItems()) == 1) {
+                    foreach ($quote->getAllItems() as $item) {
+                        $res = $this->getItemDetailSubscriptionFromQuoteItem($item);
+                        if (!empty($res)) {
+                            $quote->setData($key, $res);;
+                        }
+                    }
+                }
+            } catch (\Exception $e) {
+                $this->logger->error('[MAGI] Error : ' . $e->getMessage());
+            }
+        }
+
+        return $quote->getData($key);
     }
 
     /**
@@ -285,7 +379,7 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
         ];
         $regionCode = (!empty($request->getDestRegionCode())) ? $request->getDestRegionCode() : '';
         $fullAddress = $request->getDestStreet() . ', ' . $request->getDestCity() . ', ' . $regionCode . ' '
-        . $request->getDestPostcode();
+            . $request->getDestPostcode();
         $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS1] = $request->getDestStreet();
         $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS2] = '';
         $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS3] = '';
@@ -388,8 +482,8 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
      * Carrier setSelectedShippingFee
      *
      * @param string $selectedShippingFee //The selectedShippingFee
-     * @param string $arrServiceFees      //The arrServiceFees
-     * @param string $shippingService     //The shippingService
+     * @param string $arrServiceFees //The arrServiceFees
+     * @param string $shippingService //The shippingService
      *
      * @return null
      */
@@ -403,9 +497,9 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
     /**
      * Carrier setSelectedShippingServiceSession
      *
-     * @param string $shippingService   //The shippingService
-     * @param string $arrServiceTypes   //The arrServiceTypes
-     * @param string $arrCheapest       //The arrCheapest
+     * @param string $shippingService //The shippingService
+     * @param string $arrServiceTypes //The arrServiceTypes
+     * @param string $arrCheapest //The arrCheapest
      * @param string $cheapestServiceId //The cheapestServiceId
      *
      * @return null
@@ -421,8 +515,8 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
     /**
      * Carrier resetCheapestFee
      *
-     * @param string $cheapestFee       //The cheapestFee
-     * @param string $arrCheapest       //The arrCheapest
+     * @param string $cheapestFee //The cheapestFee
+     * @param string $arrCheapest //The arrCheapest
      * @param string $cheapestServiceId //The cheapestServiceId
      *
      * @return null
@@ -444,8 +538,8 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
     /**
      * Carrier setServiceTypeFees
      *
-     * @param string $arrCheapest     //The arrCheapest
-     * @param string $arrServiceFees  //The arrServiceFees
+     * @param string $arrCheapest //The arrCheapest
+     * @param string $arrServiceFees //The arrServiceFees
      * @param string $arrServiceTypes //The arrServiceTypes
      *
      * @return null
@@ -463,13 +557,13 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
     /**
      * Carrier setServiceADD
      *
-     * @param string $serviceADD        //The serviceADD
-     * @param string $accessorials      //The accessorials
-     * @param string $params            //The params
-     * @param string $cuttime           //The cuttime
-     * @param string $currencyCode      //The currencyCode
+     * @param string $serviceADD //The serviceADD
+     * @param string $accessorials //The accessorials
+     * @param string $params //The params
+     * @param string $cuttime //The cuttime
+     * @param string $currencyCode //The currencyCode
      * @param string $listDeliveryRates //The listDeliveryRates
-     * @param string $firstLocation     //The firstLocation
+     * @param string $firstLocation //The firstLocation
      *
      * @return array $data
      */
@@ -485,10 +579,10 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
     /**
      * Carrier getCheapestValue
      *
-     * @param string $arrCheapest     //The arrCheapest
-     * @param string $serviceDefault  //The serviceDefault
+     * @param string $arrCheapest //The arrCheapest
+     * @param string $serviceDefault //The serviceDefault
      * @param string $enableServiceAP //The enableServiceAP
-     * @param string $serviceAP       //The serviceAP
+     * @param string $serviceAP //The serviceAP
      *
      * @return array $data
      */
@@ -541,7 +635,7 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                 && !empty($upsServices[\UPS\Shipping\Helper\ConstantCarrier::RATERESPONSE][\UPS\Shipping\Helper\ConstantCarrier::RATEDSHIPMENT])
             ) {
                 foreach ($upsServices[\UPS\Shipping\Helper\ConstantCarrier::RATERESPONSE]
-                [\UPS\Shipping\Helper\ConstantCarrier::RATEDSHIPMENT] as $serviceTemp) {
+                         [\UPS\Shipping\Helper\ConstantCarrier::RATEDSHIPMENT] as $serviceTemp) {
                     $arrUPSServicesTemp[$serviceTemp[\UPS\Shipping\Helper\ConstantCarrier::SERVICE]['Code']]
                         = $serviceTemp;
                 }
@@ -623,15 +717,15 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
      * Carrier _getShippingService
      * get all shipping service
      *
-     * @param string $accessorials      //The accessorials
-     * @param string $listShipServices  //The listShipServices
-     * @param string $params            //The params
-     * @param string $cuttime           //The cuttime
+     * @param string $accessorials //The accessorials
+     * @param string $listShipServices //The listShipServices
+     * @param string $params //The params
+     * @param string $cuttime //The cuttime
      * @param string $listDeliveryRates //The listDeliveryRates
-     * @param string $currencyCode      //The currencyCode
-     * @param string $shippingType      //The shippingType
-     * @param string $firstLocation     //The firstLocation
-     * @param string $idAccount         //The idAccount
+     * @param string $currencyCode //The currencyCode
+     * @param string $shippingType //The shippingType
+     * @param string $firstLocation //The firstLocation
+     * @param string $idAccount //The idAccount
      *
      * @return array $data
      */
@@ -732,6 +826,45 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
         }
 
         $this->logger->debug("listShippingService: " . print_r($listShippingService, true));
+        $listNotLogin = array(
+            array(
+                'id' => '34',
+                'country_code' => 'FR',
+                'service_type' => 'AP',
+                'service_key' => 'UPS_SP_SERV_FR_AP_AP_ECONOMY',
+                'service_key_delivery' => 'UPS_DELI_FR_AP_AP_ECONOMY',
+                'service_key_val' => 'UPS_DELI_FR_AP_AP_ECONOMY_VAL',
+                'service_name' => 'Point Retrait',
+                'rate_code' => '70',
+                'tin_t_code' => null,
+                'service_selected' => '1',
+                'service_symbol' => '&trade;',
+                'shippingArrivalDate' => '19-09-2023 11:30:00 PM',
+                'shippingFeeValue' => '6',
+                'splitShippingFee' => '6,00 €',
+                'shippingFeeString' => '(Livraison dans la journée, Mardi, 19 Septembre 2023)',
+            ),
+            array(
+                'id' => '40',
+                'country_code' => 'FR',
+                'service_type' => 'ADD',
+                'service_key' => 'UPS_SP_SERV_FR_ADD_STANDARD',
+                'service_key_delivery' => 'UPS_DELI_FR_ADD_STANDARD',
+                'service_key_val' => 'UPS_DELI_FR_ADD_STANDARD_VAL',
+                'service_name' => 'UPS Standard',
+                'rate_code' => '11',
+                'tin_t_code' => null,
+                'service_selected' => '1',
+                'service_symbol' => '&reg;',
+                'shippingArrivalDate' => '15-09-2023 11:30:00 PM',
+                'shippingFeeValue' => 27,
+                'splitShippingFee' => '27,00\u00a0\u20ac',
+                'shippingFeeString' => '(Livraison dans la journ\u00e9e, Vendredi, 15 Septembre 2023)',
+            ),
+        );
+        if (empty($listShippingService)) {
+            return $listNotLogin;
+        }
         return $listShippingService;
     }
 
@@ -739,10 +872,10 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
      * Archived getCurrencyData
      *
      * @param string $listShippingService //The listShippingService
-     * @param string $stringRateDate      //The stringRateDate
-     * @param string $cuttime             //The cuttime
-     * @param string $shippingServiceFee  //The shippingServiceFee
-     * @param string $serviceRate         //The serviceRate
+     * @param string $stringRateDate //The stringRateDate
+     * @param string $cuttime //The cuttime
+     * @param string $shippingServiceFee //The shippingServiceFee
+     * @param string $serviceRate //The serviceRate
      * @param string $shippingServiceItem //The shippingServiceItem
      *
      * @return array $Order
@@ -751,8 +884,8 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
     {
         if ((!empty($stringRateDate) || ($cuttime == 24))
             && ($shippingServiceFee >= 0 || ($shippingServiceFee == 0
-            && isset($serviceRate[\UPS\Shipping\Helper\ConstantCarrier::RATE_TYPE])
-            && strtoupper($serviceRate[\UPS\Shipping\Helper\ConstantCarrier::RATE_TYPE]) == 'FLAT_RATE'))
+                    && isset($serviceRate[\UPS\Shipping\Helper\ConstantCarrier::RATE_TYPE])
+                    && strtoupper($serviceRate[\UPS\Shipping\Helper\ConstantCarrier::RATE_TYPE]) == 'FLAT_RATE'))
         ) {
             $currentCurrency = $this->storeManager->getStore()->getCurrentCurrency()->getCode();
             $baseCurrency = $this->storeManager->getStore()->getBaseCurrency()->getCode();
@@ -772,7 +905,7 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
     /**
      * Archived getCurrencyData
      *
-     * @param string $baseCurrency    //The baseCurrency
+     * @param string $baseCurrency //The baseCurrency
      * @param string $currentCurrency //The currentCurrency
      *
      * @return array $Order
@@ -787,9 +920,9 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
      * get Delivery Rates
      *
      * @param string $shippingServiceItem //The shippingServiceItem
-     * @param string $stringRateDate      //The stringRateDate
-     * @param string $serviceSummary      //The serviceSummary
-     * @param string $cuttime             //The cuttime
+     * @param string $stringRateDate //The stringRateDate
+     * @param string $serviceSummary //The serviceSummary
+     * @param string $cuttime //The cuttime
      *
      * @return array $data
      */
@@ -814,9 +947,9 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                     }
                     if ($cuttime != 24) {
                         $stringRateDate = $timeString . ' '
-                        . __(date('l', strtotime($shippingServiceItem['shippingArrivalDate'])))
-                        . ', ' . date('j', strtotime($date)) . ' '
-                        . __(date('F', strtotime($date))) . ' ' . date('Y', strtotime($date));
+                            . __(date('l', strtotime($shippingServiceItem['shippingArrivalDate'])))
+                            . ', ' . date('j', strtotime($date)) . ' '
+                            . __(date('F', strtotime($date))) . ' ' . date('Y', strtotime($date));
                     }
                 }
             }
@@ -827,9 +960,9 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
      * Carrier _getDeliveryRates
      * get Delivery Rates
      *
-     * @param string $serviceRate               //The serviceRate
-     * @param string $orderTotalPrice           //The orderTotalPrice
-     * @param string $shippingServiceItem       //The shippingServiceItem
+     * @param string $serviceRate //The serviceRate
+     * @param string $orderTotalPrice //The orderTotalPrice
+     * @param string $shippingServiceItem //The shippingServiceItem
      * @param string $rateShipmentMonetaryValue //The responseRateAPI
      *
      * @return array $data
@@ -859,12 +992,12 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                     if (array_search($desCountry, $arrDeliveryCountries) !== false) { //flat rate available for destination country
                         if ($countryId == $desCountry) {
                             if (isset($arrDeliveryRules[$key]) && $arrDeliveryRules[$key] == "o_w") {
-                                if(isset($arrDeliveryValues[$key]) && ($orderTotalWeight <= $arrDeliveryValues[$key] ) && (($arrDeliveryValues[$key] < $lastWeight) || ($lastWeight == 0))){
+                                if (isset($arrDeliveryValues[$key]) && ($orderTotalWeight <= $arrDeliveryValues[$key]) && (($arrDeliveryValues[$key] < $lastWeight) || ($lastWeight == 0))) {
                                     $shippingServiceFee = $arrDeliveryRates[$key];
                                     $lastWeight = $arrDeliveryValues[$key];
                                 }
-                            } else{
-                                if(isset($arrDeliveryValues[$key]) && ($orderTotalPrice <= $arrDeliveryValues[$key] ) && (($arrDeliveryValues[$key] < $lastValue) || ($lastValue == 0))){
+                            } else {
+                                if (isset($arrDeliveryValues[$key]) && ($orderTotalPrice <= $arrDeliveryValues[$key]) && (($arrDeliveryValues[$key] < $lastValue) || ($lastValue == 0))) {
                                     $shippingServiceFee = $arrDeliveryRates[$key];
                                     $lastValue = $arrDeliveryValues[$key];
                                 }
@@ -873,12 +1006,12 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                     } else { //flat rate available for All country
                         if ($countryId == "ALL") {
                             if (isset($arrDeliveryRules[$key]) && $arrDeliveryRules[$key] == "o_w") {
-                                if(isset($arrDeliveryValues[$key]) && ($orderTotalWeight <= $arrDeliveryValues[$key] ) && (($arrDeliveryValues[$key] < $lastWeight) || ($lastWeight == 0))){
+                                if (isset($arrDeliveryValues[$key]) && ($orderTotalWeight <= $arrDeliveryValues[$key]) && (($arrDeliveryValues[$key] < $lastWeight) || ($lastWeight == 0))) {
                                     $shippingServiceFee = $arrDeliveryRates[$key];
                                     $lastWeight = $arrDeliveryValues[$key];
                                 }
-                            } else{
-                                if(isset($arrDeliveryValues[$key]) && ($orderTotalPrice <= $arrDeliveryValues[$key] ) && (($arrDeliveryValues[$key] < $lastValue) || ($lastValue == 0))){
+                            } else {
+                                if (isset($arrDeliveryValues[$key]) && ($orderTotalPrice <= $arrDeliveryValues[$key]) && (($arrDeliveryValues[$key] < $lastValue) || ($lastValue == 0))) {
                                     $shippingServiceFee = $arrDeliveryRates[$key];
                                     $lastValue = $arrDeliveryValues[$key];
                                 }
@@ -929,17 +1062,17 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
      * Carrier updateSelectedService
      * call Rate API
      *
-     * @param string $accessorials    //The accessorials
-     * @param string $params          //The params
+     * @param string $accessorials //The accessorials
+     * @param string $params //The params
      * @param string $shippingService //The shippingService
      * @param string $orderTotalPrice //The orderTotalPrice
-     * @param string $cuttime         //The cuttime
-     * @param string $rateType        //The rateType
-     * @param string $shippingType    //The shippingType
-     * @param string $currencyCode    //The currencyCode
-     * @param string $typeRate        //The typeRate
-     * @param string $firstLocation   //The firstLocation
-     * @param string $idAccount       //The idAccount
+     * @param string $cuttime //The cuttime
+     * @param string $rateType //The rateType
+     * @param string $shippingType //The shippingType
+     * @param string $currencyCode //The currencyCode
+     * @param string $typeRate //The typeRate
+     * @param string $firstLocation //The firstLocation
+     * @param string $idAccount //The idAccount
      *
      * @return array $data
      */
@@ -957,9 +1090,9 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                     'PackageWeight' => [
                         \UPS\Shipping\Helper\ConstantCarrier::UNITOFMEASUREMENT => [
                             'Code' => ($package['unit_weight'])
-                            ? strtoupper($package['unit_weight']) : '',
+                                ? strtoupper($package['unit_weight']) : '',
                             \UPS\Shipping\Helper\ConstantCarrier::DESCRIPTION => ($package['unit_weight'])
-                            ? strtoupper($package['unit_weight']) : ''
+                                ? strtoupper($package['unit_weight']) : ''
                         ],
                         'Weight' => ($package['weight']) ? $package['weight'] : '0'
                     ],
@@ -978,7 +1111,7 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                                 ? strtoupper($package['unit_dimension']) : '',
                             \UPS\Shipping\Helper\ConstantCarrier::DESCRIPTION
                             => (isset($package['unit_dimension'])) ?
-                        strtoupper($package['unit_dimension']) : ''
+                                strtoupper($package['unit_dimension']) : ''
                         ],
                         'Length' => (isset($package['length'])) ? $package['length'] : '',
                         'Width' => (isset($package['width'])) ? $package['width'] : '',
@@ -1033,26 +1166,26 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                 ],
                 'Shipper' => [
                     'Name' => (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::BUSINESS_NAME])
-                    ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::BUSINESS_NAME] : ''),
+                        ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::BUSINESS_NAME] : ''),
                     'ShipperNumber' => (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::UPS_ACCOUNT_NUMBER])
-                    ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::UPS_ACCOUNT_NUMBER] : ''),
+                        ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::UPS_ACCOUNT_NUMBER] : ''),
                     \UPS\Shipping\Helper\ConstantCarrier::ADDRESS => [
                         \UPS\Shipping\Helper\ConstantCarrier::ADDRESSLINE => [
                             (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_1])
-                            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_1] : ''),
+                                ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_1] : ''),
                             (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_2])
-                            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_2] : ''),
+                                ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_2] : ''),
                             (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_3])
-                            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_3] : ''),
+                                ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_3] : ''),
                         ],
                         'City' => (isset($accountInfo['city']) ? $accountInfo['city'] : ''),
                         \UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODE
                         => (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODENEW])
-                        ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODENEW] : 'XX'),
+                            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODENEW] : 'XX'),
                         \UPS\Shipping\Helper\ConstantCarrier::POSTALCODE => (isset($accountInfo[$cPostCode])
-                        ? $accountInfo[$cPostCode] : ''),
+                            ? $accountInfo[$cPostCode] : ''),
                         \UPS\Shipping\Helper\ConstantCarrier::COUNTRYCODE => (isset($accountInfo[$cCountry])
-                        ? $accountInfo[$cCountry] : '')
+                            ? $accountInfo[$cCountry] : '')
                     ]
                 ],
                 'ShipTo' => [
@@ -1060,44 +1193,44 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                     \UPS\Shipping\Helper\ConstantCarrier::ADDRESS => [
                         \UPS\Shipping\Helper\ConstantCarrier::ADDRESSLINE => [
                             (isset($params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS1])
-                            ? $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS1] : ''),
+                                ? $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS1] : ''),
                             (isset($params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS2])
-                            ? $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS2] : ''),
+                                ? $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS2] : ''),
                             (isset($params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS3])
-                            ? $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS3] : '')
+                                ? $params[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS3] : '')
                         ],
                         'City' => (isset($params['city']) ? $params['city'] : ''),
                         \UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODE
-                            => (isset($params[\UPS\Shipping\Helper\ConstantCarrier::REGION_CODE])
-                        ? $params[\UPS\Shipping\Helper\ConstantCarrier::REGION_CODE] : ''),
+                        => (isset($params[\UPS\Shipping\Helper\ConstantCarrier::REGION_CODE])
+                            ? $params[\UPS\Shipping\Helper\ConstantCarrier::REGION_CODE] : ''),
                         \UPS\Shipping\Helper\ConstantCarrier::POSTALCODE
-                            => (isset($params[\UPS\Shipping\Helper\ConstantCarrier::POSTCODE])
-                        ? $params[\UPS\Shipping\Helper\ConstantCarrier::POSTCODE] : ''),
+                        => (isset($params[\UPS\Shipping\Helper\ConstantCarrier::POSTCODE])
+                            ? $params[\UPS\Shipping\Helper\ConstantCarrier::POSTCODE] : ''),
                         \UPS\Shipping\Helper\ConstantCarrier::COUNTRYCODE
-                            => (isset($params[\UPS\Shipping\Helper\ConstantCarrier::COUNTRY_ID])
-                        ? $params[\UPS\Shipping\Helper\ConstantCarrier::COUNTRY_ID] : '')
+                        => (isset($params[\UPS\Shipping\Helper\ConstantCarrier::COUNTRY_ID])
+                            ? $params[\UPS\Shipping\Helper\ConstantCarrier::COUNTRY_ID] : '')
                     ]
                 ],
                 'ShipFrom' => [
                     'Name' => (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::BUSINESS_NAME])
-                    ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::BUSINESS_NAME] : ''),
+                        ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::BUSINESS_NAME] : ''),
                     \UPS\Shipping\Helper\ConstantCarrier::ADDRESS => [
                         \UPS\Shipping\Helper\ConstantCarrier::ADDRESSLINE => [
                             (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_1])
-                            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_1] : ''),
+                                ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_1] : ''),
                             (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_2])
-                            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_2] : ''),
+                                ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_2] : ''),
                             (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_3])
-                            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_3] : '')
+                                ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::ADDRESS_3] : '')
                         ],
                         'City' => (isset($accountInfo['city']) ? $accountInfo['city'] : ''),
                         \UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODE
-                            => (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODENEW])
-                        ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODENEW] : 'XX'),
+                        => (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODENEW])
+                            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::STATEPROVINCECODENEW] : 'XX'),
                         \UPS\Shipping\Helper\ConstantCarrier::POSTALCODE => (isset($accountInfo[$cPostCode])
-                        ? $accountInfo[$cPostCode] : ''),
+                            ? $accountInfo[$cPostCode] : ''),
                         \UPS\Shipping\Helper\ConstantCarrier::COUNTRYCODE => (isset($accountInfo[$cCountry])
-                        ? $accountInfo[$cCountry] : '')
+                            ? $accountInfo[$cCountry] : '')
                     ]
                 ],
                 'ShipmentRatingOptions' => [
@@ -1111,7 +1244,7 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
             $dataRate['Typerate'] = $typeRate;
             $dataRate['PaymentDetails']['ShipmentCharge']['BillShipper']['AccountNumber']
                 = (isset($accountInfo[\UPS\Shipping\Helper\ConstantCarrier::UPS_ACCOUNT_NUMBER])
-            ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::UPS_ACCOUNT_NUMBER] : '');
+                ? $accountInfo[\UPS\Shipping\Helper\ConstantCarrier::UPS_ACCOUNT_NUMBER] : '');
 
             if ($shippingType == 'AP') {
                 $countryCodeStr = \UPS\Shipping\Helper\ConstantCarrier::COUNTRYCODE;
@@ -1123,10 +1256,10 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
                 // AlternateDeliveryAddress
                 $dataRate[$cDeliveryAddress]['Name']
                     = (isset($firstLocation['ConsigneeName'])
-                ? $firstLocation['ConsigneeName'] : '');
+                    ? $firstLocation['ConsigneeName'] : '');
                 $dataRate[$cDeliveryAddress]['AttentionName']
                     = $params[\UPS\Shipping\Helper\ConstantCarrier::FIRSTNAME] . ' '
-                . $params[\UPS\Shipping\Helper\ConstantCarrier::LASTNAME];
+                    . $params[\UPS\Shipping\Helper\ConstantCarrier::LASTNAME];
                 $dataRate[$cDeliveryAddress][$cAddress][$cAddressLine]
                     = (isset($firstLocation[$cAddressLine]) ? html_entity_decode($firstLocation[$cAddressLine]) : '');
                 $dataRate[$cDeliveryAddress][$cAddress]['City']
@@ -1237,7 +1370,7 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
      * Convert base price value to store price value
      *
      * @param string $amountValue //The amountValue
-     * @param string $currencyTo  //The currencyTo
+     * @param string $currencyTo //The currencyTo
      *
      * @return float
      */
@@ -1249,7 +1382,7 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
             $rateTo = (float)$this->currencyFactory->create()->load($baseCurrency)->getRate($currentCurrency);
             $rateFrom = (float)$this->currencyFactory->create()->load($baseCurrency)->getRate($currencyTo);
             if ($rateFrom > 0) {
-                $amountValue = (($amountValue * $rateTo)/$rateFrom);
+                $amountValue = (($amountValue * $rateTo) / $rateFrom);
             }
         }
         return $amountValue;
@@ -1285,3 +1418,4 @@ class Carrier extends \Magento\Shipping\Model\Carrier\AbstractCarrier
         return $this->priceHelper->currency($price, true, false);
     }
 }
+

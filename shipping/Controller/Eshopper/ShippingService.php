@@ -10,7 +10,10 @@
  * at: https://www.ups.com/assets/resources/media/ups-license-and-data-service-terms.pdf
  * @link      https://www.ups.com/pl/en/services/technology-integration/ecommerce-plugins.page
  */
+
 namespace UPS\Shipping\Controller\Eshopper;
+
+use Magina\ProductSubscription\Helper\Data;
 
 /**
  * ShippingService class
@@ -35,25 +38,26 @@ class ShippingService extends \Magento\Framework\App\Action\Action
     /**
      * ShippingService __construct
      *
-     * @param string $context           //The context
+     * @param string $context //The context
      * @param string $resultJsonFactory //The resultJsonFactory
-     * @param string $countryFactory    //The countryFactory
-     * @param string $checkoutSession   //The checkoutSession
-     * @param string $apiLocator        //The apiLocator
-     * @param string $carrier           //The carrier
-     * @param string $scopeConfig       //The scopeConfig
+     * @param string $countryFactory //The countryFactory
+     * @param string $checkoutSession //The checkoutSession
+     * @param string $apiLocator //The apiLocator
+     * @param string $carrier //The carrier
+     * @param string $scopeConfig //The scopeConfig
      *
      * @return null
      */
     public function __construct(
-        \Magento\Framework\App\Action\Context $context,
-        \Magento\Framework\Controller\Result\JsonFactory $resultJsonFactory,
-        \Magento\Directory\Model\CountryFactory $countryFactory,
-        \Magento\Checkout\Model\Session $checkoutSession,
-        \UPS\Shipping\API\Locator $apiLocator,
-        \UPS\Shipping\Model\Carrier $carrier,
+        \Magento\Framework\App\Action\Context              $context,
+        \Magento\Framework\Controller\Result\JsonFactory   $resultJsonFactory,
+        \Magento\Directory\Model\CountryFactory            $countryFactory,
+        \Magento\Checkout\Model\Session                    $checkoutSession,
+        \UPS\Shipping\API\Locator                          $apiLocator,
+        \UPS\Shipping\Model\Carrier                        $carrier,
         \Magento\Framework\App\Config\ScopeConfigInterface $scopeConfig
-    ) {
+    )
+    {
         $this->resultJsonFactory = $resultJsonFactory;
         $this->checkoutSession = $checkoutSession;
         $this->countryFactory = $countryFactory;
@@ -90,30 +94,58 @@ class ShippingService extends \Magento\Framework\App\Action\Action
                         $serviceDefault = $this->checkoutSession->getDefaultService();
                         // cheapest fee
                         $cheapestFee = $this->checkoutSession->getCheapestFee();
+
                         // selected service, id
                         $selectedService = $this->checkoutSession->getSelectedShippingService();
+
+                        //var_dump($selectedService); exit();
+
                         // selected service fee, value
                         $selectedServiceFee = $this->checkoutSession->getSelectedFee();
+
                         $apString = \UPS\Shipping\Helper\Config::SERVICE_UPS_SHIPPING_DELIVERY_TO_ACCESS_POINT;
                         $enableServiceAP = $this->scopeConfig->getValue($apString);
                         $addString = \UPS\Shipping\Helper\Config::SERVICE_UPS_SHIPPING_DELIVERY_TO_SHIPPING_ADDRESS;
                         $enableServiceADD = $this->scopeConfig->getValue($addString);
                         // service type
+
                         $listServiceTypes = json_decode($this->checkoutSession->getListServiceTypes(), true);
                         $selectedServiceType = $this->getSelectedServiceType($listServiceTypes, $selectedService);
                         if ($selectedServiceFee > 0 && $params[$eClear] == '0') {
                             $cheapestFee = $selectedServiceFee;
                         }
+
+                        // Customize for Subscription Product
+                        $productsCollection = $this->checkoutSession->getQuote()->getAllItems();
+                        if ($this->isSubscriptionProduct($productsCollection)) {
+                            $serviceADD = $this->removeShippingNotUse($serviceADD);
+                            $serviceAP = $this->removeShippingNotUse($serviceAP);
+
+                            $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+                            $subscriptionHelper = $objectManager->get(\Magina\ProductSubscription\Helper\Data::class);
+                            $productSubscription = $subscriptionHelper->getItemDetailSubscription($productsCollection[0]);
+                            $nb_month = $productSubscription['nb_month'];
+                            $shippingPrice = $productSubscription['shipping_price'];
+
+                            // Update Shipping Fee
+                            $serviceAP = $this->updateShippingFeeForSubscriptionProduct($serviceAP, $nb_month);
+                            $serviceADD = $this->updateShippingFeeForSubscriptionProduct($serviceADD, $nb_month);
+                            $cheapestFee = $shippingPrice * $nb_month;
+
+                        }
+
+                        //var_dump($serviceAP);
+                        //var_dump($serviceADD);
                         $returnData = [
-                        'serviceAP' => $serviceAP,
-                        'serviceADD' => $serviceADD,
-                        'enableServiceAP' => $enableServiceAP,
-                        'enableServiceADD' => $enableServiceADD,
-                        'serviceDefault' => $serviceDefault,
-                        'serviceFee' => $cheapestFee,
-                        'selectedService' => $selectedService,
-                        'selectedServiceType' => $selectedServiceType,
-                        'countryName' => ($country) ? $country->getName() : ''
+                            'serviceAP' => $serviceAP,
+                            'serviceADD' => $serviceADD,
+                            'enableServiceAP' => $enableServiceAP,
+                            'enableServiceADD' => $enableServiceADD,
+                            'serviceDefault' => $serviceDefault,
+                            'serviceFee' => $cheapestFee,
+                            'selectedService' => $selectedService,
+                            'selectedServiceType' => $selectedServiceType,
+                            'countryName' => ($country) ? $country->getName() : ''
                         ];
                         return $result->setData($returnData);
 
@@ -144,6 +176,62 @@ class ShippingService extends \Magento\Framework\App\Action\Action
         }
     }
 
+    public function serizalizeNBMonth($stringDate)
+    {
+        // Split the string into an array using a semicolon as the delimiter
+        $words = explode(';', $stringDate);
+
+        // Get the last element of the array
+        $lastWord = end($words);
+
+        $lastCharacter = substr($lastWord, -1);
+
+        if ($lastCharacter === 'Y' || $lastCharacter === 'M') {
+            if ($lastCharacter === 'Y') {
+                return ((int)str_replace('Y', '', $lastWord) * 12);
+            }
+            return (int)str_replace('M', '', $lastWord);
+        } else {
+            return 1;
+        }
+    }
+
+
+    public function isSubscriptionProduct($collection)
+    {
+        foreach ($collection as $item) {
+            if ($item->getProductType() === 'subscription') {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public function removeShippingNotUse(array $services)
+    {
+        $selectedService = $this->checkoutSession->getSelectedShippingService();
+        $idx = -1;
+        foreach ($services as $x => $item) {
+            if ((int)$item['id'] !== (int)$selectedService) {
+                $idx = $x;
+                unset($services[$idx]);
+            }
+        }
+        return $services;
+    }
+
+    public function updateShippingFeeForSubscriptionProduct(array $shippingMethod, int $month)
+    {
+        foreach ($shippingMethod as $key => $method) {
+            $oldFee = $method['shippingFeeValue'];
+            $convertFallbackRate = $oldFee * $month;
+            $shippingMethod[$key]['shippingFeeValue'] = $convertFallbackRate;
+            $shippingMethod[$key]['splitShippingFee'] = $this->carrier->formatCurrency($convertFallbackRate);
+        }
+        return $shippingMethod;
+    }
+
+
     /**
      * ShippingService setShippingServiceSelected
      *
@@ -168,6 +256,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
      */
     public function setSelectedService($params)
     {
+
         $this->checkoutSession->setClearSession('0');
         //selectedShippingService = id
         $eshopperService = $params[\UPS\Shipping\Helper\ConstantEshopper::SELECTEDSHIPPINGSERVICE];
@@ -190,7 +279,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
      * ShippingService getSelectedServiceType
      *
      * @param string $listServiceTypes //The listServiceTypes
-     * @param string $selectedService  //The selectedService
+     * @param string $selectedService //The selectedService
      *
      * @return array
      */
@@ -223,7 +312,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
         if ($satDeliFlg === true) {
             $countMaximumListSize *= 2;
         }
-        if (($this->scopeConfig->getValue($activeString)=='1' && in_array($countryCode, $inEUCountry)) || 1 == $adultSignature) {
+        if (($this->scopeConfig->getValue($activeString) == '1' && in_array($countryCode, $inEUCountry)) || 1 == $adultSignature) {
             $countMaximumListSize *= 2;
         }
         $rangeStr = \UPS\Shipping\Helper\Config::SERVICE_UPS_SHIPPING_DISPLAY_ALL_ACCESS_POINT_IN_RANGE;
@@ -257,7 +346,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
                 $arrayLocations = $response[$eLocator][$eSearch]['DropLocation'];
             }
             $description = (isset($response[$eLocator][$eResponse]['ResponseStatusDescription'])
-            ? $response[$eLocator][$eResponse]['ResponseStatusDescription'] : '');
+                ? $response[$eLocator][$eResponse]['ResponseStatusDescription'] : '');
             $countResponse = count($arrayLocations);
             if (!isset($arrayLocations[1])) {
                 $countResponse = 1;
@@ -295,7 +384,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
      * ShippingService getShippingServiceType
      *
      * @param string $listServiceTypes //The listServiceTypes
-     * @param string $eshopperService  //The eshopperService
+     * @param string $eshopperService //The eshopperService
      *
      * @return array
      */
@@ -307,11 +396,12 @@ class ShippingService extends \Magento\Framework\App\Action\Action
         }
         return $shippingServiceType;
     }
+
     /**
      * ShippingService getArrayLocator
      *
      * @param string $arrayLocations //The arrayLocations
-     * @param string $countResponse  //The countResponse
+     * @param string $countResponse //The countResponse
      *
      * @return null
      */
@@ -330,7 +420,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
      * ShippingService setSessionSelectedFee
      * get address for map
      *
-     * @param string $listServices    //The listServices
+     * @param string $listServices //The listServices
      * @param string $eshopperService //The eshopperService
      *
      * @return null
@@ -364,10 +454,10 @@ class ShippingService extends \Magento\Framework\App\Action\Action
      * ShippingService getSelectAddress
      * get address for map
      *
-     * @param string $arrLocators     //The arrLocators
+     * @param string $arrLocators //The arrLocators
      * @param string $arrStandardCode //The arrStandardCode
-     * @param string $maxShow         //The maxShow
-     * @param boolean $satDeliFlg     // Is saturday delivery shipping service selected
+     * @param string $maxShow //The maxShow
+     * @param boolean $satDeliFlg // Is saturday delivery shipping service selected
      *
      * @return boolean
      */
@@ -396,13 +486,13 @@ class ShippingService extends \Magento\Framework\App\Action\Action
                 $ePostCodeEx = \UPS\Shipping\Helper\ConstantEshopper::POSTCODEEXTENDEDLOW;
                 $eADDLine = \UPS\Shipping\Helper\ConstantEshopper::ADDRESSLINE;
                 $city = (isset($locator[$formatKey][$eshopperPolitical2]) && $locator[$formatKey][$eshopperPolitical2])
-                ? ', ' . $locator[$formatKey][$eshopperPolitical2] : '';
+                    ? ', ' . $locator[$formatKey][$eshopperPolitical2] : '';
                 $state = (isset($locator[$formatKey][$eshopperPolitical1]) && $locator[$formatKey][$eshopperPolitical1])
-                ? ', ' . $locator[$formatKey][$eshopperPolitical1] : '';
+                    ? ', ' . $locator[$formatKey][$eshopperPolitical1] : '';
                 $primaryPostCode = (isset($locator[$formatKey][$ePostalCode]) && $locator[$formatKey][$ePostalCode])
-                ? ', ' . $locator[$formatKey][$ePostalCode] : '';
+                    ? ', ' . $locator[$formatKey][$ePostalCode] : '';
                 $extendPostCode = (isset($locator[$formatKey][$ePostCodeEx]) && $locator[$formatKey][$ePostCodeEx])
-                ? ', ' . $locator[$formatKey][$ePostCodeEx] : '';
+                    ? ', ' . $locator[$formatKey][$ePostCodeEx] : '';
 
                 // Get operating hours in day of week
                 $openCloseHoursInWeek = $locator['OperatingHours']['StandardHours']['DayOfWeek'];
@@ -430,12 +520,12 @@ class ShippingService extends \Magento\Framework\App\Action\Action
                     'unit' => (strtolower($locator[$eDistance][$eMeasure]['Description']) == 'kilometers') ? 'km' : 'miles',
                     'operatingHours' => $openCloseString,
                     \UPS\Shipping\Helper\ConstantEshopper::STANDARDHOURSOFOPERATION
-                        => $locator[\UPS\Shipping\Helper\ConstantEshopper::STANDARDHOURSOFOPERATION]
+                    => $locator[\UPS\Shipping\Helper\ConstantEshopper::STANDARDHOURSOFOPERATION]
                 ];
-                $locator[$formatKey][$eADDLine]= base64_encode($locator[$formatKey][$eADDLine]);
+                $locator[$formatKey][$eADDLine] = base64_encode($locator[$formatKey][$eADDLine]);
                 $locator[$formatKey][\UPS\Shipping\Helper\ConstantEshopper::ACCESSPOINTID]
                     = $locator[\UPS\Shipping\Helper\ConstantEshopper::ACCESSPOINTINFORMATION]
-                    [\UPS\Shipping\Helper\ConstantEshopper::PUBLICACCESSPOINTID];
+                [\UPS\Shipping\Helper\ConstantEshopper::PUBLICACCESSPOINTID];
                 $selectAddress[] = $locator[$formatKey];
                 $limitNumberAP++;
             }
@@ -451,7 +541,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
      * ShippingService getServiceCode
      * get service code
      *
-     * @param array $arrStandardCode        //The arrStandardCode
+     * @param array $arrStandardCode //The arrStandardCode
      * @param array $arrServiceOfferingCode //The arrServiceOfferingCode
      *
      * @return boolean
@@ -460,7 +550,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
     {
         $listServiceOfferingCode = [];
         foreach ($arrServiceOfferingCode as $item) {
-            $listServiceOfferingCode[] = $item['Code'];
+            isset($item['Code']) && $listServiceOfferingCode[] = $item['Code'];
         }
         return array_intersect($arrStandardCode, $listServiceOfferingCode);
     }
@@ -505,10 +595,10 @@ class ShippingService extends \Magento\Framework\App\Action\Action
      * ShippingService getTempString
      * get format time
      *
-     * @param string $openCloseString       //The openCloseString
+     * @param string $openCloseString //The openCloseString
      * @param string $sunDayOpenCloseString //The sunDayOpenCloseString
-     * @param string $openDay               //The openDay
-     * @param string $dayOfWeek             //The dayOfWeek
+     * @param string $openDay //The openDay
+     * @param string $dayOfWeek //The dayOfWeek
      *
      * @return boolean
      */
@@ -522,7 +612,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
             $arrClose = $openDay[\UPS\Shipping\Helper\ConstantEshopper::CLOSEHOURS];
             if (!empty($arrOpen) && !empty($arrClose)) {
                 $tempString .= '<td>' . $this->_formatTime($arrOpen[0])
-                . \UPS\Shipping\Helper\ConstantEshopper::STYLE_TD;
+                    . \UPS\Shipping\Helper\ConstantEshopper::STYLE_TD;
                 $tempString .= '<td>' . $this->_formatTime($arrClose[0]) . '</td></tr>';
                 foreach ($arrOpen as $key => $hours) {
                     if ($key > 0) {
@@ -540,9 +630,9 @@ class ShippingService extends \Magento\Framework\App\Action\Action
             && !empty($openDay[\UPS\Shipping\Helper\ConstantEshopper::CLOSEHOURS])
         ) {
             $tempString .= '<td>' . $this->_formatTime($openDay[\UPS\Shipping\Helper\ConstantEshopper::OPENHOURS])
-            . \UPS\Shipping\Helper\ConstantEshopper::STYLE_TD;
+                . \UPS\Shipping\Helper\ConstantEshopper::STYLE_TD;
             $tempString .= '<td>'
-            . $this->_formatTime($openDay[\UPS\Shipping\Helper\ConstantEshopper::CLOSEHOURS]) . '</td></tr>';
+                . $this->_formatTime($openDay[\UPS\Shipping\Helper\ConstantEshopper::CLOSEHOURS]) . '</td></tr>';
         } else {
             if (isset($openDay[\UPS\Shipping\Helper\ConstantEshopper::OPEN24HOURSINDICATOR])) {
                 $tempString .= '<td>' . __("Open 24 hours") . \UPS\Shipping\Helper\ConstantEshopper::STYLE_TD;
@@ -575,7 +665,7 @@ class ShippingService extends \Magento\Framework\App\Action\Action
             $arrayTimeString = str_split($timeString);
             foreach ($arrayTimeString as $key => $value) {
                 $countarrayTimeString = $this->countItem($arrayTimeString);
-                if (( $key == 2 && $countarrayTimeString == 4) || ( $key == 1 && $countarrayTimeString == 3)) {
+                if (($key == 2 && $countarrayTimeString == 4) || ($key == 1 && $countarrayTimeString == 3)) {
                     $formatedTimeString .= ':';
                 }
                 $formatedTimeString .= $value;
@@ -596,3 +686,4 @@ class ShippingService extends \Magento\Framework\App\Action\Action
         return count($itemCount);
     }
 }
+

@@ -342,7 +342,7 @@ class ClientAPI
      */
     public function doRequest()
     {
-        if (empty($this->uri) || empty($this->request)) {
+	if (empty($this->uri) || empty($this->request)) {
             return json_encode([]);
         } else {
             $client = $this->httpClient->create();
@@ -357,8 +357,8 @@ class ClientAPI
                 'request' => $this->request, 'time_request' => \date('Y-m-d H:i:s')
             ];
             $logId = $this->logApi->writeRequest($arrayDataRequest);
-            // get response from post request
-            $this->response = $client->setRawData($this->request, 'application/json')->request('POST');
+	    // get response from post request
+	    $this->response = $client->setRawData($this->request, 'application/json')->request('POST');
             // write response log api
             $arrayLogApi = ['id' => $logId, 'response' => $this->response->getBody(), 'time_response' => \date('Y-m-d H:i:s')];
             $this->logApi->writeResponse($arrayLogApi);
@@ -366,7 +366,8 @@ class ClientAPI
             $res = $this->response;
             if (is_object(json_decode($res->getBody())) && property_exists(json_decode($res->getBody()), 'Fault')) {
                 $this->SaveLogApiError();
-            }
+	    }
+	    
             return $res;
         }
     }
@@ -410,7 +411,8 @@ class ClientAPI
             $resBody = json_decode($res->getBody());
             if (is_object($resBody) && property_exists($resBody, 'error') && !empty($resBody->error)) {
                 $this->SaveLogApiError();
-            }
+	    }
+	  
             return $res;
         }
     }
