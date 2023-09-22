@@ -1,0 +1,101 @@
+<?php
+/**
+ * @var $block \UPS\Shipping\Block\Adminhtml\Order\View\View
+ */
+    $order_id = $this->getRequest()->getParam('order_id');
+    $all_services = $block->getAllListService();
+    $order_data = $block->getDetailOrder();
+
+?>
+<section class="admin__page-section">
+    <div class="admin__page-section-title">
+        <span class="title">UPS Official Shipping</span>
+    </div>
+    <div class="admin__page-section-content">
+        <form method="post" action="<?php echo $block->getUrl('upsshipping/shipment/createforcedshipment') ?>">
+        <?php
+        if (empty($order_data)) {
+        ?>
+            <button name="ups_offi_create_entry" id="ups_offi_create_entry" value="yes" style="color:#121212;background-color: #ffc400;border: none;border-radius: 20px;">Generate Packages</button>
+            <input name="o_id" type="hidden" value="<?php echo $order_id;?>">
+        <?php
+        } elseif (isset($order_data['status']) && $order_data['status'] == 1) {
+            if (!empty($all_services)) {
+                echo '<p style="color:red" id="rate_err"></p>';
+                echo '<div id="service_sel"><label class="admin__field-label" style="color:#121212;">Select service: </label><select name="ups_offi_shipment_service" class="admin__control-select" style="color:#121212;">';
+                foreach ($all_services as $service) {
+                    echo '<option value="'.$service['id'].'">'.$service['service_name'].'</option>';
+                }
+                echo '</select></div><br/><br/>';
+                ?>
+                <button name="ups_offi_get_rates" id="ups_offi_get_rates" type="button" value="yes" style="color:#121212;background-color: #ffc400;border: none;border-radius: 20px;">Get Rates</button>
+                <button name="ups_offi_create_shipment" id="ups_offi_create_shipment" value="yes" style="color:#121212;background-color: #ffc400;border: none;border-radius: 20px;">Create Shipment</button>
+                <?php
+            } else {
+                echo '<h4 style="color:#121212;">Please try again by enabling non-access point services.</h4>';
+            }
+            
+        } elseif (isset($order_data['status']) && ($order_data['status'] == 2 || $order_data['status'] == 3)) {
+            ?>
+                <label class="admin__field-label" style="color:#121212;">Select Label Format: </label>
+                <select name="ups_offi_shipment_label_format" class="admin__control-select" style="color:#121212;">
+                    <option value="PDF">PDF</option>
+                    <option value="ZPL">ZPL</option>
+                </select>
+                <input name="trk_no" type="hidden" value="<?php echo $order_data['trk_no'];?>">
+                <br/><br/>
+                <button name="ups_offi_dwnld_label" value="yes" style="color:#121212;background-color: #ffc400;border: none;border-radius: 20px;">Download Label</button>
+            <?php
+        }
+        ?>
+        <input name="form_key" type="hidden" value="<?php echo $block->getFormKey();?>">
+        <input name="o_o_id" type="hidden" value="<?php echo isset($order_data['id']) ? $order_data['id'] : '';?>">
+        </form>
+    </div>
+</section>
+
+<script type="text/javascript">
+    require([ 'jquery', 'jquery/ui'], function($){
+        $( "#ups_offi_get_rates" ).click(function() {
+            $("#ups_offi_get_rates").attr("disabled", true);
+            $("#ups_offi_create_shipment").attr("disabled", true);
+            $("#rate_err").html("");
+            var url = "<?php echo $block->getUrl('upsshipping/shipment/createforcedshipment') ?>";
+            var order_id = "<?php echo isset($order_data['order_id_magento']) ? $order_data['order_id_magento'] : '';?>";
+
+            $.ajax({
+                url: url,
+                type: 'POST',
+                dataType: 'json',
+                data: {
+                    orderIdMagento: order_id
+                },
+                complete: function(response) {
+                    $("#ups_offi_get_rates").attr("disabled", false);
+                    $("#ups_offi_create_shipment").attr("disabled", false);
+                },
+                success: function (data) {
+                    if (data.status == "success") {
+                        var rates = data.rates_list;
+                        var rates_html = "";
+                        for (var i = 0; i <= rates.length - 1; i++) {
+                            rates_html += '<br/><input type="radio" id="'+i+'" name="ups_offi_shipment_service_radio" value="'+rates[i].ser_id+'"><label for="'+i+'" style="margin-left:2px;">'+rates[i].rate_des+' - '+rates[i].rate+' '+rates[i].currency+'</label>';
+                        }
+                        $("#service_sel").html(rates_html);
+                    } else {
+                        if (data.status) {
+                            $("#rate_err").html(data.status);
+                        } else {
+                            $("#rate_err").html("Unknown error while fetching rates.");
+                        }
+                    }
+                },
+                error: function (errorThrown) {
+                    $("#ups_offi_get_rates").attr("disabled", false);
+                    $("#ups_offi_create_shipment").attr("disabled", false);
+                    $("#rate_err").html("Failed to send rate request.");
+                }
+            });
+        });
+    });
+</script>

@@ -1,0 +1,470 @@
+//======================= About page,//======================= Tietoja-sivu
+About,Noin
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"UPS on tehnyt yhteistyötä Magenton kanssa tarjotakseen ilmaisen UPS Shipping- ja UPS Access Point™ -moduulin, jonka avulla voit integroida ja tarjota laajan valikoiman UPS-lähetys- ja toimitusratkaisuja suoraan verkkosivustosi uloskirjautumisprosessissa! Tämä virallinen UPS Module for Magento antaa asiakkaillesi pääsyn laajaan UPS Access Point -verkkoomme ja toimituspalveluihimme."
+Features of this product,Tämän tuotteen ominaisuudet
+Front Office,Etutoimisto
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,"Yksinkertainen ja helppo karttakäyttöliittymä, jossa asiakkaasi voivat valita UPS Access Pointin mieltymyksensä mukaan."
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,"Käyttäjäystävällinen käyttöliittymä, jolla asiakkaat voivat siirtyä Access Point -toimituksesta kotiinkuljetukseen."
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Reaaliaikainen UPS-toimitushinta tai kiinteät hinnat kullekin saatavilla olevalle palvelulle (kauppiaan back office -asetusten mukaan).
+Back Office,Takahuone
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Vaihtoehtoja asiakkaiden näkemien toimituskulujen määrittämiseen (esimerkiksi ilmainen toimitus, reaaliaikaiset toimitushinnat tai kiinteät hinnat korin arvokynnysten mukaan)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Mahdollisuus avata UPS-tili suoraan itse moduulissa, jos sinulla ei sellaista ole."
+Easy PDF label generation.,Helppo PDF-tarran luominen.
+Real time tracking information.,Reaaliaikaiset seurantatiedot.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Mahdollisuus viedä avoimia tilauksia, jotta voit käsitellä niitä muissa sovelluksissa monimutkaisempiin tarpeisiin."
+Module version number and release date,Moduulin versionumero ja julkaisupäivä
+Module version v,Moduulin versio v
+Release date,Julkaisupäivä
+Changelog,Muutosloki
+Platform compatibility statement,Alustan yhteensopivuuslausunto
+"Compatible with Magento versions 2.1, 2.2, 2.3","Yhteensopiva Magento-versioiden 2.1, 2.2, 2.3 kanssa"
+UPS Shipping Module website,UPS Shipping Module -verkkosivusto
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,Lisätietoja on osoitteessa <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups. .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,Lisätietoja on osoitteessa
+Support information,Tukitiedot
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Jos tarvitset apua UPS Shipping Module -moduulin asennuksessa, päivityksessä tai käytössä, ota yhteyttä UPS:ään osoitteessa -"
+Poland +48 (0) 22 203 03 21,Puola +48 (0) 22 203 03 21
+UPS Shipping Module,UPS-lähetysmoduuli
+UPS Shipping,UPS-toimitus
+Shipment management,Lähetyksen hallinta
+//======================= Country page,//======================= Maasivu
+Country setting,Maa-asetus
+Country Setting,Maa-asetus
+Please select your country/territory,Valitse maasi/alueesi
+Continue,Jatkaa
+//======================= Terms and Condition page,//======================= Käyttöehdot -sivu
+UPS Terms and Conditions,UPS:n ehdot
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Hyväksyn UPS-teknologiasopimuksen ja vahvistan, että minulle on annettu tarpeeksi aikaa lukea se ja ymmärtää, että se sisältää tärkeitä ehtoja UPS-tekniikoiden käytöstäni, kuten UPS:n vastuun rajoittaminen ja sopimukseni siitä, miten UPS:n ja minun väliset riidat ratkaistaan. hoidettu"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Hyväksyn UPS-teknologiasopimuksen ja vahvistan, että minulle on annettu tarpeeksi aikaa lukea se ja ymmärtää, että se sisältää tärkeitä ehtoja UPS-tekniikoiden käytöstäni,"
+like,Kuten
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled," rajoittaa UPS:n vastuuta ja sopimustani siitä, kuinka UPS:n ja minun väliset riidat käsitellään."
+Print,Tulosta
+Cannot get Term & Condition,Ei saa käyttöehtoja
+//======================= Account Page,//======================= Tilisivu
+Account,Tili
+ACCOUNT,TILI
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),Saat lisätietoja UPS-laajennuksista napsauttamalla <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>tätä linkkiä< /a> (avautuu uuteen selainikkunaan)
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,Täytä alla oleva lomake aloittaaksesi UPS-laajennuksen konfiguroinnin verkkokauppasivustollesi
+Title,Otsikko
+Full name,Koko nimi
+Full Name,Koko nimi
+Company,Yhtiö
+Email,Sähköposti
+Phone number,Puhelinnumero
+Address type,Osoite tyyppi
+Address,Osoite
+Postal code,Postinumero
+City,Kaupunki
+Country/Territory,Maa/alue
+"Example: Warehouse, Branch #1, etc.","Esimerkki: Varasto, sivukonttori #1 jne."
+"Example: Warehouse, Branch #1","Esimerkki: Varasto, sivuliike #1"
+Street Address,Katuosoite
+"Apartment, Suite, Unit, Building, Floor, etc.","Huoneisto, sviitti, yksikkö, rakennus, kerros jne."
+"Department, c/o, etc.","Osasto, c/o jne."
+Mr,Herra
+Miss,Neiti
+Mrs,rouva
+Ms,neiti
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Minulla on UPS-tilinumero, JOLLA lasku on tehty viimeisten 45 päivän aikana (90 päivää, jos tilisi on Yhdysvalloissa tai Kanadassa)"
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Minulla on UPS-tilinumero ILMAN laskua viimeisten 45 päivän aikana (90 päivää, jos tilisi on Yhdysvalloissa tai Kanadassa)"
+I do not have a UPS Account Number and would like to get one from the plug-in,"Minulla ei ole UPS-tilinumeroa, ja haluaisin sellaisen, jossa on alennettu hinta lisäosasta"
+I don’t have a UPS account number and would,Minulla ei ole UPS-tilinumeroa ja olisi
+like,Kuten
+to get one with discounted rates from the plug-in,saadaksesi sellaisen alennetuin hinnoin laajennuksesta
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"Laskun tulee olla mikä tahansa viimeisestä kolmesta UPS:n lähettämästä laskusta viimeisten 45 päivän aikana (90 päivää, jos tilisi on Yhdysvalloissa tai Kanadassa)"
+Account name,Tilin nimi
+Account number,Tilinumero
+Invoice number,Laskun numero
+Invoice amount,Laskun summa
+Currency,Valuutta
+Invoice date,Laskutus päivämäärä
+VAT number,ALV-numero
+Promo Code,Tarjouskoodi
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Huomaa: Lähettäjät eivät saa lähettää vaarallisia aineita tai vaarallisia aineita käyttämällä tässä sovelluksessa avattua tiliä.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Tilisi tukee toimituksia valtuutettuihin UPS Access Point™ -sijainteihin 24 tunnin kuluttua.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,"Löydät lisätietoja vaarallisista aineista ja siitä, kuinka UPS voi tukea sinua niiden lähettämisessä tästä linkistä <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>"
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Viitenimi, joka liitetään tiliin. Esimerkiksi varasto 1, varasto 2, myymälä 1, myymälä 2 jne. Voit vapaasti valita nimen tarpeidesi mukaan"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"UPS-tiliisi liittyvä postinumero tai postinumero. Se löytyy UPS-laskusi jokaisen sivun yläosasta kohdasta ""Ostaja"""
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"UPS-tiliisi liitetty nimi. Se löytyy UPS-laskusi jokaisen sivun yläosasta kohdasta ""Ostaja"""
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,"Ainutlaatuinen kuusimerkkinen aakkosnumeerinen numero, joka tunnistaa tilisi. Se löytyy UPS-laskusi jokaisen sivun vasemmasta yläkulmasta"
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,"Ainutlaatuinen 12-numeroinen numero, jonka UPS on antanut laskulle. Se löytyy UPS-laskusi jokaisen sivun vasemmasta yläkulmasta"
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,"Annetun laskun erääntynyt kokonaissumma. Se löytyy laskun ensimmäisellä sivulla olevasta ""Maksujen yhteenveto"" -taulukosta"
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Laskun antopäivämäärä. Se löytyy UPS-laskusi jokaisen sivun vasemmasta yläkulmasta
+Get started,Aloittaa
+Some of the data you entered is not valid. Please check again.,Osa antamistasi tiedoista ei kelpaa. Tarkista uudestaan.
+Cannot create new Account Number,Uutta tilinumeroa ei voi luoda
+Email is not correct format,Sähköposti ei ole oikea muoto
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"Pyyntösi luoda UPS-lähetystili ei onnistunut. Tarkista antamasi arvot ""Kaupunki"" ja ""Postinumero"". Tässä on joitain ehdotuksia kaupungista ja postinumerosta, jotka ovat kelvollinen yhdistelmä -"
+Please update the city and postal code values with one of these selections and click Get Started,Päivitä kaupunki- ja postinumeroarvot jollakin näistä valinnoista ja napsauta Aloita
+Configuration,Kokoonpano
+//======================= Account Success Page,//======================= Tilin menestyssivu
+Your UPS Profile,UPS-profiilisi
+Your Payment Account,Maksutilisi
+Add another account number,Lisää toinen tilinumero
+Please enter the address attached to your account number,Anna tilinumerosi liitteenä oleva osoite
+Phone,Puhelin
+Verify,Vahvista
+Next,Seuraava
+Remove,Poista
+Account number already exists in 'Your Payment Account',Tilinumero on jo olemassa Maksutilissäsi
+Full name:,Koko nimi:
+Remove Account,Poista tili
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Tämä tili poistetaan. Vahvista napsauttamalla OK, peruuta sulkemalla valintaikkuna."
+Your UPS account has been successfull registered,UPS-tilisi rekisteröinti on onnistunut
+//======================= Shipping Services page,//======================= Lähetyspalvelut -sivu
+Shipping Services,Toimituspalvelut
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Valitse ne UPS-palvelut, jotka haluat näkyvän verkkokaupan kassalla. Lisätietoja UPS-palveluista on UPS:n tariffi-/palveluehdot osoitteessa UPS.COM."
+Deliver to UPS Access Point™ (to-AP delivery),Lähetä UPS Access Point™ -sijaintiin (toimitus AP:hen)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","UPS toimittaa paketin asiakkaan valitsemaan UPS Access Point™ -sijaintiin, josta hän voi noutaa itselleen sopivan."
+Yes,Joo
+No,Ei
+Set as default shipping option,Aseta oletuslähetysvaihtoehdoksi
+Select the shipping services for your customers to choose,Valitse asiakkaasi valittavissa olevat toimituspalvelut
+"International shipping only - visible, when shipping address is outside of EU","Vain kansainvälinen toimitus - näkyy, kun toimitusosoite on EU:n ulkopuolella"
+Access Point display setting:,UPS-tukiaseman näyttöasetus:
+Number of Access Points visible to customers:,Asiakkaille näkyvien sijaintien määrä:
+Display all the Access Points in range of:,Näytä kaikki sijainnit alueella:
+kilometer around consignee's selected address,Kilometrejä vastaanottajan valitusta osoitteesta
+Choose Account Number for this option,Valitse tälle vaihtoehdolle tilinumero
+Deliver to consignee address (to-address delivery),Toimitus vastaanottajan osoitteeseen (toimitus osoitteeseen)
+UPS delivers the parcel to the shipping address provided by customer.,UPS toimittaa paketin asiakkaan ilmoittamaan toimitusosoitteeseen.
+Cut off time,Katkaise aika
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Tässä valittua katkaisuaikaa käytetään aikataulun toimituspäivämäärän ja -ajan laskemiseen, joka näkyy verkkosivustosi kassalla."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Jos esimerkiksi katkaisuajaksi on valittu klo 17.00 ja verkkokauppasi näkevät verkkokauppasi klo 17.01, kaikki UPS:n aikataulutetut toimituspäivät ja -ajat lasketaan seuraavasta arkipäivästä alkaen. Kun päätät tästä katkaisuajasta, varmista, että sinulla on riittävästi aikaa suorittaa tilaus ennen UPS:n aikataulun mukaista noutoa tai että pystyt jättämään paketit UPS Access Point™ -paikkaan."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Jos olet epävarma asiakkaiden tilausten täyttämisestä samana päivänä, voit valita 'Poista käytöstä', jolloin verkkokaupan ostaja näkee kunkin saatavilla olevan palvelun likimääräiset toimitusajat."
+Save,Tallentaa
+Please select at least one shipping service.,Valitse vähintään yksi toimituspalvelu.
+UPS Access Point™ Economy,UPS Access Point™ Economy
+UPS® Standard,UPS®-standardi
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Nouto toimituksen yhteydessä (COD) -sivu
+Collect on Delivery (COD),Nouda toimituksen yhteydessä (COD)
+You have the official Magento COD module enabled!,Virallinen Magento COD -moduuli on käytössä!
+Only show Access Points supporting COD shipments?,Näytäkö vain COD-lähetyksiä tukevat tukiasemat?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Valitse KYLLÄ, jos aiot tarjota COD-lähetyksiä UPS Access Point™ -järjestelmään"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Tämän laajennuksen COD-lähetyspalvelu on automaattisesti yhteensopiva Magenton virallisen Collect on Delivery (COD) -moduulin kanssa.
+You do not have the official Magento COD module installed and/or enabled!,Sinulla ei ole virallista Magento COD -moduulia asennettuna ja/tai käytössä!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Tämän laajennuksen COD-lähetyspalvelu on automaattisesti yhteensopiva Magenton virallisen Postiennakko-moduulin (COD) kanssa.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Jos haluat UPS Shipping -moduulin tunnistavan automaattisesti COD-lähetykset, <strong>varmista, että olet asentanut Magenton Collect on Delivery (COD)</strong>. Jos sinulla on jo Magenton Collect on Delivery (COD) -moduuli asennettuna, <strong>varmista, että moduuli on käytössä</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Napsauta tätä</a>] saadaksesi yksityiskohtaiset ohjeet."
+COD Option,COD-vaihtoehto
+//======================= Package Dimensions page,//======================== Paketin mitat -sivu
+Package Dimensions,Pakkauksen mitat
+Default Package Setting,Paketin oletusasetus
+Default package setting,Paketin oletusasetus
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Kirjoita tähän pakkauksen paino ja mitat. Voit lisätä useita pakettimittoja, jotka voidaan valita helposti avattavasta valikosta, kun luot lähetyksiä laajennuksessa."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Jos päätät näyttää reaaliaikaisen UPS-toimitushinnan (määritetään seuraavassa näytössä) verkkokaupan ostajille, laajennus käyttää ensimmäistä pakettia, jota kutsutaan alla näkyväksi ""oletuspaketiksi"". Oletuspaketin painon ja mittojen perusteella lasketaan verkkokaupan ostajille näytettävät UPS-toimitushinnat."
+Add New Package,Lisää uusi paketti
+Package name,Paketin nimi
+"Example: Standard, Large, Phone box, etc.","Esimerkki: tavallinen, suuri, puhelinlaatikko jne."
+Weight,Paino
+Unit,Yksikkö
+Dimension,Ulottuvuus
+Add Package,Lisää paketti
+Length,Pituus
+Width,Leveys
+Height,Korkeus
+The name Package is exist.,Nimi Paketti on olemassa.
+Edit,Muokata
+Delete,Poistaa
+Editing Default Package,Oletuspaketin muokkaaminen
+Remove Package,Poista paketti
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Aiot poistaa tämän oletuspaketin profiilistasi. Vahvista napsauttamalla OK, peruuta sulkemalla valintaikkuna."
+OK,OK
+Please input at least one default package to continue.,Syötä vähintään yksi oletuspaketti jatkaaksesi.
+Please select an option,ole hyvä ja valitse vaihtoehto
+Basic (number of items in the e-shopper order determine the package size),Perus (e-shopper-tilauksen tuotteiden määrä määrittää paketin koon)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Advanced (E-shopper-tilauksen tuotteiden painot ja mitat määräävät pakkauskoon)
+Package dimensions:,Pakkauksen mitat:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Huomaa: laajennus luo mukautetun paketin koon, jos verkkokauppatilaus on suurempi kuin antamasi paketit"
+Warning! To use this option you must enter product weights in the product settings of your shop.,Varoitus! Tämän vaihtoehdon käyttämiseksi sinun on syötettävä tuotteiden painot myymäläsi tuoteasetuksiin.
+Include dimensions in rating,Sisällytä mitat arvosanaan
+Yes,Joo
+No,Ei
+Number of items in order,Tuotteiden määrä järjestyksessä
+Add Backup Rate,Lisää varmuuskopiointinopeus
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Jos asetus on ""Ei"", hinnat perustuvat vain tuotteiden painoon.&nbsp; Jos asetuksena on ""Kyllä"", tuotteen mitat tulee syöttää myymäläsi tuoteasetuksiin"
+Name,Nimi
+Length,Pituus
+Width,Leveys
+Height,Korkeus
+Weight,Paino
+Max Weight,Suurin paino
+Backup rate:,Varmuuskopiointinopeus:
+Service Name,palvelun nimi
+Rate,Rate
+Add Backup Rate,Lisää varmuuskopiointinopeus
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Varahinta näkyy verkkokaupan ostajille vain, jos tuotteen asetuksissa on ongelma, kuten painot puuttuvat tai jos painot/mitat ylittävät UPS-rajat"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Lisää oletuspaketit, jos haluat arvioinnissa käytetyn paketin koon muuttuvan verkkokaupan tilauksen tuotemäärän mukaan"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Huomaa: jos verkkokauppatilauksen tuotteiden määrä ei vastaa yhtään syöttämääsi määrää, niin arvioinnissa käytetyn pakkauksen koko perustuu verkkokauppatilauksen ylittämään korkeimpaan tuotemäärään."
+//======================= Checkout Shipping Rates page,//======================= Kassalle Toimitushinnat -sivu
+Checkout Shipping Rates,Tarkista toimitushinnat
+Ship to UPS Access Point&trade;,Toimita UPS Access Point™ -sijaintiin
+Flat rates,Kiinteät hinnat
+Real time shipping rates,Reaaliaikaiset toimitushinnat
+Delivery rates is,Toimitushinnat ovat
+% of UPS shipping rates,% UPS:n toimituskuluista
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,"Verkkokaupan ostaja näkee prosentin reaaliaikaisista UPS-hinnoista. Nämä hinnat lasketaan käyttämällä oletuspakkauksen painoa ja mittoja, jotka määritit edellisessä näytössä (Paketin mitat)."
+Ship to Address,Lähetä osoitteeseen
+Order Value Threshold,Tilauksen arvon kynnys
+Delivery rates,Toimitushinnat
+The minimum thresholds can not be the same.,Minimikynnykset eivät voi olla samat.
+//======================= Complete Configuration page,//======================= Valmis määrityssivu
+Complete Configuration,Täydellinen määritys
+You can start shipping now!,Voit aloittaa toimituksen nyt!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,Napsauta 'Complete Configuration' -painiketta viimeistelläksesi laajennuksen määritykset ja aloittaaksesi UPS-lähetyspalvelujen tarjoamisen verkkosivustollasi.
+"If you are new to UPS, please refer to the following FAQs for additional information:","Jos olet uusi UPS:n käyttäjä, katso lisätietoja seuraavista usein kysytyistä kysymyksistä:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Kuinka saan lisätietoja uudesta UPS-toimitustilistäni?<br />Jos avasit uuden UPS-toimitustilin laajennuksesta, vahvistussähköposti, jossa on lisätietoja, lähetetään sähköpostiosoitteeseen, jonka annoit uuden tilin luominen."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Kuinka valmistelen pakettini UPS:n noutoa varten tai luovutan UPS Access Point™ -sijaintiin?<br />Katso paketin valmistelusuositukset tästä linkistä - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Kuinka annan pakettini UPS:lle?<br />Voit jättää pakettisi mihin tahansa valtuutettuun UPS-paikkaan, kuten UPS Access Point™ -sijaintiin. Napsauta alla etsiäksesi sopivaa sijaintia lähelläsi"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Voit myös pyytää UPS:ää noutamaan paketit varastostasi tai yrityksesi osoitteesta. Jos tarvitset satunnaisen noudon, voit ajoittaa noudon suoraan UPS.COM-sivustolta käyttämällä tätä linkkiä - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Jos sinulla on UPS-paketteja useimpina arkipäivinä ja haluat mieluummin tavallisen UPS-noudon, voit ottaa yhteyttä UPS:ään soittamalla laskutuskysymyksissä annettuun puhelinnumeroon <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>täällä</a>. Sitten UPS:n edustaja ottaa sinuun yhteyttä keskustellakseen päivittäisestä UPS:n noudosta."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Jos sinulla on UPS-paketteja useimpina arkipäivinä ja haluat tavallista UPS-noutoa, katso tästä linkistä ohjeet päivittäisten noutojen ajoittamiseen: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,4. Mitä minun on tehtävä UPS:n COD (COD) -palvelun perustamiseksi?<br />Voit ottaa yhteyttä UPS:ään soittamalla laskutuskysymyksissä annettuun puhelinnumeroon <a href='https://www. .ups.com/%1/%2/help-center/contact.page' target='_blank'>täällä</a>. Sitten UPS:n edustaja ottaa sinuun yhteyttä keskustellakseen COD-palvelusta.
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Mitä toimenpiteitä minun on tehtävä UPS Collect on Delivery (COD) -palvelun perustamiseksi?<br />Jos olet kiinnostunut käyttämään UPS Collect on Delivery (COD) -palveluita, katso lisätietoja tästä linkistä: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Etsi paikkoja
+Print form,Tulosta lomake
+//======================= E-shopper page,//======================== Verkkokauppasivu
+Deliver to an UPS Access Point<sup>TM</sup>,Toimita UPS Access Point™ -sijaintiin
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Pakettisi toimitetaan UPS Access Point™ -sijaintiin
+Open 24 hours,Avoinna 24 tuntia
+The address is required,Osoite vaaditaan
+Please select an Access Point to process,Valitse käsiteltävä tukiasema
+Operating Hours,Toiminta-ajat
+Open,Avata
+Close,kiinni
+Monday,maanantai
+Closed,Suljettu
+Tuesday,tiistai
+Wednesday,keskiviikko
+Thursday,torstai
+Friday,perjantai
+Saturday,lauantai
+Sunday,sunnuntai
+Search for the UPS Access Point<sup>TM</sup>,Etsi UPS Access Point™ -sijainteja
+Near,Lähellä
+Delivered by End of Business Day,Toimitetaan arkipäivän loppuun mennessä
+"Address line, City, State, Postcode","Osoiterivi, kaupunki, osavaltio, postinumero"
+"Address line,City,State,Postcode","Osoiterivi, kaupunki, osavaltio, postinumero"
+Use my delivery address,Käytä toimitusosoitettani
+Search,Hae
+Results,Tulokset
+Select,Valitse
+Deliver to Your Address,Toimita osoitteeseesi
+Your package will be delivered to your address,Paketti toimitetaan osoitteeseesi
+UPS SHIPPING,UPS TOIMITUS
+Delivery today!,Toimitus tänään!
+Delivery next day!,Toimitus seuraavana päivänä!
+Next two days!,Seuraavat kaksi päivää!
+Next three days!,Seuraavat kolme päivää!
+Next four days!,Seuraavat neljä päivää!
+Next five days!,Seuraavat viisi päivää!
+Next six days!,Seuraavat kuusi päivää!
+Next seven days!,Seuraavat seitsemän päivää!
+Next eight days!,Seuraavat kahdeksan päivää!
+Next nine days!,Seuraavat yhdeksän päivää!
+Next ten days!,Seuraavat kymmenen päivää!
+delivered by,toimitettu
+Delivered by,Toimitettu
+January,tammikuu
+February,helmikuu
+March,maaliskuuta
+April,huhtikuu
+May,saattaa
+June,kesäkuuta
+July,heinäkuu
+August,elokuu
+September,syyskuu
+November,marraskuu
+October,lokakuu
+December,joulukuu
+//======================= Open Order page,//======================= Avaa tilaussivu
+Open Orders,Avaa tilaukset
+Create Single Shipments,Luo yksittäisiä lähetyksiä
+Create Batch Shipments,Luo erälähetykset
+Export All Orders,Vie kaikki tilaukset
+Export Orders,Vie tilaukset
+Archive Orders,Arkistoi tilaukset
+Order ID,tilausnumero
+Order Date,Tilauspäivämäärä
+Product,Tuote
+Delivery Address,Toimitusosoite
+Shipping Service,Toimituspalvelu
+COD,TURSKA
+Action,Toiminta
+No results!,Ei tuloksia!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Varoitus – Tilausten arkistointi siirtää tilauksesi Arkisto-välilehdelle, etkä voi enää käsitellä näitä tilauksia. Napsauta 'OK' jatkaaksesi, 'Peruuta' palataksesi näyttöön"
+Cancel,Peruuttaa
+//======================= Detail Order page,//======================= Tiedot Tilaussivu
+Order,Tilaus
+Order #,Tilaus #
+Customer,Asiakas
+Order value,Tilauksen arvo
+Payment status,Maksun tilanne
+Access Point,Tukiasema
+//======================= Create single shipment page,//======================= Luo yksi lähetyssivu
+Process Shipment,Käsittele lähetys
+Ship From,Lähetys
+Ship To,Lähettää
+Accessorial service,Lisäpalvelu*
+Packaging,Pakkaus
+Package #1,Paketti nro 1
+Package #,Paketti #
+Add package,Lisää paketti
+View estimated shipping fee and delivery date,Katso arvioitu toimitusmaksu ja toimituspäivä
+Edit,Muokata
+Create Shipment,Luo lähetys
+Custom Package,Mukautettu paketti
+Name,Nimi
+Address,Osoite
+State,Osavaltio
+Note: Insufficient or incorrect address may increase the shipping fee,Huomautus: Riittämätön tai väärä osoite voi nostaa toimitusmaksua
+Additional Handling,Lisäkäsittely
+Additional handling,Lisäkäsittely
+Quantum View Ship Notification,Quantum View Ship Notification
+Quantum View Delivery Notification,Quantum View -toimitusilmoitus
+Residential Address,Asunnon osoite
+Saturday Delivery,Lauantai toimitus
+Carbon Neutral,Hiilineutraali
+Direct Delivery Only,Vain suora toimitus
+Declared value,Ilmoitettu arvo
+Signature Required,Allekirjoitus vaaditaan
+Adult Signature Required,Aikuisen allekirjoitus vaaditaan
+To Home COD,Kotiin COD
+Cancel Editing,Peruuta muokkaus
+To Access Point COD,Tukiasemaan COD
+Orders to be processed,Tilaukset käsiteltäväksi
+The name is not empty,Nimi ei ole tyhjä
+The address is required,Osoite vaaditaan
+The postal code is empty or invalid,Postinumero on tyhjä tai virheellinen
+The city is not empty,Kaupunki ei ole tyhjä
+Invalid email format,Virheellinen sähköpostimuoto
+The phone is not empty,Puhelin ei ole tyhjä
+Some of the data you entered is not valid. Please check again.,Osa antamistasi tiedoista ei kelpaa. Tarkista uudestaan.
+There are errors connecting to the UPS API servers. Please try again.,Yhteyden muodostamisessa UPS API -palvelimiin tapahtui virheitä. Yritä uudelleen.
+//======================= Shipment page,//======================= Lähetyssivu
+Shipments,Lähetykset
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>",Valitsemalla minkä tahansa tilauksen tästä lähetysvälilehdestä hyväksyn <a href='javascrip:void(0);' id='term-condition'>Käyttöehdot.</a>
+UPS Tracking Terms and Conditions,UPS-seurantaehdot
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","HUOMAUTUS: Tämän palvelun kautta käytettävät UPS-pakettien seurantajärjestelmät (""seurantajärjestelmät"") ja tämän palvelun kautta saadut seurantatiedot (""tiedot"") ovat UPS:n yksityistä omaisuutta. UPS valtuuttaa sinut käyttämään seurantajärjestelmiä yksinomaan UPS:n toimittamien tai sinulle tarjottujen lähetysten seuraamiseen eikä mihinkään muuhun tarkoitukseen. Ilman rajoituksia sinulla ei ole oikeutta saattaa Tietoja saataville millään verkkosivustolla tai muuten jäljentää, jakaa, kopioida, tallentaa, käyttää tai myydä Tietoja kaupallisen hyödyn saamiseksi ilman UPS:n nimenomaista kirjallista lupaa. Tämä on henkilökohtainen palvelu, joten oikeuttasi käyttää seurantajärjestelmiä tai tietoja ei ole luovutettavissa. Kaikki pääsy tai käyttö, joka on ristiriidassa näiden ehtojen kanssa, on luvatonta ja ehdottomasti kielletty."
+Download PDF Label,Lataa PDF-tarra
+Download ZPL Label,Lataa ZPL Label
+Export Shipment Data,Vie lähetystiedot
+Cancel Shipments,Peruuta lähetykset
+ID Shipment,ID-lähetys
+Tracking Number,Seurantanumero
+Date,Päivämäärä
+Estimated Shipping Fee,Arvioitu toimitusmaksu
+Shipment #,Lähetysnumero
+Order #ID reference,Tilaus #ID viite
+Package details,Paketin tiedot
+Are you sure you want to cancel selected shipment(s)?,Haluatko varmasti peruuttaa valitut lähetykset?
+Shipment Canceled,Lähetys peruutettu
+Archived Orders,Arkistoidut tilaukset
+//======================= Additional,//======================= Lisä
+Packaging:,Pakkaus:
+Access Point display setting:,UPS-tukiaseman näyttöasetus:
+Number of Access Points visible to customers:,Asiakkaille näkyvien tukiasemien määrä:
+Display all the Access Points in range of:,Näytä kaikki tukiasemat alueella:
+Title:,Otsikko:
+Company:,Yhtiö:
+Email:,Sähköposti:
+Phone &nbsp number:,Puhelin &nbsp numero:
+Phone &nbsp;number:,Puhelinnumero:
+Address type:,Osoite tyyppi:
+Address:,Osoite:
+Postal code:,Postinumero:
+City:,Kaupunki:
+Country:,Maa:
+Account Name:,Tilin nimi:
+Account Number:,Tilinumero:
+Account number:,Tilinumero:
+Invoice Number:,Laskun numero:
+Invoice Amount:,Laskun summa:
+Currency:,Valuutta:
+Invoice date:,Laskutus päivämäärä:
+Name:,Nimi:
+Phone:,Puhelin:
+Customer:,Asiakas:
+Product:,Tuote:
+Shipping service:,Lähetyspalvelu:
+Order value:,Tilauksen arvo:
+Payment status:,Maksun tilanne:
+Access Point:,Tukiasema:
+Payment Status:,Maksun tilanne:
+Phone number:,Puhelinnumero:
+Package:,Paketti:
+Estimated Shipping fee:,Arvioitu toimitusmaksu:
+Estimated Shipping Fee:,Arvioitu toimitusmaksu:
+Orders to be processed:,Käsiteltävät tilaukset:
+Order #ID reference:,Tilausnumeron tunnuksen viite:
+Package details:,Paketin tiedot:
+Tracking number:,Seurantanumero:
+Accessorial Service:,Lisäpalvelu:
+Accessorial service:,Lisäpalvelu:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Jos olet uusi UPS:n käyttäjä, katso lisätietoja seuraavista usein kysytyistä kysymyksistä:"
+VAT Number:,ALV-numero:
+Promo Code:,Tarjouskoodi:
+Country/Territory:,Maa/alue:
+End of Business Day,Työpäivän loppu
+//==============================Security Enhancement page,
+Security Enhancement,Turvallisuuden parantaminen
+SECURITY ENHANCEMENTS ACTIVATION,TURVALLISUUDEN PARANNUKSET AKTIVOI
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",Asentamalla UPS Pluginin sait tämän kätevän vaihtoehdon soveltaa UPS:n suosittelemia suojausparannuksia verkkokauppaasi. Ottamalla käyttöön tietyt suojausparannukset alla voit tehdä verkkokaupasstasi vähemmän haavoittuvan joillekin yleisille hakkereiden hyökkäyksille.
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Defense
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Katso [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] saadaksesi lisätietoja. Jos otat tämän suojauksen käyttöön, UPS-laajennus suojaa myymäläsi välittämällä kehyskäytännön käyttäjän selaimelle X-Frame-Options: Sameorigin HTTP-vastausotsikon kautta ja lisäämällä ""frame-breaker"" java-skriptin vanhoille selaimille. - UPS Plugin voi suojata verkkokauppasi Front Office -sivut OWASP:n suositteleman Clickjacking Defense Cheat Sheet -huijauslomakkeen mukaisesti. Poista tämä suojaus käytöstä, jos haluat ottaa käyttöön verkkokaupan graafisen käyttöliittymän kehystyksen kolmannen osapuolen verkkosivustoilla; tai jos olet jo toteuttanut tämän puolustuksen toisin."
+Use X-Frame-Options response header,Käytä X-Frame-Options-vastausotsikkoa
+Do not use,Älä käytä
+Deny,Kiellä
+SameOrigin,SamaAlkuperä
+Use frame-killer script:,Käytä frame-killer-skriptiä:
+Use Content-Security-Policy response header,Käytä Content-Security-Policy-vastausotsikkoa
+frame-ancestors 'none',"runko-esivanhemmat ""ei mitään"""
+frame-ancestors 'sefl',"runko-esivanhemmat ""sefl"""
+Content Sniffing Prevention,Sisällön haistamisen esto
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Katso lisätietoja wikipediasta. Jos valitset tämän vaihtoehdon, UPS-laajennus suojaa verkkokauppasi Front Officen käyttämällä <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","HTTP-vastausotsikko kaikille Magento Front Office -sivuille. Tämä estää asiakkaan selainta (erityisesti Internet Exploreria) haistamasta MIME-vastausta pois ilmoitetusta sisältötyypistä. Et välttämättä tarvitse tätä, koska käyttäjien ei ole tarkoitus ladata verkkokauppaasi mahdollisesti haitallisia tiedostoja (esim. JavaScriptiä kuvan sijaan). On kuitenkin edelleen hyvä käytäntö ottaa tämä erityinen suojausotsikko käyttöön, koska siihen ei liity suoritusrangaistusta."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,"Ottaa käyttöön sivustojen väliset komentosarjasuodattimet selaimissa, jotka tukevat X-XSS-Protection-direktiiviä"
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Katso lisätietoja wikipediasta. Jos valitset tämän vaihtoehdon, UPS-laajennus suojaa verkkokauppasi Front Officen käyttämällä <br />X-XSS-Protection: '1; mode=block' <br />HTTP-vastausotsikko kaikille Magento Front Office -sivuille."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Suojaa verkkokauppasi verkkosivustoa protokollan alentamishyökkäyksiltä ja evästeiden kaappauksilta
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Katso lisätietoja wikipediasta Jos valitset tämän vaihtoehdon, UPS-laajennus suojaa verkkokauppasi Front Office -sovelluksella <br />Strict-Transport-Security 'max-age=31536000; includeSubDomainsin <br />HTTP-vastausotsikko kaikille Magento Front Office -sivuille."
+Prevent sensitive pages from caching by browser.,Estä arkaluonteisia sivuja tallentamasta selaimen välimuistiin.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Katso lisätietoja OWASP:n usein kysytyistä kysymyksistä. Jos valitset tämän vaihtoehdon, UPS-laajennus varmistaa Checkout-prosessin käyttämällä<br />Cache-Control: no-cache, no-store <br />Vanhenee: 0 <br />Pragma: ei välimuistia <br /> HTTP-vastausotsikot vastaaville sivuille"
+Apply to pages,Käytä sivuille
+All,Kaikki
+Checkout only,Vain kassa
+Data saved successfully.,Tietojen tallennus onnistui.
+We couldn't find any records,Emme löytäneet mitään tietueita
+Please wait…,Odota…
+Archiving Orders,Tilausten arkistointi
+There is no shipping service for the above address,Yllä olevaan osoitteeseen ei ole toimituspalvelua
+The email is not empty,Sähköposti ei ole tyhjä
+The country is not empty,Maa ei ole tyhjä
+Select all,Valitse kaikki
+Unselect all,Poista kaikki valinnat
+Do not have label for this Tracking ID,Tälle seurantatunnukselle ei ole tunnistetta
+Print Label or download file.,Tulosta tarra tai lataa tiedosto.
+"Connection error, try later to install and configure","Yhteysvirhe, yritä myöhemmin asentaa ja määrittää"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Emme voi mitätöidä tätä lähetystä tällä hetkellä. Voit yrittää mitätöidä lähetyksen myöhemmin. Sinua ei kuitenkaan laskuteta tästä lähetyksestä, jos et käytä lähetystarraa"
+Estimated Fee,Arvioitu maksu
+Shipping fee,Kuljetusmaksu
+Poland,Puola
+United Kingdom,Yhdistynyt kuningaskunta
+France,Ranska
+Germany,Saksa
+Italy,Italia
+Netherlands,Alankomaat
+Spain,Espanja
+Belgium,Belgia
+Shipment Manager,Lähetyspäällikkö
+Default Package,Oletuspaketti
+Order Time,Tilausaika
+Time,Aika
+Warning,Varoitus
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Virhe! Paketti ylittää suurimman sallitun koon 400 cm tai 157,48 tuumaa (suurin sallittu kokolaskelma = pituus + 2 * leveys + 2 * korkeus)."
+Access Points Address will be used as an alternative shipping address,Vaihtoehtoisena toimitusosoitteena käytetään Access Points -osoitetta
+Ship To (UPS Access Point),Lähetys (UPS Access Point)

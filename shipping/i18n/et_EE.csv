@@ -1,0 +1,470 @@
+//======================= About page,//======================= Teave lehe kohta
+About,Umbes
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"UPS on teinud koostööd Magentoga, et pakkuda tasuta UPS Shipping ja UPS Access Point™ moodulit, mis võimaldab teil integreerida ja pakkuda laia valikut UPSi tarne- ja tarnelahendusi otse teie veebisaidi väljaregistreerimise protsessis! See ametlik Magento UPS-i moodul annab teie klientidele juurdepääsu meie ulatuslikule UPS-i pääsupunktide võrgule ja kohaletoimetamisteenustele."
+Features of this product,Selle toote omadused
+Front Office,Front Office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,"Lihtne ja lihtne kaardiliides, et teie kliendid saaksid valida UPS-i pääsupunkti vastavalt oma eelistustele."
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,"Kasutajasõbralik liides teie klientidele, et lülituda pääsupunkti kohaletoimetamiselt koju."
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Reaalajas UPS-i saatmismäär või kindlad hinnad iga saadaoleva teenuse jaoks (vastavalt kaupmehe tagakontori seadetele).
+Back Office,Tagakontor
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Erinevad valikud klientidele nähtavate tarnetariifide seadistamiseks (nt tasuta kohaletoimetamine, reaalajas kohaletoimetamise hinnad või kindlad hinnad vastavalt ostukorvi väärtuse lävedele)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Võimalus avada UPS-i konto otse moodulis endas, kui sul seda pole."
+Easy PDF label generation.,Lihtne PDF-sildi genereerimine.
+Real time tracking information.,Reaalajas jälgimise teave.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Võimalus eksportida avatud tellimusi, et saaksite neid keerukamate vajaduste jaoks teistes rakendustes töödelda."
+Module version number and release date,Mooduli versiooni number ja väljalaskekuupäev
+Module version v,Mooduli versioon v
+Release date,Väljalaske kuupäev
+Changelog,Muudatuste logi
+Platform compatibility statement,Platvormi ühilduvuse avaldus
+"Compatible with Magento versions 2.1, 2.2, 2.3","Ühildub Magento versioonidega 2.1, 2.2, 2.3"
+UPS Shipping Module website,UPS-i saatmismooduli veebisait
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,Lisateabe saamiseks külastage aadressi <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,Lisateabe saamiseks külastage
+Support information,Toetusteave
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","UPS Shipping Module'i installimisel, uuendamisel või kasutamisel abi saamiseks võtke ühendust UPS-iga aadressil -"
+Poland +48 (0) 22 203 03 21,Poola +48 (0) 22 203 03 21
+UPS Shipping Module,UPS-i saatmismoodul
+UPS Shipping,UPS-i saatmine
+Shipment management,Saadetise juhtimine
+//======================= Country page,//======================= Riigileht
+Country setting,Riigi seadistus
+Country Setting,Riigi seadistus
+Please select your country/territory,Valige oma riik/territoorium
+Continue,Jätka
+//======================= Terms and Condition page,//======================== Nõuete ja tingimuste leht
+UPS Terms and Conditions,UPSi nõuded ja tingimused
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Nõustun UPS-i tehnoloogialepinguga ja kinnitan, et mulle on antud piisavalt aega selle lugemiseks ja mõistmiseks, et see sisaldab olulisi tingimusi minu UPS-tehnoloogia kasutamise kohta, nagu UPS-i vastutuse piiramine ja minu kokkulepe UPS-i ja minu vahelise vaidluste lahendamise kohta. käsitletud"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Nõustun UPS-i tehnoloogialepinguga ja kinnitan, et mulle on antud piisavalt aega selle lugemiseks ja mõistmiseks, et see sisaldab olulisi tingimusi minu UPS-tehnoloogia kasutamise kohta,"
+like,meeldib
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,UPS-i vastutuse piiramine ja minu kokkulepe UPSi ja minu vaheliste vaidluste lahendamise kohta.
+Print,Prindi
+Cannot get Term & Condition,Tingimust ei saa saada
+//======================= Account Page,//======================= Konto leht
+Account,Konto
+ACCOUNT,KONTO
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),UPS-i pistikprogrammide kohta lisateabe saamiseks klõpsake <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>seda linki< /a> (avaneb uues brauseriaknas)
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,"Palun täitke allolev vorm, et alustada UPS-i pistikprogrammi seadistamist oma e-kaubanduse veebisaidi jaoks"
+Title,Pealkiri
+Full name,Täisnimi
+Full Name,Täisnimi
+Company,Ettevõte
+Email,Meil
+Phone number,Telefoninumber
+Address type,Aadressi tüüp
+Address,Aadress
+Postal code,Postiindeks
+City,Linn
+Country/Territory,Riik/territoorium
+"Example: Warehouse, Branch #1, etc.","Näide: ladu, filiaal nr 1 jne."
+"Example: Warehouse, Branch #1","Näide: ladu, filiaal nr 1"
+Street Address,Tänava aadress
+"Apartment, Suite, Unit, Building, Floor, etc.","Korter, sviit, üksus, hoone, korrus jne."
+"Department, c/o, etc.","Osakond, c/o jne."
+Mr,härra
+Miss,Igatsema
+Mrs,proua
+Ms,Prl
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Mul on UPS-i kontonumber, mille arve on esitatud viimase 45 päeva jooksul (90 päeva, kui teie konto asub USA-s või Kanadas)"
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Mul on UPS-i kontonumber ILMA arvet, mis on esitatud viimase 45 päeva jooksul (90 päeva, kui teie konto asub USA-s või Kanadas)"
+I do not have a UPS Account Number and would like to get one from the plug-in,Mul ei ole UPS-i kontonumbrit ja sooviksin selle hankida pistikprogrammist soodushinnaga
+I don’t have a UPS account number and would,Mul ei ole UPS-i kontonumbrit ja oleksin
+like,meeldib
+to get one with discounted rates from the plug-in,et hankida pistikprogrammist soodushinnaga üks
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"Arve peab olema UPSi viimase 45 päeva jooksul (90 päeva, kui teie konto asub USA-s või Kanadas)"
+Account name,Kasutaja nimi
+Account number,Konto number
+Invoice number,Arve number
+Invoice amount,Arve summa
+Currency,Valuuta
+Invoice date,Arve kuupäev
+VAT number,käibemaksukohustuslase number
+Promo Code,Promo kood
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,"Pange tähele: kaubasaatjatel on keelatud vedada ohtlikke kaupu või ohtlikke materjale, kasutades selles rakenduses avatud kontot."
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Teie konto toetab tarnimist volitatud UPS Access Point™ asukohtadesse 24 tunni pärast.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,"Lisateavet ohtlike kaupade ja selle kohta, kuidas UPS saab teid nende saatmist toetada, leiate sellelt lingilt <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page> [https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>"
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Viitenimi, mis seotakse kontoga. Näiteks ladu 1, ladu 2, kauplus 1, kauplus 2 jne. Saate vabalt valida nime vastavalt oma soovile"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',Teie UPS-i kontoga seotud postiindeks. Selle leiate oma UPS-i arve iga lehe ülaosast jaotisest „Ostja”
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',Teie UPS-i kontoga seotud nimi. Selle leiate oma UPS-i arve iga lehe ülaosast jaotisest „Ostja”
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,"Unikaalne kuuekohaline tähtnumbriline number, mis identifitseerib teie konto. Selle leiate oma UPS-i arve iga lehe vasakpoolsest ülanurgast"
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,"Unikaalne 12-kohaline number, mille UPS on arvele määranud. Selle leiate oma UPS-i arve iga lehe vasakpoolsest ülanurgast"
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,"Antud arve tasumisele kuuluv kogusumma. Selle leiate arve esimesel lehel olevast tabelist ""Tasude kokkuvõte""."
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Arve väljastamise kuupäev. Selle leiate oma UPS-i arve iga lehe vasakpoolsest ülanurgast
+Get started,Alustama
+Some of the data you entered is not valid. Please check again.,Mõned sisestatud andmed ei ole kehtivad. Palun kontrolli uuesti.
+Cannot create new Account Number,Uut kontonumbrit ei saa luua
+Email is not correct format,E-post pole õiges vormingus
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"Teie taotlus luua UPS-i saatmiskonto ei õnnestunud. Kontrollige sisestatud väärtusi ""Linn"" ja ""Postiindeks"". Siin on mõned soovitused linna ja sihtnumbri kohta, mis on kehtiv kombinatsioon -"
+Please update the city and postal code values with one of these selections and click Get Started,Värskendage linna ja sihtnumbri väärtusi ühega neist valikutest ja klõpsake nuppu Alusta
+Configuration,Seadistamine
+//======================= Account Success Page,//======================= Konto edu leht
+Your UPS Profile,Teie UPS-i profiil
+Your Payment Account,Teie maksekonto
+Add another account number,Lisage teine ​​kontonumber
+Please enter the address attached to your account number,Palun sisesta oma kontonumbrile lisatud aadress
+Phone,Telefon
+Verify,Kinnitage
+Next,Edasi
+Remove,Eemalda
+Account number already exists in 'Your Payment Account',Kontonumber on teie maksekontol juba olemas
+Full name:,Täisnimi:
+Remove Account,Eemalda konto
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","See konto eemaldatakse. Kinnitamiseks klõpsake nuppu OK, tühistamiseks sulgege dialoog."
+Your UPS account has been successfull registered,Teie UPS-i konto registreerimine õnnestus
+//======================= Shipping Services page,//======================= Postiteenuste leht
+Shipping Services,Laevandusteenused
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Valige UPS-i teenused, mida soovite oma e-ostlejate jaoks kassas näha. UPS-i teenuste kohta lisateabe saamiseks vaadake UPS-i tariifi/teenusetingimusi saidil UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Saatmine UPS Access Point™ asukohta (tarnepunkti kohaletoimetamine)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","UPS toimetab paki kliendi poolt valitud UPS Access Point™ asukohta, et see talle sobival ajal järgi saaks"
+Yes,Jah
+No,Ei
+Set as default shipping option,Määra tarnevaikevalikuks
+Select the shipping services for your customers to choose,"Valige saatmisteenused, mida teie kliendid saavad valida"
+"International shipping only - visible, when shipping address is outside of EU","Ainult rahvusvaheline saatmine – nähtav, kui tarneaadress asub väljaspool EL-i"
+Access Point display setting:,UPSi pääsupunkti kuvaseade:
+Number of Access Points visible to customers:,Klientidele nähtavate asukohtade arv:
+Display all the Access Points in range of:,Kuva kõik asukohad vahemikus:
+kilometer around consignee's selected address,Miilid ümber kaubasaaja valitud aadressi
+Choose Account Number for this option,Valige selle valiku jaoks kontonumber
+Deliver to consignee address (to-address delivery),Tarne saaja aadressile (aadressile tarnimine)
+UPS delivers the parcel to the shipping address provided by customer.,UPS toimetab paki kohale kliendi antud tarneaadressile.
+Cut off time,Katkesta aeg
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Siin valitud lõppaega kasutatakse tarnegraafiku kuupäeva ja kellaaja arvutamisel, mis kuvatakse teie veebisaidi kassas."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Näiteks kui väljalülitusajaks on valitud kell 17.00 ja teie e-ostlejad vaatavad teie veebipoodi kell 17.01, arvestatakse kõiki UPS-i planeeritud tarnekuupäevi ja -aega alates järgmisest tööpäevast. Lõppaja määramisel veenduge, et teil oleks piisavalt aega tellimuse täitmiseks enne UPS-i plaanipärast järeletulemist või saate pakid ära anda UPS Access Point™ asukohta."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Kui te pole kindel, kas kliendi tellimused on täidetud samal päeval, saate valida „Keela“, mille tulemusena näeb e-ostleja iga saadaoleva teenuse ligikaudseid tarnekuupäevi."
+Save,Salvesta
+Please select at least one shipping service.,Valige vähemalt üks saatmisteenus.
+UPS Access Point™ Economy,UPS Access Point™ Economy
+UPS® Standard,UPS® standard
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Kogumine kohaletoimetamisel (COD)
+Collect on Delivery (COD),Kogu kohaletoimetamisel (COD)
+You have the official Magento COD module enabled!,Teil on lubatud ametlik Magento COD-moodul!
+Only show Access Points supporting COD shipments?,Kas näidata ainult COD-saadetisi toetavaid pääsupunkte?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Valige ""JAH"", kui kavatsete pakkuda UPS Access Point™-i COD-saadetisi"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Selle pistikprogrammi COD-saatmisteenus ühildub automaatselt Magento ametliku COD-mooduliga.
+You do not have the official Magento COD module installed and/or enabled!,Teil pole ametlikku Magento COD-moodulit installitud ja/või lubatud!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Selle pistikprogrammi COD-saatmisteenus ühildub automaatselt Magento ametliku sularahas kohaletoimetamise (COD) mooduliga.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Kui soovite, et UPS-i saatmismoodul tuvastaks automaatselt järelmaksuga saadetised, <strong>veenduge, et oleksite installinud Magento's Collect on Delivery (COD)</strong>. Kui teil on juba installitud Magento's Collect on Delivery (COD) moodul, <strong>veenduge, et moodul oleks lubatud</strong>. Üksikasjalike juhiste saamiseks [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>klõpsake siin</a>]."
+COD Option,COD valik
+//======================= Package Dimensions page,//======================= Pakendi mõõtmete leht
+Package Dimensions,Pakendi mõõtmed
+Default Package Setting,Vaikimisi paketi seadistus
+Default package setting,Paketi vaikeseade
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Palun sisestage siia oma pakendi kaal ja mõõtmed. Saate lisada mitu paki dimensiooni, mida saab pistikprogrammis saadetiste loomisel hõlpsasti rippmenüüst valida."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Kui otsustate e-ostlejatele näidata reaalajas UPS-i tarnetariifi (seadistatakse järgmisel ekraanil), kasutab pistikprogramm esimest paketti, mida nimetatakse allpool kuvatud vaikepaketiks. Vaikepaki kaalu ja mõõtmeid kasutatakse e-ostlejatele kuvatavate UPS-i saatmishindade arvutamisel."
+Add New Package,Lisa uus pakett
+Package name,Paketi nimi
+"Example: Standard, Large, Phone box, etc.","Näide: standardne, suur, telefonikast jne."
+Weight,Kaal
+Unit,Üksus
+Dimension,Mõõtmed
+Add Package,Lisa pakett
+Length,Pikkus
+Width,Laius
+Height,Kõrgus
+The name Package is exist.,Nimi pakett on olemas.
+Edit,Muuda
+Delete,Kustuta
+Editing Default Package,Vaikepaketi redigeerimine
+Remove Package,Eemalda pakett
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Eemaldate selle vaikepaketi oma profiilist. Kinnitamiseks klõpsake nuppu OK, tühistamiseks sulgege dialoog."
+OK,Okei
+Please input at least one default package to continue.,Jätkamiseks sisestage vähemalt üks vaikepakett.
+Please select an option,Palun tehke valik
+Basic (number of items in the e-shopper order determine the package size),Basic (kaupade arv e-ostleja tellimuses määrab pakendi suuruse)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Täiustatud (e-ostleja tellimusel olevate toodete kaalud ja mõõtmed määravad pakendi suuruse)
+Package dimensions:,Pakendi mõõdud:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Märkus: plugin loob kohandatud pakendi suuruse, kui e-ostleja tellimus on suurem kui sisestatud pakendid"
+Warning! To use this option you must enter product weights in the product settings of your shop.,Hoiatus! Selle valiku kasutamiseks peate sisestama oma poe tooteseadetesse toodete kaalud.
+Include dimensions in rating,Lisage hinnangusse mõõtmed
+Yes,Jah
+No,Ei
+Number of items in order,Kaupade arv järjekorras
+Add Backup Rate,Lisa varumäär
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Kui määrate valiku „Ei”, põhinevad hinnad ainult toote kaalul.&nbsp; Kui valitud on “Jah”, tuleb toote mõõdud sisestada oma poe tooteseadetesse"
+Name,Nimi
+Length,Pikkus
+Width,Laius
+Height,Kõrgus
+Weight,Kaal
+Max Weight,Maksimaalne kaal
+Backup rate:,Varundamise määr:
+Service Name,Teenuse nimi
+Rate,Hinda
+Add Backup Rate,Lisa varumäär
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Backup Rate kuvatakse e-ostlejatele ainult siis, kui toote seadetes on probleeme, näiteks puuduvad kaalud või kui kaal/mõõtmed ületavad UPS-i piire"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Lisa vaikepakid, kui soovid, et hinnangu andmisel kasutatud paki suurus muutuks vastavalt e-ostleja tellimuses olevate kaupade arvule"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Märkus: kui e-ostja tellimuses olevate kaupade arv ei ühti ühegi teie sisestatud kirjega, võetakse hindamisel kasutatud pakendi suuruse aluseks e-ostja tellimusega ületatud kõrgeim kaubaarv."
+//======================= Checkout Shipping Rates page,//======================= Check out Tarnehindade leht
+Checkout Shipping Rates,Kontrollige kohaletoimetamise hindu
+Ship to UPS Access Point&trade;,Saatke UPS Access Point™ asukohta
+Flat rates,Kindlad määrad
+Real time shipping rates,Reaalajas saatmishinnad
+Delivery rates is,Kohaletoimetamise hinnad on
+% of UPS shipping rates,% UPS-i saatmishindadest
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,E-ostleja näeb reaalajas UPS-i tariife %. Need määrad arvutatakse eelmisel kuval (Paki mõõtmed) seadistatud paki vaikekaalu ja mõõtmete alusel.
+Ship to Address,Saada aadressile
+Order Value Threshold,Tellimuse väärtuse lävi
+Delivery rates,Kohaletoimetamise hinnad
+The minimum thresholds can not be the same.,Minimaalsed künnised ei saa olla samad.
+//======================= Complete Configuration page,//======================= Täieliku seadistamise leht
+Complete Configuration,Täielik konfigureerimine
+You can start shipping now!,Saate alustada kohe saatmist!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,Pistikprogrammi seadistamise lõpetamiseks ja oma veebisaidil UPS-i saatmisteenuste pakkumise alustamiseks klõpsake nuppu 'Täielik konfigureerimine'.
+"If you are new to UPS, please refer to the following FAQs for additional information:","Kui olete UPS-i uus kasutaja, vaadake lisateabe saamiseks järgmisi KKK-sid:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Kuidas ma saan oma uue UPS-i tarnekonto kohta lisateavet?<br />Kui avasite pistikprogrammi kaudu uue UPS-i tarnekonto, saadetakse kinnitusmeil lisateabega e-posti aadressile, mille sisestasite uue konto loomine."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Kuidas ma oma pakke ette valmistan UPS-i kogumiseks või UPS Access Point™-i asukohta viimiseks?<br />Paki ettevalmistamise soovitusi leiate sellelt lingilt - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Kuidas ma oma pakid UPS-ile anda?<br />Saate oma paki ära anda mis tahes volitatud UPSi asukohta, näiteks UPS Access Point™ asukohta. Teie lähedal sobiva asukoha otsimiseks klõpsake allpool"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Samuti võite paluda UPS-il pakid teie laost või ettevõtte aadressilt järele tulla. Kui vajate aeg-ajalt järeletulemist, saate selle lingi abil otse ajastada järeletulemise saidilt UPS.COM - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Kui teil on UPS-i paketid enamikul tööpäevadel ja eelistaksite tavalist UPS-i järeletulemist, saate UPS-iga ühendust võtta, helistades arveldusküsimuste all toodud telefoninumbril <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>siia</a>. Seejärel võtab UPS-i esindaja teiega ühendust, et arutada igapäevast UPS-i järeletulemist."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Kui teil on UPS-i paketid enamikul tööpäevadel ja eelistate tavalist UPS-i järeletulemist, vaadake seda linki, et saada juhiseid igapäevaste järeletulemiste ajakava kohta: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Milliseid samme pean tegema, et seadistada teenus UPS Collect on Delivery (COD)?<br />Saate UPS-iga ühendust võtta, helistades arveldusküsimuste all toodud telefoninumbril <a href='https://www. .ups.com/%1/%2/help-center/contact.page' target='_blank'>siit</a>. Seejärel võtab UPSi esindaja teiega ühendust, et arutada COD-teenust."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Milliseid samme pean tegema, et seadistada teenus UPS Collect on Delivery (COD)?<br />Kui olete huvitatud UPS Collect on Delivery (COD) teenuste kasutamisest, vaadake üksikasju sellelt lingilt: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Otsi asukohti
+Print form,Trüki vorm
+//======================= E-shopper page,//======================== E-ostleja leht
+Deliver to an UPS Access Point<sup>TM</sup>,Tarnige UPS Access Point™ asukohta
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Teie pakk toimetatakse UPS Access Point™ asukohta
+Open 24 hours,Avatud 24 tundi
+The address is required,Aadress on kohustuslik
+Please select an Access Point to process,Valige töötlemiseks pöörduspunkt
+Operating Hours,Tööaeg
+Open,Avatud
+Close,Sulge
+Monday,esmaspäev
+Closed,Suletud
+Tuesday,teisipäeval
+Wednesday,kolmapäeval
+Thursday,neljapäeval
+Friday,reedel
+Saturday,laupäeval
+Sunday,pühapäev
+Search for the UPS Access Point<sup>TM</sup>,Otsige UPS Access Point™ asukohti
+Near,Lähedal
+Delivered by End of Business Day,Tarnitakse tööpäeva lõpuks
+"Address line, City, State, Postcode","Aadressirida, linn, osariik, sihtnumber"
+"Address line,City,State,Postcode","Aadressirida, linn, osariik, sihtnumber"
+Use my delivery address,Kasutage minu tarneaadressi
+Search,Otsing
+Results,Tulemused
+Select,Valige
+Deliver to Your Address,Saatke teie aadressile
+Your package will be delivered to your address,Teie pakk toimetatakse teie aadressile
+UPS SHIPPING,UPSi TRANSPORT
+Delivery today!,Kohaletoimetamine täna!
+Delivery next day!,Kohaletoimetamine järgmisel päeval!
+Next two days!,Järgmised kaks päeva!
+Next three days!,Järgmised kolm päeva!
+Next four days!,Järgmised neli päeva!
+Next five days!,Järgmised viis päeva!
+Next six days!,Järgmised kuus päeva!
+Next seven days!,Järgmised seitse päeva!
+Next eight days!,Järgmised kaheksa päeva!
+Next nine days!,Järgmised üheksa päeva!
+Next ten days!,Järgmised kümme päeva!
+delivered by,tarninud
+Delivered by,Tarnib
+January,jaanuaril
+February,veebruar
+March,märtsil
+April,aprill
+May,mai
+June,juunini
+July,juulil
+August,august
+September,septembril
+November,novembril
+October,oktoober
+December,detsembril
+//======================= Open Order page,//======================= Ava tellimuse leht
+Open Orders,Ava tellimused
+Create Single Shipments,Looge üksikuid saadetisi
+Create Batch Shipments,Looge partii saadetisi
+Export All Orders,Ekspordi kõik tellimused
+Export Orders,Ekspordi tellimusi
+Archive Orders,Tellimuste arhiiv
+Order ID,Tellimuse ID
+Order Date,Tellimuse kuupäev
+Product,Toode
+Delivery Address,Saaja aadress
+Shipping Service,Saatmisteenus
+COD,COD
+Action,Tegevus
+No results!,Tulemused puuduvad!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Hoiatus – tellimuste arhiveerimine teisaldab teie tellimused vahekaardile Arhiiv ja te ei saa neid tellimusi enam töödelda. Jätkamiseks klõpsake nuppu OK, ekraanile naasmiseks klõpsake nuppu Tühista"
+Cancel,Tühista
+//======================= Detail Order page,//======================= Üksikasjalik tellimisleht
+Order,Telli
+Order #,Tellimus nr
+Customer,Klient
+Order value,Tellimuse väärtus
+Payment status,Makse staatus
+Access Point,Pöörduspunkt
+//======================= Create single shipment page,//======================= Looge üks saadetise leht
+Process Shipment,Töötle saadetis
+Ship From,Saatmine
+Ship To,Saatma
+Accessorial service,Lisateenus*
+Packaging,Pakendamine
+Package #1,Pakett nr 1
+Package #,Pakett nr
+Add package,Lisa pakett
+View estimated shipping fee and delivery date,Vaadake hinnangulist saatmistasu ja tarnekuupäeva
+Edit,Muuda
+Create Shipment,Loo saadetis
+Custom Package,Kohandatud pakett
+Name,Nimi
+Address,Aadress
+State,osariik
+Note: Insufficient or incorrect address may increase the shipping fee,Märkus. Ebapiisav või vale aadress võib suurendada saatmistasu
+Additional Handling,Täiendav käsitsemine
+Additional handling,Täiendav käsitsemine
+Quantum View Ship Notification,Quantum View laeva teatis
+Quantum View Delivery Notification,Quantum View kohaletoimetamise teatis
+Residential Address,Elukoha aadress
+Saturday Delivery,Kohaletoimetamine laupäeval
+Carbon Neutral,Süsinikneutraalne
+Direct Delivery Only,Ainult otsetarne
+Declared value,Deklareeritud väärtus
+Signature Required,Nõutav allkiri
+Adult Signature Required,Nõutav täiskasvanu allkiri
+To Home COD,Kodule COD
+Cancel Editing,Tühista redigeerimine
+To Access Point COD,Pöörduspunkti COD-i
+Orders to be processed,Tellimused töödeldakse
+The name is not empty,Nimi pole tühi
+The address is required,Aadress on kohustuslik
+The postal code is empty or invalid,Sihtnumber on tühi või kehtetu
+The city is not empty,Linn ei ole tühi
+Invalid email format,Kehtetu meilivorming
+The phone is not empty,Telefon ei ole tühi
+Some of the data you entered is not valid. Please check again.,Mõned sisestatud andmed ei ole kehtivad. Palun kontrolli uuesti.
+There are errors connecting to the UPS API servers. Please try again.,UPS API serveritega ühenduse loomisel ilmnesid vead. Palun proovi uuesti.
+//======================= Shipment page,//======================= Saateleht
+Shipments,Saadetised
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Valides sellel saadetise vahekaardil mis tahes tellimuse, nõustun <a href='javascrip:void(0);' id='term-condition'>Nõuded ja tingimused.</a>"
+UPS Tracking Terms and Conditions,UPSi jälgimise nõuded ja tingimused
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","MÄRKUS. Selle teenuse kaudu juurdepääsetavad UPS-i pakkide jälgimissüsteemid (jälgimissüsteemid) ja selle teenuse kaudu saadud jälgimisteave (""teave"") on UPS-i eraomand. UPS lubab teil kasutada jälgimissüsteeme ainult selleks, et jälgida saadetisi, mille UPS on teile tarninud või mis on teile edastatud, ja mitte mingil muul eesmärgil. Ilma piiranguteta ei ole teil õigust teha teavet kättesaadavaks ühelgi veebisaidil ega muul viisil reprodutseerida, levitada, kopeerida, salvestada, kasutada või müüa teavet ärilise kasu saamiseks ilma UPS-i selgesõnalise kirjaliku nõusolekuta. See on personaalne teenus, mistõttu teie õigust kasutada jälgimissüsteeme või teavet ei saa loovutada. Igasugune juurdepääs või kasutamine, mis on nende tingimustega vastuolus, on volitamata ja rangelt keelatud."
+Download PDF Label,Laadige alla PDF etikett
+Download ZPL Label,Laadige alla ZPL-i silt
+Export Shipment Data,Ekspordi saadetise andmed
+Cancel Shipments,Tühista saadetised
+ID Shipment,ID-saadetis
+Tracking Number,Jälgimisnumber
+Date,Kuupäev
+Estimated Shipping Fee,Hinnanguline saatmistasu
+Shipment #,Saadetise nr
+Order #ID reference,Tellimuse nr ID viide
+Package details,Pakendi üksikasjad
+Are you sure you want to cancel selected shipment(s)?,"Kas olete kindel, et soovite valitud saadetise(d) tühistada?"
+Shipment Canceled,Saadetis tühistatud
+Archived Orders,Arhiveeritud tellimused
+//======================= Additional,//======================= Täiendav
+Packaging:,Pakend:
+Access Point display setting:,UPSi pääsupunkti kuvaseade:
+Number of Access Points visible to customers:,Klientidele nähtavate pääsupunktide arv:
+Display all the Access Points in range of:,Kuva kõik pääsupunktid vahemikus:
+Title:,Pealkiri:
+Company:,Ettevõte:
+Email:,E-post:
+Phone &nbsp number:,Telefoni &nbsp number:
+Phone &nbsp;number:,Telefoni &nbsp;number:
+Address type:,Aadressi tüüp:
+Address:,Aadress:
+Postal code:,Postiindeks:
+City:,Linn:
+Country:,Riik:
+Account Name:,Kasutaja nimi:
+Account Number:,Konto number:
+Account number:,Konto number:
+Invoice Number:,Arve number:
+Invoice Amount:,Arve summa:
+Currency:,Valuuta:
+Invoice date:,Arve kuupäev:
+Name:,Nimi:
+Phone:,Telefon:
+Customer:,Klient:
+Product:,Toode:
+Shipping service:,Saatmisteenus:
+Order value:,Tellimuse väärtus:
+Payment status:,Makse staatus:
+Access Point:,Pöörduspunkt:
+Payment Status:,Makse staatus:
+Phone number:,Telefoninumber:
+Package:,Pakett:
+Estimated Shipping fee:,Hinnanguline saatmistasu:
+Estimated Shipping Fee:,Hinnanguline saatmistasu:
+Orders to be processed:,Töödeldavad tellimused:
+Order #ID reference:,Tellimuse nr ID viide:
+Package details:,Paketi üksikasjad:
+Tracking number:,Jälgimisnumber:
+Accessorial Service:,Lisateenus:
+Accessorial service:,Lisateenus:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Kui olete UPS-i uus kasutaja, vaadake lisateabe saamiseks järgmisi KKK-sid:"
+VAT Number:,Käibemaksukohustuslase number:
+Promo Code:,Promo kood:
+Country/Territory:,Riik/territoorium:
+End of Business Day,Äripäeva lõpp
+//==============================Security Enhancement page,
+Security Enhancement,Turvalisuse suurendamine
+SECURITY ENHANCEMENTS ACTIVATION,TURVETÄIUSTUSTE AKTIVEERIMINE
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","UPS-i pistikprogrammi installimisega saite selle mugava võimaluse rakendada oma e-poes UPS-i soovitatud turbetäiustusi. Lubades allpool teatud turvatäiustused, saate muuta oma e-poe tavaliste häkkerite rünnakute suhtes vähem haavatavaks."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Klikkimise kaitse
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Lisateabe saamiseks vaadake [wikipedia|https://en.wikipedia.org/wiki/Clickjacking]. Kui lubate selle kaitse, kaitseb UPS-i pistikprogramm teie poe, edastades kasutaja brauserile raamimisreeglid HTTP vastuse päise „X-Frame-Options: Sameorigin” kaudu ja sisestades pärandbrauseritele „frame-breaker” java-skripti. - UPS-i pistikprogramm. saab kaitsta teie e-poe Front Office'i lehti vastavalt OWASP soovitatud Clickjacking Defense Cheat Sheet'ile Keela see kaitse, kui soovite lubada oma e-poe GUI raamimist kolmandate osapoolte veebisaitidel; või kui olete seda kaitset juba teisiti rakendanud."
+Use X-Frame-Options response header,Kasutage vastuse päist X-Frame-Options
+Do not use,Ära kasuta
+Deny,Keela
+SameOrigin,Sama Päritolu
+Use frame-killer script:,Kasutage kaadritapja skripti:
+Use Content-Security-Policy response header,Kasutage vastuse päist sisu-turvapoliitika
+frame-ancestors 'none',"raam-esivanemad ""pole"""
+frame-ancestors 'sefl',"raam-esivanemad ""sefl"""
+Content Sniffing Prevention,Sisu nuusutamise ennetamine
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Vaadake lisateavet Wikipediast. Kui märgite selle valiku, kaitseb UPS-i pistikprogramm teie e-poe Front Office'i, rakendades <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","HTTP vastuse päis kõigile Magento Front Office'i lehtedele. See takistab kliendi brauseri (eriti Internet Exploreri) MIME-l vastust deklareeritud sisutüübilt eemale nuusutamast. Teil ei pruugi seda tegelikult vaja minna, kuna teie kasutajad ei peaks teie e-poodi potentsiaalselt kahjulikke faile üles laadima (nt pildi asemel JavaScript). Siiski on endiselt hea tava lubada see spetsiaalne turbepäis, kuna sellega ei kaasne jõudlustrahvi."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,"Lubab saidiülesed skriptimisfiltrid brauserites, mis toetavad direktiivi X-XSS-Protection"
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Vaadake lisateavet wikipediast. Kui märgite selle valiku, kaitseb UPS-i pistikprogramm teie e-poe Front Office'i, rakendades <br />X-XSS-Protection: '1; mode=block' <br />HTTP vastuse päis kõigile Magento Front Office'i lehtedele."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Kaitske oma e-poe veebisaiti protokolli alandamise rünnakute ja küpsiste kaaperdamise eest
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Vaadake lisateavet wikipediast Kui märgite selle valiku, kaitseb UPS-i plugin teie e-poe Front Office'i, rakendades <br />Strict-Transport-Security 'max-age=31536000; includeSubDomainsi <br />HTTP vastuse päis kõigile Magento Front Office'i lehtedele."
+Prevent sensitive pages from caching by browser.,Vältige tundlike lehtede vahemällu salvestamist brauseri kaudu.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Lisateavet leiate OWASP-i KKK-st. Kui märgite selle valiku, kaitseb UPS-i pistikprogramm Checkout protsessi, rakendades<br />Cache-Control: no-cache, no-store <br />Aegub: 0 ​​<br />Pragma: ilma vahemäluta <br /> HTTP vastuse päised vastavatele lehtedele"
+Apply to pages,Rakenda lehtedele
+All,Kõik
+Checkout only,Ainult kassasse
+Data saved successfully.,Andmed salvestati edukalt.
+We couldn't find any records,Me ei leidnud ühtegi kirjet
+Please wait…,Palun oota…
+Archiving Orders,Tellimuste arhiveerimine
+There is no shipping service for the above address,Ülaltoodud aadressil ei ole saatmisteenust
+The email is not empty,Meil ei ole tühi
+The country is not empty,Riik ei ole tühi
+Select all,Vali kõik
+Unselect all,Tühista kõik valikud
+Do not have label for this Tracking ID,Sellel jälgimis-ID-l pole silti
+Print Label or download file.,Printige silt või laadige fail alla.
+"Connection error, try later to install and configure","Ühendusviga, proovige hiljem installida ja konfigureerida"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Me ei saa seda saadetist praegu tühistada. Võite proovida saadetist hiljem tühistada. Siiski ei võeta teile selle saadetise eest arvet, kui te ei kasuta saatmissilti"
+Estimated Fee,Hinnanguline tasu
+Shipping fee,Saatekulu
+Poland,Poola
+United Kingdom,Ühendkuningriik
+France,Prantsusmaa
+Germany,Saksamaa
+Italy,Itaalia
+Netherlands,Holland
+Spain,Hispaania
+Belgium,Belgia
+Shipment Manager,Saadetise juht
+Default Package,Vaikepakett
+Order Time,Tellimuse aeg
+Time,Aeg
+Warning,Hoiatus
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Viga! Pakend ületab maksimaalse lubatud suuruse 400 cm või 157,48 tolli (maksimaalse lubatud suuruse arvutus = pikkus + 2 * laius + 2 * kõrgus)."
+Access Points Address will be used as an alternative shipping address,Alternatiivse tarneaadressina kasutatakse pääsupunktide aadressi
+Ship To (UPS Access Point),Saatmine (UPS-i pääsupunkt)

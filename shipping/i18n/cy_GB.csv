@@ -1,0 +1,470 @@
+//======================= About page,//=================== Am dudalen
+About,Ynghylch
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,Mae UPS wedi partneru â Magento i gynnig Modiwl Llongau UPS a Phwynt Mynediad ™ UPS am ddim a fydd yn caniatáu ichi integreiddio a chynnig ystod eang o atebion cludo a dosbarthu UPS yn uniongyrchol ar broses wirio eich gwefan! Mae'r Modiwl UPS swyddogol hwn ar gyfer Magento yn rhoi mynediad i'ch cwsmeriaid i'n rhwydwaith Pwynt Mynediad UPS eang a gwasanaethau dosbarthu.
+Features of this product,Nodweddion y cynnyrch hwn
+Front Office,Swyddfa Flaen
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,Rhyngwyneb map syml a hawdd i'ch cwsmeriaid ddewis Pwynt Mynediad UPS yn unol â'u dewis.
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,Rhyngwyneb hawdd ei ddefnyddio i'ch cwsmeriaid newid o ddosbarthu Pwynt Mynediad i ddanfoniad cartref.
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Cyfradd cludo UPS amser real neu gyfraddau gwastad ar gyfer pob gwasanaeth sydd ar gael (yn unol â gosodiadau swyddfa gefn y masnachwr).
+Back Office,Swyddfa Gefn
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Ystod o opsiynau i sefydlu cyfraddau dosbarthu y bydd eich cwsmeriaid yn eu gweld (er enghraifft: llongau am ddim, cyfraddau cludo amser real, neu gyfraddau gwastad yn unol â throthwyon gwerth basged)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Posibilrwydd i agor cyfrif UPS yn uniongyrchol yn y modiwl ei hun, os nad oes gennych un."
+Easy PDF label generation.,Cynhyrchu label PDF hawdd.
+Real time tracking information.,Gwybodaeth olrhain amser real.
+Ability to export open orders so that you can process them in other applications for more complex needs.,Y gallu i allforio archebion agored fel y gallwch eu prosesu mewn cymwysiadau eraill ar gyfer anghenion mwy cymhleth.
+Module version number and release date,Rhif fersiwn y modiwl a dyddiad rhyddhau
+Module version v,Fersiwn modiwl v
+Release date,Dyddiad rhyddhau
+Changelog,Newidlog
+Platform compatibility statement,Datganiad cydweddoldeb platfform
+"Compatible with Magento versions 2.1, 2.2, 2.3","Yn gydnaws â fersiynau Magento 2.1, 2.2, 2.3"
+UPS Shipping Module website,Gwefan Modiwl Llongau UPS
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,Am ragor o wybodaeth ewch i <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'> https://www.ups .com/% 1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,Am fwy o wybodaeth ewch i
+Support information,Gwybodaeth cymorth
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Am gymorth gyda gosod, uwchraddio, neu ddefnyddio Modiwl Llongau UPS, cysylltwch â UPS yn -"
+Poland +48 (0) 22 203 03 21,Gwlad Pwyl +48 (0) 22 203 03 21
+UPS Shipping Module,Modiwl Llongau UPS
+UPS Shipping,Llongau UPS
+Shipment management,Rheoli cludo
+//======================= Country page,//====================================================================
+Country setting,Sefyllfa Gwlad
+Country Setting,Sefyllfa Gwlad
+Please select your country/territory,Dewiswch eich gwlad/tiriogaeth
+Continue,Parhau
+//======================= Terms and Condition page,//==================== Tudalen Telerau ac Amodau
+UPS Terms and Conditions,Telerau ac Amodau UPS
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Rwy'n cytuno i Gytundeb Technoleg UPS ac yn cadarnhau fy mod wedi cael digon o amser i'w ddarllen a deall ei fod yn cynnwys telerau pwysig am fy nefnydd o UPS Technologies, fel cyfyngu atebolrwydd UPS a'm cytundeb ar sut y bydd anghydfodau rhwng UPS a mi. trin"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Rwy'n cytuno i Gytundeb Technoleg UPS ac yn cadarnhau fy mod wedi cael digon o amser i'w ddarllen a deall ei fod yn cynnwys telerau pwysig am fy nefnydd o UPS Technologies,"
+like,fel
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,cyfyngu ar atebolrwydd UPS a fy nghytundeb ar sut yr ymdrinnir ag anghydfodau rhwng UPS a minnau.
+Print,Argraffu
+Cannot get Term & Condition,Methu cael Term ac Amod
+//======================= Account Page,//==================== Tudalen Cyfrif
+Account,Cyfrif
+ACCOUNT,CYFRIF
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),I gael rhagor o wybodaeth am Ategion UPS cliciwch <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>y ddolen hon< /a> (yn agor mewn ffenestr porwr newydd)
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,Llenwch y ffurflen isod i ddechrau ffurfweddu ategyn UPS ar gyfer eich gwefan e-fasnach
+Title,Teitl
+Full name,Enw llawn
+Full Name,Enw llawn
+Company,Cwmni
+Email,Ebost
+Phone number,Rhif ffôn
+Address type,Math o gyfeiriad
+Address,Cyfeiriad
+Postal code,Côd Post
+City,Dinas
+Country/Territory,Gwlad/Tiriogaeth
+"Example: Warehouse, Branch #1, etc.","Enghraifft: Warws, Cangen #1, ac ati."
+"Example: Warehouse, Branch #1","Enghraifft: Warws, Cangen #1"
+Street Address,Cyfeiriad stryd
+"Apartment, Suite, Unit, Building, Floor, etc.","Fflat, Swît, Uned, Adeilad, Llawr, ac ati."
+"Department, c/o, etc.","Adran, d/o, ac ati."
+Mr,Mr
+Miss,Miss
+Mrs,Mrs
+Ms,Ms
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Mae gen i Rif Cyfrif UPS GYDA anfoneb wedi digwydd yn y 45 diwrnod diwethaf (90 diwrnod os yw eich cyfrif yn yr Unol Daleithiau neu Ganada)
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Mae gen i Rif Cyfrif UPS HEB anfoneb wedi digwydd yn ystod y 45 diwrnod diwethaf (90 diwrnod os yw'ch cyfrif yn yr Unol Daleithiau neu Ganada)
+I do not have a UPS Account Number and would like to get one from the plug-in,Nid oes gennyf rif cyfrif UPS a hoffwn gael un gyda chyfraddau gostyngol o'r ategyn
+I don’t have a UPS account number and would,Nid oes gennyf rif cyfrif UPS a byddai
+like,fel
+to get one with discounted rates from the plug-in,i gael un gyda chyfraddau gostyngol o'r plug-in
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),Dylai'r anfoneb fod yn unrhyw un o'r 3 diwethaf a gyhoeddwyd gan UPS yn ystod y 45 diwrnod diwethaf (90 diwrnod os yw'ch cyfrif yn yr Unol Daleithiau neu Ganada)
+Account name,Enw cyfrif
+Account number,Rhif cyfrif
+Invoice number,Rhif anfoneb
+Invoice amount,Swm yr anfoneb
+Currency,Arian cyfred
+Invoice date,Dyddiad yr anfoneb
+VAT number,Rhif TAW
+Promo Code,Cod Hyrwyddo
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Sylwch: Gwaherddir cludwyr rhag cludo nwyddau peryglus neu ddeunyddiau peryglus gan ddefnyddio'r cyfrif a agorwyd yn y cais hwn.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Bydd eich cyfrif yn cefnogi danfoniadau i leoliadau Awdurdodedig Pwynt Mynediad UPS™ ar ôl 24 awr.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,Gallwch ddod o hyd i ragor o wybodaeth am nwyddau peryglus a sut y gall UPS eich cefnogi i'w cludo ar y ddolen hon <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[ https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Enw cyfeirnod a fydd yn gysylltiedig â chyfrif. Er enghraifft warws 1, warws 2, Storfa 1, Storfa 2 ac ati. Gallwch ddewis yr enw yn rhydd yn unol â'ch gofyniad"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',Y cod post neu god zip sy'n gysylltiedig â'ch cyfrif UPS. Mae i'w weld ar y brig ar bob tudalen o'ch anfoneb UPS o dan 'Prynnwr'
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',Yr enw sy'n gysylltiedig â'ch cyfrif UPS. Mae i'w weld ar y brig ar bob tudalen o'ch anfoneb UPS o dan 'Prynnwr'
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,Rhif alffaniwmerig chwe nod unigryw sy'n adnabod eich cyfrif. Mae i'w weld ar yr ochr chwith uchaf ar bob tudalen o'ch anfoneb UPS
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,Rhif 12 digid unigryw a neilltuwyd gan UPS i anfoneb. Mae i'w weld ar yr ochr chwith uchaf ar bob tudalen o'ch anfoneb UPS
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Cyfanswm sy'n ddyledus ar gyfer yr anfoneb a roddwyd. Mae i'w weld ar y tabl 'Crynodeb o Daliadau' ar dudalen gyntaf yr anfoneb
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Dyddiad cyhoeddi'r anfoneb. Mae i'w weld ar yr ochr chwith uchaf ar bob tudalen o'ch anfoneb UPS
+Get started,Dechrau
+Some of the data you entered is not valid. Please check again.,Nid yw peth o'r data a roesoch yn ddilys. Gwiriwch eto.
+Cannot create new Account Number,Methu creu Rhif Cyfrif newydd
+Email is not correct format,Nid yw e-bost yn fformat cywir
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,Nid oedd eich cais i greu Cyfrif Llongau UPS yn llwyddiannus. Gwiriwch y gwerthoedd ‘Dinas’ a ‘Cod post’ y gwnaethoch chi eu nodi. Dyma rai awgrymiadau ar god y Ddinas a'r Post sy'n gyfuniad dilys -
+Please update the city and postal code values with one of these selections and click Get Started,Diweddarwch y gwerthoedd dinas a chod post gydag un o'r dewisiadau hyn a chliciwch ar Dechrau Arni
+Configuration,Cyfluniad
+//======================= Account Success Page,//==================== Tudalen Llwyddiant Cyfrif
+Your UPS Profile,Eich Proffil UPS
+Your Payment Account,Eich Cyfrif Talu
+Add another account number,Ychwanegu rhif cyfrif arall
+Please enter the address attached to your account number,Rhowch y cyfeiriad sydd ynghlwm wrth rif eich cyfrif
+Phone,Ffon
+Verify,Gwirio
+Next,Nesaf
+Remove,Dileu
+Account number already exists in 'Your Payment Account',Mae rhif cyfrif eisoes yn bodoli yn 'Eich Cyfrif Talu'
+Full name:,Enw llawn:
+Remove Account,Dileu Cyfrif
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Bydd y cyfrif hwn yn cael ei ddileu. Cliciwch Iawn i gadarnhau, caewch yr ymgom i ganslo."
+Your UPS account has been successfull registered,Mae'ch cyfrif UPS wedi'i gofrestru'n llwyddiannus
+//======================= Shipping Services page,//==================== Tudalen Gwasanaethau Llongau
+Shipping Services,Gwasanaethau Llongau
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Dewiswch y gwasanaethau UPS rydych chi am eu gweld yn y ddesg dalu ar gyfer eich e-siopwyr. I ddysgu mwy am wasanaethau UPS, cyfeiriwch Tariff UPS / Telerau ac Amodau Gwasanaeth ar UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Cludo i leoliad Pwynt Mynediad UPS™ (dosbarthiad i AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there",Mae UPS yn danfon y parsel i leoliad Pwynt Mynediad UPS™ a ddewisir gan y cwsmer iddynt ei gasglu yn ôl ei gyfleustra
+Yes,Oes
+No,Nac ydw
+Set as default shipping option,Gosod fel opsiwn cludo diofyn
+Select the shipping services for your customers to choose,Dewiswch y gwasanaethau cludo i'ch cwsmeriaid eu dewis
+"International shipping only - visible, when shipping address is outside of EU","Llongau rhyngwladol yn unig - yn weladwy, pan fo'r cyfeiriad cludo y tu allan i'r UE"
+Access Point display setting:,Gosodiad arddangos Pwynt Mynediad UPS:
+Number of Access Points visible to customers:,Nifer y lleoliadau sy'n weladwy i gwsmeriaid:
+Display all the Access Points in range of:,Arddangos yr holl leoliadau mewn ystod o:
+kilometer around consignee's selected address,Milltiroedd o gwmpas cyfeiriad dethol y traddodai
+Choose Account Number for this option,Dewiswch Rhif Cyfrif ar gyfer yr opsiwn hwn
+Deliver to consignee address (to-address delivery),Dosbarthu i gyfeiriad y traddodai (dosbarthiad i gyfeiriad)
+UPS delivers the parcel to the shipping address provided by customer.,Mae UPS yn danfon y parsel i'r cyfeiriad cludo a ddarperir gan y cwsmer.
+Cut off time,Torri i ffwrdd amser
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Bydd yr amser terfyn a ddewisir yma yn cael ei ddefnyddio i gyfrifo dyddiad ac amser dosbarthu'r amserlen, a fydd yn cael ei arddangos ar ddesg dalu eich gwefan."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Er enghraifft, os dewisir yr amser cau fel 5 PM a bod eich e-siopwyr yn gweld eich siop we am 5:01 PM, bydd yr holl ddyddiadau ac amser dosbarthu a drefnwyd gan UPS yn cael eu cyfrifo o'r diwrnod busnes canlynol. Wrth benderfynu ar yr amser terfyn hwn, sicrhewch fod gennych ddigon o amser i gyflawni'r archeb cyn y codiad a drefnwyd gan UPS neu gallwch ollwng y pecynnau mewn lleoliad Pwynt Mynediad UPS™."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Os ydych yn ansicr ynghylch llenwi archebion cwsmeriaid ar yr un diwrnod, gallwch ddewis 'Analluogi' a fydd yn golygu y bydd yr e-siopwr yn gweld dyddiadau dosbarthu bras ar gyfer pob gwasanaeth sydd ar gael."
+Save,Arbed
+Please select at least one shipping service.,Dewiswch o leiaf un gwasanaeth cludo.
+UPS Access Point™ Economy,Economi Pwynt Mynediad UPS™
+UPS® Standard,UPS® Safonol
+UPS Expedited®,UPS Cyflym ®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//====================Tudalen Casglu wrth Gyflwyno (COD)
+Collect on Delivery (COD),Casglu wrth ddosbarthu (COD)
+You have the official Magento COD module enabled!,Mae gennych y modiwl COD Magento swyddogol wedi'i alluogi!
+Only show Access Points supporting COD shipments?,Dim ond yn dangos Pwyntiau Mynediad sy'n cefnogi llwythi COD?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,Dewiswch 'YDW' os ydych chi'n bwriadu cynnig llwythi COD i Bwynt Mynediad UPS™
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Mae gwasanaeth COD Shipping yr ategyn hwn yn gydnaws yn awtomatig â modiwl swyddogol Collect on Delivery (COD) gan Magento.
+You do not have the official Magento COD module installed and/or enabled!,Nid oes gennych y modiwl COD Magento swyddogol wedi'i osod a/neu ei alluogi!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Mae gwasanaeth COD Shipping yr ategyn hwn yn gydnaws yn awtomatig â'r modiwl Arian Parod Wrth Gyflenwi (COD) swyddogol gan Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Os ydych chi am i'r modiwl Llongau UPS ganfod llwythi COD yn awtomatig, <strong>gwnewch yn siŵr eich bod wedi gosod Magento's Collect on Delivery (COD)</strong>. Os oes gennych fodiwl Collect on Delivery (COD) Magento eisoes wedi'i osod, <strong>gwnewch yn siŵr bod y modiwl wedi'i alluogi</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Cliciwch yma</a>] am arweiniad manwl."
+COD Option,Opsiwn COD
+//======================= Package Dimensions page,//==================== Tudalen Dimensiynau Pecyn
+Package Dimensions,Dimensiynau Pecyn
+Default Package Setting,Gosod Pecyn Rhagosodedig
+Default package setting,Gosodiad pecyn diofyn
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Nodwch bwysau a dimensiynau eich deunydd pacio yma. Gallwch ychwanegu dimensiynau pecyn lluosog, y gellir eu dewis yn hawdd mewn opsiwn cwymplen wrth greu llwythi yn y plug-in."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Rhag ofn y byddwch yn penderfynu dangos y gyfradd cludo UPS amser real (i'w ffurfweddu yn y sgrin nesaf) i'r e-siopwyr, bydd yr ategyn yn defnyddio'r pecyn cyntaf, y cyfeirir ato fel y 'Pecyn Diofyn' a ddangosir isod. Bydd pwysau a dimensiynau'r Pecyn Diofyn yn cael eu defnyddio i gyfrifo'r cyfraddau cludo UPS a fydd yn cael eu harddangos i'r e-siopwyr."
+Add New Package,Ychwanegu Pecyn Newydd
+Package name,Enw pecyn
+"Example: Standard, Large, Phone box, etc.","Enghraifft: Safonol, Mawr, Blwch Ffôn, ac ati."
+Weight,Pwysau
+Unit,Uned
+Dimension,Dimensiwn
+Add Package,Ychwanegu Pecyn
+Length,Hyd
+Width,Lled
+Height,Uchder
+The name Package is exist.,Mae'r enw Pecyn yn bodoli.
+Edit,Golygu
+Delete,Dileu
+Editing Default Package,Golygu Pecyn Diofyn
+Remove Package,Dileu Pecyn
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Rydych chi'n mynd i dynnu'r pecyn rhagosodedig hwn o'ch proffil. Cliciwch Iawn i gadarnhau, caewch yr ymgom i ganslo."
+OK,iawn
+Please input at least one default package to continue.,Rhowch o leiaf un pecyn rhagosodedig i barhau.
+Please select an option,Dewiswch opsiwn
+Basic (number of items in the e-shopper order determine the package size),Sylfaenol (mae nifer yr eitemau yn yr archeb e-siopwr yn pennu maint y pecyn)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Uwch (pwysau a dimensiynau cynhyrchion yn y drefn e-siopwr sy'n pennu maint y pecyn)
+Package dimensions:,Dimensiynau pecyn:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,Sylwch: bydd yr ategyn yn creu maint pecyn wedi'i deilwra os yw archeb e-siopwr yn fwy na'r pecynnau rydych chi'n eu nodi
+Warning! To use this option you must enter product weights in the product settings of your shop.,Rhybudd! I ddefnyddio'r opsiwn hwn rhaid i chi nodi pwysau cynnyrch yng ngosodiadau cynnyrch eich siop.
+Include dimensions in rating,Cynnwys dimensiynau yn y sgôr
+Yes,Oes
+No,Nac ydw
+Number of items in order,Nifer o eitemau mewn trefn
+Add Backup Rate,Ychwanegu Cyfradd Wrth Gefn
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Os cânt eu gosod i “Na”, bydd y cyfraddau'n seiliedig ar bwysau'r cynnyrch yn unig.&nbsp; Os caiff ei osod i “Ie”, rhaid nodi dimensiynau cynnyrch yng ngosodiadau cynnyrch eich siop"
+Name,Enw
+Length,Hyd
+Width,Lled
+Height,Uchder
+Weight,Pwysau
+Max Weight,Pwysau Uchaf
+Backup rate:,Cyfradd wrth gefn:
+Service Name,Enw Gwasanaeth
+Rate,Cyfradd
+Add Backup Rate,Ychwanegu Cyfradd Wrth Gefn
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Bydd y Gyfradd Wrth Gefn yn cael ei harddangos i e-siopwyr dim ond os oes problem o fewn gosodiadau cynnyrch, megis pwysau ar goll neu os yw pwysau / dimensiynau yn fwy na therfynau UPS."
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,Ychwanegwch becynnau rhagosodedig os hoffech i faint y pecyn a ddefnyddir ar gyfer graddio newid yn seiliedig ar nifer yr eitemau yn archeb yr e-siopwr
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Sylwch: os nad yw nifer yr eitemau yn yr archeb e-siopwr yn cyfateb i unrhyw un o'ch cofnodion, yna bydd maint y pecyn a ddefnyddir ar gyfer graddio yn seiliedig ar y nifer uchaf o eitemau y mae'r archeb e-siopwr yn mynd y tu hwnt iddo."
+//======================= Checkout Shipping Rates page,//==================== Tudalen Cyfraddau Cludo Talu
+Checkout Shipping Rates,Cyfraddau Cludo Desg
+Ship to UPS Access Point&trade;,Cludo i leoliad Pwynt Mynediad UPS™
+Flat rates,Cyfraddau gwastad
+Real time shipping rates,Cyfraddau cludo amser real
+Delivery rates is,Cyfraddau dosbarthu yw
+% of UPS shipping rates,% o gyfraddau cludo UPS
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,Bydd yr e-siopwr yn gweld % cyfraddau amser real UPS. Mae'r cyfraddau hyn yn cael eu cyfrifo gan ddefnyddio'r pwysau pecyn rhagosodedig a dimensiynau y gwnaethoch chi eu ffurfweddu yn y sgrin flaenorol (Dimensiynau Pecyn).
+Ship to Address,Llong i'r Cyfeiriad
+Order Value Threshold,Trothwy Gwerth Archeb
+Delivery rates,Cyfraddau dosbarthu
+The minimum thresholds can not be the same.,Ni all y trothwyon lleiaf fod yr un peth.
+//======================= Complete Configuration page,//==================== Tudalen Ffurfweddu Cwblhau
+Complete Configuration,Cyfluniad Cyflawn
+You can start shipping now!,Gallwch chi ddechrau cludo nawr!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,Cliciwch ar y botwm 'Cyfluniad Cyflawn' i orffen cyfluniad yr ategyn a dechrau cynnig gwasanaethau cludo UPS ar eich gwefan.
+"If you are new to UPS, please refer to the following FAQs for additional information:","Os ydych chi'n newydd i UPS, cyfeiriwch at y Cwestiynau Cyffredin canlynol am wybodaeth ychwanegol:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Sut mae cael mwy o wybodaeth am fy nghyfrif llongau UPS newydd?<br />Pe baech chi'n agor cyfrif cludo UPS newydd o'r ategyn, bydd e-bost cadarnhau gyda mwy o wybodaeth yn cael ei anfon i'r cyfeiriad e-bost y gwnaethoch chi ei nodi tra creu cyfrif newydd."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Sut mae paratoi fy mhecynnau ar gyfer casglu UPS neu eu gollwng i leoliad Pwynt Mynediad UPS™?<br />Cyfeiriwch at yr argymhellion paratoi pecyn yn y ddolen hon - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'> https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,3. Sut mae rhoi fy mhecynnau i UPS?<br />Gallwch ollwng eich pecyn mewn unrhyw leoliad UPS awdurdodedig megis lleoliad Pwynt Mynediad UPS™. Cliciwch isod i chwilio am leoliad cyfleus yn eich ardal chi
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Gallwch hefyd ofyn i UPS godi pecynnau o'ch warws neu'ch cyfeiriad busnes. Os oes angen codiad achlysurol arnoch, gallwch drefnu sesiwn codi o UPS.COM yn uniongyrchol gan ddefnyddio'r ddolen hon - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' > https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Os oes gennych becynnau UPS ar y rhan fwyaf o ddiwrnodau busnes ac y byddai'n well gennych chi gasglu UPS yn rheolaidd, gallwch gysylltu ag UPS trwy ffonio'r rhif ffôn a ddarperir o dan Cwestiynau Bilio <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>yma</a>. Yna bydd cynrychiolydd UPS yn cysylltu â chi i drafod codiad UPS bob dydd."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Os oes gennych becynnau UPS ar y rhan fwyaf o ddiwrnodau busnes a bod yn well gennych chi gasglu UPS yn rheolaidd, cyfeiriwch at y ddolen hon am gyfarwyddiadau ar amserlennu codiadau dyddiol: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'> https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,4. Pa gamau sydd angen i mi eu cymryd i sefydlu gwasanaeth UPS Collect on Delivery (COD)?<br />Gallwch gysylltu ag UPS drwy ffonio'r rhif ffôn a ddarperir o dan Cwestiynau Bilio <a href='https://www .ups.com/%1/%2/help-center/contact.page' target='_blank'>yma</a>. Yna bydd cynrychiolydd UPS yn cysylltu â chi i drafod y gwasanaeth COD.
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Pa gamau sydd angen i mi eu cymryd i sefydlu gwasanaeth UPS Collect on Delivery (COD)?<br />Os oes gennych ddiddordeb mewn defnyddio gwasanaethau UPS Collect on Delivery (COD), cyfeiriwch at y ddolen hon am fanylion: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'> https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Chwilio lleoliadau
+Print form,Argraffu ffurflen
+//======================= E-shopper page,//==================== Tudalen E-siopwr
+Deliver to an UPS Access Point<sup>TM</sup>,Dosbarthu i leoliad Pwynt Mynediad UPS™
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Bydd eich pecyn yn cael ei ddosbarthu i leoliad Pwynt Mynediad UPS™
+Open 24 hours,Ar agor 24 awr
+The address is required,Mae angen y cyfeiriad
+Please select an Access Point to process,Dewiswch Pwynt Mynediad i'w brosesu
+Operating Hours,Oriau Gweithredu
+Open,Agor
+Close,Cau
+Monday,Dydd Llun
+Closed,Ar gau
+Tuesday,Dydd Mawrth
+Wednesday,Mercher
+Thursday,dydd Iau
+Friday,Gwener
+Saturday,dydd Sadwrn
+Sunday,Sul
+Search for the UPS Access Point<sup>TM</sup>,Chwiliwch am leoliadau UPS Access Point™
+Near,Gerllaw
+Delivered by End of Business Day,Wedi'i gyflwyno erbyn Diwedd y Diwrnod Busnes
+"Address line, City, State, Postcode","Llinell cyfeiriad, Dinas, Talaith, Côd Post"
+"Address line,City,State,Postcode","Llinell cyfeiriad, Dinas, Talaith, Cod Post"
+Use my delivery address,Defnyddiwch fy nghyfeiriad danfon
+Search,Chwiliwch
+Results,Canlyniadau
+Select,Dewiswch
+Deliver to Your Address,Anfon i'ch Cyfeiriad
+Your package will be delivered to your address,Bydd eich pecyn yn cael ei ddosbarthu i'ch cyfeiriad
+UPS SHIPPING,Llongau UPS
+Delivery today!,Cyflwyno heddiw!
+Delivery next day!,Cyflwyno diwrnod nesaf!
+Next two days!,Dau ddiwrnod nesa!
+Next three days!,Tridiau nesa!
+Next four days!,Pedwar diwrnod nesa!
+Next five days!,Pum diwrnod nesaf!
+Next six days!,Chwe diwrnod nesaf!
+Next seven days!,Y saith diwrnod nesaf!
+Next eight days!,Yr wyth diwrnod nesaf!
+Next nine days!,Naw diwrnod nesaf!
+Next ten days!,Deg diwrnod nesa!
+delivered by,danfonir gan
+Delivered by,Wedi'i gyflwyno gan
+January,Ionawr
+February,Chwefror
+March,Mawrth
+April,Ebrill
+May,Mai
+June,Mehefin
+July,Gorffennaf
+August,Awst
+September,Medi
+November,Tachwedd
+October,Hydref
+December,Rhagfyr
+//======================= Open Order page,//==================== Tudalen Archeb Agored
+Open Orders,Archebion Agored
+Create Single Shipments,Creu Cludo Sengl
+Create Batch Shipments,Creu Cludo Swp
+Export All Orders,Allforio Pob Archeb
+Export Orders,Gorchmynion Allforio
+Archive Orders,Archebion Archif
+Order ID,ID archeb
+Order Date,Dyddiad Archebu
+Product,Cynnyrch
+Delivery Address,Cyfeiriad Cyflwyno
+Shipping Service,Gwasanaeth Llongau
+COD,COD
+Action,Gweithred
+No results!,Dim canlyniadau!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Rhybudd - Bydd archifo archebion yn symud eich archebion yn y tab Archif ac ni allwch brosesu'r archebion hyn mwyach. Cliciwch 'OK' i barhau, 'Canslo' i fynd yn ôl i'r sgrin"
+Cancel,Canslo
+//======================= Detail Order page,//==================== Tudalen Archeb Fanwl
+Order,Gorchymyn
+Order #,Archebu #
+Customer,Cwsmer
+Order value,Gwerth archeb
+Payment status,Statws talu
+Access Point,Pwynt mynediad
+//======================= Create single shipment page,//==================== Creu tudalen cludo sengl
+Process Shipment,Cludo Proses
+Ship From,Llong O
+Ship To,Llong i
+Accessorial service,Gwasanaeth Affeithiwr*
+Packaging,Pecynnu
+Package #1,Pecyn #1
+Package #,Pecyn #
+Add package,Ychwanegu pecyn
+View estimated shipping fee and delivery date,Gweld y ffi cludo amcangyfrifedig a'r dyddiad dosbarthu
+Edit,Golygu
+Create Shipment,Creu Cludo
+Custom Package,Pecyn Custom
+Name,Enw
+Address,Cyfeiriad
+State,Cyflwr
+Note: Insufficient or incorrect address may increase the shipping fee,Nodyn: Gall cyfeiriad annigonol neu anghywir gynyddu'r ffi cludo
+Additional Handling,Trin Ychwanegol
+Additional handling,Trin Ychwanegol
+Quantum View Ship Notification,Hysbysiad Long View Quantum
+Quantum View Delivery Notification,Hysbysiad Cyflwyno Quantum View
+Residential Address,Cyfeiriad preswyl
+Saturday Delivery,Dosbarthiad dydd Sadwrn
+Carbon Neutral,Carbon Niwtral
+Direct Delivery Only,Dosbarthu Uniongyrchol yn Unig
+Declared value,Gwerth datganedig
+Signature Required,Angen Llofnod
+Adult Signature Required,Angen Llofnod Oedolyn
+To Home COD,I COD Cartref
+Cancel Editing,Canslo Golygu
+To Access Point COD,I Pwynt Mynediad COD
+Orders to be processed,Gorchmynion i'w prosesu
+The name is not empty,Nid yw'r enw yn wag
+The address is required,Mae angen y cyfeiriad
+The postal code is empty or invalid,Mae'r cod post yn wag neu'n annilys
+The city is not empty,Nid yw'r ddinas yn wag
+Invalid email format,Fformat e-bost annilys
+The phone is not empty,Nid yw'r ffôn yn wag
+Some of the data you entered is not valid. Please check again.,Nid yw peth o'r data a roesoch yn ddilys. Gwiriwch eto.
+There are errors connecting to the UPS API servers. Please try again.,Mae gwallau wrth gysylltu â gweinyddwyr API UPS. Trio eto os gwelwch yn dda.
+//======================= Shipment page,//==================== Tudalen Cludo
+Shipments,Cludo
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Trwy ddewis unrhyw drefn yn y tab cludo hwn, rwy'n cytuno i'r <a href='javascrip:void(0);' id='term-condition'>Telerau ac Amodau.</a>"
+UPS Tracking Terms and Conditions,Telerau ac Amodau Tracio UPS
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","HYSBYSIAD: Eiddo preifat UPS yw'r systemau tracio pecynnau UPS y ceir mynediad iddynt drwy'r gwasanaeth hwn (y ""Systemau Tracio"") a gwybodaeth olrhain a geir drwy'r gwasanaeth hwn (y &quot; Information&quot;). Mae UPS yn eich awdurdodi i ddefnyddio'r Systemau Tracio dim ond i olrhain llwythi a dendro gennych chi neu ar eich cyfer chi i UPS i'w danfon ac nid at unrhyw ddiben arall. Heb gyfyngiad, nid ydych wedi'ch awdurdodi i sicrhau bod y Wybodaeth ar gael ar unrhyw wefan nac fel arall atgynhyrchu, dosbarthu, copïo, storio, defnyddio neu werthu'r Wybodaeth er budd masnachol heb ganiatâd ysgrifenedig penodol UPS. Mae hwn yn wasanaeth personol, felly nid oes modd neilltuo eich hawl i ddefnyddio'r Systemau Tracio neu Wybodaeth. Mae unrhyw fynediad neu ddefnydd sy'n anghyson â'r telerau hyn yn anawdurdodedig ac wedi'i wahardd yn llym."
+Download PDF Label,Download Label PDF
+Download ZPL Label,Lawrlwythwch Label ZPL
+Export Shipment Data,Allforio Data Cludo
+Cancel Shipments,Canslo Cludo
+ID Shipment,Cludo ID
+Tracking Number,Rhif tracio
+Date,Dyddiad
+Estimated Shipping Fee,Ffi Llongau Amcangyfrifedig
+Shipment #,Cludo #
+Order #ID reference,Archebwch # cyfeirnod ID
+Package details,Manylion pecyn
+Are you sure you want to cancel selected shipment(s)?,Ydych chi'n siŵr eich bod am ganslo'r llwyth(au) a ddewiswyd?
+Shipment Canceled,Cludo wedi'i Ganslo
+Archived Orders,Archebion wedi'u Harchifo
+//======================= Additional,//==================== Ychwanegol
+Packaging:,Pecynnu:
+Access Point display setting:,Gosodiad arddangos Pwynt Mynediad UPS:
+Number of Access Points visible to customers:,Nifer y Pwyntiau Mynediad sy'n weladwy i gwsmeriaid:
+Display all the Access Points in range of:,Arddangos yr holl Bwyntiau Mynediad mewn ystod o:
+Title:,Teitl:
+Company:,Cwmni:
+Email:,E-bost:
+Phone &nbsp number:,Rhif ffôn&nbsp:
+Phone &nbsp;number:,Rhif ffôn&nbsp;
+Address type:,Math o gyfeiriad:
+Address:,Cyfeiriad:
+Postal code:,Côd Post:
+City:,Dinas:
+Country:,Gwlad:
+Account Name:,Enw cyfrif:
+Account Number:,Rhif cyfrif:
+Account number:,Rhif cyfrif:
+Invoice Number:,Rhif anfoneb:
+Invoice Amount:,Swm yr Anfoneb:
+Currency:,Arian cyfred:
+Invoice date:,Dyddiad yr anfoneb:
+Name:,Enw:
+Phone:,Ffôn:
+Customer:,Cwsmer:
+Product:,Cynnyrch:
+Shipping service:,Gwasanaeth cludo:
+Order value:,Gwerth archeb:
+Payment status:,Statws talu:
+Access Point:,Pwynt mynediad:
+Payment Status:,Statws Talu:
+Phone number:,Rhif ffôn:
+Package:,Pecyn:
+Estimated Shipping fee:,Ffi cludo amcangyfrifedig:
+Estimated Shipping Fee:,Ffi Cludo Amcangyfrifedig:
+Orders to be processed:,Gorchmynion i'w prosesu:
+Order #ID reference:,Archebwch #Cyfeirnod ID:
+Package details:,Manylion pecyn:
+Tracking number:,Rhif tracio:
+Accessorial Service:,Gwasanaeth ategol:
+Accessorial service:,Gwasanaeth ategol:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Os ydych chi'n newydd i UPS, cyfeiriwch at y Cwestiynau Cyffredin canlynol am wybodaeth ychwanegol:"
+VAT Number:,Rhif TAW:
+Promo Code:,Cod Hyrwyddo:
+Country/Territory:,Gwlad/Tiriogaeth:
+End of Business Day,Diwedd Diwrnod Busnes
+//==============================Security Enhancement page,
+Security Enhancement,Gwella Diogelwch
+SECURITY ENHANCEMENTS ACTIVATION,GWEITHREDU GWELLA SICRWYDD
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",Trwy osod UPS Plugin fe wnaethoch chi ennill yr opsiwn cyfleus hwn i gymhwyso Gwelliannau Diogelwch a argymhellir gan UPS i'ch e-siop. Trwy alluogi gwelliannau diogelwch penodol isod gallwch chi wneud eich e-siop yn llai agored i ymosodiadau rhai hacwyr cyffredin.
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Amddiffyn
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Gweler [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] am ragor o fanylion. Os ydych chi'n galluogi'r amddiffyniad hwn, yna bydd ategyn UPS yn sicrhau eich storfa trwy gyfathrebu'r polisi fframio i borwr y defnyddiwr trwy bennawd ymateb HTTP 'X-Frame-Options: Sameorigin' a thrwy chwistrellu sgript java 'frame-breaker' ar gyfer porwyr etifeddiaeth.- UPS Plugin yn gallu sicrhau eich tudalennau Swyddfa Flaen yr e-siop yn unol â'r Daflen Twyllo Amddiffyniad Clickjacking Defence a argymhellir gan OWASP Analluoga'r amddiffyniad hwn os ydych am alluogi fframio eich GUI e-siop ar wefannau trydydd parti; neu os ydych eisoes wedi gweithredu'r amddiffyniad hwn yn wahanol."
+Use X-Frame-Options response header,Defnyddiwch bennyn ymateb X-Frame-Options
+Do not use,Peidiwch â defnyddio
+Deny,Gwadu
+SameOrigin,Yr un Tarddiad
+Use frame-killer script:,Defnyddiwch sgript lladd ffrâm:
+Use Content-Security-Policy response header,Defnyddiwch bennyn ymateb Cynnwys-Diogelwch-Polisi
+frame-ancestors 'none',ffrâm-hynafiaid 'dim'
+frame-ancestors 'sefl',ffrâm-hynafiaid 'sefl'
+Content Sniffing Prevention,Atal Arogli Cynnwys
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Gweler wikipedia am ragor o fanylion. Os byddwch yn gwirio'r opsiwn hwn, bydd ategyn UPS yn diogelu eich e-siop Swyddfa Flaen y DU trwy gymhwyso <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Pennawd Ymateb HTTP i holl dudalennau Swyddfa Flaen Magento. Bydd hynny'n atal porwr y cleient (yn enwedig Internet Explorer) rhag i MIME-sniffing ymateb i ffwrdd o'r datganedig-math cynnwys. Efallai na fydd gwir angen hwn arnoch gan nad yw eich defnyddwyr i fod i uwchlwytho unrhyw ffeiliau a allai fod yn niweidiol i'ch e-siop (e.e. JavaScript yn lle Delwedd). Fodd bynnag, mae'n dal yn arfer da galluogi'r pennawd diogelwch arbennig hwn gan nad oes cosb perfformiad yn gysylltiedig ag ef."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,Yn galluogi hidlwyr sgriptio traws-safle mewn porwyr sy'n cefnogi cyfarwyddeb X-XSS-Protection
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Gweler wikipedia am fwy o fanylion. Os byddwch yn gwirio'r opsiwn hwn, bydd ategyn UPS yn diogelu eich e-siop Swyddfa Flaen y DU trwy gymhwyso <br />X-XSS-Protection: '1; mode=bloc' <br />Pennawd ymateb HTTP i holl dudalennau Magento Front Office."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Amddiffyn gwefan eich e-siop rhag ymosodiadau israddio protocol a herwgipio cwcis
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Gweler wikipedia am ragor o fanylion Os byddwch yn gwirio'r opsiwn hwn, bydd ategyn UPS yn diogelu Swyddfa Flaen eich e-siop trwy wneud cais <br />Strict-Transport-Security 'max-age=31536000; cynnwys pennawd ymateb HTTP <br />SubDomains i holl dudalennau Swyddfa Flaen Magento."
+Prevent sensitive pages from caching by browser.,Atal tudalennau sensitif rhag caching gan borwr.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Gweler Cwestiynau Cyffredin OWASP am ragor o fanylion. Os byddwch yn gwirio'r opsiwn hwn, bydd ategyn UPS yn diogelu'r broses Desg dalu trwy gymhwyso<br />Rheoli Cache: dim storfa, dim storfa <br />Yn dod i ben: 0 <br />Pragma: dim storfa <br /> Penawdau ymateb HTTP i'r tudalennau cyfatebol"
+Apply to pages,Gwnewch gais i dudalennau
+All,I gyd
+Checkout only,Desg dalu yn unig
+Data saved successfully.,Data wedi'i gadw'n llwyddiannus.
+We couldn't find any records,Ni allem ddod o hyd i unrhyw gofnodion
+Please wait…,Arhoswch os gwelwch yn dda…
+Archiving Orders,Gorchmynion Archifo
+There is no shipping service for the above address,Nid oes gwasanaeth cludo ar gyfer y cyfeiriad uchod
+The email is not empty,Nid yw'r e-bost yn wag
+The country is not empty,Nid yw'r wlad yn wag
+Select all,Dewiswch bob un
+Unselect all,Dad-ddewis y cyfan
+Do not have label for this Tracking ID,Nid oes gennych label ar gyfer yr ID Olrhain hwn
+Print Label or download file.,Argraffu Label neu lawrlwytho ffeil.
+"Connection error, try later to install and configure","Gwall cysylltu, ceisiwch yn nes ymlaen i osod a ffurfweddu"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Ni allwn ddirymu'r llwyth hwn ar hyn o bryd. Efallai y byddwch yn ceisio gwagio'r llwyth yn ddiweddarach. Fodd bynnag, ni fyddwch yn cael eich bilio am y llwyth hwn ar yr amod nad ydych yn defnyddio'r label cludo"
+Estimated Fee,Ffi Amcangyfrif
+Shipping fee,Ffi cludo
+Poland,Gwlad Pwyl
+United Kingdom,Deyrnas Unedig
+France,Ffrainc
+Germany,Almaen
+Italy,Eidal
+Netherlands,Iseldiroedd
+Spain,Sbaen
+Belgium,Gwlad Belg
+Shipment Manager,Rheolwr Cludo
+Default Package,Pecyn Diofyn
+Order Time,Amser Archebu
+Time,Amser
+Warning,Rhybudd
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,Gwall! Pecyn yn fwy na'r maint mwyaf a ganiateir o 400 cm neu 157.48 modfedd (y cyfrifiad maint mwyaf a ganiateir = hyd + 2 * lled + 2 * uchder).
+Access Points Address will be used as an alternative shipping address,Bydd Cyfeiriad Pwyntiau Mynediad yn cael ei ddefnyddio fel cyfeiriad cludo amgen
+Ship To (UPS Access Point),Llong i (Pwynt Mynediad UPS)

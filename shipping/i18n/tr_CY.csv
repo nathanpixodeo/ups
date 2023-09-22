@@ -1,0 +1,470 @@
+//======================= About page,//====================== Hakkında sayfası
+About,Hakkında
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"UPS, çok çeşitli UPS gönderi ve teslimat çözümlerini doğrudan web sitenizin check-out işlemine entegre etmenize ve sunmanıza olanak sağlayacak ücretsiz bir UPS Gönderi ve UPS Erişim Noktası™ Modülü sunmak için Magento ile ortaklık kurdu! Magento için bu resmi UPS Modülü, müşterilerinize geniş UPS Erişim Noktası ağımıza ve teslimat hizmetlerimize erişim sağlar."
+Features of this product,Bu ürünün özellikleri
+Front Office,Ön ofis
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,Müşterilerinizin tercihlerine göre UPS Erişim Noktasını seçmeleri için basit ve kolay harita arayüzü.
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,Müşterilerinizin Erişim Noktası teslimatından eve teslimata geçmesi için kullanıcı dostu arayüz.
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Mevcut her hizmet için gerçek zamanlı UPS gönderi ücreti veya sabit fiyatlar (satıcının arka ofis ayarlarına göre).
+Back Office,Arka Ofis
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Müşterilerinizin göreceği teslimat ücretlerini ayarlamak için çeşitli seçenekler (örneğin: ücretsiz gönderim, gerçek zamanlı gönderim ücretleri veya sepet değeri eşiklerine göre sabit ücretler)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Eğer yoksa, doğrudan modülün kendisinde bir UPS hesabı açma imkanı."
+Easy PDF label generation.,Kolay PDF etiketi oluşturma.
+Real time tracking information.,Gerçek zamanlı izleme bilgileri.
+Ability to export open orders so that you can process them in other applications for more complex needs.,Daha karmaşık ihtiyaçlar için diğer uygulamalarda işleyebilmeniz için açık siparişleri dışa aktarabilme.
+Module version number and release date,Modül sürüm numarası ve çıkış tarihi
+Module version v,Modül sürümü v
+Release date,Yayın tarihi
+Changelog,Değişiklik günlüğü
+Platform compatibility statement,Platform uyumluluk bildirimi
+"Compatible with Magento versions 2.1, 2.2, 2.3","Magento sürümleri 2.1, 2.2, 2.3 ile uyumlu"
+UPS Shipping Module website,UPS Gönderi Modülü web sitesi
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,Daha fazla bilgi için <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups adresini ziyaret edin. .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,Daha fazla bilgi için ziyaret edin
+Support information,Destek bilgileri
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","UPS Gönderi Modülünü kurma, yükseltme veya kullanma konusunda yardım için lütfen şu adresten UPS ile iletişime geçin:"
+Poland +48 (0) 22 203 03 21,Polonya +48 (0) 22 203 03 21
+UPS Shipping Module,UPS Gönderi Modülü
+UPS Shipping,UPS Nakliye
+Shipment management,sevkiyat yönetimi
+//======================= Country page,//====================== Ülke sayfası
+Country setting,Ülke Ayarı
+Country Setting,Ülke Ayarı
+Please select your country/territory,Lütfen ülkenizi/bölgenizi seçin
+Continue,Devam et
+//======================= Terms and Condition page,//====================== Şartlar ve Koşullar sayfası
+UPS Terms and Conditions,UPS Hüküm ve Koşulları
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled",UPS Teknoloji Anlaşmasını kabul ediyorum ve okumam ve UPS'in sorumluluğunu sınırlamak ve UPS ile benim aramdaki anlaşmazlıkların nasıl sonuçlanacağına ilişkin anlaşmam gibi UPS Teknolojilerini kullanımım hakkında önemli şartlar içerdiğini anlamam için yeterli zaman verildiğini onaylıyorum. işlenen
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","UPS Teknoloji Anlaşmasını kabul ediyorum ve okumam ve UPS Teknolojilerini kullanımım hakkında önemli şartlar içerdiğini anlamam için yeterli zaman verildiğini onaylıyorum,"
+like,beğenmek
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,UPS'in sorumluluğunu sınırlamak ve UPS ile benim aramdaki anlaşmazlıkların nasıl ele alınacağına dair anlaşmam.
+Print,Yazdır
+Cannot get Term & Condition,Şart ve Koşul alınamıyor
+//======================= Account Page,//====================== Hesap Sayfası
+Account,Hesap
+ACCOUNT,HESAP
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),UPS Eklentileri hakkında daha fazla bilgi için lütfen <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>bu bağlantıyı tıklayın< /a> (yeni bir tarayıcı penceresinde açılır)
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,E-ticaret web siteniz için UPS eklentisini yapılandırmaya başlamak için lütfen aşağıdaki formu doldurun
+Title,Başlık
+Full name,Ad Soyad
+Full Name,Ad Soyad
+Company,Şirket
+Email,E-posta
+Phone number,Telefon numarası
+Address type,Adres Tipi
+Address,Adres
+Postal code,Posta Kodu
+City,Şehir
+Country/Territory,Ülke/Bölge
+"Example: Warehouse, Branch #1, etc.","Örnek: Depo, Şube #1, vb."
+"Example: Warehouse, Branch #1","Örnek: Depo, Şube #1"
+Street Address,Sokak adresi
+"Apartment, Suite, Unit, Building, Floor, etc.","Daire, Süit, Birim, Bina, Kat vb."
+"Department, c/o, etc.","Departman, c/o, vb."
+Mr,Bay
+Miss,Özlemek
+Mrs,Bayan
+Ms,Hanım
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Son 45 gün içinde (hesabınız ABD veya Kanada'daysa 90 gün) faturalı bir UPS Hesap Numaram var
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Son 45 gün içinde fatura OLMADAN bir UPS Hesap Numaram var (hesabınız ABD veya Kanada'daysa 90 gün)
+I do not have a UPS Account Number and would like to get one from the plug-in,UPS hesap numaram yok ve eklentiden indirimli fiyatlardan birini almak istiyorum
+I don’t have a UPS account number and would,UPS hesap numaram yok ve
+like,beğenmek
+to get one with discounted rates from the plug-in,eklentiden indirimli fiyatlara sahip bir tane almak için
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"Fatura, UPS tarafından son 45 gün içinde düzenlenen son 3 faturadan herhangi biri olmalıdır (hesabınız ABD veya Kanada'daysa 90 gün)"
+Account name,Hesap adı
+Account number,Hesap numarası
+Invoice number,Fatura numarası
+Invoice amount,Fatura tutarı
+Currency,Para birimi
+Invoice date,Fatura tarihi
+VAT number,KDV numarası
+Promo Code,Promosyon kodu
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Lütfen Dikkat: Göndericilerin bu uygulamada açılan hesabı kullanarak tehlikeli madde veya tehlikeli madde taşıması yasaktır.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,"Hesabınız, 24 saat sonra yetkili UPS Access Point™ konumlarına teslimatları destekleyecektir."
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,Bu bağlantıda tehlikeli mallar ve UPS'in bunları göndermenize nasıl destek olabileceği hakkında daha fazla bilgi bulabilirsiniz <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Bir hesapla ilişkilendirilecek referans adı. Örneğin depo 1, depo 2, Mağaza 1, Mağaza 2 vb. Adını ihtiyacınıza göre özgürce seçebilirsiniz."
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',UPS hesabınızla ilişkili posta kodu veya posta kodu. UPS faturanızın her sayfasının üst kısmında 'Alıcı' altında bulunabilir.
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',UPS hesabınızla ilişkili ad. UPS faturanızın her sayfasının üst kısmında 'Alıcı' altında bulunabilir.
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,Hesabınızı tanımlayan benzersiz bir altı karakterli alfasayısal sayı. UPS faturanızın her sayfasının sol üst tarafında bulunabilir.
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,UPS tarafından bir faturaya atanan 12 haneli benzersiz bir numara. UPS faturanızın her sayfasının sol üst tarafında bulunabilir.
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Verilen fatura için Ödenecek Toplam Tutar. Faturanın ilk sayfasındaki 'Masrafların Özeti' tablosunda bulunabilir.
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Faturanın düzenlendiği tarih. UPS faturanızın her sayfasının sol üst tarafında bulunabilir.
+Get started,Başlamak
+Some of the data you entered is not valid. Please check again.,Girdiğiniz verilerden bazıları geçerli değil. Lütfen tekrar kontrol edin.
+Cannot create new Account Number,Yeni Hesap Numarası oluşturulamıyor
+Email is not correct format,E-posta doğru biçim değil
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"UPS Gönderi Hesabı oluşturma isteğiniz başarılı olmadı. Lütfen girdiğiniz ""Şehir"" ve ""Posta kodu"" değerlerini kontrol ediniz. Geçerli bir kombinasyon olan Şehir ve Posta koduyla ilgili bazı öneriler:"
+Please update the city and postal code values with one of these selections and click Get Started,Lütfen bu seçimlerden biriyle şehir ve posta kodu değerlerini güncelleyin ve Başlayın'ı tıklayın.
+Configuration,Yapılandırma
+//======================= Account Success Page,//====================== Hesap Başarı Sayfası
+Your UPS Profile,UPS Profiliniz
+Your Payment Account,Ödeme Hesabınız
+Add another account number,Başka bir hesap numarası ekleyin
+Please enter the address attached to your account number,Lütfen hesap numaranıza ekli adresi girin
+Phone,Telefon
+Verify,Doğrulayın
+Next,Sonraki
+Remove,Kaldırmak
+Account number already exists in 'Your Payment Account',Hesap numarası 'Ödeme Hesabınızda' zaten var
+Full name:,Ad Soyad:
+Remove Account,Hesabı kaldır
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Bu hesap kaldırılacak. Onaylamak için Tamam'a tıklayın, iptal etmek için iletişim kutusunu kapatın."
+Your UPS account has been successfull registered,UPS hesabınız başarıyla kaydedildi
+//======================= Shipping Services page,//====================== Nakliye Hizmetleri sayfası
+Shipping Services,Nakliye Hizmetleri
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM",E-alışveriş yapanların ödeme sayfasında görünmesini istediğiniz UPS hizmetlerini seçin. UPS hizmetleri hakkında daha fazla bilgi edinmek için UPS.COM'da UPS Tarife/Hizmet Şartları ve Koşullarına bakın.
+Deliver to UPS Access Point™ (to-AP delivery),Bir UPS Access Point™ konumuna gönderin (AP'ye teslimat)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","UPS, paketi müşteri tarafından uygun bir zamanda teslim almaları için seçilen bir UPS Access Point™ konumuna teslim eder"
+Yes,Evet
+No,Numara
+Set as default shipping option,Varsayılan gönderim seçeneği olarak ayarla
+Select the shipping services for your customers to choose,Müşterilerinizin seçmesi için nakliye hizmetlerini seçin
+"International shipping only - visible, when shipping address is outside of EU",Yalnızca uluslararası gönderim - gönderim adresi AB dışında olduğunda görünür
+Access Point display setting:,UPS Erişim Noktası ekran ayarı:
+Number of Access Points visible to customers:,Müşterilerin görebildiği konum sayısı:
+Display all the Access Points in range of:,Şu aralıktaki tüm konumları göster:
+kilometer around consignee's selected address,Alıcının seçilen adresi etrafındaki miller
+Choose Account Number for this option,Bu seçenek için Hesap Numarasını seçin
+Deliver to consignee address (to-address delivery),Alıcı adresine teslim (adrese teslim)
+UPS delivers the parcel to the shipping address provided by customer.,"UPS, paketi müşteri tarafından sağlanan gönderi adresine teslim eder."
+Cut off time,Zaman kesti
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Burada seçilen bitiş zamanı, web sitenizin ödeme sayfasında görüntülenecek olan programlı teslimat tarihi ve saatinin hesaplanmasında kullanılacaktır."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Örneğin, kapanış saati 17:00 olarak seçilmişse ve e-alışveriş yapanlarınız web mağazanızı 17:01'de görüntülüyorsa, UPS'in planlanan tüm teslimat tarihleri ​​ve saatleri bir sonraki iş gününden itibaren hesaplanacaktır. Bu kesinti zamanına karar verirken, lütfen UPS'in planlanan alımından önce siparişi yerine getirmek için yeterli zamanınız olduğundan veya paketleri bir UPS Access Point™ konumuna bırakabildiğinizden emin olun."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Müşteri siparişlerini aynı gün içinde yerine getirmekten emin değilseniz, e-alışveriş yapan kişinin mevcut her hizmet için yaklaşık teslimat tarihlerini görmesiyle sonuçlanacak olan 'Devre Dışı Bırak'ı seçebilirsiniz."
+Save,Kaydetmek
+Please select at least one shipping service.,Lütfen en az bir nakliye hizmeti seçin.
+UPS Access Point™ Economy,UPS Access Point™ Ekonomi
+UPS® Standard,UPS® Standardı
+UPS Expedited®,UPS Hızlandırılmış®
+UPS Express Saver®,UPS Ekspres Tasarrufu®
+UPS Express®,UPS Ekspres®
+UPS Express Plus®,UPS Ekspres Plus®
+//======================= Collect on Delivery (COD) page,//====================== Teslimatta Al (COD) sayfası
+Collect on Delivery (COD),Teslimatta Toplama (COD)
+You have the official Magento COD module enabled!,Resmi Magento COD modülünü etkinleştirdiniz!
+Only show Access Points supporting COD shipments?,Yalnızca KOİ gönderilerini destekleyen Erişim Noktaları gösterilsin mi?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,Bir UPS Access Point™'e KOİ gönderileri sunmayı planlıyorsanız 'EVET'i seçin
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,"Bu eklentinin COD Shipping hizmeti, Magento'nun resmi Teslimatta Toplama (COD) modülüyle otomatik olarak uyumludur."
+You do not have the official Magento COD module installed and/or enabled!,Resmi Magento COD modülü kurulu ve/veya etkin değil!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,"Bu eklentinin COD Shipping hizmeti, Magento'nun resmi Teslimatta Nakit (COD) modülüyle otomatik olarak uyumludur."
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","UPS Shipping modülünün KOİ gönderilerini otomatik olarak algılamasını istiyorsanız, <strong>lütfen Magento's Collect on Delivery'yi (COD) yüklediğinizden emin olun</strong>. Magento'nun Teslimatta Teslim Etme (COD) modülünü zaten yüklediyseniz, <strong>lütfen modülün etkinleştirildiğinden emin olun</strong>. Ayrıntılı rehberlik için [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>burayı tıklayın</a>]."
+COD Option,KOİ Seçeneği
+//======================= Package Dimensions page,//====================== Paket Boyutları sayfası
+Package Dimensions,Paket boyutları
+Default Package Setting,Varsayılan Paket Ayarı
+Default package setting,Varsayılan paket ayarı
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.",Lütfen ambalajınızın ağırlığını ve boyutlarını buraya girin. Eklentide gönderiler oluştururken bir açılır menüden kolayca seçilebilen birden fazla paket boyutu ekleyebilirsiniz.
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","E-alışveriş yapanlara gerçek zamanlı UPS gönderi ücretini (bir sonraki ekranda yapılandırılacak) göstermeye karar verirseniz, eklenti, aşağıda görüntülenen 'Varsayılan Paket' olarak adlandırılan ilk paketi kullanacaktır. Varsayılan Paketin ağırlığı ve boyutları, e-alışveriş yapanlara gösterilecek UPS gönderi ücretlerini hesaplamak için kullanılacaktır."
+Add New Package,Yeni Paket Ekle
+Package name,Paket ismi
+"Example: Standard, Large, Phone box, etc.","Örnek: Standart, Büyük, Telefon kutusu vb."
+Weight,Ağırlık
+Unit,Birim
+Dimension,Boyut
+Add Package,Paket Ekle
+Length,Uzunluk
+Width,Genişlik
+Height,Yükseklik
+The name Package is exist.,Paket adı mevcut.
+Edit,Düzenlemek
+Delete,Silmek
+Editing Default Package,Varsayılan Paketi Düzenleme
+Remove Package,Paketi Kaldır
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Bu varsayılan paketi profilinizden kaldıracaksınız. Onaylamak için Tamam'a tıklayın, iptal etmek için iletişim kutusunu kapatın."
+OK,TAMAM
+Please input at least one default package to continue.,Devam etmek için lütfen en az bir varsayılan paket girin.
+Please select an option,Lütfen bir seçenek seçin
+Basic (number of items in the e-shopper order determine the package size),Temel (e-alışveriş siparişindeki ürün sayısı paket boyutunu belirler)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Gelişmiş (e-alışveriş siparişindeki ürünlerin ağırlıkları ve boyutları paket boyutunu belirler)
+Package dimensions:,Paket boyutları:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Not: Bir e-alışveriş siparişi girdiğiniz paketlerden daha büyükse, eklenti özel bir paket boyutu oluşturacaktır."
+Warning! To use this option you must enter product weights in the product settings of your shop.,Uyarı! Bu seçeneği kullanmak için mağazanızın ürün ayarlarına ürün ağırlıklarını girmelisiniz.
+Include dimensions in rating,Derecelendirmeye boyutları dahil et
+Yes,Evet
+No,Numara
+Number of items in order,Siparişteki ürün sayısı
+Add Backup Rate,Yedekleme Oranı Ekle
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","""Hayır"" olarak ayarlanırsa ücretler yalnızca ürün ağırlıklarına göre belirlenir.&nbsp; ""Evet"" olarak ayarlanmışsa, mağazanızın ürün ayarlarında ürün boyutları girilmelidir."
+Name,İsim
+Length,Uzunluk
+Width,Genişlik
+Height,Yükseklik
+Weight,Ağırlık
+Max Weight,Azami ağırlık
+Backup rate:,Yedekleme oranı:
+Service Name,hizmet adı
+Rate,Oran
+Add Backup Rate,Yedekleme Oranı Ekle
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Yedekleme Oranı, yalnızca ürün ayarlarında eksik ağırlıklar gibi bir sorun varsa veya ağırlıklar/boyutlar UPS sınırlarını aşıyorsa e-alışveriş yapanlara gösterilecektir."
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,Derecelendirme için kullanılan paket boyutunun e-alışveriş yapanın siparişindeki ürün sayısına göre değişmesini istiyorsanız varsayılan paketleri ekleyin
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Not: e-alışveriş siparişindeki öğelerin sayısı herhangi bir girdinizle eşleşmiyorsa, derecelendirme için kullanılan paketin boyutu, e-alışveriş siparişi tarafından aşılan en yüksek öğe sayısına bağlı olacaktır."
+//======================= Checkout Shipping Rates page,//====================== Kargo Ücretlerini Kontrol Et sayfası
+Checkout Shipping Rates,Ödeme Nakliye Ücretleri
+Ship to UPS Access Point&trade;,UPS Access Point™ konumuna gönderin
+Flat rates,Sabit oranlar
+Real time shipping rates,Gerçek zamanlı nakliye ücretleri
+Delivery rates is,Teslimat oranları (şimdiki değeri)
+% of UPS shipping rates,UPS kargo ücretlerinin yüzdesi
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,"E-alışveriş yapan kişi, gerçek zamanlı UPS fiyatlarının yüzdesini görecektir. Bu oranlar, bir önceki ekranda (Paket Boyutları) yapılandırdığınız varsayılan paket ağırlığı ve boyutları kullanılarak hesaplanır."
+Ship to Address,Adrese gönder
+Order Value Threshold,Sipariş Değeri Eşiği
+Delivery rates,Teslimat oranları
+The minimum thresholds can not be the same.,Minimum eşikler aynı olamaz.
+//======================= Complete Configuration page,//====================== Komple Yapılandırma sayfası
+Complete Configuration,Komple Yapılandırma
+You can start shipping now!,Şimdi göndermeye başlayabilirsiniz!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,"Eklentinin bütünleştirmesını ve web sitesinde UPS, bakım hizmetleri için tamamla' tıklayın."
+"If you are new to UPS, please refer to the following FAQs for additional information:","UPS'te yeniyseniz, ek bilgi için lütfen SSS'lere bakın:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.",1) Yeni UPS gönderim hakkında nasıl daha fazla bilgi görünümü?<br />Eklenti. yeni hesap oluşturma.
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Paketlerimi UPS toplaması için nasıl hazırlayabilirim veya bir UPS Access Point™ hazırlayabilirim? /> Bu bağlantıdaki paket hazırlama önerilerine - <a href='https://www.ups.com /%1/%2/ services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page< /a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,3. Paketlerimi UPS'e nasıl verebilirim?<br />Paketinizi UPS Access Point™ konumu gibi bir yerde UPS'e bırakabilirsiniz. Size yakın uygun bir yere gitmek için aşağıya tıklayın
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Ayrıca UPS'ten deponuzdan veya işinizden gelen paketlerden temin edilir. Arada bir teslim alıma varsa, bu seçeneği kullanarak UPS.COM'dan bir alım planlayabilirsiniz - <a href='https://www.ups.com/pickup/schedule?loc=%1' target='_blank' > https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","UPS iş seçenekleri UPS paketleriniz varsa ve normal bir UPS alımını tercih çoğu sıklıkta, Fatura Soruları <a='https://www.ups.com/%1/% altında telefon arama numarasını arayarak UPS ile iletişime geçebilirsiniz. 2/help-center/contact.page' target='_blank'>buraya</a>. sonra, bir UPS temsilcisini temsili görünümünüzü gözden geçirecektir."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.",UPS iş seçenekleri UPS paketleriniz varsa ve normal bir UPS alımını tercih eden çoğu satın alım alımları için lütfen bu bağlantıya bakın: <a href='https://www.ups.com/us/en/shipping/services-added /daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Bir UPS Teslimatta Toplama (COD) kullanıma yönelik için hangi ayarlarmam gerekir?<br />Fatura Sorularına verilen telefon numarası arama UPS ile iletişime geçebilirsiniz <a href='https://www .ups.com/%1/ %2/help-center/contact.page' target='_blank'>buradan</a>. Daha sonra, bir UPS temsilcisi COD hizmetini sizin görüş alanınızdan geçecektir."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Bir UPS Teslimatta Toplama (COD) kullanıma yönelik için hangi ayarlarmam gerekir?<br />UPS Teslimatta Toplama (COD) kullanımları ile ilgili ayrıntılar, detaylar için lütfen buya bakın: < a href='https://www.ups .com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/katma değerli/ kod.sayfası</a>"
+Search UPS Access Point™,Konumları ara
+Print form,baskı formülü
+//======================= E-shopper page,//===================== E-alışveriş sayfası
+Deliver to an UPS Access Point<sup>TM</sup>,Bir UPS Access Point™ teslim edin
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Paketiniz bir UPS Access Point™ teslim edilecektir.
+Open 24 hours,24 saat açık
+The address is required,adres gerekli
+Please select an Access Point to process,Lütfen işlemek için bir Erişim Noktası seçeneğine gidin
+Operating Hours,çalışma saatleri
+Open,açık
+Close,kapat
+Monday,Pazartesi
+Closed,kapalı
+Tuesday,Salı
+Wednesday,Çarşamba
+Thursday,Perşembe
+Friday,Cuma
+Saturday,cumartesi
+Sunday,Pazar
+Search for the UPS Access Point<sup>TM</sup>,UPS Erişim Noktası™ konumlarını arayın
+Near,yakın
+Delivered by End of Business Day,İş Günü Sonuna Kadar Teslim Edilir
+"Address line, City, State, Postcode","Adres bilgisi, Şehir, Eyalet, Posta kodu"
+"Address line,City,State,Postcode","Adres bilgisi, Şehir, Eyalet, Posta kodu"
+Use my delivery address,teslimatmi adresi kullan
+Search,arama
+Results,Sonuçlar
+Select,seçme
+Deliver to Your Address,Adresinize Teslim Edin
+Your package will be delivered to your address,Paketiniz adresinize teslim edeceğiz.
+UPS SHIPPING,UPS NAKLİYE
+Delivery today!,Bugün Mercan!
+Delivery next day!,Gün Günü!
+Next two days!,iki gün!
+Next three days!,önümüzdeki üç gün!
+Next four days!,önümüzdeki dört gün!
+Next five days!,önümüzdeki beş gün!
+Next six days!,önümüzdeki gün!
+Next seven days!,önümüzdeki yedi gün!
+Next eight days!,önümüzdeki gün!
+Next nine days!,önümüzdeki dokuz gün!
+Next ten days!,gün içinde gelecek!
+delivered by,tarafından teslim
+Delivered by,kesin teslim
+January,Ocak
+February,Şubat
+March,Mart
+April,Nisan
+May,Mayıs
+June,Haziran
+July,Temmuz
+August,Ağustos
+September,Eylül
+November,Kasım
+October,Ekim
+December,Aralık
+//======================= Open Order page,//====================== Sipariş sayfasını aç
+Open Orders,Açık siparişler
+Create Single Shipments,Tek Gönderiler Oluştur
+Create Batch Shipments,Toplu Gönderiler Oluşturun
+Export All Orders,Tüm Siparişleri Dışa Aktar
+Export Orders,İhracat Siparişleri
+Archive Orders,Arşiv Siparişleri
+Order ID,Sipariş Kimliği
+Order Date,Sipariş tarihi
+Product,Ürün
+Delivery Address,Teslimat adresi
+Shipping Service,Nakliye Hizmeti
+COD,MORİNA
+Action,Eylem
+No results!,Sonuç yok!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Uyarı - Siparişleri arşivlemek, siparişlerinizi Arşiv sekmesinde taşır ve artık bu siparişleri işleme koyamazsınız. Devam etmek için 'Tamam'ı, ekrana geri dönmek için 'İptal'i tıklayın"
+Cancel,İptal
+//======================= Detail Order page,//====================== Detay Sipariş sayfası
+Order,Emir
+Order #,Emir #
+Customer,Müşteri
+Order value,Sipariş değeri
+Payment status,Ödeme durumu
+Access Point,Erişim noktası
+//======================= Create single shipment page,//====================== Tek gönderi sayfası oluşturun
+Process Shipment,Sevkiyat İşlemi
+Ship From,Gemiden
+Ship To,Alıcı
+Accessorial service,Aksesuar Hizmeti*
+Packaging,Ambalajlama
+Package #1,Paket #1
+Package #,Paket #
+Add package,Paket ekle
+View estimated shipping fee and delivery date,Tahmini nakliye ücretini ve teslimat tarihini görüntüleyin
+Edit,Düzenlemek
+Create Shipment,Gönderi Oluştur
+Custom Package,Özel Paket
+Name,İsim
+Address,Adres
+State,Durum
+Note: Insufficient or incorrect address may increase the shipping fee,Not: Yetersiz veya yanlış adres gönderim ücretini artırabilir.
+Additional Handling,Ek İşleme
+Additional handling,Ek İşleme
+Quantum View Ship Notification,Quantum View Gemi Bildirimi
+Quantum View Delivery Notification,Quantum View Teslimat Bildirimi
+Residential Address,Konut adresi
+Saturday Delivery,Cumartesi Teslimat
+Carbon Neutral,Karbon Nötr
+Direct Delivery Only,Yalnızca Doğrudan Teslimat
+Declared value,Beyan değeri
+Signature Required,İmza gerekli
+Adult Signature Required,Yetişkin İmzası Gerekli
+To Home COD,Ana Sayfaya COD
+Cancel Editing,Düzenlemeyi İptal Et
+To Access Point COD,Erişim Noktasına COD
+Orders to be processed,İşlenecek siparişler
+The name is not empty,isim boş değil
+The address is required,adres gerekli
+The postal code is empty or invalid,Posta kodu boş veya geçersiz
+The city is not empty,şehir boş değil
+Invalid email format,Geçersiz e-posta formatı
+The phone is not empty,telefon boş değil
+Some of the data you entered is not valid. Please check again.,Girdiğiniz verilerden bazıları geçerli değil. Lütfen tekrar kontrol edin.
+There are errors connecting to the UPS API servers. Please try again.,UPS API sunucularına bağlanırken hatalar var. Lütfen tekrar deneyin.
+//======================= Shipment page,//====================== Sevkiyat sayfası
+Shipments,gönderiler
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Bu gönderi sekmesinde herhangi bir siparişi seçerek, <a href='javascript:void(0);' id='term-condition'>Şartlar ve Koşullar.</a>"
+UPS Tracking Terms and Conditions,UPS Takip Hüküm ve Koşulları
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","DİKKAT: Bu hizmet aracılığıyla erişilen UPS paket takip sistemleri (""Takip Sistemleri"") ve bu hizmet aracılığıyla elde edilen takip bilgileri (""Bilgi""), UPS'in özel mülkiyetindedir. UPS, Takip Sistemlerini yalnızca sizin tarafınızdan veya sizin adınıza teslimat için UPS'e ihale edilen gönderileri takip etmek için ve başka hiçbir amaç için kullanmamanız için yetki verir. Sınırlama olmaksızın, Bilgileri herhangi bir web sitesinde kullanıma sunma veya UPS'in açık yazılı izni olmaksızın Bilgileri ticari kazanç için başka bir şekilde çoğaltma, dağıtma, kopyalama, saklama, kullanma veya satma yetkiniz yoktur. Bu kişisel bir hizmettir, dolayısıyla Takip Sistemlerini veya Bilgilerini kullanma hakkınız devredilemez. Bu şartlara uygun olmayan herhangi bir erişim veya kullanım yetkisizdir ve kesinlikle yasaktır."
+Download PDF Label,PDF Etiketini İndir
+Download ZPL Label,ZPL Etiketini İndirin
+Export Shipment Data,Gönderi Verilerini Dışa Aktar
+Cancel Shipments,Gönderileri İptal Et
+ID Shipment,Kimlik Gönderimi
+Tracking Number,Takip numarası
+Date,Tarih
+Estimated Shipping Fee,Tahmini Nakliye Ücreti
+Shipment #,Gönderi #
+Order #ID reference,Sipariş #ID referansı
+Package details,Paket ayrıntıları
+Are you sure you want to cancel selected shipment(s)?,Seçili gönderi(ler)i iptal etmek istediğinizden emin misiniz?
+Shipment Canceled,Sevkiyat İptal Edildi
+Archived Orders,Arşivlenmiş Siparişler
+//======================= Additional,//====================== Ek
+Packaging:,Ambalajlama:
+Access Point display setting:,UPS Erişim Noktası ekran ayarı:
+Number of Access Points visible to customers:,Müşterilerin görebildiği Erişim Noktası sayısı:
+Display all the Access Points in range of:,Aşağıdaki aralıktaki tüm Erişim Noktalarını görüntüleyin:
+Title:,Başlık:
+Company:,Şirket:
+Email:,E-posta:
+Phone &nbsp number:,Telefon &nbsp numarası:
+Phone &nbsp;number:,Telefon numarası:
+Address type:,Adres Tipi:
+Address:,Adres:
+Postal code:,Posta Kodu:
+City:,Şehir:
+Country:,Ülke:
+Account Name:,Hesap adı:
+Account Number:,Hesap numarası:
+Account number:,Hesap numarası:
+Invoice Number:,Fatura numarası:
+Invoice Amount:,Fatura tutarı:
+Currency:,Para birimi:
+Invoice date:,Fatura tarihi:
+Name:,İsim:
+Phone:,Telefon:
+Customer:,Müşteri:
+Product:,Ürün:
+Shipping service:,Nakliye hizmeti:
+Order value:,Sipariş değeri:
+Payment status:,Ödeme durumu:
+Access Point:,Erişim noktası:
+Payment Status:,Ödeme Durumu:
+Phone number:,Telefon numarası:
+Package:,paket:
+Estimated Shipping fee:,Tahmini Nakliye ücreti:
+Estimated Shipping Fee:,Tahmini Nakliye Ücreti:
+Orders to be processed:,İşlenecek siparişler:
+Order #ID reference:,#ID referansını sipariş edin:
+Package details:,Paket ayrıntıları:
+Tracking number:,Takip numarası:
+Accessorial Service:,Aksesuar Hizmeti:
+Accessorial service:,Aksesuar Hizmeti:
+"If you are new to UPS, please refer to the following FAQs for additional information:","UPS'te yeniyseniz, ek bilgi için lütfen aşağıdaki SSS'lere bakın:"
+VAT Number:,KDV Numarası:
+Promo Code:,Promosyon kodu:
+Country/Territory:,Ülke/Bölge:
+End of Business Day,İş Günü Sonu
+//==============================Security Enhancement page,
+Security Enhancement,Güvenlik Geliştirme
+SECURITY ENHANCEMENTS ACTIVATION,GÜVENLİK GELİŞTİRMELERİ AKTİVASYONU
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","UPS Plugin'i kurarak, UPS tarafından önerilen Güvenlik Geliştirmelerini e-mağazanıza uygulamak için bu uygun seçeneği elde ettiniz. Aşağıdaki belirli güvenlik geliştirmelerini etkinleştirerek, e-mağazanızı bazı yaygın korsan saldırılarına karşı daha az savunmasız hale getirebilirsiniz."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Savunması
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Daha fazla ayrıntı için [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] adresine bakın. Bu savunmayı etkinleştirirseniz, UPS eklentisi, çerçeveleme politikasını 'X-Frame-Options: Sameorigin' HTTP yanıt başlığı aracılığıyla kullanıcının tarayıcısına ileterek ve eski tarayıcılar için 'frame-breaker' java komut dosyasını enjekte ederek mağazanızın güvenliğini sağlayacaktır.- UPS Plugin e-mağaza Ön Büro sayfalarınızı OWASP'ın tavsiye ettiği Clickjacking Defence Cheat Sheet'e uygun olarak güvenceye alabilir 3. şahıs web sitelerinde e-shop GUI'nizin çerçevelenmesini etkinleştirmek istiyorsanız bu savunmayı devre dışı bırakın; veya bu savunmayı zaten farklı şekilde uyguladıysanız."
+Use X-Frame-Options response header,X-Frame-Options yanıt başlığını kullanın
+Do not use,Kullanmayın
+Deny,Reddetmek
+SameOrigin,AynıKöken
+Use frame-killer script:,Çerçeve öldürücü komut dosyasını kullanın:
+Use Content-Security-Policy response header,İçerik-Güvenlik-İlke yanıt başlığını kullan
+frame-ancestors 'none',çerçeve ataları 'yok'
+frame-ancestors 'sefl',çerçeve ataları 'sefl'
+Content Sniffing Prevention,İçerik Koklama Önleme
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Daha fazla ayrıntı için wikipedia'ya bakın. Bu seçeneği işaretlerseniz, UPS eklentisi <br />X-Content-Type-Options: nosniff uygulayarak e-mağaza Ön Büronuzun güvenliğini sağlayacaktır."
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Tüm Magento Ön Büro sayfalarına HTTP Yanıt Başlığı. Bu, istemcinin tarayıcısının (özellikle Internet Explorer) MIME-koklaması bildirilen içerik türünden uzakta bir yanıt almasını önleyecektir. Kullanıcılarınızın e-mağazanıza potansiyel olarak zararlı herhangi bir dosya yüklemesi gerekmediğinden buna gerçekten ihtiyacınız olmayabilir (örneğin, bir Resim yerine JavaScript). Bununla birlikte, bununla ilişkili bir performans cezası olmadığından bu özel güvenlik başlığını etkinleştirmek yine de iyi bir uygulamadır."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,X-XSS-Protection yönergesini destekleyen tarayıcılarda siteler arası komut dosyası oluşturma filtrelerini etkinleştirir
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Daha fazla ayrıntı için wikipedia'ya bakın. Bu seçeneği işaretlerseniz, UPS eklentisi <br />X-XSS-Protection: '1; mode=block' <br />HTTP yanıt başlığı tüm Magento Ön Büro sayfalarına."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,E-mağaza web sitenizi protokol düşürme saldırılarına ve çerez kaçırmaya karşı koruyun
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Daha fazla ayrıntı için wikipedia'ya bakın Bu seçeneği işaretlerseniz, UPS eklentisi <br />Strict-Transport-Security 'max-age=31536000; Tüm Magento Ön Büro sayfalarına includeSubDomains' <br />HTTP yanıt başlığı."
+Prevent sensitive pages from caching by browser.,Hassas sayfaların tarayıcı tarafından önbelleğe alınmasını önleyin.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Daha fazla ayrıntı için OWASP SSS'lerine bakın. Bu seçeneği işaretlerseniz, UPS eklentisi,<br />Önbellek Kontrolü: önbellek yok, mağaza yok <br />Süre Sonu: 0 <br />Pragma: önbellek yok <br /> uygulayarak Ödeme sürecini güvence altına alır. İlgili sayfalara HTTP yanıt başlıkları"
+Apply to pages,Sayfalara uygula
+All,Herşey
+Checkout only,Yalnızca ödeme
+Data saved successfully.,Veri başarıyla kaydedildi.
+We couldn't find any records,Herhangi bir kayıt bulamadık
+Please wait…,Lütfen bekle…
+Archiving Orders,Siparişleri Arşivleme
+There is no shipping service for the above address,Yukarıdaki adrese kargo hizmeti verilmemektedir.
+The email is not empty,E-posta boş değil
+The country is not empty,ülke boş değil
+Select all,Hepsini seç
+Unselect all,Tümünün seçimini kaldır
+Do not have label for this Tracking ID,Bu İzleme Kimliği için etiketiniz yok
+Print Label or download file.,Etiket yazdırın veya dosyayı indirin.
+"Connection error, try later to install and configure","Bağlantı hatası, daha sonra yüklemeyi ve yapılandırmayı deneyin"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Şu anda bu gönderiyi iptal edemiyoruz. Gönderiyi daha sonra iptal etmeyi deneyebilirsiniz. Ancak, nakliye etiketini kullanmadığınız sürece bu gönderi için fatura kesilmeyecektir."
+Estimated Fee,Tahmini Ücret
+Shipping fee,Nakliye ücreti
+Poland,Polonya
+United Kingdom,Birleşik Krallık
+France,Fransa
+Germany,Almanya
+Italy,İtalya
+Netherlands,Hollanda
+Spain,ispanya
+Belgium,Belçika
+Shipment Manager,Sevkiyat Müdürü
+Default Package,Varsayılan Paket
+Order Time,Sipariş zamanı
+Time,Zaman
+Warning,Uyarı
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Hata! Paket, izin verilen maksimum 400 cm veya 157,48 inç boyutunu aşıyor (izin verilen maksimum boyut hesaplaması = uzunluk + 2 * genişlik + 2 * yükseklik)."
+Access Points Address will be used as an alternative shipping address,"Erişim Noktaları Adresi, alternatif bir gönderim adresi olarak kullanılacaktır"
+Ship To (UPS Access Point),Hedef (UPS Erişim Noktası)

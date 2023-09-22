@@ -1,0 +1,470 @@
+//======================= About page,//======================= Despre pagina
+About,Despre
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,UPS a încheiat un parteneriat cu Magento pentru a oferi gratuit UPS Shipping și UPS Access Point™ Modul™ care vă va permite să integrați și să oferiți o gamă largă de soluții de expediere și livrare UPS direct în procesul de finalizare a site-ului dvs.! Acest modul oficial UPS pentru Magento oferă clienților dvs. acces la rețeaua noastră extinsă de puncte de acces UPS și la serviciile de livrare.
+Features of this product,Caracteristicile acestui produs
+Front Office,Front office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,Interfață de hartă simplă și ușoară pentru clienții dvs. pentru a selecta punctul de acces UPS după preferințele lor.
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,Interfață ușor de utilizat pentru ca clienții tăi să treacă de la livrarea cu punct de acces la livrarea la domiciliu.
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Rata de expediere UPS în timp real sau tarife fixe pentru fiecare serviciu disponibil (conform setărilor din back office ale comerciantului).
+Back Office,Back Office
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Gamă de opțiuni pentru a configura ratele de livrare pe care le vor vedea clienții dvs. (de exemplu: livrare gratuită, tarife de expediere în timp real sau tarife fixe conform pragurilor valorii coșului)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Posibilitatea de a deschide un cont UPS direct în modul propriu-zis, dacă nu aveți unul."
+Easy PDF label generation.,Generare ușoară de etichete PDF.
+Real time tracking information.,Informații de urmărire în timp real.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Posibilitatea de a exporta comenzi deschise, astfel încât să le puteți procesa în alte aplicații pentru nevoi mai complexe."
+Module version number and release date,Numărul versiunii modulului și data lansării
+Module version v,Versiunea modulului v
+Release date,Data de lansare
+Changelog,Jurnalul modificărilor
+Platform compatibility statement,Declarație de compatibilitate a platformei
+"Compatible with Magento versions 2.1, 2.2, 2.3","Compatibil cu versiunile Magento 2.1, 2.2, 2.3"
+UPS Shipping Module website,Site-ul UPS Shipping Module
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,"Pentru mai multe informații, accesați <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>"
+For more information visit,Pentru mai multe informații vizitați
+Support information,Informații de asistență
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Pentru asistență cu instalarea, modernizarea sau utilizarea Modulului de expediere UPS, vă rugăm să contactați UPS la -"
+Poland +48 (0) 22 203 03 21,Polonia +48 (0) 22 203 03 21
+UPS Shipping Module,Modulul de expediere UPS
+UPS Shipping,Livrare UPS
+Shipment management,Managementul expedierii
+//======================= Country page,//======================= Pagina de ţară
+Country setting,Setarea țării
+Country Setting,Setarea țării
+Please select your country/territory,Vă rugăm să selectați țara/teritoriul dvs
+Continue,Continua
+//======================= Terms and Condition page,//======================= Pagina Termeni și condiții
+UPS Terms and Conditions,Termeni și condiții UPS
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Sunt de acord cu Acordul privind tehnologia UPS și confirm că mi s-a acordat suficient timp să-l citesc și să înțeleg că acesta conține termeni importanți despre utilizarea de către mine a tehnologiilor UPS, cum ar fi limitarea răspunderii UPS și acordul meu cu privire la modul în care vor fi litigiile dintre UPS și mine. manipulate"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Sunt de acord cu Acordul privind tehnologia UPS și confirm că mi s-a acordat suficient timp să-l citesc și să înțeleg că conține termeni importanți despre utilizarea de către mine a tehnologiilor UPS,"
+like,ca
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,limitarea răspunderii UPS și acordul meu cu privire la modul în care vor fi tratate litigiile dintre UPS și mine.
+Print,Imprimare
+Cannot get Term & Condition,Nu se pot obține Termeni și condiții
+//======================= Account Page,//======================= Pagina de cont
+Account,Cont
+ACCOUNT,CONT
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),"Pentru mai multe informații despre pluginurile UPS, faceți clic pe <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>acest link< /a> (se deschide într-o nouă fereastră de browser)"
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,Vă rugăm să completați formularul de mai jos pentru a începe configurarea plug-in-ului UPS pentru site-ul dvs. de comerț electronic
+Title,Titlu
+Full name,Numele complet
+Full Name,Numele complet
+Company,Companie
+Email,E-mail
+Phone number,Număr de telefon
+Address type,Tip de Adresă
+Address,Abordare
+Postal code,Cod postal
+City,Oraș
+Country/Territory,Țara/Teritoriul
+"Example: Warehouse, Branch #1, etc.","Exemplu: Depozit, Sucursala #1 etc."
+"Example: Warehouse, Branch #1","Exemplu: Depozit, Sucursala #1"
+Street Address,Adresă
+"Apartment, Suite, Unit, Building, Floor, etc.","Apartament, suită, unitate, clădire, etaj etc."
+"Department, c/o, etc.","Departament, c/o etc."
+Mr,Domnul
+Miss,domnisoara
+Mrs,D-na
+Ms,Domnișoară
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Am un număr de cont UPS CU o factură apărută în ultimele 45 de zile (90 de zile dacă contul dvs. este în SUA sau Canada)
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Am un număr de cont UPS FĂRĂ o factură apărută în ultimele 45 de zile (90 de zile dacă contul dvs. este în SUA sau Canada)
+I do not have a UPS Account Number and would like to get one from the plug-in,Nu am un număr de cont UPS și aș dori să obțin unul cu tarife reduse de la plug-in
+I don’t have a UPS account number and would,Nu am un număr de cont UPS și aș avea
+like,ca
+to get one with discounted rates from the plug-in,pentru a obține unul cu tarife reduse de la plug-in
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),Factura ar trebui să fie oricare dintre ultimele 3 emise de UPS în ultimele 45 de zile (90 de zile dacă contul dvs. este în SUA sau Canada)
+Account name,Nume de cont
+Account number,Numărul de cont
+Invoice number,Număr de factură
+Invoice amount,Valoarea facturii
+Currency,Valută
+Invoice date,Data facturii
+VAT number,TVA
+Promo Code,Cod promoțional
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Vă rugăm să rețineți: expeditorilor le este interzis să expedieze mărfuri periculoase sau materiale periculoase folosind contul deschis în această aplicație.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Contul dvs. va accepta livrări către locații autorizate UPS Access Point™ după 24 de ore.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,Puteți găsi mai multe informații despre mărfurile periculoase și despre cum UPS vă poate ajuta să le expediați pe acest link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Nume de referință care va fi asociat unui cont. De exemplu, depozitul 1, depozitul 2, magazinul 1, magazinul 2 etc. Puteți alege liber numele conform cerințelor dvs."
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Codul poștal sau codul poștal asociat contului dvs. UPS. Acesta poate fi găsit în partea de sus a fiecărei pagini a facturii dvs. UPS, sub „Cumpărător”"
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Numele asociat contului dvs. UPS. Acesta poate fi găsit în partea de sus a fiecărei pagini a facturii dvs. UPS, sub „Cumpărător”"
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,Un număr alfanumeric unic de șase caractere care vă identifică contul. Acesta poate fi găsit în partea stângă sus pe fiecare pagină a facturii UPS
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,Un număr unic de 12 cifre atribuit de UPS unei facturi. Acesta poate fi găsit în partea stângă sus pe fiecare pagină a facturii UPS
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Suma totală datorată pentru factura dată. Acesta poate fi găsit în tabelul „Rezumatul taxelor” de pe prima pagină a facturii
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Data emiterii facturii. Acesta poate fi găsit în partea stângă sus pe fiecare pagină a facturii UPS
+Get started,Incepe
+Some of the data you entered is not valid. Please check again.,Unele dintre datele pe care le-ați introdus nu sunt valide. Vă rugăm să verificați din nou.
+Cannot create new Account Number,Nu se poate crea un număr nou de cont
+Email is not correct format,E-mailul nu este formatul corect
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,Solicitarea dvs. de a crea un cont de expediere UPS nu a avut succes. Vă rugăm să verificați valorile „Oraș” și „Cod poștal” pe care le-ați introdus. Iată câteva sugestii privind orașul și codul poștal care sunt o combinație validă -
+Please update the city and postal code values with one of these selections and click Get Started,Actualizați valorile orașului și codului poștal cu una dintre aceste selecții și faceți clic pe Începeți
+Configuration,Configurare
+//======================= Account Success Page,//======================= Pagina de succes a contului
+Your UPS Profile,Profilul dvs. UPS
+Your Payment Account,Contul dvs. de plată
+Add another account number,Adăugați un alt număr de cont
+Please enter the address attached to your account number,Vă rugăm să introduceți adresa atașată numărului de cont
+Phone,Telefon
+Verify,Verifica
+Next,Următorul
+Remove,Elimina
+Account number already exists in 'Your Payment Account',Numărul de cont există deja în „Contul dvs. de plată”
+Full name:,Numele complet:
+Remove Account,Sterge contul
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Acest cont va fi eliminat. Faceți clic pe Ok pentru a confirma, închideți caseta de dialog pentru a anula."
+Your UPS account has been successfull registered,Contul dvs. UPS a fost înregistrat cu succes
+//======================= Shipping Services page,//======================= Pagina Servicii de expediere
+Shipping Services,Servicii de transport maritim
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Selectați serviciile UPS pe care doriți să le fiți vizibile în casă pentru cumpărătorii dvs. electronici. Pentru a afla mai multe despre serviciile UPS, consultați Tariful/Termenii și condițiile UPS pe UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Expediere la o locație UPS Access Point™ (livrare către AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there",UPS livrează coletul într-o locație UPS Access Point™ selectată de client pentru ca acesta să-l ridice după cum dorește
+Yes,da
+No,Nu
+Set as default shipping option,Setați ca opțiune de livrare implicită
+Select the shipping services for your customers to choose,Selectați serviciile de transport pe care să le aleagă clienții dvs
+"International shipping only - visible, when shipping address is outside of EU","Numai livrare internațională - vizibilă, atunci când adresa de expediere este în afara UE"
+Access Point display setting:,Setare de afișare a punctului de acces UPS:
+Number of Access Points visible to customers:,Numărul de locații vizibile clienților:
+Display all the Access Points in range of:,Afișează toate locațiile în raza de:
+kilometer around consignee's selected address,Mile în jurul adresei selectate de destinatar
+Choose Account Number for this option,Alegeți Număr de cont pentru această opțiune
+Deliver to consignee address (to-address delivery),Livrare la adresa destinatarului (livrare la adresa)
+UPS delivers the parcel to the shipping address provided by customer.,UPS livrează coletul la adresa de livrare furnizată de client.
+Cut off time,Timpul tăiat
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Ora limită selectată aici va fi utilizată la calcularea datei și orei de livrare a programului, care vor fi afișate pe site-ul dvs. de plată."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","De exemplu, dacă ora limită este selectată ca 17:00 și cumpărătorii dvs. electronici vă vizualizează magazinul web la 17:01, toate datele și ora de livrare programate UPS vor fi calculate din următoarea zi lucrătoare. Atunci când decideți această oră limită, vă rugăm să vă asigurați că aveți suficient timp pentru a onora comanda înainte de ridicarea programată UPS sau că aveți posibilitatea să predați pachetele la o locație UPS Access Point™."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Dacă nu sunteți sigur cu privire la finalizarea comenzilor clienților în aceeași zi, puteți selecta „Dezactivați”, ceea ce va duce la cumpărătorul electronic să vadă datele aproximative de livrare pentru fiecare serviciu disponibil."
+Save,Salvați
+Please select at least one shipping service.,Vă rugăm să selectați cel puțin un serviciu de expediere.
+UPS Access Point™ Economy,UPS Access Point™ Economy
+UPS® Standard,UPS® Standard
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Pagina de colectare la livrare (COD)
+Collect on Delivery (COD),Încasare la livrare (COD)
+You have the official Magento COD module enabled!,Ai activat modulul oficial Magento COD!
+Only show Access Points supporting COD shipments?,Afișați numai punctele de acces care acceptă expedieri COD?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,Selectați „DA” dacă intenționați să oferiți expedieri COD către un UPS Access Point™
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Serviciul de livrare COD al acestui plugin este compatibil automat cu modulul oficial Collect on Delivery (COD) de la Magento.
+You do not have the official Magento COD module installed and/or enabled!,Nu aveți instalat și/sau activat modulul oficial Magento COD!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Serviciul de livrare COD al acestui plugin este compatibil automat cu modulul oficial Cash on Delivery (COD) de la Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Dacă doriți ca modulul UPS Shipping să detecteze automat livrările COD, <strong>vă rugăm să vă asigurați că ați instalat Magento's Collect on Delivery (COD)</strong>. Dacă aveți deja instalat modulul Colectare la livrare (COD) al Magento, <strong>vă rugăm să vă asigurați că modulul este activat</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Faceți clic aici</a>] pentru îndrumări detaliate."
+COD Option,Opțiunea COD
+//======================= Package Dimensions page,//======================= Pagina Dimensiuni pachet
+Package Dimensions,Dimensiuni pachet
+Default Package Setting,Setarea implicită a pachetului
+Default package setting,Setarea implicită a pachetului
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Vă rugăm să introduceți aici greutatea și dimensiunile ambalajului dvs. Puteți adăuga mai multe dimensiuni de pachet, care pot fi selectate cu ușurință într-o opțiune derulantă atunci când creați expedieri în plug-in."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","În cazul în care decideți să afișați în timp real rata de expediere UPS (care va fi configurată în următorul ecran) cumpărătorilor electronici, plug-in-ul va folosi primul pachet, denumit „Pachetul implicit”, care este afișat mai jos. Greutatea și dimensiunile pachetului implicit vor fi utilizate pentru a calcula tarifele de expediere UPS care vor fi afișate cumpărătorilor electronici."
+Add New Package,Adăugați un pachet nou
+Package name,Numele pachetului
+"Example: Standard, Large, Phone box, etc.","Exemplu: Standard, Mare, Cutie telefonică etc."
+Weight,Greutate
+Unit,Unitate
+Dimension,Dimensiune
+Add Package,Adăugați pachet
+Length,Lungime
+Width,Lăţime
+Height,Înălţime
+The name Package is exist.,Numele Pachetul există.
+Edit,Editați | ×
+Delete,Șterge
+Editing Default Package,Editarea pachetului implicit
+Remove Package,Eliminați pachetul
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Veți elimina acest pachet implicit din profilul dvs. Faceți clic pe Ok pentru a confirma, închideți caseta de dialog pentru a anula."
+OK,O.K
+Please input at least one default package to continue.,Introduceți cel puțin un pachet implicit pentru a continua.
+Please select an option,va rugam selectati o optiune
+Basic (number of items in the e-shopper order determine the package size),De bază (numărul de articole din comanda e-shopper determină dimensiunea pachetului)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Avansat (greutățile și dimensiunile produselor din comanda e-shopper determină dimensiunea pachetului)
+Package dimensions:,Dimensiuni pachet:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,Notă: pluginul va crea o dimensiune personalizată a pachetului dacă o comandă de cumpărător electronic este mai mare decât pachetele pe care le introduceți
+Warning! To use this option you must enter product weights in the product settings of your shop.,"Avertizare! Pentru a utiliza această opțiune, trebuie să introduceți greutățile produselor în setările produsului din magazinul dvs."
+Include dimensions in rating,Includeți dimensiunile în evaluare
+Yes,da
+No,Nu
+Number of items in order,Numărul de articole în ordine
+Add Backup Rate,Adăugați rata de backup
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Dacă este setat la „Nu”, tarifele se vor baza numai pe greutatea produsului.&nbsp; Dacă setați la „Da”, dimensiunile produsului trebuie introduse în setările produsului din magazinul dvs"
+Name,Nume
+Length,Lungime
+Width,Lăţime
+Height,Înălţime
+Weight,Greutate
+Max Weight,Greutate maximă
+Backup rate:,Rata de backup:
+Service Name,numele serviciului
+Rate,Rată
+Add Backup Rate,Adăugați rata de backup
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Rata de rezervă se va afișa pentru cumpărători electronici numai dacă există o problemă în setările produsului, cum ar fi greutățile lipsă sau dacă greutățile/dimensiunile depășesc limitele UPS"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,Adăugați pachete implicite dacă doriți ca dimensiunea pachetului utilizată pentru evaluare să se modifice în funcție de numărul de articole din comanda cumpărătorului electronic
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Notă: dacă numărul de articole din comanda e-shopper nu se potrivește cu niciuna dintre intrările dvs., atunci dimensiunea pachetului utilizat pentru evaluare se va baza pe cea a numărului de articole cel mai mare depășit de comanda e-shopper."
+//======================= Checkout Shipping Rates page,//======================= Pagina de plată Tarife de livrare
+Checkout Shipping Rates,Verificați tarifele de livrare
+Ship to UPS Access Point&trade;,Expediați la locația UPS Access Point™
+Flat rates,Tarife fixe
+Real time shipping rates,Tarife de livrare în timp real
+Delivery rates is,Tarifele de livrare sunt
+% of UPS shipping rates,% din tarifele de expediere UPS
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,Cumpărătorul electronic va vedea % din tarifele UPS în timp real. Aceste tarife sunt calculate folosind greutatea și dimensiunile implicite ale pachetului pe care le-ați configurat în ecranul anterior (Dimensiunile pachetului).
+Ship to Address,Livrati la adresa
+Order Value Threshold,Pragul valorii comenzii
+Delivery rates,Tarife de livrare
+The minimum thresholds can not be the same.,Pragurile minime nu pot fi aceleași.
+//======================= Complete Configuration page,//======================= Pagina completă de configurare
+Complete Configuration,Configurare completă
+You can start shipping now!,Puteți începe livrarea acum!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,Faceți clic pe butonul „Configurare completă” pentru a finaliza configurarea plug-in-ului și pentru a începe să oferiți servicii de expediere UPS pe site-ul dvs. web.
+"If you are new to UPS, please refer to the following FAQs for additional information:","Dacă sunteți nou la UPS, vă rugăm să consultați următoarele întrebări frecvente pentru informații suplimentare:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Cum obțin mai multe informații despre noul meu cont de expediere UPS?<br />Dacă ați deschis un nou cont de expediere UPS din plug-in, un e-mail de confirmare cu mai multe informații va fi trimis la adresa de e-mail pe care ați introdus-o în timp ce crearea noului cont."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Cum îmi pregătesc pachetele pentru colectarea UPS sau pentru predarea la o locație UPS Access Point™?<br />Consultați recomandările de pregătire a pachetelor de la acest link - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Cum îmi dau pachetele către UPS?<br />Puteți să vă predați pachetul în orice locație autorizată UPS, cum ar fi o locație UPS Access Point™. Faceți clic mai jos pentru a căuta o locație convenabilă în apropierea dvs"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","De asemenea, puteți cere UPS să ridice pachetele de la depozitul sau adresa comercială. Dacă aveți nevoie de o ridicare ocazională, puteți programa direct o ridicare de la UPS.COM folosind acest link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Dacă aveți pachete UPS în majoritatea zilelor lucrătoare și preferați o ridicare regulată UPS, puteți contacta UPS sunând la numărul de telefon furnizat la Întrebări despre facturare <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>aici</a>. Apoi, un reprezentant UPS vă va contacta pentru a discuta despre ridicarea zilnică UPS."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Dacă aveți pachete UPS în majoritatea zilelor lucrătoare și preferați o ridicare UPS obișnuită, vă rugăm să consultați acest link pentru instrucțiuni despre programarea ridicărilor zilnice: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Ce pași trebuie să fac pentru a configura un serviciu UPS Collect on Delivery (COD)?<br />Puteți contacta UPS sunând la numărul de telefon furnizat la Întrebări de facturare <a href='https://www. .ups.com/%1/%2/help-center/contact.page' target='_blank'>aici</a>. Apoi, un reprezentant UPS vă va contacta pentru a discuta despre serviciul COD."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Ce pași trebuie să fac pentru a configura un serviciu UPS Collect on Delivery (COD)?<br />Dacă sunteți interesat să utilizați serviciile UPS Collect on Delivery (COD), vă rugăm să consultați acest link pentru detalii: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Căutați locații
+Print form,Imprimați formularul
+//======================= E-shopper page,//======================= Pagina E-shopper
+Deliver to an UPS Access Point<sup>TM</sup>,Livrați la o locație UPS Access Point™
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Pachetul dumneavoastră va fi livrat la o locație UPS Access Point™
+Open 24 hours,Deschis 24 de ore
+The address is required,Adresa este obligatorie
+Please select an Access Point to process,Vă rugăm să selectați un punct de acces de procesat
+Operating Hours,Ore de operare
+Open,Deschis
+Close,Închide
+Monday,luni
+Closed,Închis
+Tuesday,marţi
+Wednesday,miercuri
+Thursday,joi
+Friday,vineri
+Saturday,sâmbătă
+Sunday,duminică
+Search for the UPS Access Point<sup>TM</sup>,Căutați locații UPS Access Point™
+Near,Aproape
+Delivered by End of Business Day,Livrat până la sfârșitul zilei lucrătoare
+"Address line, City, State, Postcode","Linie de adresă, oraș, stat, cod poștal"
+"Address line,City,State,Postcode","Linie de adresă, Oraș, Stat, Cod poștal"
+Use my delivery address,Folosiți adresa mea de livrare
+Search,Căutare
+Results,Rezultate
+Select,Selectați
+Deliver to Your Address,Livrați la adresa dvs
+Your package will be delivered to your address,Pachetul va fi livrat la adresa dvs
+UPS SHIPPING,LIVRARE UPS
+Delivery today!,Livrare azi!
+Delivery next day!,Livrare a doua zi!
+Next two days!,Următoarele două zile!
+Next three days!,Următoarele trei zile!
+Next four days!,Următoarele patru zile!
+Next five days!,Următoarele cinci zile!
+Next six days!,Următoarele șase zile!
+Next seven days!,Următoarele șapte zile!
+Next eight days!,Următoarele opt zile!
+Next nine days!,Următoarele nouă zile!
+Next ten days!,Următoarele zece zile!
+delivered by,Livrat de
+Delivered by,Livrat de
+January,ianuarie
+February,februarie
+March,Martie
+April,Aprilie
+May,Mai
+June,iunie
+July,iulie
+August,August
+September,Septembrie
+November,noiembrie
+October,octombrie
+December,decembrie
+//======================= Open Order page,//======================= Deschide pagina de comandă
+Open Orders,Comenzi deschise
+Create Single Shipments,Creați expedieri unice
+Create Batch Shipments,Creați expedieri în loturi
+Export All Orders,Exportați toate comenzile
+Export Orders,Comenzi de export
+Archive Orders,Arhiva Comenzi
+Order ID,Comanda ID
+Order Date,Data comandă
+Product,Produs
+Delivery Address,Adresă de livrare
+Shipping Service,Serviciu de livrare
+COD,COD
+Action,Acțiune
+No results!,Fara rezultate!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Avertisment - Arhivarea comenzilor vă va muta comenzile în fila Arhivă și nu mai puteți procesa aceste comenzi. Faceți clic pe „OK” pentru a continua, „Anulați” pentru a reveni la ecran"
+Cancel,Anulare
+//======================= Detail Order page,//======================= Pagina de detaliu comandă
+Order,Ordin
+Order #,Ordin #
+Customer,Client
+Order value,Valoarea comenzii
+Payment status,Starea plății
+Access Point,Punct de acces
+//======================= Create single shipment page,//======================= Creați o singură pagină de expediere
+Process Shipment,Procesează Expedierea
+Ship From,Barca din
+Ship To,Îmbarca spre
+Accessorial service,Service accesorii*
+Packaging,Ambalare
+Package #1,Pachetul #1
+Package #,Pachet #
+Add package,Adăugați pachet
+View estimated shipping fee and delivery date,Vedeți taxa de livrare estimată și data livrării
+Edit,Editați | ×
+Create Shipment,Creați expedierea
+Custom Package,Pachet personalizat
+Name,Nume
+Address,Abordare
+State,Stat
+Note: Insufficient or incorrect address may increase the shipping fee,Notă: Adresa insuficientă sau incorectă poate crește taxa de transport
+Additional Handling,Manipulare suplimentară
+Additional handling,Manipulare suplimentară
+Quantum View Ship Notification,Notificarea navei Quantum View
+Quantum View Delivery Notification,Notificare de livrare Quantum View
+Residential Address,Adresa rezidentiala
+Saturday Delivery,Livrare sambata
+Carbon Neutral,Carbon neutru
+Direct Delivery Only,Doar livrare directă
+Declared value,Valoare declarata
+Signature Required,Semnătura necesară
+Adult Signature Required,Semnătura adultă necesară
+To Home COD,To Home COD
+Cancel Editing,Anulați editarea
+To Access Point COD,La punctul de acces COD
+Orders to be processed,Comenzile de procesat
+The name is not empty,Numele nu este gol
+The address is required,Adresa este obligatorie
+The postal code is empty or invalid,Codul poștal este gol sau invalid
+The city is not empty,Orașul nu este gol
+Invalid email format,format de email invalid
+The phone is not empty,Telefonul nu este gol
+Some of the data you entered is not valid. Please check again.,Unele dintre datele pe care le-ați introdus nu sunt valide. Vă rugăm să verificați din nou.
+There are errors connecting to the UPS API servers. Please try again.,Există erori de conectare la serverele UPS API. Vă rugăm să încercați din nou.
+//======================= Shipment page,//======================= Pagina de expediere
+Shipments,Expedieri
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Selectând orice comandă din această filă de expediere, sunt de acord cu <a href='javascrip:void(0);' id='term-condition'>Termeni și condiții.</a>"
+UPS Tracking Terms and Conditions,Termenii și condițiile de urmărire UPS
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","ANUNȚ: Sistemele de urmărire a pachetelor UPS accesate prin acest serviciu („Sistemele de urmărire”) și informațiile de urmărire obținute prin acest serviciu („Informațiile”) sunt proprietatea privată a UPS. UPS vă autorizează să utilizați sistemele de urmărire numai pentru a urmări expedierile oferite de sau pentru dvs. către UPS pentru livrare și în niciun alt scop. Fără a se limita, nu sunteți autorizat să faceți informațiile disponibile pe niciun site web sau să reproduceți, distribuiți, copiați, stocați, utilizați sau vindeți în alt mod informațiile în scopuri comerciale fără acordul expres scris al UPS. Acesta este un serviciu personal, prin urmare dreptul dumneavoastră de a utiliza Sistemele de Urmărire sau Informații nu este cesionabil. Orice acces sau utilizare care este în contradicție cu acești termeni este neautorizat și strict interzis."
+Download PDF Label,Descărcați PDF Etichetă
+Download ZPL Label,Descărcați eticheta ZPL
+Export Shipment Data,Exportați datele de expediere
+Cancel Shipments,Anulați expedierile
+ID Shipment,Expediere ID
+Tracking Number,Număr de urmărire
+Date,Data
+Estimated Shipping Fee,Taxa de livrare estimată
+Shipment #,Expediere #
+Order #ID reference,Comanda #ID referință
+Package details,Detalii pachet
+Are you sure you want to cancel selected shipment(s)?,Sigur doriți să anulați expedierile selectate?
+Shipment Canceled,Livrare anulată
+Archived Orders,Comenzi arhivate
+//======================= Additional,//======================= Adițional
+Packaging:,Ambalare:
+Access Point display setting:,Setare de afișare a punctului de acces UPS:
+Number of Access Points visible to customers:,Numărul de puncte de acces vizibile clienților:
+Display all the Access Points in range of:,Afișează toate punctele de acces în raza de:
+Title:,Titlu:
+Company:,Companie:
+Email:,E-mail:
+Phone &nbsp number:,Număr &nbsp de telefon:
+Phone &nbsp;number:,&nbsp;număr de telefon:
+Address type:,Tip de Adresă:
+Address:,Abordare:
+Postal code:,Cod postal:
+City:,Oraș:
+Country:,Țară:
+Account Name:,Nume de cont:
+Account Number:,Numărul de cont:
+Account number:,Numărul de cont:
+Invoice Number:,Număr de factură:
+Invoice Amount:,Valoarea facturii:
+Currency:,Valută:
+Invoice date:,Data facturii:
+Name:,Nume:
+Phone:,Telefon:
+Customer:,Client:
+Product:,Produs:
+Shipping service:,Serviciu de livrare:
+Order value:,Valoarea comenzii:
+Payment status:,Starea plății:
+Access Point:,Punct de acces:
+Payment Status:,Starea plății:
+Phone number:,Număr de telefon:
+Package:,Pachet:
+Estimated Shipping fee:,Taxa de livrare estimată:
+Estimated Shipping Fee:,Taxa de livrare estimată:
+Orders to be processed:,Comenzile de procesat:
+Order #ID reference:,Comanda #ID referință:
+Package details:,Detalii pachet:
+Tracking number:,Număr de urmărire:
+Accessorial Service:,Servicii accesorii:
+Accessorial service:,Servicii accesorii:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Dacă sunteți nou la UPS, vă rugăm să consultați următoarele întrebări frecvente pentru informații suplimentare:"
+VAT Number:,TVA:
+Promo Code:,Cod promoțional:
+Country/Territory:,Țară/Teritoriu:
+End of Business Day,Sfârșitul zilei lucrătoare
+//==============================Security Enhancement page,
+Security Enhancement,Îmbunătățirea securității
+SECURITY ENHANCEMENTS ACTIVATION,ACTIVAREA ÎMBUNĂTĂRILOR DE SECURITATE
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","Prin instalarea UPS Plugin ați obținut această opțiune convenabilă de a aplica îmbunătățirile de securitate recomandate de UPS magazinului dvs. electronic. Prin activarea anumitor îmbunătățiri de securitate de mai jos, puteți face magazinul dvs. electronic mai puțin vulnerabil la atacurile obișnuite ale hackerilor."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Defense
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Consultați [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] pentru mai multe detalii. Dacă activați această apărare, atunci pluginul UPS vă va securiza magazinul comunicând politica de încadrare către browserul utilizatorului prin antetul de răspuns HTTP „X-Frame-Options: Sameorigin” și prin injectarea scriptului java „frame-breaker” pentru browserele vechi.- UPS Plugin vă puteți securiza paginile de la biroul magazinului dvs. electronic în conformitate cu fișa de apărare împotriva clicurilor recomandată de OWASP. Dezactivați această apărare dacă doriți să activați încadrarea interfață a magazinului dvs. electronic pe site-uri web ale terților; sau dacă ați implementat deja această apărare altfel."
+Use X-Frame-Options response header,Utilizați antetul de răspuns X-Frame-Options
+Do not use,Nu folosi
+Deny,Negați
+SameOrigin,Aceeași origine
+Use frame-killer script:,Folosește scriptul frame-killer:
+Use Content-Security-Policy response header,Utilizați antetul de răspuns Content-Security-Policy
+frame-ancestors 'none',strămoși-cadru „niciunul”
+frame-ancestors 'sefl',strămoși-cadru „sefl”
+Content Sniffing Prevention,Prevenirea mirosului de conținut
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Consultați wikipedia pentru mai multe detalii. Dacă bifați această opțiune, pluginul UPS vă va securiza magazinul electronic Front Office prin aplicarea <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Antet de răspuns HTTP către toate paginile Magento Front Office. Acest lucru va împiedica browserul clientului (în special Internet Explorer) să adulmece cu MIME un răspuns din tipul de conținut declarat. Este posibil să nu aveți nevoie de acest lucru, deoarece utilizatorii dvs. nu ar trebui să încarce fișiere potențial dăunătoare în magazinul dvs. electronic (de exemplu, JavaScript în loc de o imagine). Cu toate acestea, este încă o practică bună să activați acest antet de securitate special, deoarece nu există nicio penalizare de performanță asociată cu acesta."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,Activează filtrele de scripturi între site-uri în browserele care acceptă directiva X-XSS-Protection
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Consultați wikipedia pentru mai multe detalii. Dacă bifați această opțiune, pluginul UPS va securiza magazinul dvs. electronic Front Office aplicând <br />X-XSS-Protection: '1; mode=block' <br />Antetul de răspuns HTTP către toate paginile Magento Front Office."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Protejați-vă site-ul magazinului electronic împotriva atacurilor de downgrade a protocolului și a deturnării cookie-urilor
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Consultați wikipedia pentru mai multe detalii Dacă bifați această opțiune, pluginul UPS vă va securiza magazinul electronic Front Office prin aplicarea <br />Strict-Transport-Security 'max-age=31536000; include antetul de răspuns HTTP al <br />SubDomains la toate paginile Magento Front Office."
+Prevent sensitive pages from caching by browser.,Preveniți stocarea în cache a paginilor sensibile de către browser.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Consultați Întrebările frecvente OWASP pentru mai multe detalii. Dacă bifați această opțiune, pluginul UPS va securiza procesul de checkout aplicând<br />Cache-Control: no-cache, no-store <br />Expiră: 0 <br />Pragma: no-cache <br /> Antete de răspuns HTTP către paginile corespunzătoare"
+Apply to pages,Aplicați la pagini
+All,Toate
+Checkout only,Numai plata
+Data saved successfully.,Datele au fost salvate cu succes.
+We couldn't find any records,Nu am putut găsi nicio înregistrare
+Please wait…,Va rugam asteptati…
+Archiving Orders,Arhivarea comenzilor
+There is no shipping service for the above address,Nu există un serviciu de expediere pentru adresa de mai sus
+The email is not empty,E-mailul nu este gol
+The country is not empty,Țara nu este goală
+Select all,Selectează tot
+Unselect all,Deselectează tot
+Do not have label for this Tracking ID,Nu aveți etichetă pentru acest ID de urmărire
+Print Label or download file.,Imprimați eticheta sau descărcați fișierul.
+"Connection error, try later to install and configure","Eroare de conexiune, încercați mai târziu să instalați și să configurați"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Nu putem anula această expediere în acest moment. Puteți încerca să anulați expedierea mai târziu. Cu toate acestea, nu veți fi facturat pentru această expediere, cu condiția să nu utilizați eticheta de expediere"
+Estimated Fee,Taxa estimata
+Shipping fee,Taxa de expediere
+Poland,Polonia
+United Kingdom,Regatul Unit
+France,Franţa
+Germany,Germania
+Italy,Italia
+Netherlands,Olanda
+Spain,Spania
+Belgium,Belgia
+Shipment Manager,Manager de expediere
+Default Package,Pachetul implicit
+Order Time,Ora Comanda
+Time,Timp
+Warning,Avertizare
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Eroare! Pachetul depășește dimensiunea maximă admisă de 400 cm sau 157,48 inci (calculul mărimii maxime permise = lungime + 2 * lățime + 2 * înălțime)."
+Access Points Address will be used as an alternative shipping address,Adresa punctelor de acces va fi folosită ca o adresă de livrare alternativă
+Ship To (UPS Access Point),Expediere către (Punctul de acces UPS)

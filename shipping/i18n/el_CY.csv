@@ -1,0 +1,470 @@
+//======================= About page,//======================== Σελίδα Σχετικά με
+About,Σχετικά με
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,Η UPS συνεργάστηκε με τη Magento για να προσφέρει μια δωρεάν μονάδα UPS Shipping και UPS Access Point™ που θα σας επιτρέψει να ενσωματώσετε και να προσφέρετε ένα ευρύ φάσμα λύσεων αποστολής και παράδοσης UPS απευθείας στη διαδικασία check-out του ιστότοπού σας! Αυτή η επίσημη μονάδα UPS για το Magento παρέχει στους πελάτες σας πρόσβαση στο εκτεταμένο δίκτυο UPS Access Point και στις υπηρεσίες παράδοσης.
+Features of this product,Χαρακτηριστικά αυτού του προϊόντος
+Front Office,Μπροστινό γραφείο
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,Απλή και εύκολη διεπαφή χάρτη για τους πελάτες σας να επιλέξουν το UPS Access Point σύμφωνα με τις προτιμήσεις τους.
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,Φιλική προς το χρήστη διεπαφή για την εναλλαγή των πελατών σας από παράδοση σημείου πρόσβασης σε παράδοση κατ' οίκον.
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Ποσοστό αποστολής UPS σε πραγματικό χρόνο ή σταθερές τιμές για κάθε διαθέσιμη υπηρεσία (σύμφωνα με τις ρυθμίσεις του back office του εμπόρου).
+Back Office,Back Office
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Εύρος επιλογών για να ρυθμίσετε τις τιμές παράδοσης που θα βλέπουν οι πελάτες σας (για παράδειγμα: δωρεάν αποστολή, τιμές αποστολής σε πραγματικό χρόνο ή σταθερές τιμές σύμφωνα με τα όρια αξίας καλαθιού)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Δυνατότητα ανοίγματος λογαριασμού UPS απευθείας στο ίδιο το module, αν δεν έχετε."
+Easy PDF label generation.,Εύκολη δημιουργία ετικετών PDF.
+Real time tracking information.,Πληροφορίες παρακολούθησης σε πραγματικό χρόνο.
+Ability to export open orders so that you can process them in other applications for more complex needs.,Δυνατότητα εξαγωγής ανοιχτών παραγγελιών ώστε να μπορείτε να τις επεξεργάζεστε σε άλλες εφαρμογές για πιο σύνθετες ανάγκες.
+Module version number and release date,Αριθμός έκδοσης μονάδας και ημερομηνία κυκλοφορίας
+Module version v,Έκδοση ενότητας v
+Release date,Ημερομηνία κυκλοφορίας
+Changelog,Καταγραφή αλλαγών
+Platform compatibility statement,Δήλωση συμβατότητας πλατφόρμας
+"Compatible with Magento versions 2.1, 2.2, 2.3","Συμβατό με τις εκδόσεις Magento 2.1, 2.2, 2.3"
+UPS Shipping Module website,Ιστότοπος UPS Shipping Module
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,Για περισσότερες πληροφορίες επισκεφθείτε τη διεύθυνση <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,Για περισσότερες πληροφορίες επισκεφθείτε
+Support information,Πληροφορίες υποστήριξης
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Για βοήθεια σχετικά με την εγκατάσταση, την αναβάθμιση ή τη χρήση της μονάδας αποστολής UPS, επικοινωνήστε με την UPS στη διεύθυνση -"
+Poland +48 (0) 22 203 03 21,Πολωνία +48 (0) 22 203 03 21
+UPS Shipping Module,Μονάδα αποστολής UPS
+UPS Shipping,Αποστολή UPS
+Shipment management,Διαχείριση αποστολής
+//======================= Country page,//======================== Σελίδα χώρας
+Country setting,Ρύθμιση χώρας
+Country Setting,Ρύθμιση χώρας
+Please select your country/territory,Επιλέξτε τη χώρα/την επικράτειά σας
+Continue,Να συνεχίσει
+//======================= Terms and Condition page,//======================= Σελίδα Όρων και Προϋποθέσεων
+UPS Terms and Conditions,Όροι και Προϋποθέσεις της UPS
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Συμφωνώ με τη Συμφωνία Τεχνολογίας της UPS και επιβεβαιώνω ότι μου δόθηκε αρκετός χρόνος για να τη διαβάσω και να κατανοήσω ότι περιέχει σημαντικούς όρους σχετικά με τη χρήση των τεχνολογιών της UPS, όπως ο περιορισμός της ευθύνης της UPS και η συμφωνία μου σχετικά με τον τρόπο με τον οποίο θα υπάρχουν διαφορές μεταξύ της UPS και εμένα. χειρίζεται"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Συμφωνώ με τη Συμφωνία Τεχνολογίας της UPS και επιβεβαιώνω ότι μου δόθηκε αρκετός χρόνος για να τη διαβάσω και να κατανοήσω ότι περιέχει σημαντικούς όρους σχετικά με τη χρήση της UPS Technologies,"
+like,σαν
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,περιορίζοντας την ευθύνη της UPS και τη συμφωνία μου για τον τρόπο με τον οποίο θα αντιμετωπίζονται οι διαφορές μεταξύ της UPS και εμένα.
+Print,Τυπώνω
+Cannot get Term & Condition,Δεν είναι δυνατή η λήψη Όρων & Προϋποθέσεων
+//======================= Account Page,//======================= Σελίδα λογαριασμού
+Account,λογαριασμός
+ACCOUNT,ΛΟΓΑΡΙΑΣΜΟΣ
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),"Για περισσότερες πληροφορίες σχετικά με τα πρόσθετα UPS, κάντε κλικ σε <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>αυτόν τον σύνδεσμο< /a> (ανοίγει σε νέο παράθυρο προγράμματος περιήγησης)"
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,Συμπληρώστε την παρακάτω φόρμα για να ξεκινήσετε τη διαμόρφωση της προσθήκης UPS για τον ιστότοπό σας ηλεκτρονικού εμπορίου
+Title,Τίτλος
+Full name,Πλήρες όνομα
+Full Name,Πλήρες όνομα
+Company,Εταιρία
+Email,ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ
+Phone number,Τηλεφωνικό νούμερο
+Address type,Τύπος Διεύθυνσης
+Address,Διεύθυνση
+Postal code,Ταχυδρομικός Κώδικας
+City,Πόλη
+Country/Territory,Χώρα/Επικράτεια
+"Example: Warehouse, Branch #1, etc.","Παράδειγμα: Αποθήκη, Υποκατάστημα #1, κ.λπ."
+"Example: Warehouse, Branch #1","Παράδειγμα: Αποθήκη, Υποκατάστημα #1"
+Street Address,Διεύθυνση
+"Apartment, Suite, Unit, Building, Floor, etc.","Διαμέρισμα, Σουίτα, Μονάδα, Κτήριο, Όροφος κ.λπ."
+"Department, c/o, etc.","Τμήμα, Κ/Κ κ.λπ."
+Mr,κύριος
+Miss,Δεσποινίδα
+Mrs,κυρία
+Ms,Κυρία
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Έχω Αριθμό Λογαριασμού UPS ΜΕ τιμολόγιο που προέκυψε τις τελευταίες 45 ημέρες (90 ημέρες εάν ο λογαριασμός σας βρίσκεται στις ΗΠΑ ή στον Καναδά)
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Έχω έναν αριθμό λογαριασμού UPS ΧΩΡΙΣ τιμολόγιο που προέκυψε τις τελευταίες 45 ημέρες (90 ημέρες εάν ο λογαριασμός σας βρίσκεται στις ΗΠΑ ή στον Καναδά)
+I do not have a UPS Account Number and would like to get one from the plug-in,Δεν έχω αριθμό λογαριασμού UPS και θα ήθελα να πάρω έναν με μειωμένες τιμές από την προσθήκη
+I don’t have a UPS account number and would,Δεν έχω αριθμό λογαριασμού UPS και θα είχα
+like,σαν
+to get one with discounted rates from the plug-in,για να αποκτήσετε ένα με μειωμένες τιμές από την προσθήκη
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),Το τιμολόγιο πρέπει να είναι οποιοδήποτε από τα 3 τελευταία που εκδόθηκαν από την UPS τις τελευταίες 45 ημέρες (90 ημέρες εάν ο λογαριασμός σας βρίσκεται στις ΗΠΑ ή στον Καναδά)
+Account name,Ονομα λογαριασμού
+Account number,Αριθμός λογαριασμού
+Invoice number,Αριθμός τιμολογίου
+Invoice amount,Ποσό τιμολογίου
+Currency,Νόμισμα
+Invoice date,Την ημερομηνία του τιμολογίου
+VAT number,ΑΦΜ
+Promo Code,Κωδικός προσφοράς
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Σημείωση: Απαγορεύεται στους αποστολείς να αποστέλλουν επικίνδυνα εμπορεύματα ή επικίνδυνα υλικά χρησιμοποιώντας τον λογαριασμό που έχει ανοίξει σε αυτήν την εφαρμογή.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Ο λογαριασμός σας θα υποστηρίζει παραδόσεις σε εξουσιοδοτημένες τοποθεσίες UPS Access Point™ μετά από 24 ώρες.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,Μπορείτε να βρείτε περισσότερες πληροφορίες σχετικά με επικίνδυνα εμπορεύματα και πώς η UPS μπορεί να σας υποστηρίξει στην αποστολή τους σε αυτόν τον σύνδεσμο <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Όνομα αναφοράς που θα συσχετιστεί με έναν λογαριασμό. Για παράδειγμα αποθήκη 1, αποθήκη 2, Κατάστημα 1, Κατάστημα 2 κ.λπ. Μπορείτε να επιλέξετε ελεύθερα το όνομα σύμφωνα με τις απαιτήσεις σας"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Ο ταχυδρομικός κώδικας ή ο ταχυδρομικός κώδικας που σχετίζεται με τον λογαριασμό σας UPS. Μπορείτε να το βρείτε στην κορυφή σε κάθε σελίδα του τιμολογίου σας για την UPS στην ενότητα ""Αγοραστής"""
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Το όνομα που σχετίζεται με τον λογαριασμό σας UPS. Μπορείτε να το βρείτε στην κορυφή σε κάθε σελίδα του τιμολογίου σας για την UPS στην ενότητα ""Αγοραστής"""
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,Ένας μοναδικός αλφαριθμητικός αριθμός έξι χαρακτήρων που προσδιορίζει τον λογαριασμό σας. Μπορείτε να το βρείτε στην επάνω αριστερή πλευρά σε κάθε σελίδα του τιμολογίου σας για την UPS
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,Ένας μοναδικός 12ψήφιος αριθμός που εκχωρείται από την UPS σε ένα τιμολόγιο. Μπορείτε να το βρείτε στην επάνω αριστερή πλευρά σε κάθε σελίδα του τιμολογίου σας για την UPS
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Συνολικό Οφειλόμενο Ποσό για το δεδομένο τιμολόγιο. Μπορείτε να το βρείτε στον πίνακα «Περίληψη Χρεώσεων» στην πρώτη σελίδα του τιμολογίου
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Ημερομηνία έκδοσης του τιμολογίου. Μπορείτε να το βρείτε στην επάνω αριστερή πλευρά σε κάθε σελίδα του τιμολογίου σας για την UPS
+Get started,Ξεκίνα
+Some of the data you entered is not valid. Please check again.,Ορισμένα από τα δεδομένα που εισαγάγατε δεν είναι έγκυρα. Παρακαλώ ξαναελέγξτε.
+Cannot create new Account Number,Δεν είναι δυνατή η δημιουργία νέου αριθμού λογαριασμού
+Email is not correct format,Το email δεν είναι σωστή μορφή
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,Το αίτημά σας για δημιουργία λογαριασμού αποστολής UPS δεν ήταν επιτυχές. Ελέγξτε τις τιμές «Πόλη» και «Ταχυδρομικός κώδικας» που εισαγάγατε. Ακολουθούν ορισμένες προτάσεις σχετικά με την πόλη και τον ταχυδρομικό κώδικα που αποτελούν έγκυρο συνδυασμό -
+Please update the city and postal code values with one of these selections and click Get Started,Ενημερώστε τις τιμές της πόλης και του ταχυδρομικού κώδικα με μία από αυτές τις επιλογές και κάντε κλικ στο Έναρξη
+Configuration,Διαμόρφωση
+//======================= Account Success Page,//======================= Σελίδα επιτυχίας λογαριασμού
+Your UPS Profile,Το προφίλ σας στο UPS
+Your Payment Account,Ο λογαριασμός πληρωμών σας
+Add another account number,Προσθέστε έναν άλλο αριθμό λογαριασμού
+Please enter the address attached to your account number,Εισαγάγετε τη διεύθυνση που επισυνάπτεται στον αριθμό λογαριασμού σας
+Phone,Τηλέφωνο
+Verify,Επαληθεύω
+Next,Επόμενο
+Remove,Αφαιρώ
+Account number already exists in 'Your Payment Account',"Ο αριθμός λογαριασμού υπάρχει ήδη στο ""Ο λογαριασμός πληρωμών σας"""
+Full name:,Πλήρες όνομα:
+Remove Account,Κατάργηση λογαριασμού
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Αυτός ο λογαριασμός θα καταργηθεί. Κάντε κλικ στο Ok για επιβεβαίωση, κλείστε το παράθυρο διαλόγου για ακύρωση."
+Your UPS account has been successfull registered,Ο λογαριασμός σας UPS έχει εγγραφεί με επιτυχία
+//======================= Shipping Services page,//======================= Σελίδα υπηρεσιών αποστολής
+Shipping Services,Υπηρεσίες αποστολής
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Επιλέξτε τις υπηρεσίες UPS που θέλετε να είναι ορατές στο ταμείο για τους e-shoppers σας. Για να μάθετε περισσότερα σχετικά με τις υπηρεσίες της UPS, ανατρέξτε στο Τιμολόγιο/Όροι και Προϋποθέσεις της UPS στο UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Αποστολή σε τοποθεσία UPS Access Point™ (παράδοση στο AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there",Η UPS παραδίδει το δέμα σε μια τοποθεσία UPS Access Point™ που έχει επιλέξει ο πελάτης για να το παραλάβει όσο το δυνατόν περισσότερο
+Yes,Ναί
+No,Οχι
+Set as default shipping option,Ορισμός ως προεπιλεγμένη επιλογή αποστολής
+Select the shipping services for your customers to choose,Επιλέξτε τις υπηρεσίες αποστολής για να επιλέξουν οι πελάτες σας
+"International shipping only - visible, when shipping address is outside of EU","Μόνο διεθνής αποστολή - ορατή, όταν η διεύθυνση αποστολής είναι εκτός ΕΕ"
+Access Point display setting:,Ρύθμιση εμφάνισης UPS Access Point:
+Number of Access Points visible to customers:,Αριθμός τοποθεσιών που είναι ορατές στους πελάτες:
+Display all the Access Points in range of:,Εμφάνιση όλων των τοποθεσιών στην περιοχή:
+kilometer around consignee's selected address,Μίλια γύρω από την επιλεγμένη διεύθυνση του παραλήπτη
+Choose Account Number for this option,Επιλέξτε Αριθμός λογαριασμού για αυτήν την επιλογή
+Deliver to consignee address (to-address delivery),Παράδοση στη διεύθυνση του παραλήπτη (παράδοση στη διεύθυνση)
+UPS delivers the parcel to the shipping address provided by customer.,Η UPS παραδίδει το δέμα στη διεύθυνση αποστολής που παρέχεται από τον πελάτη.
+Cut off time,Διακοπή χρόνου
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Ο χρόνος διακοπής που έχει επιλεγεί εδώ θα χρησιμοποιηθεί για τον υπολογισμό της ημερομηνίας και της ώρας παράδοσης του χρονοδιαγράμματος, η οποία θα εμφανίζεται στο ταμείο του ιστότοπού σας."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Για παράδειγμα, εάν η ώρα διακοπής έχει επιλεγεί ως 5 μ.μ. και οι ηλεκτρονικοί σας αγοραστές δουν το κατάστημά σας στις 5:01 μ.μ., όλες οι προγραμματισμένες ημερομηνίες και ώρα παράδοσης της UPS θα υπολογιστούν από την επόμενη εργάσιμη ημέρα. Όταν αποφασίζετε αυτόν τον χρόνο διακοπής, βεβαιωθείτε ότι έχετε αρκετό χρόνο για να εκπληρώσετε την παραγγελία πριν από την προγραμματισμένη παραλαβή του UPS ή ότι μπορείτε να παραδώσετε τα πακέτα σε μια τοποθεσία UPS Access Point™."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Εάν δεν είστε βέβαιοι για την ολοκλήρωση των παραγγελιών πελατών την ίδια ημέρα, μπορείτε να επιλέξετε «Απενεργοποίηση» που θα έχει ως αποτέλεσμα ο e-shopper να δει κατά προσέγγιση ημερομηνίες παράδοσης για κάθε διαθέσιμη υπηρεσία."
+Save,Αποθηκεύσετε
+Please select at least one shipping service.,Επιλέξτε τουλάχιστον μία υπηρεσία αποστολής.
+UPS Access Point™ Economy,UPS Access Point™ Economy
+UPS® Standard,UPS® Standard
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Σελίδα συλλογής κατά την παράδοση (Αντικαταβολή)
+Collect on Delivery (COD),Παραλαβή κατά την παράδοση (αντικαταβολή)
+You have the official Magento COD module enabled!,Έχετε ενεργοποιημένη την επίσημη μονάδα αντικαταβολής Magento!
+Only show Access Points supporting COD shipments?,Εμφάνιση μόνο σημείων πρόσβασης που υποστηρίζουν αποστολές αντικαταβολής;
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,Επιλέξτε «ΝΑΙ» εάν σκοπεύετε να προσφέρετε αποστολές αντικαταβολής σε ένα UPS Access Point™
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Η υπηρεσία αποστολής αντικαταβολής αυτού του plug-in είναι αυτόματα συμβατή με την επίσημη ενότητα Collect on Delivery (COD) της Magento.
+You do not have the official Magento COD module installed and/or enabled!,Δεν έχετε εγκατεστημένη και/ή ενεργοποιημένη την επίσημη μονάδα COD του Magento!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Η υπηρεσία αποστολής αντικαταβολής αυτού του πρόσθετου είναι αυτόματα συμβατή με την επίσημη ενότητα Αντικαταβολής (COD) της Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Εάν θέλετε η μονάδα UPS Shipping να εντοπίζει αυτόματα αποστολές αντικαταβολής, <strong>βεβαιωθείτε ότι έχετε εγκαταστήσει το Magento's Collect on Delivery (COD)</strong>. Εάν έχετε ήδη εγκατεστημένη τη λειτουργική μονάδα Magento's Collect on Delivery (COD), <strong>βεβαιωθείτε ότι η λειτουργική μονάδα είναι ενεργοποιημένη</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Κάντε κλικ εδώ</a>] για λεπτομερείς οδηγίες."
+COD Option,Επιλογή αντικαταβολής
+//======================= Package Dimensions page,//======================= Σελίδα Διαστάσεις πακέτου
+Package Dimensions,Διαστάσεις συσκευασίας
+Default Package Setting,Προεπιλεγμένη ρύθμιση πακέτου
+Default package setting,Προεπιλεγμένη ρύθμιση πακέτου
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Παρακαλούμε εισάγετε εδώ το βάρος και τις διαστάσεις της συσκευασίας σας. Μπορείτε να προσθέσετε πολλές διαστάσεις πακέτου, οι οποίες μπορούν εύκολα να επιλεγούν σε μια αναπτυσσόμενη επιλογή κατά τη δημιουργία αποστολών στο πρόσθετο."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Σε περίπτωση που αποφασίσετε να εμφανίσετε την τιμή αποστολής UPS σε πραγματικό χρόνο (που θα διαμορφωθεί στην επόμενη οθόνη) στους e-shoppers, το plug-in θα χρησιμοποιήσει το πρώτο πακέτο, το οποίο αναφέρεται ως «Προεπιλεγμένο πακέτο» που εμφανίζεται παρακάτω. Το βάρος και οι διαστάσεις του Προεπιλεγμένου πακέτου θα χρησιμοποιηθούν για τον υπολογισμό των τιμών αποστολής της UPS που θα εμφανίζονται στους ηλεκτρονικούς αγοραστές."
+Add New Package,Προσθήκη νέου πακέτου
+Package name,Ονομα πακέτου
+"Example: Standard, Large, Phone box, etc.","Παράδειγμα: Standard, Large, Phone box, κ.λπ."
+Weight,Βάρος
+Unit,Μονάδα
+Dimension,Διάσταση
+Add Package,Προσθήκη πακέτου
+Length,Μήκος
+Width,Πλάτος
+Height,Υψος
+The name Package is exist.,Το όνομα Πακέτο υπάρχει.
+Edit,Επεξεργασία
+Delete,Διαγράφω
+Editing Default Package,Επεξεργασία προεπιλεγμένου πακέτου
+Remove Package,Κατάργηση πακέτου
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Πρόκειται να αφαιρέσετε αυτό το προεπιλεγμένο πακέτο από το προφίλ σας. Κάντε κλικ στο Ok για επιβεβαίωση, κλείστε το παράθυρο διαλόγου για ακύρωση."
+OK,Εντάξει
+Please input at least one default package to continue.,Εισαγάγετε τουλάχιστον ένα προεπιλεγμένο πακέτο για να συνεχίσετε.
+Please select an option,Παρακαλώ επιλέξτε μια επιλογή
+Basic (number of items in the e-shopper order determine the package size),Βασικό (ο αριθμός των ειδών στην παραγγελία ηλεκτρονικού αγοραστή καθορίζει το μέγεθος του πακέτου)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Για προχωρημένους (τα βάρη και οι διαστάσεις των προϊόντων στην παραγγελία ηλεκτρονικού αγοραστή καθορίζουν το μέγεθος συσκευασίας)
+Package dimensions:,Διαστάσεις συσκευασίας:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,Σημείωση: το πρόσθετο θα δημιουργήσει ένα προσαρμοσμένο μέγεθος πακέτου εάν μια παραγγελία ηλεκτρονικού αγοραστή είναι μεγαλύτερη από τα πακέτα που εισάγετε
+Warning! To use this option you must enter product weights in the product settings of your shop.,"Προειδοποίηση! Για να χρησιμοποιήσετε αυτήν την επιλογή, πρέπει να εισαγάγετε βάρη προϊόντων στις ρυθμίσεις προϊόντων του καταστήματός σας."
+Include dimensions in rating,Συμπεριλάβετε διαστάσεις στην αξιολόγηση
+Yes,Ναί
+No,Οχι
+Number of items in order,Αριθμός ειδών κατά σειρά
+Add Backup Rate,Προσθήκη Backup Rate
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Εάν οριστεί σε ""Όχι"", οι τιμές θα βασίζονται μόνο στα βάρη των προϊόντων.&nbsp; Εάν οριστεί σε ""Ναι"", οι διαστάσεις του προϊόντος πρέπει να εισαχθούν στις ρυθμίσεις προϊόντος του καταστήματός σας"
+Name,Ονομα
+Length,Μήκος
+Width,Πλάτος
+Height,Υψος
+Weight,Βάρος
+Max Weight,Μέγιστο Βάρος
+Backup rate:,Ποσοστό δημιουργίας αντιγράφων ασφαλείας:
+Service Name,Όνομα Υπηρεσίας
+Rate,Τιμή
+Add Backup Rate,Προσθήκη Backup Rate
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Το Backup Rate θα εμφανίζεται στους ηλεκτρονικούς αγοραστές μόνο εάν υπάρχει πρόβλημα στις ρυθμίσεις του προϊόντος, όπως λείπουν βάρη ή εάν τα βάρη/διαστάσεις υπερβαίνουν τα όρια UPS"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Προσθέστε προεπιλεγμένα πακέτα, εάν θέλετε το μέγεθος πακέτου που χρησιμοποιείται για την αξιολόγηση να αλλάξει με βάση τον αριθμό των ειδών στην παραγγελία του e-shopper"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Σημείωση: εάν ο αριθμός των ειδών στην παραγγελία ηλεκτρονικού αγοραστή δεν ταιριάζει με καμία από τις καταχωρίσεις σας, τότε το μέγεθος του πακέτου που χρησιμοποιείται για την αξιολόγηση θα βασίζεται σε αυτό του υψηλότερου αριθμού αντικειμένων που έχει υπερβεί η παραγγελία ηλεκτρονικού αγοραστή."
+//======================= Checkout Shipping Rates page,//======================= Ολοκλήρωση αγοράς Σελίδα Τιμές Αποστολής
+Checkout Shipping Rates,Checkout Τιμές αποστολής
+Ship to UPS Access Point&trade;,Αποστολή στη θέση UPS Access Point™
+Flat rates,Κατ' αποκοπή ποσοστά
+Real time shipping rates,Τιμές αποστολής σε πραγματικό χρόνο
+Delivery rates is,Οι τιμές παράδοσης είναι
+% of UPS shipping rates,% των τιμών αποστολής της UPS
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,Ο e-shopper θα δει το % των τιμών UPS σε πραγματικό χρόνο. Αυτές οι τιμές υπολογίζονται χρησιμοποιώντας το προεπιλεγμένο βάρος και τις διαστάσεις του πακέτου που διαμορφώσατε στην προηγούμενη οθόνη (Διαστάσεις πακέτου).
+Ship to Address,Αποστολή σε διεύθυνση
+Order Value Threshold,Όριο αξίας παραγγελίας
+Delivery rates,Τιμές παράδοσης
+The minimum thresholds can not be the same.,Τα ελάχιστα όρια δεν μπορεί να είναι τα ίδια.
+//======================= Complete Configuration page,//======================= Ολοκληρωμένη σελίδα διαμόρφωσης
+Complete Configuration,Ολοκληρωμένη διαμόρφωση
+You can start shipping now!,Μπορείτε να ξεκινήσετε την αποστολή τώρα!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,"Κάντε κλικ στο κουμπί ""Ολοκλήρωση διαμόρφωσης"" για να ολοκληρώσετε τη διαμόρφωση του πρόσθετου και να ξεκινήσετε να προσφέρετε υπηρεσίες αποστολής της UPS στον ιστότοπό σας."
+"If you are new to UPS, please refer to the following FAQs for additional information:","Εάν είστε νέος στην UPS, ανατρέξτε στις ακόλουθες Συχνές Ερωτήσεις για πρόσθετες πληροφορίες:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Πώς μπορώ να λάβω περισσότερες πληροφορίες σχετικά με τον νέο μου λογαριασμό αποστολής UPS;<br />Εάν ανοίξατε έναν νέο λογαριασμό αποστολής UPS από την προσθήκη, ένα μήνυμα ηλεκτρονικού ταχυδρομείου επιβεβαίωσης με περισσότερες πληροφορίες θα σταλεί στη διεύθυνση ηλεκτρονικού ταχυδρομείου που καταχωρίσατε κατά τη διάρκεια δημιουργία του νέου λογαριασμού."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Πώς μπορώ να προετοιμάσω τα πακέτα μου για συλλογή UPS ή να παραδώσω σε μια τοποθεσία UPS Access Point™;<br />Ανατρέξτε στις συστάσεις προετοιμασίας πακέτων σε αυτόν τον σύνδεσμο - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Πώς μπορώ να δώσω τα πακέτα μου στην UPS;<br />Μπορείτε να παραδώσετε το πακέτο σας σε οποιαδήποτε εξουσιοδοτημένη τοποθεσία της UPS, όπως μια τοποθεσία UPS Access Point™. Κάντε κλικ παρακάτω για να αναζητήσετε μια βολική τοποθεσία κοντά σας"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Μπορείτε επίσης να ζητήσετε από την UPS να παραλάβει πακέτα από την αποθήκη ή τη διεύθυνση της επιχείρησής σας. Εάν χρειάζεστε περιστασιακή παραλαβή, μπορείτε να προγραμματίσετε απευθείας μια παραλαβή από την UPS.COM χρησιμοποιώντας αυτόν τον σύνδεσμο - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Εάν διαθέτετε πακέτα UPS τις περισσότερες εργάσιμες ημέρες και προτιμάτε μια κανονική παραλαβή της UPS, μπορείτε να επικοινωνήσετε με την UPS καλώντας στον αριθμό τηλεφώνου που παρέχεται στην ενότητα Ερωτήσεις χρέωσης <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>εδώ</a>. Στη συνέχεια, ένας εκπρόσωπος της UPS θα επικοινωνήσει μαζί σας για να συζητήσει μια καθημερινή παραλαβή της UPS."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Εάν έχετε πακέτα UPS τις περισσότερες εργάσιμες ημέρες και προτιμάτε μια κανονική παραλαβή UPS, ανατρέξτε σε αυτόν τον σύνδεσμο για οδηγίες σχετικά με τον προγραμματισμό ημερήσιων παραλαβών: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Τι βήματα πρέπει να ακολουθήσω για να δημιουργήσω μια υπηρεσία UPS Collect on Delivery (COD);<br />Μπορείτε να επικοινωνήσετε με την UPS καλώντας στον αριθμό τηλεφώνου που παρέχεται στην ενότητα Ερωτήσεις χρέωσης <a href='https://www .ups.com/%1/%2/help-center/contact.page' target='_blank'>εδώ</a>. Στη συνέχεια, ένας εκπρόσωπος της UPS θα επικοινωνήσει μαζί σας για να συζητήσει την υπηρεσία αντικαταβολής."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Ποια βήματα πρέπει να κάνω για να δημιουργήσω μια υπηρεσία UPS Collect on Delivery (COD);<br />Εάν ενδιαφέρεστε να χρησιμοποιήσετε τις υπηρεσίες UPS Collect on Delivery (COD), ανατρέξτε σε αυτόν τον σύνδεσμο για λεπτομέρειες: <br /> a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Αναζήτηση τοποθεσιών
+Print form,Εκτύπωση φόρμας
+//======================= E-shopper page,//======================= Σελίδα e-shopper
+Deliver to an UPS Access Point<sup>TM</sup>,Παράδοση σε τοποθεσία UPS Access Point™
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Το πακέτο σας θα παραδοθεί σε μια τοποθεσία UPS Access Point™
+Open 24 hours,Ανοιχτά 24 ώρες
+The address is required,Απαιτείται η διεύθυνση
+Please select an Access Point to process,Επιλέξτε ένα σημείο πρόσβασης για επεξεργασία
+Operating Hours,Ωρες λειτουργίας
+Open,Ανοιξε
+Close,Κλείσε
+Monday,Δευτέρα
+Closed,Κλειστό
+Tuesday,Τρίτη
+Wednesday,Τετάρτη
+Thursday,Πέμπτη
+Friday,Παρασκευή
+Saturday,Σάββατο
+Sunday,Κυριακή
+Search for the UPS Access Point<sup>TM</sup>,Αναζητήστε τοποθεσίες UPS Access Point™
+Near,Κοντά
+Delivered by End of Business Day,Παράδοση μέχρι το τέλος της εργάσιμης ημέρας
+"Address line, City, State, Postcode","Γραμμή διεύθυνσης, πόλη, πολιτεία, ταχυδρομικός κώδικας"
+"Address line,City,State,Postcode","Γραμμή διεύθυνσης, πόλη, πολιτεία, ταχυδρομικός κώδικας"
+Use my delivery address,Χρησιμοποιήστε τη διεύθυνση παράδοσης μου
+Search,Αναζήτηση
+Results,Αποτελέσματα
+Select,Επιλέγω
+Deliver to Your Address,Παράδοση στη διεύθυνσή σας
+Your package will be delivered to your address,Το πακέτο σας θα παραδοθεί στη διεύθυνσή σας
+UPS SHIPPING,UPS ΑΠΟΣΤΟΛΗ
+Delivery today!,Παράδοση σήμερα!
+Delivery next day!,Παράδοση την επόμενη μέρα!
+Next two days!,Οι επόμενες δύο μέρες!
+Next three days!,Το επόμενο τριήμερο!
+Next four days!,Οι επόμενες τέσσερις μέρες!
+Next five days!,Οι επόμενες πέντε μέρες!
+Next six days!,Οι επόμενες έξι μέρες!
+Next seven days!,Επόμενες επτά ημέρες!
+Next eight days!,Οι επόμενες οκτώ μέρες!
+Next nine days!,Οι επόμενες εννιά μέρες!
+Next ten days!,Το επόμενο δεκαήμερο!
+delivered by,παραδόθηκε από
+Delivered by,Παραδόθηκε από
+January,Ιανουάριος
+February,Φεβρουάριος
+March,Μάρτιος
+April,Απρίλιος
+May,Ενδέχεται
+June,Ιούνιος
+July,Ιούλιος
+August,Αύγουστος
+September,Σεπτέμβριος
+November,Νοέμβριος
+October,Οκτώβριος
+December,Δεκέμβριος
+//======================= Open Order page,//======================= Ανοίξτε σελίδα παραγγελίας
+Open Orders,Ανοιχτές Παραγγελίες
+Create Single Shipments,Δημιουργία μεμονωμένων αποστολών
+Create Batch Shipments,Δημιουργία παρτίδων
+Export All Orders,Εξαγωγή όλων των παραγγελιών
+Export Orders,Παραγγελίες εξαγωγής
+Archive Orders,Παραγγελίες αρχείου
+Order ID,Αριθμός Παραγγελίας
+Order Date,Ημερομηνία παραγγελίας
+Product,Προϊόν
+Delivery Address,Διεύθυνση παράδοσης
+Shipping Service,Υπηρεσία αποστολής
+COD,ΓΑΔΟΣ
+Action,Δράση
+No results!,Χωρίς αποτέλεσμα!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Προειδοποίηση - Η αρχειοθέτηση παραγγελιών θα μετακινήσει τις παραγγελίες σας στην καρτέλα Αρχειοθέτηση και δεν μπορείτε πλέον να επεξεργαστείτε αυτές τις παραγγελίες. Κάντε κλικ στο 'OK' για να συνεχίσετε, στο 'Cancel' για να επιστρέψετε στην οθόνη"
+Cancel,Ματαίωση
+//======================= Detail Order page,//======================= Λεπτομέρειες σελίδα παραγγελίας
+Order,Σειρά
+Order #,Σειρά #
+Customer,Πελάτης
+Order value,Αξία παραγγελίας
+Payment status,Κατάσταση πληρωμής
+Access Point,Σημείο πρόσβασης
+//======================= Create single shipment page,//======================== Δημιουργία σελίδας αποστολής
+Process Shipment,Διαδικασία Αποστολής
+Ship From,Αποστολή από
+Ship To,Αποστολή προς
+Accessorial service,Εξυπηρέτηση αξεσουάρ*
+Packaging,Συσκευασία
+Package #1,Πακέτο #1
+Package #,Πακέτο #
+Add package,Προσθήκη πακέτου
+View estimated shipping fee and delivery date,Δείτε την εκτιμώμενη χρέωση αποστολής και την ημερομηνία παράδοσης
+Edit,Επεξεργασία
+Create Shipment,Δημιουργία Αποστολής
+Custom Package,Προσαρμοσμένο πακέτο
+Name,Ονομα
+Address,Διεύθυνση
+State,κατάσταση
+Note: Insufficient or incorrect address may increase the shipping fee,Σημείωση: Ανεπαρκής ή λανθασμένη διεύθυνση ενδέχεται να αυξήσει τα έξοδα αποστολής
+Additional Handling,Πρόσθετος χειρισμός
+Additional handling,Πρόσθετος χειρισμός
+Quantum View Ship Notification,Ειδοποίηση αποστολής Quantum View
+Quantum View Delivery Notification,Ειδοποίηση παράδοσης Quantum View
+Residential Address,Διεύθυνση κατοικίας
+Saturday Delivery,Παράδοση Σαββάτου
+Carbon Neutral,Ουδέτερος άνθρακας
+Direct Delivery Only,Μόνο απευθείας παράδοση
+Declared value,Δηλωμένη αξία
+Signature Required,Απαιτείται υπογραφή
+Adult Signature Required,Απαιτείται υπογραφή ενηλίκου
+To Home COD,Προς το σπίτι αντικαταβολή
+Cancel Editing,Ακύρωση επεξεργασίας
+To Access Point COD,Στο σημείο πρόσβασης COD
+Orders to be processed,Παραγγελίες προς επεξεργασία
+The name is not empty,Το όνομα δεν είναι κενό
+The address is required,Απαιτείται η διεύθυνση
+The postal code is empty or invalid,Ο ταχυδρομικός κώδικας είναι κενός ή άκυρος
+The city is not empty,Η πόλη δεν είναι άδεια
+Invalid email format,Μη έγκυρη μορφή email
+The phone is not empty,Το τηλέφωνο δεν είναι άδειο
+Some of the data you entered is not valid. Please check again.,Ορισμένα από τα δεδομένα που εισαγάγατε δεν είναι έγκυρα. Παρακαλώ ξαναελέγξτε.
+There are errors connecting to the UPS API servers. Please try again.,Υπάρχουν σφάλματα κατά τη σύνδεση με τους διακομιστές API της UPS. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.
+//======================= Shipment page,//======================= Σελίδα αποστολής
+Shipments,Αποστολές
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Επιλέγοντας οποιαδήποτε παραγγελία σε αυτήν την καρτέλα αποστολής, συμφωνώ με το <a href='javascrip:void(0);' id='term-condition'>Όροι και Προϋποθέσεις.</a>"
+UPS Tracking Terms and Conditions,Όροι και Προϋποθέσεις παρακολούθησης της UPS
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","ΕΙΔΟΠΟΙΗΣΗ: Τα συστήματα παρακολούθησης πακέτων UPS στα οποία έχετε πρόσβαση μέσω αυτής της υπηρεσίας (τα ""Συστήματα Παρακολούθησης"") και οι πληροφορίες παρακολούθησης που λαμβάνονται μέσω αυτής της υπηρεσίας (οι ""Πληροφορίες"") αποτελούν ιδιωτική ιδιοκτησία της UPS. Η UPS σάς εξουσιοδοτεί να χρησιμοποιείτε τα Συστήματα Παρακολούθησης αποκλειστικά για την παρακολούθηση αποστολών που προσφέρονται από ή για εσάς στην UPS για παράδοση και για κανέναν άλλο σκοπό. Χωρίς περιορισμό, δεν είστε εξουσιοδοτημένοι να κάνετε τις Πληροφορίες διαθέσιμες σε οποιονδήποτε ιστότοπο ή να αναπαράγετε, διανέμετε, αντιγράφετε, αποθηκεύετε, χρησιμοποιείτε ή πουλάτε με άλλον τρόπο τις Πληροφορίες για εμπορικό όφελος χωρίς τη ρητή γραπτή συγκατάθεση της UPS. Αυτή είναι μια προσωπική υπηρεσία, επομένως το δικαίωμά σας να χρησιμοποιείτε τα Συστήματα Παρακολούθησης ή τις Πληροφορίες δεν εκχωρείται. Οποιαδήποτε πρόσβαση ή χρήση που δεν συνάδει με αυτούς τους όρους είναι μη εξουσιοδοτημένη και απαγορεύεται αυστηρά."
+Download PDF Label,Λήψη ετικέτας PDF
+Download ZPL Label,Κατεβάστε το ZPL Label
+Export Shipment Data,Εξαγωγή δεδομένων αποστολής
+Cancel Shipments,Ακύρωση Αποστολών
+ID Shipment,Αποστολή ταυτότητας
+Tracking Number,Αριθμός εντοπισμού
+Date,Ημερομηνία
+Estimated Shipping Fee,Εκτιμώμενο τέλος αποστολής
+Shipment #,Αποστολή #
+Order #ID reference,Αναφορά ταυτότητας παραγγελίας
+Package details,Λεπτομέρειες πακέτου
+Are you sure you want to cancel selected shipment(s)?,Είστε βέβαιοι ότι θέλετε να ακυρώσετε επιλεγμένες αποστολές;
+Shipment Canceled,Η αποστολή ακυρώθηκε
+Archived Orders,Αρχειοθετημένες παραγγελίες
+//======================= Additional,//======================= Πρόσθετα
+Packaging:,Συσκευασία:
+Access Point display setting:,Ρύθμιση εμφάνισης UPS Access Point:
+Number of Access Points visible to customers:,Αριθμός σημείων πρόσβασης ορατά στους πελάτες:
+Display all the Access Points in range of:,Εμφάνιση όλων των σημείων πρόσβασης στην περιοχή:
+Title:,Τίτλος:
+Company:,Εταιρία:
+Email:,ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ:
+Phone &nbsp number:,Αριθμός τηλεφώνου &nbsp:
+Phone &nbsp;number:,Αριθμός τηλεφώνου &nbsp;:
+Address type:,Τύπος Διεύθυνσης:
+Address:,Διεύθυνση:
+Postal code:,Ταχυδρομικός Κώδικας:
+City:,Πόλη:
+Country:,Χώρα:
+Account Name:,Ονομα λογαριασμού:
+Account Number:,Αριθμός λογαριασμού:
+Account number:,Αριθμός λογαριασμού:
+Invoice Number:,Αριθμός τιμολογίου:
+Invoice Amount:,Ποσό τιμολογίου:
+Currency:,Νόμισμα:
+Invoice date:,Την ημερομηνία του τιμολογίου:
+Name:,Ονομα:
+Phone:,Τηλέφωνο:
+Customer:,Πελάτης:
+Product:,Προϊόν:
+Shipping service:,Υπηρεσία αποστολής:
+Order value:,Αξία παραγγελίας:
+Payment status:,Κατάσταση πληρωμής:
+Access Point:,Σημείο πρόσβασης:
+Payment Status:,Κατάσταση πληρωμής:
+Phone number:,Τηλεφωνικό νούμερο:
+Package:,Πακέτο:
+Estimated Shipping fee:,Εκτιμώμενο κόστος αποστολής:
+Estimated Shipping Fee:,Εκτιμώμενο τέλος αποστολής:
+Orders to be processed:,Παραγγελίες προς επεξεργασία:
+Order #ID reference:,Αναφορά ταυτότητας παραγγελίας:
+Package details:,Λεπτομέρειες πακέτου:
+Tracking number:,Αριθμός εντοπισμού:
+Accessorial Service:,Εξυπηρέτηση αξεσουάρ:
+Accessorial service:,Εξυπηρέτηση αξεσουάρ:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Εάν είστε νέος στην UPS, ανατρέξτε στις ακόλουθες Συχνές Ερωτήσεις για πρόσθετες πληροφορίες:"
+VAT Number:,ΑΦΜ:
+Promo Code:,Κωδικός προσφοράς:
+Country/Territory:,Χώρα/Επικράτεια:
+End of Business Day,Τέλος εργάσιμης ημέρας
+//==============================Security Enhancement page,
+Security Enhancement,Ενίσχυση Ασφάλειας
+SECURITY ENHANCEMENTS ACTIVATION,ΕΝΕΡΓΟΠΟΙΗΣΗ ΕΝΙΣΧΥΣΕΩΝ ΑΣΦΑΛΕΙΑΣ
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","Με την εγκατάσταση της προσθήκης UPS αποκτήσατε αυτή τη βολική επιλογή για να εφαρμόσετε τις προτεινόμενες βελτιώσεις ασφαλείας της UPS στο ηλεκτρονικό σας κατάστημα. Ενεργοποιώντας συγκεκριμένες βελτιώσεις ασφαλείας παρακάτω, μπορείτε να κάνετε το ηλεκτρονικό σας κατάστημα λιγότερο ευάλωτο σε ορισμένες κοινές επιθέσεις χάκερ."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Defense
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Δείτε [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] για περισσότερες λεπτομέρειες. Εάν ενεργοποιήσετε αυτήν την άμυνα, τότε η προσθήκη UPS θα ασφαλίσει το κατάστημά σας κοινοποιώντας την πολιτική πλαισίωσης στο πρόγραμμα περιήγησης του χρήστη μέσω της κεφαλίδας απόκρισης HTTP «X-Frame-Options: Sameorigin» και εισάγοντας το σενάριο java «frame-breaker» για προγράμματα περιήγησης παλαιού τύπου.- Προσθήκη UPS μπορεί να ασφαλίσει τις σελίδες του Front Office του ηλεκτρονικού σας καταστήματος σύμφωνα με το Φύλλο εξαπάτησης του Clickjacking Defense που προτείνεται από το OWASP Απενεργοποιήστε αυτήν την άμυνα εάν θέλετε να ενεργοποιήσετε το πλαίσιο του γραφικού περιβάλλοντος χρήστη του ηλεκτρονικού σας καταστήματος σε ιστότοπους τρίτων. ή αν έχετε ήδη εφαρμόσει αυτή την άμυνα διαφορετικά."
+Use X-Frame-Options response header,Χρησιμοποιήστε την κεφαλίδα απόκρισης X-Frame-Options
+Do not use,Μη χρησιμοποιεις
+Deny,Αρνούμαι
+SameOrigin,SameOrigin
+Use frame-killer script:,Χρησιμοποιήστε σενάριο frame-killer:
+Use Content-Security-Policy response header,Χρησιμοποιήστε την κεφαλίδα απάντησης Content-Security-Policy
+frame-ancestors 'none',"πλαίσιο-πρόγονοι ""κανένας"""
+frame-ancestors 'sefl',καρέ-πρόγονοι «sefl»
+Content Sniffing Prevention,Πρόληψη ρουφήγματος περιεχομένου
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Ανατρέξτε στη wikipedia για περισσότερες λεπτομέρειες. Εάν κάνετε αυτήν την επιλογή, η προσθήκη UPS θα ασφαλίσει το ηλεκτρονικό σας κατάστημα Front Office εφαρμόζοντας <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Κεφαλίδα απόκρισης HTTP σε όλες τις σελίδες του Magento Front Office. Αυτό θα αποτρέψει το πρόγραμμα περιήγησης του πελάτη (κυρίως τον Internet Explorer) από το MIME-sniff μια απάντηση μακριά από τον δηλωμένο τύπο περιεχομένου. Μπορεί να μην το χρειάζεστε πραγματικά, καθώς οι χρήστες σας δεν υποτίθεται ότι ανεβάζουν τυχόν επιβλαβή αρχεία στο e-shop σας (π.χ. JavaScript αντί για Εικόνα). Ωστόσο, εξακολουθεί να είναι καλή πρακτική η ενεργοποίηση αυτής της ειδικής κεφαλίδας ασφαλείας καθώς δεν υπάρχει ποινή απόδοσης που να σχετίζεται με αυτήν."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,Ενεργοποιεί φίλτρα δέσμης ενεργειών μεταξύ τοποθεσιών σε προγράμματα περιήγησης που υποστηρίζουν την οδηγία X-XSS-Protection
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Ανατρέξτε στη wikipedia για περισσότερες λεπτομέρειες. Εάν κάνετε αυτήν την επιλογή, η προσθήκη UPS θα ασφαλίσει το ηλεκτρονικό σας κατάστημα Front Office εφαρμόζοντας <br />X-XSS-Protection: '1; mode=block' <br />Κεφαλίδα απόκρισης HTTP σε όλες τις σελίδες του Magento Front Office."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Προστατέψτε τον ιστότοπο του ηλεκτρονικού σας καταστήματος από επιθέσεις υποβάθμισης πρωτοκόλλου και πειρατεία cookie
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Ανατρέξτε στη wikipedia για περισσότερες λεπτομέρειες Εάν κάνετε αυτήν την επιλογή, η προσθήκη UPS θα ασφαλίσει το ηλεκτρονικό σας κατάστημα Front Office εφαρμόζοντας <br />Strict-Transport-Security 'max-age=31536000; περιλαμβάνει <br />Επικεφαλίδα απόκρισης HTTP του SubDomains σε όλες τις σελίδες του Magento Front Office."
+Prevent sensitive pages from caching by browser.,Αποτρέψτε ευαίσθητες σελίδες από την προσωρινή αποθήκευση από το πρόγραμμα περιήγησης.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Δείτε τις Συνήθεις Ερωτήσεις του OWASP για περισσότερες λεπτομέρειες. Εάν ενεργοποιήσετε αυτήν την επιλογή, η προσθήκη UPS θα εξασφαλίσει τη διαδικασία Checkout εφαρμόζοντας<br />Cache-Control: no-cache, no-store <br />Λήγει: 0 <br />Pragma: no-cache <br /> Επικεφαλίδες απόκρισης HTTP στις αντίστοιχες σελίδες"
+Apply to pages,Εφαρμογή σε σελίδες
+All,Ολα
+Checkout only,Μόνο ταμείο
+Data saved successfully.,Τα δεδομένα αποθηκεύτηκαν με επιτυχία.
+We couldn't find any records,Δεν μπορέσαμε να βρούμε κανένα αρχείο
+Please wait…,Παρακαλώ περιμένετε…
+Archiving Orders,Αρχειοθέτηση Παραγγελιών
+There is no shipping service for the above address,Δεν υπάρχει υπηρεσία αποστολής για την παραπάνω διεύθυνση
+The email is not empty,Το email δεν είναι κενό
+The country is not empty,Η χώρα δεν είναι άδεια
+Select all,Επιλογή όλων
+Unselect all,Καταργήστε την επιλογή όλων
+Do not have label for this Tracking ID,Δεν υπάρχει ετικέτα για αυτό το αναγνωριστικό παρακολούθησης
+Print Label or download file.,Εκτύπωση ετικέτας ή λήψη αρχείου.
+"Connection error, try later to install and configure","Σφάλμα σύνδεσης, δοκιμάστε αργότερα να εγκαταστήσετε και να ρυθμίσετε τις παραμέτρους"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Δεν μπορούμε να ακυρώσουμε αυτήν την αποστολή αυτήν τη στιγμή. Μπορείτε να επιχειρήσετε να ακυρώσετε την αποστολή αργότερα. Ωστόσο, δεν θα χρεωθείτε για αυτήν την αποστολή, υπό την προϋπόθεση ότι δεν χρησιμοποιείτε την ετικέτα αποστολής"
+Estimated Fee,Εκτιμώμενο τέλος
+Shipping fee,Εξοδα αποστολής
+Poland,Πολωνία
+United Kingdom,Ηνωμένο Βασίλειο
+France,Γαλλία
+Germany,Γερμανία
+Italy,Ιταλία
+Netherlands,Ολλανδία
+Spain,Ισπανία
+Belgium,Βέλγιο
+Shipment Manager,Υπεύθυνος Αποστολών
+Default Package,Προεπιλεγμένο πακέτο
+Order Time,Ώρα παραγγελίας
+Time,χρόνος
+Warning,Προειδοποίηση
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Λάθος! Η συσκευασία υπερβαίνει το μέγιστο επιτρεπόμενο μέγεθος των 400 cm ή 157,48 ίντσες (υπολογισμός μέγιστου επιτρεπόμενου μεγέθους = μήκος + 2 * πλάτος + 2 * ύψος)."
+Access Points Address will be used as an alternative shipping address,Η διεύθυνση σημείων πρόσβασης θα χρησιμοποιηθεί ως εναλλακτική διεύθυνση αποστολής
+Ship To (UPS Access Point),Αποστολή σε (Σημείο πρόσβασης UPS)

@@ -1,0 +1,470 @@
+//======================= About page,//======================= Dwar il-paġna
+About,Dwar
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,UPS ssieħbet ma' Magento biex toffri UPS Shipping u UPS Access Point™ Modulu b'xejn li jippermettilek tintegra u toffri firxa wiesgħa ta' soluzzjonijiet ta' trasport u kunsinna UPS direttament fuq il-proċess ta' check-out tal-websajt tiegħek! Dan il-Modulu UPS uffiċjali għal Magento jagħti lill-klijenti tiegħek aċċess għan-netwerk espansiv tagħna tal-UPS Access Point u s-servizzi tal-kunsinna.
+Features of this product,Karatteristiċi ta 'dan il-prodott
+Front Office,Front Office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,Interfaċċa tal-mappa sempliċi u faċli għall-klijenti tiegħek biex jagħżlu l-UPS Access Point skont il-preferenza tagħhom.
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,Interfaċċja faċli għall-utent għall-klijenti tiegħek biex jaqilbu mill-kunsinna tal-Punt ta' Aċċess għall-kunsinna tad-dar.
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Rata tat-tbaħħir UPS f'ħin reali jew rati fissi għal kull servizz disponibbli (skond is-settings tal-back office tan-negozjant).
+Back Office,Back Office
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Firxa ta’ għażliet biex jiġu stabbiliti rati ta’ konsenja li l-klijenti tiegħek se jaraw (pereżempju: tbaħħir b’xejn, rati ta’ tbaħħir f’ħin reali, jew rati fissi skont il-limiti tal-valur tal-basket)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Possibbiltà li tiftaħ kont UPS direttament fil-modulu innifsu, jekk ma jkollokx wieħed."
+Easy PDF label generation.,Ġenerazzjoni faċli tat-tikketta PDF.
+Real time tracking information.,Informazzjoni ta 'traċċar f'ħin reali.
+Ability to export open orders so that you can process them in other applications for more complex needs.,Kapaċità li tesporta ordnijiet miftuħa sabiex tkun tista 'tipproċessahom f'applikazzjonijiet oħra għal bżonnijiet aktar kumplessi.
+Module version number and release date,Numru tal-verżjoni tal-modulu u data tar-rilaxx
+Module version v,Verżjoni tal-modulu v
+Release date,Data tal-ħruġ
+Changelog,Changelog
+Platform compatibility statement,Dikjarazzjoni tal-kompatibilità tal-pjattaforma
+"Compatible with Magento versions 2.1, 2.2, 2.3","Kompatibbli mal-verżjonijiet Magento 2.1, 2.2, 2.3"
+UPS Shipping Module website,Il-websajt tal-UPS Shipping Module
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,Għal aktar informazzjoni żur <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,Għal aktar informazzjoni żur
+Support information,Informazzjoni ta' appoġġ
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Għal għajnuna fl-installazzjoni, it-titjib jew l-użu tal-UPS Shipping Module, jekk jogħġbok ikkuntattja lill-UPS fuq -"
+Poland +48 (0) 22 203 03 21,Il-Polonja +48 (0) 22 203 03 21
+UPS Shipping Module,Modulu tat-Tbaħħir UPS
+UPS Shipping,UPS Shipping
+Shipment management,Ġestjoni tal-ġarr
+//======================= Country page,//======================= Paġna tal-pajjiż
+Country setting,L-issettjar tal-Pajjiż
+Country Setting,L-issettjar tal-Pajjiż
+Please select your country/territory,Jekk jogħġbok agħżel il-pajjiż/territorju tiegħek
+Continue,Kompli
+//======================= Terms and Condition page,//======================= paġna Termini u Kundizzjoni
+UPS Terms and Conditions,UPS Termini u Kundizzjonijiet
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Naqbel mal-Ftehim dwar it-Teknoloġija tal-UPS u nikkonferma li ngħatajt biżżejjed żmien biex naqrah u nifhem li fih termini importanti dwar l-użu tiegħi tat-Teknoloġiji UPS, bħall-limitazzjoni tar-responsabbiltà tal-UPS u l-qbil tiegħi dwar kif se jkunu t-tilwim bejn UPS u jien. immaniġġjati"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Naqbel mal-Ftehim dwar it-Teknoloġija tal-UPS u nikkonferma li ingħatajt biżżejjed żmien biex naqrah u nifhem li fih termini importanti dwar l-użu tiegħi tat-Teknoloġiji UPS,"
+like,simili
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,nillimita r-responsabbiltà ta' UPS u l-qbil tiegħi dwar kif se jiġu ttrattati tilwim bejn UPS u jien.
+Print,Stampa
+Cannot get Term & Condition,Ma tistax tikseb Terminu u Kundizzjoni
+//======================= Account Page,//======================= Paġna tal-Kont
+Account,Kont
+ACCOUNT,KONT
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),Għal aktar informazzjoni dwar UPS Plugins jekk jogħġbok ikklikkja <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>din il-link< /a> (tiftaħ f'tieqa ġdida tal-browser)
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,Jekk jogħġbok imla l-formola hawn taħt biex tibda tikkonfigura l-plug-in tal-UPS għall-websajt tal-kummerċ elettroniku tiegħek
+Title,Titolu
+Full name,Isem sħiħ
+Full Name,Isem sħiħ
+Company,Kumpanija
+Email,Email
+Phone number,Numru tat-telefon
+Address type,Tip ta' indirizz
+Address,Indirizz
+Postal code,kodiċi postali
+City,Belt
+Country/Territory,Pajjiż/Territorju
+"Example: Warehouse, Branch #1, etc.","Eżempju: Maħżen, Fergħa #1, eċċ."
+"Example: Warehouse, Branch #1","Eżempju: Maħżen, Fergħa #1"
+Street Address,Indirizz ta 't-triq
+"Apartment, Suite, Unit, Building, Floor, etc.","Appartament, Suite, Unità, Bini, Art, eċċ."
+"Department, c/o, etc.","Dipartiment, c/o, eċċ."
+Mr,Mr
+Miss,Miss
+Mrs,Sinjura
+Ms,Sinjorina
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Għandi Numru tal-Kont UPS B'fattura li seħħet fl-aħħar 45 jum (90 jum jekk il-kont tiegħek jinsab fl-Istati Uniti jew fil-Kanada)
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Għandi Numru tal-Kont UPS MINGĦAJR fattura seħħet fl-aħħar 45 jum (90 jum jekk il-kont tiegħek jinsab fl-Istati Uniti jew fil-Kanada)
+I do not have a UPS Account Number and would like to get one from the plug-in,M'għandix numru tal-kont UPS u nixtieq nieħu wieħed b'rati mnaqqsa mill-plug-in
+I don’t have a UPS account number and would,M'għandix numru tal-kont UPS u kieku
+like,simili
+to get one with discounted rates from the plug-in,biex tikseb waħda b'rati mnaqqsa mill-plug-in
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),Il-fattura għandha tkun waħda mill-aħħar 3 maħruġa minn UPS fl-aħħar 45 jum (90 jum jekk il-kont tiegħek jinsab fl-Istati Uniti jew fil-Kanada)
+Account name,Isem tal-kont
+Account number,Numru tal-kont
+Invoice number,Numru tal-fattura
+Invoice amount,Ammont tal-fattura
+Currency,Munita
+Invoice date,Data tal-fattura
+VAT number,numru tal-VAT
+Promo Code,Kodiċi Promo
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Jekk jogħġbok Innota: Il-bastimenti huma pprojbiti milli jbaħħru oġġetti perikolużi jew materjali perikolużi billi jużaw il-kont miftuħ f'din l-applikazzjoni.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Il-kont tiegħek ser jappoġġja kunsinni f'postijiet awtorizzati tal-UPS Access Point™ wara 24 siegħa.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,Tista' ssib aktar informazzjoni dwar oġġetti perikolużi u kif l-UPS tista' tgħinek tbaħħirhom fuq din il-link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Isem ta' referenza li se jkun assoċjat ma' kont. Pereżempju maħżen 1, maħżen 2, Aħżen 1, Aħżen 2 eċċ. Tista' tagħżel liberament l-isem skont il-ħtieġa tiegħek"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',Il-kodiċi postali jew il-kodiċi postali assoċjati mal-kont UPS tiegħek. Tista' ssibha fin-naħa ta' fuq f'kull paġna tal-fattura tal-UPS tiegħek taħt 'Xerrej'
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',L-isem assoċjat mal-kont UPS tiegħek. Tista' ssibha fin-naħa ta' fuq f'kull paġna tal-fattura tal-UPS tiegħek taħt 'Xerrej'
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,Numru alfanumeriku uniku ta' sitt karattri li jidentifika l-kont tiegħek. Tista' tinstab fuq in-naħa ta' fuq tax-xellug fuq kull paġna tal-fattura tal-UPS tiegħek
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,Numru uniku bi 12-il ċifra assenjat minn UPS lil fattura. Tista' tinstab fuq in-naħa ta' fuq tax-xellug fuq kull paġna tal-fattura tal-UPS tiegħek
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Ammont Totali dovut għall-fattura mogħtija. Tista' ssibha fuq it-tabella 'Sommarju tal-Ħlasijiet' fl-ewwel paġna fuq il-fattura
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Data tal-ħruġ tal-fattura. Tista' tinstab fuq in-naħa ta' fuq tax-xellug fuq kull paġna tal-fattura tal-UPS tiegħek
+Get started,Ibda
+Some of the data you entered is not valid. Please check again.,Xi wħud mid-dejta li daħħalt mhix valida. Jekk jogħġbok iċċekkja mill-ġdid.
+Cannot create new Account Number,Ma tistax toħloq Numru tal-Kont ġdid
+Email is not correct format,L-email mhuwiex format korrett
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,It-talba tiegħek biex toħloq Kont tat-Tbaħħir UPS ma rnexxietx. Jekk jogħġbok iċċekkja l-valuri tal-‘Belt’ u l-‘Kodiċi Postali’ li daħħalt. Hawn xi suġġerimenti dwar il-Belt u l-Kodiċi Postali li huma taħlita valida -
+Please update the city and postal code values with one of these selections and click Get Started,Jekk jogħġbok aġġorna l-valuri tal-belt u tal-kodiċi postali b'waħda minn dawn l-għażliet u kklikkja Ibda
+Configuration,Konfigurazzjoni
+//======================= Account Success Page,//======================= Paġna ta' Suċċess tal-Kont
+Your UPS Profile,Il-Profil UPS Tiegħek
+Your Payment Account,Il-Kont tal-Ħlas Tiegħek
+Add another account number,Żid numru ta' kont ieħor
+Please enter the address attached to your account number,Jekk jogħġbok daħħal l-indirizz mehmuż man-numru tal-kont tiegħek
+Phone,Telefon
+Verify,Ivverifika
+Next,Li jmiss
+Remove,Neħħi
+Account number already exists in 'Your Payment Account',In-numru tal-kont diġà jeżisti fil-'Kont tal-Ħlas Tiegħek'
+Full name:,Isem sħiħ:
+Remove Account,Neħħi Kont
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Dan il-kont se jitneħħa. Ikklikkja Ok biex tikkonferma, agħlaq id-djalogu biex tikkanċella."
+Your UPS account has been successfull registered,Il-kont UPS tiegħek ġie rreġistrat b'suċċess
+//======================= Shipping Services page,//======================= Paġna tas-Servizzi tat-Tbaħħir
+Shipping Services,Servizzi ta' Tbaħħir
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Agħżel is-servizzi tal-UPS li trid tkun viżibbli fil-checkout għall-e-shoppers tiegħek. Biex titgħallem aktar dwar is-servizzi tal-UPS, irreferi Tariffa/Termini u Kundizzjonijiet tas-Servizz tal-UPS fuq UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Ibgħat f'post tal-UPS Access Point™ (kunsinna lill-AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there",UPS twassal il-pakkett f'post tal-UPS Access Point™ magħżul mill-klijent biex jiġborhom fil-konvenjenza tiegħu
+Yes,Iva
+No,Nru
+Set as default shipping option,Issettja bħala għażla default tat-tbaħħir
+Select the shipping services for your customers to choose,Agħżel is-servizzi tat-tbaħħir għall-klijenti tiegħek biex jagħżlu
+"International shipping only - visible, when shipping address is outside of EU","Tbaħħir internazzjonali biss - viżibbli, meta l-indirizz tat-tbaħħir ikun barra mill-UE"
+Access Point display setting:,Issettjar tal-wiri tal-Punt ta' Aċċess tal-UPS:
+Number of Access Points visible to customers:,Numru ta' postijiet viżibbli għall-klijenti:
+Display all the Access Points in range of:,Uri l-postijiet kollha fil-firxa ta’:
+kilometer around consignee's selected address,Mili madwar l-indirizz magħżul tad-destinatarju
+Choose Account Number for this option,Agħżel Numru tal-Kont għal din l-għażla
+Deliver to consignee address (to-address delivery),Kunsinna lill-indirizz tad-destinatarju (konsenja lejn l-indirizz)
+UPS delivers the parcel to the shipping address provided by customer.,UPS iwassal il-pakkett fl-indirizz tat-tbaħħir ipprovdut mill-klijent.
+Cut off time,Ħin maqtugħ
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Il-ħin tal-qtugħ magħżul hawnhekk se jintuża fil-kalkolu tad-data u l-ħin tal-kunsinna tal-iskeda, li se jintwerew fuq il-kontroll tal-websajt tiegħek."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Pereżempju, jekk il-ħin tal-qtugħ jintgħażel bħala 5 PM u l-e-shoppers tiegħek jaraw il-ħanut tal-web tiegħek fil-5:01 PM, id-dati u l-ħin tal-kunsinna skedati kollha tal-UPS jiġu kkalkulati mill-jum ta' negozju ta' wara. Meta tiddeċiedi dan il-ħin ta' qtugħ, jekk jogħġbok kun żgur li għandek żmien biżżejjed biex twettaq l-ordni qabel il-ġbir skedat tal-UPS jew tkun tista' twaqqa' l-pakketti f'post tal-UPS Access Point™."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Jekk m'intix ċert dwar it-twettiq ta' l-ordnijiet tal-klijenti fl-istess jum, tista' tagħżel 'Iżżarma' li tirriżulta f'li l-e-shopper jara d-dati ta' kunsinna approssimattivi għal kull servizz disponibbli."
+Save,Ħlief
+Please select at least one shipping service.,Jekk jogħġbok agħżel mill-inqas servizz tat-tbaħħir wieħed.
+UPS Access Point™ Economy,UPS Access Point™ Ekonomija
+UPS® Standard,UPS® Standard
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Paġna Iġbor mal-Kunsinna (COD)
+Collect on Delivery (COD),Iġbor mal-Konsenja (COD)
+You have the official Magento COD module enabled!,Għandek il-modulu COD uffiċjali ta' Magento attivat!
+Only show Access Points supporting COD shipments?,Uri biss il-Punti ta' Aċċess li jappoġġaw il-vjeġġi COD?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,Agħżel 'IVA' jekk qed tippjana li toffri vjeġġi COD lil UPS Access Point™
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Is-servizz COD Shipping ta’ dan il-plug-in huwa awtomatikament kompatibbli mal-modulu uffiċjali Collect on Delivery (COD) minn Magento.
+You do not have the official Magento COD module installed and/or enabled!,M'għandekx il-modulu COD uffiċjali ta' Magento installat u/jew attivat!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Is-servizz COD Shipping ta 'dan il-plugin huwa awtomatikament kompatibbli mal-modulu uffiċjali Cash on Delivery (COD) minn Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Jekk trid li l-modulu UPS Shipping awtomatikament jiskopri vjeġġi COD,<strong>jekk jogħġbok kun żgur li installajt Magento's Collect on Delivery (COD)</strong>. Jekk diġà għandek il-modulu Collect on Delivery (COD) ta' Magento installat,<strong>jekk jogħġbok kun żgur li l-modulu huwa attivat</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Ikklikkja hawn</a>] għal gwida dettaljata."
+COD Option,Għażla COD
+//======================= Package Dimensions page,//======================= Paġna tad-Dimensjonijiet tal-Pakkett
+Package Dimensions,Dimensjonijiet tal-Pakkett
+Default Package Setting,L-issettjar tal-pakkett default
+Default package setting,Issettjar default tal-pakkett
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Jekk jogħġbok daħħal il-piż u d-dimensjonijiet tal-ippakkjar tiegħek hawn. Tista 'żżid dimensjonijiet multipli tal-pakkett, li jistgħu jintgħażlu faċilment f'għażla dropdown meta toħloq vjeġġi fil-plug-in."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","F'każ li tiddeċiedi li turi r-rata tat-tbaħħir tal-UPS f'ħin reali (li trid tiġi kkonfigurata fl-iskrin li jmiss) lill-e-shoppers, il-plug-in juża l-ewwel pakkett, imsejjaħ il-'Pakkett Default' li jidher hawn taħt. Il-piż u d-dimensjonijiet tal-Pakkett Default se jintużaw biex jiġu kkalkulati r-rati tat-tbaħħir UPS li se jintwerew lill-e-shoppers."
+Add New Package,Żid Pakkett Ġdid
+Package name,Isem tal-pakkett
+"Example: Standard, Large, Phone box, etc.","Eżempju: Standard, Kbir, Kaxxa tat-telefown, eċċ."
+Weight,Piż
+Unit,Unità
+Dimension,Dimensjoni
+Add Package,Żid Pakkett
+Length,Tul
+Width,Wisa'
+Height,Għoli
+The name Package is exist.,L-isem Pakkett huwa jeżisti.
+Edit,Editja
+Delete,Ħassar
+Editing Default Package,Editjar Pakkett Default
+Remove Package,Neħħi l-Pakkett
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Int se tneħħi dan il-pakkett default mill-profil tiegħek. Ikklikkja Ok biex tikkonferma, agħlaq id-djalogu biex tikkanċella."
+OK,kollox sew
+Please input at least one default package to continue.,Jekk jogħġbok daħħal mill-inqas pakkett wieħed default biex tkompli.
+Please select an option,Jekk jogħġbok agħżel għażla
+Basic (number of items in the e-shopper order determine the package size),Bażiku (in-numru ta 'oġġetti fl-ordni ta' e-shopper jiddetermina d-daqs tal-pakkett)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Avvanzat (il-piżijiet u d-dimensjonijiet tal-prodotti fl-ordni tal-e-shopper jiddeterminaw id-daqs tal-pakkett)
+Package dimensions:,Dimensjonijiet tal-pakkett:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,Nota: il-plugin se joħloq daqs ta' pakkett apposta jekk ordni ta' e-shopper tkun akbar mill-pakketti li ddaħħal
+Warning! To use this option you must enter product weights in the product settings of your shop.,Twissija! Biex tuża din l-għażla trid iddaħħal il-piżijiet tal-prodotti fis-settings tal-prodott tal-ħanut tiegħek.
+Include dimensions in rating,Inkludi dimensjonijiet fil-klassifikazzjoni
+Yes,Iva
+No,Nru
+Number of items in order,Numru ta' oġġetti fl-ordni
+Add Backup Rate,Żid ir-Rata tal-Backup
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Jekk issettjati għal ""Le"", ir-rati se jkunu bbażati fuq il-piżijiet tal-prodott biss.&nbsp; Jekk issettjat għal ""Iva"", id-dimensjonijiet tal-prodott għandhom jiddaħħlu fis-settings tal-prodott tal-ħanut tiegħek"
+Name,Isem
+Length,Tul
+Width,Wisa'
+Height,Għoli
+Weight,Piż
+Max Weight,Piż Massimu
+Backup rate:,Rata ta' backup:
+Service Name,Isem tas-Servizz
+Rate,Rata
+Add Backup Rate,Żid ir-Rata tal-Backup
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Ir-Rata tal-Backup se turi biss lil xerrejja elettroniċi jekk ikun hemm kwistjoni fl-issettjar tal-prodott, bħal piżijiet neqsin jew jekk piżijiet/dimensjonijiet jaqbżu l-limiti tal-UPS"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,Żid pakketti awtomatiċi jekk tixtieq li d-daqs tal-pakkett użat għall-klassifikazzjoni jinbidel skont in-numru ta’ oġġetti fl-ordni tal-e-shopper
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Nota: jekk in-numru ta 'oġġetti fl-ordni ta' e-shopper ma jaqbilx ma 'ebda waħda mill-entrati tiegħek, allura d-daqs tal-pakkett użat għall-klassifikazzjoni jkun ibbażat fuq dak tal-ogħla għadd ta' oġġetti maqbuż mill-ordni ta 'e-shopper."
+//======================= Checkout Shipping Rates page,//======================= Iċċekkja l-paġna tar-Rati tat-Tbaħħir
+Checkout Shipping Rates,Iċċekkja Rati tat-Tbaħħir
+Ship to UPS Access Point&trade;,Vapur lejn il-post tal-UPS Access Point™
+Flat rates,Rati fissi
+Real time shipping rates,Rati tat-tbaħħir f'ħin reali
+Delivery rates is,Ir-rati tal-kunsinna huwa
+% of UPS shipping rates,% tar-rati tat-tbaħħir UPS
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,L-e-shopper se jara l-% tar-rati tal-UPS f'ħin reali. Dawn ir-rati huma kkalkulati bl-użu tal-piż u d-dimensjonijiet default tal-pakkett li kkonfigurajt fl-iskrin preċedenti (Dimensjonijiet tal-Pakkett).
+Ship to Address,Vapur għall-Indirizz
+Order Value Threshold,Limitu tal-Valur tal-Ordni
+Delivery rates,Rati ta' konsenja
+The minimum thresholds can not be the same.,Il-limiti minimi ma jistgħux ikunu l-istess.
+//======================= Complete Configuration page,//======================= Tlesti l-paġna tal-Konfigurazzjoni
+Complete Configuration,Tlesti Konfigurazzjoni
+You can start shipping now!,Tista 'tibda tbaħħir issa!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,Ikklikkja fuq il-buttuna 'Konfigurazzjoni Kompleta' biex tlesti l-konfigurazzjoni tal-plug-in u tibda toffri servizzi tat-tbaħħir UPS fuq il-websajt tiegħek.
+"If you are new to UPS, please refer to the following FAQs for additional information:","Jekk int ġdid għall-UPS, jekk jogħġbok irreferi għall-FAQs li ġejjin għal informazzjoni addizzjonali:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Kif nista 'nikseb aktar informazzjoni dwar il-kont il-ġdid tiegħi tat-tbaħħir UPS?<br />Jekk ftaħt kont ġdid tat-tbaħħir UPS mill-plug-in, tintbagħat email ta' konferma b'aktar informazzjoni fl-indirizz elettroniku li daħħalt waqt toħloq il-kont il-ġdid."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Kif nipprepara l-pakketti tiegħi għall-ġbir tal-UPS jew niżel f'post tal-UPS Access Point™?<br />Irreferi għar-rakkomandazzjonijiet tal-preparazzjoni tal-pakketti f'din il-link - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,3. Kif nagħti l-pakketti tiegħi lil UPS?<br />Tista' twaqqa' l-pakkett tiegħek fi kwalunkwe post awtorizzat tal-UPS bħal post tal-UPS Access Point™. Ikklikkja hawn taħt biex tfittex post konvenjenti ħdejk
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Tista' wkoll titlob lill-UPS biex tiġbor pakketti mill-maħżen jew mill-indirizz tan-negozju tiegħek. Jekk għandek bżonn pickup okkażjonali, tista' tiskeda direttament pickup minn UPS.COM billi tuża din il-link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Jekk għandek pakketti UPS fil-biċċa l-kbira tal-ġranet tax-xogħol u tippreferi pickup regolari tal-UPS, tista’ tikkuntattja lill-UPS billi ċċempel fuq in-numru tat-telefon ipprovdut taħt Mistoqsijiet dwar il-Billing <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>hawn</a>. Imbagħad rappreżentant tal-UPS ikun f'kuntatt miegħek biex jiddiskuti pickup tal-UPS ta' kuljum."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Jekk għandek pakketti UPS fil-biċċa l-kbira tal-ġranet tax-xogħol u tippreferi pickup regolari tal-UPS, jekk jogħġbok irreferi għal din il-link għal struzzjonijiet dwar l-iskedar ta' pickups ta' kuljum: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,4. X'passi għandi nieħu biex inwaqqaf servizz ta' UPS Collect on Delivery (COD)?<br />Tista' tikkuntattja lill-UPS billi ċċempel fuq in-numru tat-telefon ipprovdut taħt Mistoqsijiet dwar Billing <a href='https://www. .ups.com/%1/%2/help-center/contact.page' target='_blank'>hawn</a>. Imbagħad rappreżentant tal-UPS ikun f'kuntatt miegħek biex jiddiskuti s-servizz COD.
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. X'passi għandi nieħu biex inwaqqaf servizz ta' UPS Collect on Delivery (COD)?<br />Jekk int interessat li tuża s-servizzi ta' UPS Collect on Delivery (COD), jekk jogħġbok irreferi għal din il-link għad-dettalji: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Fittex postijiet
+Print form,Formola stampata
+//======================= E-shopper page,//======================= Paġna ta' E-shopper
+Deliver to an UPS Access Point<sup>TM</sup>,Ikkonsenja f'post tal-UPS Access Point™
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Il-pakkett tiegħek se jiġi kkonsenjat f'post tal-UPS Access Point™
+Open 24 hours,Miftuħa 24 siegħa
+The address is required,L-indirizz huwa meħtieġ
+Please select an Access Point to process,Jekk jogħġbok agħżel Punt ta' Aċċess biex tipproċessa
+Operating Hours,Ħinijiet ta' Operazzjoni
+Open,Miftuħa
+Close,Agħlaq
+Monday,it-Tnejn
+Closed,Magħluq
+Tuesday,it-Tlieta
+Wednesday,l-Erbgħa
+Thursday,il-Ħamis
+Friday,il-Ġimgħa
+Saturday,is-Sibt
+Sunday,il-Ħadd
+Search for the UPS Access Point<sup>TM</sup>,Fittex għall-postijiet tal-UPS Access Point™
+Near,Qrib
+Delivered by End of Business Day,Mogħtija sa Tmiem il-Jum tax-Xogħol
+"Address line, City, State, Postcode","Linja ta' l-indirizz, Belt, Stat, Kodiċi Postali"
+"Address line,City,State,Postcode","Linja ta' l-indirizz, Belt, Stat, Kodiċi Postali"
+Use my delivery address,Uża l-indirizz tal-kunsinna tiegħi
+Search,Fittex
+Results,Riżultati
+Select,Agħżel
+Deliver to Your Address,Ikkonsenja fl-Indirizz Tiegħek
+Your package will be delivered to your address,Il-pakkett tiegħek se jitwassal fl-indirizz tiegħek
+UPS SHIPPING,UPS SHIPPING
+Delivery today!,Kunsinna llum!
+Delivery next day!,Kunsinna l-għada!
+Next two days!,Jumejn li ġejjin!
+Next three days!,Tlett ijiem li ġejjin!
+Next four days!,Erbat ijiem li ġejjin!
+Next five days!,Il-ħamest ijiem li ġejjin!
+Next six days!,Sitt ijiem li ġejjin!
+Next seven days!,Sebat ijiem li ġejjin!
+Next eight days!,Tmint ijiem li ġejjin!
+Next nine days!,Id-disat ijiem li ġejjin!
+Next ten days!,Għaxart ijiem li ġejjin!
+delivered by,mogħtija minn
+Delivered by,Mogħtija minn
+January,Jannar
+February,Frar
+March,Marzu
+April,April
+May,Mejju
+June,Ġunju
+July,Lulju
+August,Awissu
+September,Settembru
+November,Novembru
+October,Ottubru
+December,Diċembru
+//======================= Open Order page,//======================= Il-paġna tal-Ordni Miftuħa
+Open Orders,Ordnijiet Miftuħa
+Create Single Shipments,Oħloq Vjeġġi Uniċi
+Create Batch Shipments,Oħloq Vjeġġi tal-lott
+Export All Orders,Esportazzjoni Ordnijiet Kollha
+Export Orders,Ordnijiet ta' Esportazzjoni
+Archive Orders,Ordnijiet ta' Arkivju
+Order ID,ID tal-Ordni
+Order Date,Data tal-Ordni
+Product,Prodott
+Delivery Address,Indirizz ta' Kunsinna
+Shipping Service,Servizz tat-Tbaħħir
+COD,COD
+Action,Azzjoni
+No results!,Ebda riżultati!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Twissija - L-arkivjar tal-ordnijiet se jċaqlaq l-ordnijiet tiegħek fit-tab tal-Arkivju u ma tistax tipproċessa aktar dawn l-ordnijiet. Ikklikkja 'OK' biex tkompli, 'Ikkanċella' biex tmur lura għall-iskrin"
+Cancel,Ikkanċella
+//======================= Detail Order page,//======================= Dettall Ordni paġna
+Order,Ordni
+Order #,Ordni #
+Customer,Klijent
+Order value,Valur tal-ordni
+Payment status,Status tal-ħlas
+Access Point,Punt ta' Aċċess
+//======================= Create single shipment page,//======================= Oħloq paġna waħda tal-ġarr
+Process Shipment,Ġarr tal-Proċess
+Ship From,Vapur Minn
+Ship To,Vapur Lil
+Accessorial service,Servizz Aċċessorjali*
+Packaging,Ippakkjar
+Package #1,Pakkett #1
+Package #,Pakkett #
+Add package,Żid il-pakkett
+View estimated shipping fee and delivery date,Ara t-tariffa tat-tbaħħir stmata u d-data tal-kunsinna
+Edit,Editja
+Create Shipment,Oħloq Ġarr
+Custom Package,Pakkett tad-dwana
+Name,Isem
+Address,Indirizz
+State,Stat
+Note: Insufficient or incorrect address may increase the shipping fee,Nota: Indirizz insuffiċjenti jew mhux korrett jista 'jżid il-ħlas tat-tbaħħir
+Additional Handling,Immaniġġjar Addizzjonali
+Additional handling,Immaniġġjar Addizzjonali
+Quantum View Ship Notification,Quantum View Notifika tal-Vapur
+Quantum View Delivery Notification,Notifika ta' Kunsinna Quantum View
+Residential Address,Indirizz Residenzjali
+Saturday Delivery,Kunsinna tas-Sibt
+Carbon Neutral,Karbonju Newtrali
+Direct Delivery Only,Kunsinna Diretta Biss
+Declared value,Valur iddikjarat
+Signature Required,Firma Meħtieġa
+Adult Signature Required,Firma Adult Meħtieġa
+To Home COD,To Home COD
+Cancel Editing,Ikkanċella Editjar
+To Access Point COD,Biex Aċċess Punt COD
+Orders to be processed,Ordnijiet li jridu jiġu pproċessati
+The name is not empty,L-isem mhuwiex vojt
+The address is required,L-indirizz huwa meħtieġ
+The postal code is empty or invalid,Il-kodiċi postali huwa vojt jew invalidu
+The city is not empty,Il-belt mhix vojta
+Invalid email format,Format ta' email mhux validu
+The phone is not empty,It-telefon mhux vojt
+Some of the data you entered is not valid. Please check again.,Xi wħud mid-dejta li daħħalt mhix valida. Jekk jogħġbok iċċekkja mill-ġdid.
+There are errors connecting to the UPS API servers. Please try again.,Hemm żbalji fil-konnessjoni mas-servers tal-API tal-UPS. Jekk jogħġbok erġa pprova.
+//======================= Shipment page,//======================= Paġna tal-ġarr
+Shipments,Vjeġġi
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Billi nagħżel kwalunkwe ordni f'din it-tab tal-ġarr, naqbel mal-<a href='javascrip:void(0);' id='term-condition'>Termini u Kundizzjonijiet.</a>"
+UPS Tracking Terms and Conditions,UPS Tracking Termini u Kundizzjonijiet
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","AVVIŻ: Is-sistemi ta 'traċċar tal-pakketti UPS aċċessati permezz ta' dan is-servizz (il-""Sistemi ta 'Traċċar"") u l-informazzjoni ta' traċċar miksuba permezz ta 'dan is-servizz (l-""Informazzjoni"") hija l-proprjetà privata ta' UPS. UPS tawtorizzak tuża s-Sistemi ta' Traċċar biss biex issegwi vjeġġi offerti minn jew għalik lil UPS għall-kunsinna u għall-ebda skop ieħor. Mingħajr limitazzjoni, m'intix awtorizzat li tagħmel l-Informazzjoni disponibbli fuq kwalunkwe websajt jew inkella tirriproduċi, tqassam, tikkopja, taħżen, tuża jew tbigħ l-Informazzjoni għal gwadann kummerċjali mingħajr il-kunsens espress bil-miktub ta' UPS. Dan huwa servizz personali, għalhekk id-dritt tiegħek li tuża s-Sistemi ta' Traċċar jew l-Informazzjoni mhuwiex assenjat. Kwalunkwe aċċess jew użu li huwa inkonsistenti ma 'dawn it-termini huwa mhux awtorizzat u strettament ipprojbit."
+Download PDF Label,Niżżel it-Tikketta PDF
+Download ZPL Label,Niżżel it-Tikketta ZPL
+Export Shipment Data,Esportazzjoni ta' Data tal-Ġarr
+Cancel Shipments,Ikkanċella Vjeġġi
+ID Shipment,Ġarr tal-ID
+Tracking Number,Numru tat-Traċċar
+Date,Data
+Estimated Shipping Fee,Ħlas Stima tat-Tbaħħir
+Shipment #,Vjaġġ #
+Order #ID reference,Ordni #ID referenza
+Package details,Dettalji tal-pakkett
+Are you sure you want to cancel selected shipment(s)?,Int żgur li trid tikkanċella vjeġġ(i) magħżula?
+Shipment Canceled,Ġarr Ikkanċellat
+Archived Orders,Ordnijiet Arkivjati
+//======================= Additional,//======================= Addizzjonali
+Packaging:,Ippakkjar:
+Access Point display setting:,Issettjar tal-wiri tal-Punt ta' Aċċess tal-UPS:
+Number of Access Points visible to customers:,Numru ta' Punti ta' Aċċess viżibbli għall-klijenti:
+Display all the Access Points in range of:,Uri l-Punti ta’ Aċċess kollha f’firxa ta’:
+Title:,Titolu:
+Company:,Kumpanija:
+Email:,Email:
+Phone &nbsp number:,Numru tat-telefon & nbsp:
+Phone &nbsp;number:,Numru &nbsp; tat-telefon:
+Address type:,Tip ta' indirizz:
+Address:,Indirizz:
+Postal code:,Kodiċi postali:
+City:,Belt:
+Country:,Pajjiż:
+Account Name:,Isem tal-kont:
+Account Number:,Numru tal-kont:
+Account number:,Numru tal-kont:
+Invoice Number:,Numru tal-Fattura:
+Invoice Amount:,Ammont tal-Fattura:
+Currency:,Munita:
+Invoice date:,Data tal-fattura:
+Name:,Isem:
+Phone:,Telefon:
+Customer:,Klijent:
+Product:,Prodott:
+Shipping service:,Servizz ta' trasport bil-baħar:
+Order value:,Valur tal-ordni:
+Payment status:,Status tal-ħlas:
+Access Point:,Punt ta' Aċċess:
+Payment Status:,Status tal-Ħlas:
+Phone number:,Numru tat-telefon:
+Package:,Pakkett:
+Estimated Shipping fee:,Stima tat-Tbaħħir:
+Estimated Shipping Fee:,Ħlas Stima tat-Tbaħħir:
+Orders to be processed:,Ordnijiet li jridu jiġu pproċessati:
+Order #ID reference:,Referenza tal-Ordni #ID:
+Package details:,Dettalji tal-pakkett:
+Tracking number:,Numru tat-traċċar:
+Accessorial Service:,Servizz Aċċessorjali:
+Accessorial service:,Servizz Aċċessorjali:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Jekk int ġdid għall-UPS, jekk jogħġbok irreferi għall-FAQs li ġejjin għal informazzjoni addizzjonali:"
+VAT Number:,Numru tal-VAT:
+Promo Code:,Kodiċi promozzjonali:
+Country/Territory:,Pajjiż/Territorju:
+End of Business Day,Tmiem il-Jum tax-Xogħol
+//==============================Security Enhancement page,
+Security Enhancement,Titjib tas-Sigurtà
+SECURITY ENHANCEMENTS ACTIVATION,ATTIVAZZJONI TA' TITJIB TAS-SIGURTÀ
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",Billi installajt UPS Plugin ksibt din l-għażla konvenjenti biex tapplika Titjib tas-Sigurtà rakkomandat mill-UPS għall-ħanut elettroniku tiegħek. Billi tippermetti titjib partikolari tas-sigurtà hawn taħt tista' tagħmel il-ħanut elettroniku tiegħek inqas vulnerabbli għal attakki ta' xi hackers komuni.
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Difiża
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Ara [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] għal aktar dettalji. Jekk tippermetti din id-difiża, allura l-plugin UPS jiżgura l-maħżen tiegħek billi jikkomunika l-politika tal-qafas lill-browser tal-utent permezz tal-header tar-rispons HTTP 'X-Frame-Options: Sameorigin' u billi jinjetta script java 'frame-breaker' għal browsers legacy.- UPS Plugin jista' jiżgura l-paġni tal-Front Office tal-ħanut elettroniku tiegħek skont il-Clickjacking Defense Cheat Sheet rakkomandat mill-OWASP Iddiżattiva din id-difiża jekk tixtieq li tippermetti l-iffissar tal-GUI tal-ħanut elettroniku tiegħek fuq websajts ta' partijiet terzi; jew jekk diġà implimentajt din id-difiża b'mod differenti."
+Use X-Frame-Options response header,Uża l-header tar-rispons X-Frame-Options
+Do not use,Tużax
+Deny,Tiċħad
+SameOrigin,L-istess Oriġini
+Use frame-killer script:,Uża skript frame-killer:
+Use Content-Security-Policy response header,Uża l-header tar-rispons tal-Kontenut-Sigurtà-Politika
+frame-ancestors 'none',antenati tal-qafas 'xejn'
+frame-ancestors 'sefl',antenati tal-qafas 'sefl'
+Content Sniffing Prevention,Prevenzjoni tax-Xamma tal-Kontenut
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Ara l-wikipedia għal aktar dettalji. Jekk tiċċekkja din l-għażla, il-plugin UPS se jassigura l-Front Office tal-ħanut elettroniku tiegħek billi japplika <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Header ta' Rispons HTTP għall-paġni kollha tal-Front Office ta' Magento. Dan se jipprevjeni lill-browser tal-klijent (b'mod partikolari l-Internet Explorer) milli jxamm rispons minn MIME mit-tip ta' kontenut iddikjarat. Jista' jkun li ma jkollokx bżonnha tassew peress li l-utenti tiegħek m'għandhomx itellgħu fajls potenzjalment ta' ħsara fil-ħanut elettroniku tiegħek (eż. JavaScript minflok Immaġni). Madankollu, għadha prattika tajba li din l-intestatura tas-sigurtà speċjali tiġi attivata peress li m'hemm l-ebda penali tal-prestazzjoni assoċjata magħha."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,Jippermetti filtri cross-site scripting fil-browsers li jappoġġjaw id-direttiva X-XSS-Protection
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Ara l-wikipedia għal aktar dettalji. Jekk tiċċekkja din l-għażla, il-plugin UPS se jassigura l-Front Office tal-ħanut elettroniku tiegħek billi japplika <br />X-XSS-Protection: '1; mode=block' <br />Heater tar-rispons HTTP għall-paġni kollha tal-Front Office ta' Magento."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Ipproteġi l-websajt tal-ħanut elettroniku tiegħek kontra attakki ta' downgrade tal-protokoll u ħtif tal-cookies
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Ara l-wikipedia għal aktar dettalji Jekk tiċċekkja din l-għażla, il-plugin UPS se jassigura l-Front Office tal-ħanut elettroniku tiegħek billi japplika <br />Strict-Transport-Security 'max-age=31536000; include SubDomains' <br />Heater ta' rispons HTTP għall-paġni kollha tal-Front Office ta' Magento."
+Prevent sensitive pages from caching by browser.,Ipprevjeni li paġni sensittivi jdaħħlu fil-caching bil-browser.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Ara l-FAQs tal-OWASP għal aktar dettalji. Jekk tiċċekkja din l-għażla, il-plugin UPS jiżgura l-proċess tal-Checkout billi japplika<br />Cache-Control: no-cache, no-store <br />Jiskadi: 0 <br />Pragma: no-cache <br /> Intestaturi tar-rispons HTTP għall-paġni korrispondenti"
+Apply to pages,Applika għall-paġni
+All,Kollha
+Checkout only,Iċċekkja biss
+Data saved successfully.,Data salvata b'suċċess.
+We couldn't find any records,Ma stajna nsibu l-ebda rekord
+Please wait…,Stenna…
+Archiving Orders,Ordnijiet ta' Arkivjar
+There is no shipping service for the above address,M'hemm l-ebda servizz tat-tbaħħir għall-indirizz ta 'hawn fuq
+The email is not empty,L-email mhix vojta
+The country is not empty,Il-pajjiż mhux vojt
+Select all,Agħżel kollox
+Unselect all,Unselect kollha
+Do not have label for this Tracking ID,M'għandekx tikketta għal din l-ID tat-Traċċar
+Print Label or download file.,Stampa Tikketta jew niżżel il-fajl.
+"Connection error, try later to install and configure","Żball fil-konnessjoni, ipprova aktar tard biex tinstalla u kkonfigurat"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,F'dan il-ħin ma nistgħux inħallu din il-vjeġġ. Tista' tipprova tħassar il-vjeġġ aktar tard. Madankollu inti mhux se tiġi ffatturat għal din il-konsenja sakemm ma tużax it-tikketta tat-tbaħħir
+Estimated Fee,Ħlas Stima
+Shipping fee,Ħlas tat-tbaħħir
+Poland,Polonja
+United Kingdom,Ir-Renju Unit
+France,Franza
+Germany,il-Ġermanja
+Italy,l-Italja
+Netherlands,l-Olanda
+Spain,Spanja
+Belgium,il-Belġju
+Shipment Manager,Maniġer tal-Ġarr
+Default Package,Pakkett Default
+Order Time,Ħin tal-Ordni
+Time,Ħin
+Warning,Twissija
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,Żball! Il-pakkett jaqbeż id-daqs massimu permissibbli ta '400 ċm jew 157.48 pulzier (il-kalkolu tad-daqs massimu permess = tul + 2 * wisa' + 2 * għoli).
+Access Points Address will be used as an alternative shipping address,Indirizz tal-Punti ta' Aċċess se jintuża bħala indirizz tat-tbaħħir alternattiv
+Ship To (UPS Access Point),Vapur Lejn (Punt ta' Aċċess UPS)

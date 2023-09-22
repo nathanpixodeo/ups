@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+  <table name="ups_shipping_package_default" resource="default" engine="innodb" comment="ups_shipping_package_default">
+    <column xsi:type="int" name="package_id" padding="10" unsigned="true" nullable="false" identity="true" comment="Package ID"/>
+    <column xsi:type="varchar" name="package_name" nullable="true" length="255" comment="Package Name"/>
+    <column xsi:type="float" name="weight" scale="2" precision="10" unsigned="false" nullable="true" comment="Weight"/>
+    <column xsi:type="varchar" name="unit_weight" nullable="true" length="30" comment="Unit weight"/>
+    <column xsi:type="float" name="length" scale="2" precision="10" unsigned="false" nullable="true" comment="Length"/>
+    <column xsi:type="float" name="width" scale="2" precision="10" unsigned="false" nullable="true" comment="Width"/>
+    <column xsi:type="float" name="height" scale="2" precision="10" unsigned="false" nullable="true" comment="Height"/>
+    <column xsi:type="varchar" name="unit_dimension" nullable="true" length="30" comment="Unit dimension"/>
+    <column xsi:type="int" name="package_number" padding="11" unsigned="false" nullable="true" identity="false" comment="Number Package"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="package_id"/>
+    </constraint>
+    <index referenceId="UPS_SHIPPING_PACKAGE_DEFAULT_PACKAGE_ID" indexType="btree">
+      <column name="package_id"/>
+    </index>
+  </table>
+  <table name="ups_shipping_fallback_rates" resource="default" engine="innodb" comment="ups_shipping_fallback_rates">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="backup rates"/>
+    <column xsi:type="varchar" name="service_type" nullable="true" length="20" comment="service type"/>
+    <column xsi:type="int" name="service_id" padding="11" unsigned="false" nullable="true" identity="false" comment="Service ID"/>
+    <column xsi:type="float" name="fallback_rate" scale="2" precision="10" unsigned="false" nullable="true" comment="Fallback rate"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+    <index referenceId="UPS_SHIPPING_FALLBACK_RATES_ID" indexType="btree">
+      <column name="id"/>
+    </index>
+  </table>
+  <table name="ups_shipping_product_dimension" resource="default" engine="innodb" comment="ups_shipping_product_dimension">
+    <column xsi:type="int" name="package_id" padding="10" unsigned="true" nullable="false" identity="true" comment="Package ID"/>
+    <column xsi:type="varchar" name="package_name" nullable="true" length="255" comment="Package Name"/>
+    <column xsi:type="float" name="weight" scale="2" precision="10" unsigned="false" nullable="true" comment="Weight"/>
+    <column xsi:type="varchar" name="unit_weight" nullable="true" length="30" comment="Unit weight"/>
+    <column xsi:type="float" name="length" scale="2" precision="10" unsigned="false" nullable="true" comment="Length"/>
+    <column xsi:type="float" name="width" scale="2" precision="10" unsigned="false" nullable="true" comment="Width"/>
+    <column xsi:type="float" name="height" scale="2" precision="10" unsigned="false" nullable="true" comment="Height"/>
+    <column xsi:type="varchar" name="unit_dimension" nullable="true" length="30" comment="Unit dimension"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="package_id"/>
+    </constraint>
+    <index referenceId="UPS_SHIPPING_PRODUCT_DIMENSION_PACKAGE_ID" indexType="btree">
+      <column name="package_id"/>
+    </index>
+  </table>
+  <table name="ups_shipping_license" resource="default" engine="innodb" comment="ups_shipping_license">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="text" name="AccessLicenseText" nullable="true" comment="Api Access 1"/>
+    <column xsi:type="varchar" name="Username" nullable="true" length="127" comment="Api Account 1"/>
+    <column xsi:type="varchar" name="Password" nullable="true" length="127" comment="Api Account 1"/>
+    <column xsi:type="varchar" name="AccessLicenseNumber" nullable="true" length="127" comment="Api Access 2"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+    <index referenceId="UPS_SHIPPING_LICENSE_ID" indexType="btree">
+      <column name="id"/>
+    </index>
+  </table>
+  <table name="ups_shipping_account" resource="default" engine="innodb" comment="ups_shipping_account">
+    <column xsi:type="int" name="account_id" padding="10" unsigned="true" nullable="false" identity="true" comment="Account ID"/>
+    <column xsi:type="varchar" name="title" nullable="true" length="10" comment="Title"/>
+    <column xsi:type="varchar" name="fullname" nullable="true" length="100" comment="Fullname"/>
+    <column xsi:type="varchar" name="company" nullable="true" length="255" comment="Company"/>
+    <column xsi:type="varchar" name="email" nullable="true" length="100" comment="email"/>
+    <column xsi:type="varchar" name="phone_number" nullable="true" length="100" comment="phone_number"/>
+    <column xsi:type="varchar" name="address_type" nullable="true" length="255" comment="address_type"/>
+    <column xsi:type="varchar" name="address_1" nullable="true" length="255" comment="Address_1"/>
+    <column xsi:type="varchar" name="address_2" nullable="true" length="255" comment="Address_2"/>
+    <column xsi:type="varchar" name="address_3" nullable="true" length="255" comment="Address_3"/>
+    <column xsi:type="varchar" name="post_code" nullable="true" length="50" comment="Post code"/>
+    <column xsi:type="varchar" name="city" nullable="true" length="255" comment="City"/>
+    <column xsi:type="varchar" name="country" nullable="true" length="10" comment="Country"/>
+    <column xsi:type="int" name="account_type" padding="11" unsigned="false" nullable="true" identity="false" comment="Account type(0,1,2)"/>
+    <column xsi:type="varchar" name="ups_account_name" nullable="true" length="255" comment="UPS account name"/>
+    <column xsi:type="varchar" name="ups_account_number" nullable="true" length="255" comment="UPS account number"/>
+    <column xsi:type="varchar" name="ups_invoice_number" nullable="true" length="255" comment="UPS invoice number"/>
+    <column xsi:type="varchar" name="ups_account_account" nullable="true" length="255" comment="UPS invoice amount"/>
+    <column xsi:type="varchar" name="ups_currency" nullable="true" length="255" comment="UPS Currency"/>
+    <column xsi:type="datetime" name="ups_invoice_date" on_update="false" nullable="true" comment="UPS invoice date"/>
+    <column xsi:type="text" name="deviceIdentity" nullable="true" comment="Device identity"/>
+    <column xsi:type="int" name="account_default" padding="11" unsigned="false" nullable="true" identity="false" comment="Account default"/>
+    <column xsi:type="text" name="state_province_code" nullable="true" comment="State Province Code"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="account_id"/>
+    </constraint>
+    <index referenceId="UPS_SHIPPING_LICENSE_ACCOUNT_ID" indexType="btree">
+      <column name="account_id"/>
+    </index>
+  </table>
+  <table name="ups_shipping_accessorial" resource="default" engine="innodb" comment="ups_shipping_accessorial">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="varchar" name="accessorial_key" nullable="true" length="100" comment="Key"/>
+    <column xsi:type="varchar" name="accessorial_name" nullable="true" length="100" comment="Name"/>
+    <column xsi:type="varchar" name="accessorial_code" nullable="true" length="20" comment="Code"/>
+    <column xsi:type="int" name="show_config" padding="11" unsigned="false" nullable="true" identity="false" comment="Show Config"/>
+    <column xsi:type="int" name="show_shipping" padding="11" unsigned="false" nullable="true" identity="false" comment="Show Shipping"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+  </table>
+  <table name="ups_shipping_logs_api" resource="default" engine="innodb" comment="ups_shipping_logs_api">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="varchar" name="method" nullable="true" length="255" comment="Method"/>
+    <column xsi:type="varchar" name="full_uri" nullable="true" length="255" comment="URI"/>
+    <column xsi:type="text" name="request" nullable="true" comment="Request"/>
+    <column xsi:type="text" name="response" nullable="true" comment="Response"/>
+    <column xsi:type="datetime" name="time_request" on_update="false" nullable="true" comment="Time request"/>
+    <column xsi:type="datetime" name="time_response" on_update="false" nullable="true" comment="Time response"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+  </table>
+  <table name="ups_shipping_retry_api" resource="default" engine="innodb" comment="ups_shipping_retry_api">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="varchar" name="method" nullable="true" length="127" comment="Method"/>
+    <column xsi:type="text" name="datarequest" nullable="true" comment="Data request"/>
+    <column xsi:type="text" name="response" nullable="true" comment="Reponse"/>
+    <column xsi:type="int" name="count_retry" padding="11" unsigned="false" nullable="true" identity="false" comment="Count number send api"/>
+    <column xsi:type="datetime" name="date_created" on_update="false" nullable="true" comment="Date created api"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+  </table>
+  <table name="ups_shipping_orders" resource="default" engine="innodb" comment="ups_shipping_orders">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="int" name="order_id_magento" padding="11" unsigned="false" nullable="true" identity="false" comment="Order Id Magento"/>
+    <column xsi:type="int" name="shipping_service" padding="11" unsigned="false" nullable="true" identity="false" comment="Service"/>
+    <column xsi:type="text" name="accessorial_service" nullable="true" comment="Accessorial"/>
+    <column xsi:type="int" name="shipment_id" padding="11" unsigned="false" nullable="true" identity="false" comment="Shipment Id"/>
+    <column xsi:type="int" name="quote_id" padding="11" unsigned="false" nullable="false" identity="false" comment="Quote Id"/>
+    <column xsi:type="int" name="status" padding="11" unsigned="false" nullable="true" identity="false" comment="Order status"/>
+    <column xsi:type="text" name="ap_id" nullable="true" comment="Access Point Id"/>
+    <column xsi:type="varchar" name="ap_name" nullable="true" length="255" comment="Access Point Name"/>
+    <column xsi:type="varchar" name="ap_address1" nullable="true" length="128" comment="Access Point Address 1"/>
+    <column xsi:type="varchar" name="ap_address2" nullable="true" length="128" comment="Access Point Address 2"/>
+    <column xsi:type="text" name="ap_address3" nullable="true" comment="Access Point Address 3"/>
+    <column xsi:type="varchar" name="ap_state" nullable="true" length="50" comment="Access Point state"/>
+    <column xsi:type="varchar" name="ap_postcode" nullable="true" length="50" comment="Access Point post code"/>
+    <column xsi:type="varchar" name="ap_city" nullable="true" length="64" comment="Access Point city"/>
+    <column xsi:type="text" name="ap_country" nullable="true" comment="Access Point country"/>
+    <column xsi:type="int" name="cod" padding="11" unsigned="false" nullable="true" identity="false" comment="cod"/>
+    <column xsi:type="datetime" name="created_at" on_update="false" nullable="true" comment="Date Order"/>
+    <column xsi:type="datetime" name="archived_at" on_update="false" nullable="true" comment="Date Archive"/>
+    <column xsi:type="text" name="package" nullable="true" comment="Shipping Package"/>
+    <column xsi:type="text" name="cus_del_name" nullable="true" comment="Customer Shipping Name"/>
+    <column xsi:type="text" name="cus_del_address1" nullable="true" comment="Customer Shipping Address 1"/>
+    <column xsi:type="text" name="cus_del_address2" nullable="true" comment="Customer Shipping Address 2"/>
+    <column xsi:type="text" name="cus_del_city" nullable="true" comment="Customer Shipping City"/>
+    <column xsi:type="text" name="cus_del_state" nullable="true" comment="Customer Shipping State"/>
+    <column xsi:type="text" name="cus_del_postcode" nullable="true" comment="Customer Shipping Postcode"/>
+    <column xsi:type="text" name="cus_del_country" nullable="true" comment="Customer Shipping Country"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+  </table>
+  <table name="ups_shipping_services" resource="default" engine="innodb" comment="ups_shipping_services">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="varchar" name="country_code" nullable="true" length="2" comment="Country"/>
+    <column xsi:type="varchar" name="service_type" nullable="true" length="20" comment="Type(AP-ADD)"/>
+    <column xsi:type="varchar" name="service_key" nullable="true" length="100" comment="Key"/>
+    <column xsi:type="varchar" name="service_key_delivery" nullable="true" length="100" comment="Delivery key"/>
+    <column xsi:type="varchar" name="service_key_val" nullable="true" length="100" comment="Value"/>
+    <column xsi:type="varchar" name="service_name" nullable="true" length="100" comment="Name"/>
+    <column xsi:type="varchar" name="rate_code" nullable="true" length="20" comment="Rate code"/>
+    <column xsi:type="varchar" name="tin_t_code" nullable="true" length="20" comment="Tin T Code"/>
+    <column xsi:type="int" name="service_selected" padding="11" unsigned="false" nullable="true" identity="false" comment="Selected"/>
+    <column xsi:type="text" name="service_symbol" nullable="true" comment="Package Detail"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+  </table>
+  <table name="ups_shipping_shipments" resource="default" engine="innodb" comment="ups_shipping_shipments">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="varchar" name="shipment_number" nullable="true" length="50" comment="Shipment number"/>
+    <column xsi:type="datetime" name="date_created" on_update="false" nullable="true" comment="Date Shipment"/>
+    <column xsi:type="text" name="status" nullable="true" comment="Shipment status"/>
+    <column xsi:type="int" name="cod" padding="11" unsigned="false" nullable="true" identity="false" comment="COD"/>
+    <column xsi:type="text" name="shipping_fee" nullable="true" comment="Fee"/>
+    <column xsi:type="text" name="order_value" nullable="true" comment="Fee Order"/>
+    <column xsi:type="text" name="accessorial_service" nullable="true" comment="Accessorial"/>
+    <column xsi:type="int" name="shipping_service" padding="11" unsigned="false" nullable="true" identity="false" comment="    Service"/>
+    <column xsi:type="varchar" name="ap_id" nullable="true" length="20" comment="Access Point Id"/>
+    <column xsi:type="text" name="name" nullable="true" comment="Name"/>
+    <column xsi:type="text" name="address1" nullable="true" comment="Address 1"/>
+    <column xsi:type="text" name="address2" nullable="true" comment="Address 2"/>
+    <column xsi:type="text" name="address3" nullable="true" comment="Address 3"/>
+    <column xsi:type="text" name="state" nullable="true" comment="State"/>
+    <column xsi:type="text" name="postcode" nullable="true" comment="Postcode"/>
+    <column xsi:type="text" name="city" nullable="true" comment="City"/>
+    <column xsi:type="text" name="country" nullable="true" comment="Country"/>
+    <column xsi:type="text" name="phone" nullable="true" comment="Phone"/>
+    <column xsi:type="text" name="email" nullable="true" comment="Email"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+  </table>
+  <table name="ups_shipping_delivery_rates" resource="default" engine="innodb" comment="ups_shipping_delivery_rates">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="int" name="service_id" padding="11" unsigned="false" nullable="true" identity="false" comment="Service ID"/>
+    <column xsi:type="varchar" name="rate_type" nullable="true" length="20" comment="Rate type"/>
+    <column xsi:type="float" name="min_order_value" scale="0" precision="0" unsigned="false" nullable="true" comment="Min order value"/>
+    <column xsi:type="float" name="delivery_rate" scale="0" precision="0" unsigned="false" nullable="true" comment="Delivery rate"/>
+    <column xsi:type="varchar" name="flat_country" nullable="true" length="20" comment="Flat rate country"/>
+    <column xsi:type="varchar" name="flat_rule" nullable="true" length="20" comment="Flat rate rule"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+  </table>
+  <table name="ups_shipping_tracking" resource="default" engine="innodb" comment="ups_shipping_tracking">
+    <column xsi:type="int" name="id" padding="10" unsigned="true" nullable="false" identity="true" comment="ID"/>
+    <column xsi:type="varchar" name="tracking_number" nullable="true" length="255" comment="Tracking Number"/>
+    <column xsi:type="varchar" name="shipment_number" nullable="true" length="255" comment="Shipment Number"/>
+    <column xsi:type="int" name="order_id" padding="11" unsigned="false" nullable="false" identity="false" comment="Order Id"/>
+    <column xsi:type="int" name="status" padding="11" unsigned="false" nullable="true" identity="false" comment="Status"/>
+    <column xsi:type="text" name="package_detail" nullable="true" comment="Package Detail"/>
+    <constraint xsi:type="primary" referenceId="PRIMARY">
+      <column name="id"/>
+    </constraint>
+  </table>
+</schema>

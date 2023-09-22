@@ -1,0 +1,470 @@
+//======================= About page,//======================= Sobre a página
+About,Sobre
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,A UPS fez uma parceria com a Magento para oferecer um módulo UPS Shipping e UPS Access Point™ gratuito que lhe permitirá integrar e oferecer uma ampla gama de soluções de envio e entrega UPS diretamente no processo de check-out do seu site! Este Módulo UPS oficial para Magento dá aos seus clientes acesso à nossa ampla rede de Pontos de Acesso UPS e serviços de entrega.
+Features of this product,Características deste produto
+Front Office,Recepção
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,Interface de mapa simples e fácil para seus clientes selecionarem o UPS Access Point conforme sua preferência.
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,Interface amigável para seus clientes mudarem de entrega em Ponto de Acesso para entrega em domicílio.
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Taxa de envio UPS em tempo real ou taxas fixas para cada serviço disponível (conforme as configurações de back office do comerciante).
+Back Office,Back Office
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Gama de opções para configurar as taxas de entrega que seus clientes verão (por exemplo: frete grátis, taxas de frete em tempo real ou taxas fixas de acordo com os limites de valor da cesta)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Possibilidade de abrir uma conta UPS diretamente no próprio módulo, caso não possua."
+Easy PDF label generation.,Fácil geração de etiquetas PDF.
+Real time tracking information.,Informações de rastreamento em tempo real.
+Ability to export open orders so that you can process them in other applications for more complex needs.,Capacidade de exportar pedidos em aberto para que você possa processá-los em outros aplicativos para necessidades mais complexas.
+Module version number and release date,Número da versão do módulo e data de lançamento
+Module version v,Versão do módulo v
+Release date,Data de lançamento
+Changelog,Registro de alterações
+Platform compatibility statement,Declaração de compatibilidade da plataforma
+"Compatible with Magento versions 2.1, 2.2, 2.3","Compatível com as versões Magento 2.1, 2.2, 2.3"
+UPS Shipping Module website,Site do Módulo de Envio UPS
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,"Para obter mais informações, visite <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>"
+For more information visit,Para mais informações visite
+Support information,Informação de ajuda
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Para obter assistência com a instalação, atualização ou uso do UPS Shipping Module, entre em contato com a UPS em -"
+Poland +48 (0) 22 203 03 21,Polônia +48 (0) 22 203 03 21
+UPS Shipping Module,Módulo de envio UPS
+UPS Shipping,Envio UPS
+Shipment management,Gerenciamento de remessas
+//======================= Country page,//======================= Página do país
+Country setting,Configuração de país
+Country Setting,Configuração de país
+Please select your country/territory,"Por favor, selecione seu país/território"
+Continue,Continuar
+//======================= Terms and Condition page,//======================= Página de termos e condições
+UPS Terms and Conditions,Termos e Condições da UPS
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Concordo com o Acordo de Tecnologia UPS e confirmo que tive tempo suficiente para lê-lo e entender que ele contém termos importantes sobre meu uso das Tecnologias UPS, como limitar a responsabilidade da UPS e meu acordo sobre como as disputas entre a UPS e eu serão manipulado"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Concordo com o Acordo de Tecnologia UPS e confirmo que me foi dado tempo suficiente para lê-lo e compreender que ele contém termos importantes sobre meu uso das Tecnologias UPS,"
+like,Curti
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,limitando a responsabilidade da UPS e meu acordo sobre como as disputas entre a UPS e eu serão tratadas.
+Print,Imprimir
+Cannot get Term & Condition,Não é possível obter o Termo e Condição
+//======================= Account Page,//======================= Página da conta
+Account,Conta
+ACCOUNT,CONTA
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),"Para obter mais informações sobre UPS Plugins, clique <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>neste link< /a> (abre em uma nova janela do navegador)"
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,Preencha o formulário abaixo para começar a configurar o plug-in UPS para o seu site de comércio eletrônico
+Title,Título
+Full name,Nome completo
+Full Name,Nome completo
+Company,Companhia
+Email,E-mail
+Phone number,Número de telefone
+Address type,Tipo de endereço
+Address,Endereço
+Postal code,Código postal
+City,Cidade
+Country/Territory,País/Território
+"Example: Warehouse, Branch #1, etc.","Exemplo: Armazém, Filial #1, etc."
+"Example: Warehouse, Branch #1","Exemplo: Armazém, Filial #1"
+Street Address,Endereço da Rua
+"Apartment, Suite, Unit, Building, Floor, etc.","Apartamento, suite, unidade, prédio, andar, etc."
+"Department, c/o, etc.","Departamento, c/o, etc."
+Mr,Senhor
+Miss,Senhorita
+Mrs,Sra
+Ms,EM
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Tenho um número de conta UPS COM uma fatura ocorrida nos últimos 45 dias (90 dias se sua conta estiver nos EUA ou Canadá)
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Tenho um número de conta UPS SEM uma fatura ocorrida nos últimos 45 dias (90 dias se sua conta estiver nos EUA ou Canadá)
+I do not have a UPS Account Number and would like to get one from the plug-in,Não tenho um número de conta UPS e gostaria de obter um com descontos no plug-in
+I don’t have a UPS account number and would,Não tenho um número de conta UPS e gostaria de
+like,Curti
+to get one with discounted rates from the plug-in,para obter um com taxas de desconto do plug-in
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),A fatura deve ser qualquer uma das 3 últimas emitidas pela UPS nos últimos 45 dias (90 dias se sua conta estiver nos EUA ou Canadá)
+Account name,Nome da conta
+Account number,Número da conta
+Invoice number,Número da fatura
+Invoice amount,Valor da fatura
+Currency,Moeda
+Invoice date,Data da fatura
+VAT number,Número de IVA
+Promo Code,Código promocional
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Observação: os remetentes estão proibidos de enviar mercadorias perigosas ou materiais perigosos usando a conta aberta neste aplicativo.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Sua conta oferecerá suporte a entregas em locais autorizados do UPS Access Point™ após 24 horas.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,Você pode encontrar mais informações sobre mercadorias perigosas e como a UPS pode ajudá-lo a enviá-las neste link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Nome de referência que será associado a uma conta. Por exemplo, armazém 1, armazém 2, loja 1, loja 2 etc. Você pode escolher livremente o nome conforme sua necessidade"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',O código postal ou código postal associado à sua conta UPS. Pode ser encontrado no topo de cada página da sua fatura UPS em 'Comprador'
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',O nome associado à sua conta UPS. Pode ser encontrado no topo de cada página da sua fatura UPS em 'Comprador'
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,Um número alfanumérico exclusivo de seis caracteres que identifica sua conta. Ele pode ser encontrado no canto superior esquerdo de cada página da sua fatura UPS
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,Um número exclusivo de 12 dígitos atribuído pela UPS a uma fatura. Ele pode ser encontrado no canto superior esquerdo de cada página da sua fatura UPS
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Valor total devido para a fatura fornecida. Ele pode ser encontrado na tabela 'Resumo de Encargos' na primeira página da fatura
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Data de emissão da fatura. Ele pode ser encontrado no canto superior esquerdo de cada página da sua fatura UPS
+Get started,iniciar
+Some of the data you entered is not valid. Please check again.,Alguns dos dados inseridos não são válidos. Por favor cheque novamente.
+Cannot create new Account Number,Não é possível criar um novo número de conta
+Email is not correct format,O e-mail não está no formato correto
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,Sua solicitação para criar uma conta de envio UPS não foi bem-sucedida. Verifique os valores de 'Cidade' e 'Código postal' inseridos. Aqui estão algumas sugestões sobre a cidade e código postal que são uma combinação válida -
+Please update the city and postal code values with one of these selections and click Get Started,Atualize os valores da cidade e do código postal com uma dessas seleções e clique em Começar
+Configuration,Configuração
+//======================= Account Success Page,//======================= Página de sucesso da conta
+Your UPS Profile,Seu Perfil UPS
+Your Payment Account,Sua conta de pagamento
+Add another account number,Adicionar outro número de conta
+Please enter the address attached to your account number,"Por favor, insira o endereço anexado ao seu número de conta"
+Phone,Telefone
+Verify,Verificar
+Next,Próximo
+Remove,Remover
+Account number already exists in 'Your Payment Account',O número da conta já existe em 'Sua conta de pagamento'
+Full name:,Nome completo:
+Remove Account,Remover conta
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Esta conta será removida. Clique em Ok para confirmar, feche a caixa de diálogo para cancelar."
+Your UPS account has been successfull registered,A sua conta UPS foi registada com sucesso
+//======================= Shipping Services page,//======================= Página de serviços de envio
+Shipping Services,Serviços de envio
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Selecione os serviços UPS que você deseja que fiquem visíveis no checkout para seus e-shoppers. Para saber mais sobre os serviços UPS, consulte a Tarifa/Termos e Condições de Serviço UPS em UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Enviar para um local UPS Access Point™ (entrega ao AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there",A UPS entrega o pacote em um local UPS Access Point™ selecionado pelo cliente para que ele possa coletar conforme sua conveniência
+Yes,Sim
+No,Não
+Set as default shipping option,Definir como opção de envio padrão
+Select the shipping services for your customers to choose,Selecione os serviços de frete para seus clientes escolherem
+"International shipping only - visible, when shipping address is outside of EU","Somente envio internacional - visível, quando o endereço de entrega estiver fora da UE"
+Access Point display setting:,Configuração de exibição do UPS Access Point:
+Number of Access Points visible to customers:,Número de locais visíveis para os clientes:
+Display all the Access Points in range of:,Exibe todos os locais no intervalo de:
+kilometer around consignee's selected address,Milhas em torno do endereço selecionado do destinatário
+Choose Account Number for this option,Escolha o número da conta para esta opção
+Deliver to consignee address (to-address delivery),Entregar no endereço do destinatário (entrega no endereço)
+UPS delivers the parcel to the shipping address provided by customer.,A UPS entrega o pacote no endereço de entrega fornecido pelo cliente.
+Cut off time,Cortar o tempo
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","O horário limite selecionado aqui será usado no cálculo da data e hora de entrega programada, que será exibida no checkout do seu site."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Por exemplo, se o horário limite for selecionado como 17:00 e seus e-shoppers visualizarem sua loja virtual às 17:01, todas as datas e horas de entrega programadas da UPS serão calculadas a partir do dia útil seguinte. Ao decidir esta hora limite, certifique-se de que tem tempo suficiente para cumprir a encomenda antes da recolha programada da UPS ou pode entregar os pacotes num local UPS Access Point™."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Se você não tiver certeza sobre o preenchimento dos pedidos dos clientes no mesmo dia, poderá selecionar 'Desativar', o que fará com que o e-shopper veja as datas de entrega aproximadas para cada serviço disponível."
+Save,Salvar
+Please select at least one shipping service.,Selecione pelo menos um serviço de envio.
+UPS Access Point™ Economy,UPS Access Point™ Economia
+UPS® Standard,UPS® Padrão
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= página Coleta na entrega (COD)
+Collect on Delivery (COD),Coleta na Entrega (COD)
+You have the official Magento COD module enabled!,Você tem o módulo oficial Magento COD habilitado!
+Only show Access Points supporting COD shipments?,Mostrar apenas pontos de acesso que suportam remessas COD?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,Selecione 'SIM' se você planeja oferecer remessas COD para um UPS Access Point™
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,O serviço COD Shipping deste plug-in é automaticamente compatível com o módulo oficial Collect on Delivery (COD) da Magento.
+You do not have the official Magento COD module installed and/or enabled!,Você não tem o módulo oficial Magento COD instalado e/ou habilitado!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,O serviço COD Shipping deste plugin é automaticamente compatível com o módulo oficial Cash on Delivery (COD) da Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Se você quiser que o módulo UPS Shipping detecte automaticamente as remessas COD, <strong>certifique-se de que instalou o Collect on Delivery (COD) do Magento</strong>. Se você já possui o módulo Collect on Delivery (COD) do Magento instalado, <strong>certifique-se de que o módulo esteja ativado</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Clique aqui</a>] para obter orientações detalhadas."
+COD Option,Opção COD
+//======================= Package Dimensions page,//======================= Página Dimensões do pacote
+Package Dimensions,Dimensões da embalagem
+Default Package Setting,Configuração de pacote padrão
+Default package setting,Configuração padrão do pacote
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Insira aqui o peso e as dimensões da sua embalagem. Você pode adicionar várias dimensões de pacote, que podem ser facilmente selecionadas em uma opção suspensa ao criar remessas no plug-in."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Caso você decida mostrar a taxa de envio UPS em tempo real (a ser configurada na próxima tela) para os e-shoppers, o plug-in usará o primeiro pacote, denominado 'Pacote Padrão' exibido abaixo. O peso e as dimensões do Pacote Padrão serão usados ​​para calcular as taxas de envio da UPS que serão exibidas aos e-shoppers."
+Add New Package,Adicionar novo pacote
+Package name,Nome do pacote
+"Example: Standard, Large, Phone box, etc.","Exemplo: Padrão, Grande, Caixa de telefone, etc."
+Weight,Peso
+Unit,Unidade
+Dimension,Dimensão
+Add Package,Adicionar pacote
+Length,Comprimento
+Width,Largura
+Height,Altura
+The name Package is exist.,O nome Pacote existe.
+Edit,Editar
+Delete,Excluir
+Editing Default Package,Editando o pacote padrão
+Remove Package,Remover pacote
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Você vai remover este pacote padrão do seu perfil. Clique em Ok para confirmar, feche a caixa de diálogo para cancelar."
+OK,OK
+Please input at least one default package to continue.,Insira pelo menos um pacote padrão para continuar.
+Please select an option,Por favor selecione uma opção
+Basic (number of items in the e-shopper order determine the package size),Básico (o número de itens no pedido do e-shopper determina o tamanho do pacote)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Avançado (pesos e dimensões dos produtos no pedido do e-shopper determinam o tamanho do pacote)
+Package dimensions:,Dimensões da embalagem:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,Nota: o plugin criará um tamanho de pacote personalizado se um pedido de e-shopper for maior do que os pacotes que você inserir
+Warning! To use this option you must enter product weights in the product settings of your shop.,"Aviso! Para usar esta opção, você deve inserir os pesos do produto nas configurações do produto de sua loja."
+Include dimensions in rating,Incluir dimensões na classificação
+Yes,Sim
+No,Não
+Number of items in order,Número de itens em ordem
+Add Backup Rate,Adicionar taxa de backup
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Se definido como ""Não"", as taxas serão baseadas apenas nos pesos do produto.&nbsp; Se definido como ""Sim"", as dimensões do produto devem ser inseridas nas configurações do produto de sua loja"
+Name,Nome
+Length,Comprimento
+Width,Largura
+Height,Altura
+Weight,Peso
+Max Weight,Peso Máximo
+Backup rate:,Taxa de backup:
+Service Name,Nome do Serviço
+Rate,Avaliar
+Add Backup Rate,Adicionar taxa de backup
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","A taxa de backup só será exibida para e-shoppers se houver um problema nas configurações do produto, como pesos ausentes ou se os pesos/dimensões excederem os limites da UPS"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,Adicione pacotes padrão se desejar que o tamanho do pacote usado para classificação seja alterado com base no número de itens no pedido do e-shopper
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Observação: se o número de itens no pedido do e-shopper não corresponder a nenhuma de suas entradas, o tamanho do pacote usado para classificação será baseado na contagem de itens mais alta excedida pelo pedido do e-shopper."
+//======================= Checkout Shipping Rates page,//======================= Checkout página Taxas de envio
+Checkout Shipping Rates,Taxas de envio de checkout
+Ship to UPS Access Point&trade;,Enviar para o local do UPS Access Point™
+Flat rates,Tarifas fixas
+Real time shipping rates,Taxas de envio em tempo real
+Delivery rates is,As taxas de entrega são
+% of UPS shipping rates,% das taxas de envio da UPS
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,O e-shopper verá a % das taxas de UPS em tempo real. Essas taxas são calculadas usando o peso e as dimensões padrão do pacote que você configurou na tela anterior (Dimensões do pacote).
+Ship to Address,Enviar para o endereço
+Order Value Threshold,Limite de valor do pedido
+Delivery rates,Taxas de entrega
+The minimum thresholds can not be the same.,Os limites mínimos não podem ser os mesmos.
+//======================= Complete Configuration page,//======================= Página de configuração completa
+Complete Configuration,Configuração completa
+You can start shipping now!,Você pode começar a enviar agora!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,Clique no botão 'Complete Configuration' para finalizar a configuração do plug-in e começar a oferecer serviços de envio UPS em seu site.
+"If you are new to UPS, please refer to the following FAQs for additional information:","Se você é novo na UPS, consulte as seguintes perguntas frequentes para obter informações adicionais:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Como obtenho mais informações sobre minha nova conta de envio UPS?<br />Se você abriu uma nova conta de envio UPS a partir do plug-in, um e-mail de confirmação com mais informações será enviado para o endereço de e-mail que você inseriu enquanto criando a nova conta."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Como preparo meus pacotes para coleta ou entrega da UPS em um local UPS Access Point™?<br />Consulte as recomendações de preparação de pacotes neste link - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Como faço para entregar meus pacotes à UPS?<br />Você pode deixar seu pacote em qualquer local autorizado da UPS, como um local UPS Access Point™. Clique abaixo para procurar um local conveniente perto de você"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Você também pode pedir à UPS para retirar pacotes do seu armazém ou endereço comercial. Se você precisar de uma coleta ocasional, pode agendar uma coleta diretamente no UPS.COM usando este link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Se você tiver pacotes UPS na maioria dos dias úteis e preferir uma coleta regular da UPS, entre em contato com a UPS ligando para o número de telefone fornecido em Perguntas sobre cobrança <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>aqui</a>. Em seguida, um representante da UPS entrará em contato com você para discutir uma coleta diária da UPS."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Se você tiver pacotes UPS na maioria dos dias úteis e preferir uma coleta UPS regular, consulte este link para obter instruções sobre como agendar coletas diárias: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Quais etapas preciso seguir para configurar um serviço UPS Collect on Delivery (COD)?<br />Você pode entrar em contato com a UPS ligando para o número de telefone fornecido em Perguntas sobre cobrança <a href='https://www .ups.com/%1/%2/help-center/contact.page' target='_blank'>aqui</a>. Em seguida, um representante da UPS entrará em contato com você para discutir o serviço COD."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Que passos devo seguir para configurar um serviço UPS Collect on Delivery (COD)?<br />Se você estiver interessado em usar os serviços UPS Collect on Delivery (COD), consulte este link para obter detalhes: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Pesquisar locais
+Print form,Imprimir formulário
+//======================= E-shopper page,//======================= Página do e-shopper
+Deliver to an UPS Access Point<sup>TM</sup>,Entregue em um local UPS Access Point™
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Seu pacote será entregue em um local UPS Access Point™
+Open 24 hours,Aberto 24 horas
+The address is required,O endereço é obrigatório
+Please select an Access Point to process,Selecione um ponto de acesso para processar
+Operating Hours,Horas de funcionamento
+Open,Abrir
+Close,Perto
+Monday,Segunda-feira
+Closed,Fechadas
+Tuesday,Terça-feira
+Wednesday,Quarta-feira
+Thursday,Quinta-feira
+Friday,Sexta-feira
+Saturday,Sábado
+Sunday,Domingo
+Search for the UPS Access Point<sup>TM</sup>,Procure locais do UPS Access Point™
+Near,Aproximar
+Delivered by End of Business Day,Entregue até o final do dia útil
+"Address line, City, State, Postcode","Linha de endereço, cidade, estado, código postal"
+"Address line,City,State,Postcode","Linha de endereço, cidade, estado, código postal"
+Use my delivery address,Usar meu endereço de entrega
+Search,Procurar
+Results,Resultados
+Select,Selecionar
+Deliver to Your Address,Entregue no seu endereço
+Your package will be delivered to your address,Seu pacote será entregue em seu endereço
+UPS SHIPPING,ENVIO UPS
+Delivery today!,Entrega hoje!
+Delivery next day!,Entrega no dia seguinte!
+Next two days!,Próximos dois dias!
+Next three days!,Próximos três dias!
+Next four days!,Próximos quatro dias!
+Next five days!,Próximos cinco dias!
+Next six days!,Próximos seis dias!
+Next seven days!,Próximos sete dias!
+Next eight days!,Próximos oito dias!
+Next nine days!,Próximos nove dias!
+Next ten days!,Próximos dez dias!
+delivered by,entregue por
+Delivered by,Entregue por
+January,Janeiro
+February,Fevereiro
+March,Marchar
+April,abril
+May,Poderia
+June,Junho
+July,Julho
+August,Agosto
+September,Setembro
+November,novembro
+October,Outubro
+December,dezembro
+//======================= Open Order page,//======================= Abrir página de pedidos
+Open Orders,Pedidos em aberto
+Create Single Shipments,Criar remessas individuais
+Create Batch Shipments,Criar remessas em lote
+Export All Orders,Exportar todos os pedidos
+Export Orders,Exportar pedidos
+Archive Orders,Arquivar pedidos
+Order ID,Código do pedido
+Order Date,Data do pedido
+Product,produtos
+Delivery Address,Endereço de entrega
+Shipping Service,Serviço de entrega
+COD,BACALHAU
+Action,Ação
+No results!,Sem resultados!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Aviso - O arquivamento de pedidos moverá seus pedidos na guia Arquivar e você não poderá mais processar esses pedidos. Clique em 'OK' para continuar, 'Cancelar' para voltar à tela"
+Cancel,Cancelar
+//======================= Detail Order page,//======================= Página de detalhes do pedido
+Order,Ordem
+Order #,Ordem #
+Customer,Cliente
+Order value,Valor do pedido
+Payment status,Status do pagamento
+Access Point,Ponto de acesso
+//======================= Create single shipment page,//======================= Criar página de envio único
+Process Shipment,Processar Remessa
+Ship From,Vindo de
+Ship To,Enviar para
+Accessorial service,Serviço de acessórios*
+Packaging,Embalagem
+Package #1,Pacote #1
+Package #,Pacote #
+Add package,Adicionar pacote
+View estimated shipping fee and delivery date,Veja a taxa de envio estimada e a data de entrega
+Edit,Editar
+Create Shipment,Criar Remessa
+Custom Package,Pacote personalizado
+Name,Nome
+Address,Endereço
+State,Estado
+Note: Insufficient or incorrect address may increase the shipping fee,Nota: Endereço insuficiente ou incorreto pode aumentar a taxa de envio
+Additional Handling,Manuseio Adicional
+Additional handling,Manuseio Adicional
+Quantum View Ship Notification,Notificação de navio do Quantum View
+Quantum View Delivery Notification,Notificação de entrega do Quantum View
+Residential Address,Endereço residencial
+Saturday Delivery,Entrega de sábado
+Carbon Neutral,Neutro em carbono
+Direct Delivery Only,Somente entrega direta
+Declared value,Valor declarado
+Signature Required,Assinatura necessária
+Adult Signature Required,Assinatura de adulto necessária
+To Home COD,Para casa COD
+Cancel Editing,Cancelar edição
+To Access Point COD,Para o ponto de acesso COD
+Orders to be processed,Pedidos a serem processados
+The name is not empty,O nome não está vazio
+The address is required,O endereço é obrigatório
+The postal code is empty or invalid,O código postal está vazio ou é inválido
+The city is not empty,A cidade não está vazia
+Invalid email format,Formato de email inválido
+The phone is not empty,O telefone não está vazio
+Some of the data you entered is not valid. Please check again.,Alguns dos dados inseridos não são válidos. Por favor cheque novamente.
+There are errors connecting to the UPS API servers. Please try again.,"Existem erros na conexão com os servidores UPS API. Por favor, tente novamente."
+//======================= Shipment page,//======================= Página de envio
+Shipments,Remessas
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Ao selecionar qualquer pedido nesta guia de remessa, concordo com o <a href='javascript:void(0);' id='term-condition'>Termos e Condições.</a>"
+UPS Tracking Terms and Conditions,Termos e Condições de Rastreamento UPS
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","AVISO: Os sistemas de rastreamento de pacotes da UPS acessados ​​por meio deste serviço (os ""Sistemas de Rastreamento"") e as informações de rastreamento obtidas por meio deste serviço (as ""Informações"") são de propriedade privada da UPS. A UPS autoriza você a usar os Sistemas de Rastreamento somente para rastrear remessas oferecidas por ou para você à UPS para entrega e para nenhuma outra finalidade. Sem limitação, você não está autorizado a disponibilizar as Informações em qualquer site ou reproduzir, distribuir, copiar, armazenar, usar ou vender as Informações para ganho comercial sem o consentimento expresso por escrito da UPS. Este é um serviço pessoal, portanto, seu direito de usar os Sistemas ou Informações de Rastreamento é intransferível. Qualquer acesso ou uso que seja inconsistente com estes termos é não autorizado e estritamente proibido."
+Download PDF Label,Baixar etiqueta em PDF
+Download ZPL Label,Baixar etiqueta ZPL
+Export Shipment Data,Exportar Dados de Remessa
+Cancel Shipments,Cancelar envios
+ID Shipment,Remessa de ID
+Tracking Number,Numero de rastreio
+Date,Encontro
+Estimated Shipping Fee,Taxa de envio estimada
+Shipment #,Envio #
+Order #ID reference,Referência do número do pedido
+Package details,Detalhes de embalagem
+Are you sure you want to cancel selected shipment(s)?,Tem certeza de que deseja cancelar a(s) remessa(s) selecionada(s)?
+Shipment Canceled,Remessa cancelada
+Archived Orders,Pedidos arquivados
+//======================= Additional,//======================= Adicional
+Packaging:,Embalagem:
+Access Point display setting:,Configuração de exibição do UPS Access Point:
+Number of Access Points visible to customers:,Número de pontos de acesso visíveis para os clientes:
+Display all the Access Points in range of:,Exiba todos os pontos de acesso na faixa de:
+Title:,Título:
+Company:,Companhia:
+Email:,E-mail:
+Phone &nbsp number:,Número de telefone:
+Phone &nbsp;number:,Número de telefone:
+Address type:,Tipo de endereço:
+Address:,Endereço:
+Postal code:,Código postal:
+City:,Cidade:
+Country:,País:
+Account Name:,Nome da conta:
+Account Number:,Número da conta:
+Account number:,Número da conta:
+Invoice Number:,Número da fatura:
+Invoice Amount:,Valor da fatura:
+Currency:,Moeda:
+Invoice date:,Data da fatura:
+Name:,Nome:
+Phone:,Telefone:
+Customer:,Cliente:
+Product:,Produtos:
+Shipping service:,Serviço de entrega:
+Order value:,Valor do pedido:
+Payment status:,Status do pagamento:
+Access Point:,Ponto de acesso:
+Payment Status:,Status do pagamento:
+Phone number:,Número de telefone:
+Package:,Pacote:
+Estimated Shipping fee:,Taxa de envio estimada:
+Estimated Shipping Fee:,Taxa de envio estimada:
+Orders to be processed:,Pedidos a serem processados:
+Order #ID reference:,Referência do número do pedido:
+Package details:,Detalhes de embalagem:
+Tracking number:,Numero de rastreio:
+Accessorial Service:,Serviço de acessórios:
+Accessorial service:,Serviço de acessórios:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Se você é novo na UPS, consulte as seguintes perguntas frequentes para obter informações adicionais:"
+VAT Number:,Número de IVA:
+Promo Code:,Código promocional:
+Country/Territory:,País/Território:
+End of Business Day,Fim do dia útil
+//==============================Security Enhancement page,
+Security Enhancement,Aprimoramento de segurança
+SECURITY ENHANCEMENTS ACTIVATION,ATIVAÇÃO DE MELHORIAS DE SEGURANÇA
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","Ao instalar o UPS Plugin, você ganhou esta opção conveniente para aplicar os aprimoramentos de segurança recomendados pela UPS em sua loja virtual."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Defesa contra clickjacking
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Veja [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] para mais detalhes. Se você habilitar essa defesa, o plugin UPS protegerá sua loja comunicando a política de framing ao navegador do usuário através do cabeçalho de resposta HTTP 'X-Frame-Options: Sameorigin' e injetando java script 'frame-breaker' para navegadores legados.- Plugin UPS pode proteger as páginas do seu e-shop Front Office de acordo com a folha de dicas de defesa contra clickjacking recomendada pela OWASP Desative esta defesa se desejar habilitar o enquadramento da sua GUI de e-shop em sites de terceiros; ou se você já implementou essa defesa de forma diferente."
+Use X-Frame-Options response header,Use o cabeçalho de resposta X-Frame-Options
+Do not use,Não use
+Deny,Negar
+SameOrigin,Mesma Origem
+Use frame-killer script:,Use o script do assassino de quadros:
+Use Content-Security-Policy response header,Use o cabeçalho de resposta Content-Security-Policy
+frame-ancestors 'none',frame-ancestral 'nenhum'
+frame-ancestors 'sefl',frame-ancestral 'sefl'
+Content Sniffing Prevention,Prevenção contra detecção de conteúdo
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Consulte a wikipedia para mais detalhes. Se você marcar esta opção, o plugin UPS protegerá seu Front Office de e-shop aplicando <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Cabeçalho de resposta HTTP para todas as páginas do Magento Front Office. Isso impedirá que o navegador do cliente (principalmente o Internet Explorer) detecte MIME uma resposta do tipo de conteúdo declarado. Você pode realmente não precisar disso, pois seus usuários não devem enviar nenhum arquivo potencialmente prejudicial para sua loja virtual (por exemplo, JavaScript em vez de uma imagem). No entanto, ainda é uma boa prática habilitar esse cabeçalho de segurança especial, pois não há penalidade de desempenho associada a ele."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,Habilita filtros de script entre sites em navegadores que suportam a diretiva X-XSS-Protection
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Veja a wikipedia para mais detalhes. Se você marcar esta opção, o plugin UPS irá proteger seu Front Office de e-shop aplicando <br />X-XSS-Protection: '1; mode=block' <br />Cabeçalho de resposta HTTP para todas as páginas do Magento Front Office."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Proteja seu site de e-shop contra ataques de downgrade de protocolo e sequestro de cookies
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Veja a wikipedia para mais detalhes Se você marcar esta opção, o plugin UPS irá proteger seu Front Office de e-shop aplicando <br />Strict-Transport-Security 'max-age=31536000; cabeçalho de resposta HTTP do includeSubDomains para todas as páginas do Magento Front Office."
+Prevent sensitive pages from caching by browser.,Impedir que páginas confidenciais sejam armazenadas em cache pelo navegador.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Consulte as Perguntas frequentes do OWASP para obter mais detalhes. Se você marcar esta opção, o plugin UPS irá proteger o processo de Checkout aplicando<br />Cache-Control: no-cache, no-store <br />Expires: 0 <br />Pragma: no-cache <br /> Cabeçalhos de resposta HTTP para as páginas correspondentes"
+Apply to pages,Aplicar a páginas
+All,Tudo
+Checkout only,Somente finalização da compra
+Data saved successfully.,Dados salvos com sucesso.
+We couldn't find any records,Não encontramos nenhum registro
+Please wait…,"Por favor, espere…"
+Archiving Orders,Arquivando pedidos
+There is no shipping service for the above address,Não há serviço de envio para o endereço acima
+The email is not empty,O e-mail não está vazio
+The country is not empty,O país não está vazio
+Select all,Selecionar tudo
+Unselect all,Desmarque todos
+Do not have label for this Tracking ID,Não tem rótulo para este ID de acompanhamento
+Print Label or download file.,Imprima a etiqueta ou baixe o arquivo.
+"Connection error, try later to install and configure","Erro de conexão, tente instalar e configurar mais tarde"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Não podemos anular esta remessa no momento. Você pode tentar anular o envio mais tarde. No entanto, você não será cobrado por esta remessa, desde que não use a etiqueta de remessa"
+Estimated Fee,Taxa estimada
+Shipping fee,Taxa de envio
+Poland,Polônia
+United Kingdom,Reino Unido
+France,França
+Germany,Alemanha
+Italy,Itália
+Netherlands,Holanda
+Spain,Espanha
+Belgium,Bélgica
+Shipment Manager,Gerente de Remessa
+Default Package,Pacote padrão
+Order Time,Hora do pedido
+Time,Tempo
+Warning,Aviso
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Erro! O pacote excede o tamanho máximo permitido de 400 cm ou 157,48 polegadas (o cálculo do tamanho máximo permitido = comprimento + 2 * largura + 2 * altura)."
+Access Points Address will be used as an alternative shipping address,O endereço dos pontos de acesso será usado como endereço de entrega alternativo
+Ship To (UPS Access Point),Enviar para (ponto de acesso UPS)

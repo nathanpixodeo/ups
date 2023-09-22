@@ -1,0 +1,470 @@
+//======================= About page,//======================= Par lapu
+About,Par
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"UPS ir sadarbojies ar Magento, lai piedāvātu bezmaksas UPS piegādes un UPS Access Point™ moduli, kas ļaus jums integrēt un piedāvāt plašu UPS piegādes un piegādes risinājumu klāstu tieši jūsu vietnes izrakstīšanās procesā! Šis oficiālais Magento UPS modulis nodrošina jūsu klientiem piekļuvi mūsu plašajam UPS piekļuves punktu tīklam un piegādes pakalpojumiem."
+Features of this product,Šī produkta īpašības
+Front Office,Front Office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,"Vienkāršs un vienkāršs kartes interfeiss, lai jūsu klienti varētu izvēlēties UPS piekļuves punktu atbilstoši savām vēlmēm."
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,"Lietotājam draudzīgs interfeiss, lai jūsu klienti varētu pārslēgties no piegādes piekļuves punkta uz piegādi mājās."
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Reāllaika UPS piegādes tarifs vai vienotas likmes katram pieejamajam pakalpojumam (atbilstoši tirgotāja back office iestatījumiem).
+Back Office,Back Office
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Iespējas, lai iestatītu piegādes tarifus, ko redzēs jūsu klienti (piemēram, bezmaksas piegāde, reāllaika piegādes tarifi vai vienotas likmes atbilstoši groza vērtības sliekšņiem)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Iespēja atvērt UPS kontu tieši pašā modulī, ja tāda nav."
+Easy PDF label generation.,Vienkārša PDF etiķešu ģenerēšana.
+Real time tracking information.,Reāllaika izsekošanas informācija.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Iespēja eksportēt atvērtos pasūtījumus, lai tos varētu apstrādāt citās lietojumprogrammās sarežģītākām vajadzībām."
+Module version number and release date,Moduļa versijas numurs un izlaišanas datums
+Module version v,Moduļa versija v
+Release date,Izdošanas datums
+Changelog,Izmaiņu žurnāls
+Platform compatibility statement,Platformas saderības paziņojums
+"Compatible with Magento versions 2.1, 2.2, 2.3","Savietojams ar Magento versijām 2.1, 2.2, 2.3"
+UPS Shipping Module website,UPS piegādes moduļa vietne
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,"Lai iegūtu plašāku informāciju, apmeklējiet vietni <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups. .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>"
+For more information visit,"Lai iegūtu vairāk informācijas, apmeklējiet"
+Support information,Atbalsta informācija
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Lai saņemtu palīdzību saistībā ar UPS piegādes moduļa uzstādīšanu, jaunināšanu vai lietošanu, lūdzu, sazinieties ar UPS pa -"
+Poland +48 (0) 22 203 03 21,Polija +48 (0) 22 203 03 21
+UPS Shipping Module,UPS piegādes modulis
+UPS Shipping,UPS piegāde
+Shipment management,Sūtījumu vadība
+//======================= Country page,//======================= Valsts lapa
+Country setting,Valsts iestatījums
+Country Setting,Valsts iestatījums
+Please select your country/territory,"Lūdzu, atlasiet savu valsti/teritoriju"
+Continue,Turpināt
+//======================= Terms and Condition page,//======================= Noteikumu un nosacījumu lapa
+UPS Terms and Conditions,UPS noteikumi un nosacījumi
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Es piekrītu UPS tehnoloģiju līgumam un apstiprinu, ka man ir dots pietiekami daudz laika, lai to izlasītu un saprastu, ka tajā ir ietverti svarīgi noteikumi par manu UPS tehnoloģiju izmantošanu, piemēram, UPS atbildības ierobežošana un mana vienošanās par to, kā tiks risināti strīdi starp UPS un mani. apstrādāts"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Es piekrītu UPS tehnoloģiju līgumam un apstiprinu, ka man ir dots pietiekami daudz laika, lai to izlasītu un saprastu, ka tas satur svarīgus noteikumus par manu UPS tehnoloģiju izmantošanu,"
+like,patīk
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled," UPS atbildības ierobežošana un mana vienošanās par to, kā tiks risināti strīdi starp UPS un mani."
+Print,Drukāt
+Cannot get Term & Condition,Nevar saņemt termiņu un nosacījumus
+//======================= Account Page,//======================= Konta lapa
+Account,Konts
+ACCOUNT,KONTS
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),"Lai iegūtu papildinformāciju par UPS spraudņiem, lūdzu, noklikšķiniet uz <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>šīs saites< /a> (atveras jaunā pārlūkprogrammas logā)"
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,"Lūdzu, aizpildiet tālāk esošo veidlapu, lai sāktu UPS spraudņa konfigurēšanu savai e-komercijas vietnei"
+Title,Nosaukums
+Full name,Pilnais vārds
+Full Name,Pilnais vārds
+Company,Uzņēmums
+Email,E-pasts
+Phone number,Telefona numurs
+Address type,Adreses veids
+Address,Adrese
+Postal code,Pasta indekss
+City,Pilsēta
+Country/Territory,Valsts/teritorija
+"Example: Warehouse, Branch #1, etc.","Piemērs: noliktava, filiāle Nr. 1 utt."
+"Example: Warehouse, Branch #1","Piemērs: noliktava, filiāle Nr. 1"
+Street Address,Ielas adrese
+"Apartment, Suite, Unit, Building, Floor, etc.","Dzīvoklis, komplekts, vienība, ēka, stāvs utt."
+"Department, c/o, etc.","Nodaļa, c/o utt."
+Mr,Mr
+Miss,Jaunkundze
+Mrs,kundze
+Ms,jaunkundze
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Man ir UPS konta numurs, AR pēdējo 45 dienu laikā saņemts rēķins (90 dienas, ja jūsu konts atrodas ASV vai Kanādā)"
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Man ir UPS konta numurs, BEZ rēķina ir saņemts pēdējo 45 dienu laikā (90 dienas, ja jūsu konts atrodas ASV vai Kanādā)"
+I do not have a UPS Account Number and would like to get one from the plug-in,"Man nav UPS konta numura, un es vēlētos to iegūt ar atlaidēm no spraudņa"
+I don’t have a UPS account number and would,Man nav UPS konta numura un būtu
+like,patīk
+to get one with discounted rates from the plug-in,lai iegūtu to ar atlaidēm no spraudņa
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"Rēķinam ir jābūt jebkuram no pēdējiem 3 UPS izsniegtajiem rēķiniem pēdējo 45 dienu laikā (90 dienas, ja jūsu konts atrodas ASV vai Kanādā)."
+Account name,Konta vārds
+Account number,Konta numurs
+Invoice number,Rēķina numurs
+Invoice amount,Rēķina summa
+Currency,Valūta
+Invoice date,Rēķina datums
+VAT number,PVN numurs
+Promo Code,Reklāmas kods
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,"Lūdzu, ņemiet vērā: nosūtītājiem ir aizliegts nosūtīt bīstamas preces vai bīstamus materiālus, izmantojot šajā lietojumprogrammā atvērto kontu."
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Jūsu konts atbalstīs piegādi uz autorizētām UPS Access Point™ vietām pēc 24 stundām.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,"Plašāku informāciju par bīstamām kravām un to, kā UPS var atbalstīt to nosūtīšanā, varat atrast šajā saitē <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page> [https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>"
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Atsauces nosaukums, kas tiks saistīts ar kontu. Piemēram, noliktava 1, noliktava 2, veikals 1, veikals 2 utt. Jūs varat brīvi izvēlēties nosaukumu atbilstoši jūsu prasībām"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Pasta indekss vai pasta indekss, kas saistīts ar jūsu UPS kontu. To var atrast katras UPS rēķina lapas augšdaļā sadaļā “Pircējs”"
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Vārds, kas saistīts ar jūsu UPS kontu. To var atrast katras UPS rēķina lapas augšdaļā sadaļā “Pircējs”"
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,"Unikāls sešu rakstzīmju burtciparu numurs, kas identificē jūsu kontu. To var atrast katras jūsu UPS rēķina lapas augšējā kreisajā pusē"
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,"Unikāls 12 ciparu numurs, ko UPS piešķīris rēķinam. To var atrast katras jūsu UPS rēķina lapas augšējā kreisajā pusē"
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Kopējā maksājamā summa par doto rēķinu. To var atrast tabulā “Maksu kopsavilkums” rēķina pirmajā lapā
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Rēķina izrakstīšanas datums. To var atrast katras jūsu UPS rēķina lapas augšējā kreisajā pusē
+Get started,Sāc
+Some of the data you entered is not valid. Please check again.,"Daži jūsu ievadītie dati nav derīgi. Lūdzu, pārbaudiet vēlreiz."
+Cannot create new Account Number,Nevar izveidot jaunu konta numuru
+Email is not correct format,E-pasta formāts nav pareizs
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"Jūsu pieprasījums izveidot UPS piegādes kontu nebija veiksmīgs. Lūdzu, pārbaudiet ievadītās vērtības “Pilsēta” un “Pasta indekss”. Šeit ir daži ieteikumi par pilsētu un pasta indeksu, kas ir derīga kombinācija."
+Please update the city and postal code values with one of these selections and click Get Started,"Lūdzu, atjauniniet pilsētas un pasta indeksa vērtības ar kādu no šīm atlasēm un noklikšķiniet uz Sākt"
+Configuration,Konfigurācija
+//======================= Account Success Page,//======================= Konta veiksmes lapa
+Your UPS Profile,Jūsu UPS profils
+Your Payment Account,Jūsu maksājumu konts
+Add another account number,Pievienojiet citu konta numuru
+Please enter the address attached to your account number,"Lūdzu, ievadiet konta numuram pievienoto adresi"
+Phone,Tālrunis
+Verify,Pārbaudīt
+Next,Nākamais
+Remove,Noņemt
+Account number already exists in 'Your Payment Account',Konta numurs jau pastāv sadaļā “Jūsu maksājumu konts”
+Full name:,Pilnais vārds:
+Remove Account,Noņemt kontu
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Šis konts tiks noņemts. Noklikšķiniet uz Labi, lai apstiprinātu, aizveriet dialoglodziņu, lai atceltu."
+Your UPS account has been successfull registered,Jūsu UPS konts ir veiksmīgi reģistrēts
+//======================= Shipping Services page,//======================= Piegādes pakalpojumu lapa
+Shipping Services,Piegādes pakalpojumi
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Izvēlieties UPS pakalpojumus, kurus vēlaties redzēt kasē saviem e-pircējiem. Lai uzzinātu vairāk par UPS pakalpojumiem, skatiet UPS tarifu/pakalpojuma noteikumus un nosacījumus vietnē UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Nosūtiet uz UPS Access Point™ atrašanās vietu (piegāde uz AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","UPS piegādā sūtījumu uz UPS Access Point™ vietu, kuru klients ir izvēlējies, lai to varētu saņemt sev ērtā laikā."
+Yes,Jā
+No,Nē
+Set as default shipping option,Iestatīt kā noklusējuma piegādes iespēju
+Select the shipping services for your customers to choose,"Izvēlieties piegādes pakalpojumus, ko klienti var izvēlēties"
+"International shipping only - visible, when shipping address is outside of EU","Tikai starptautiskā piegāde - redzama, ja piegādes adrese ir ārpus ES"
+Access Point display setting:,UPS piekļuves punkta displeja iestatījums:
+Number of Access Points visible to customers:,Klientiem redzamo atrašanās vietu skaits:
+Display all the Access Points in range of:,Parādīt visas atrašanās vietas diapazonā:
+kilometer around consignee's selected address,Jūdzes ap saņēmēja izvēlēto adresi
+Choose Account Number for this option,Šai opcijai izvēlieties konta numuru
+Deliver to consignee address (to-address delivery),Piegāde uz saņēmēja adresi (piegāde uz adresi)
+UPS delivers the parcel to the shipping address provided by customer.,UPS piegādā paku uz klienta norādīto piegādes adresi.
+Cut off time,Pārtraukt laiku
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Šeit atlasītais pārtraukšanas laiks tiks izmantots, lai aprēķinātu grafika piegādes datumu un laiku, kas tiks parādīts jūsu vietnes izrakstīšanās laikā."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Piemēram, ja izslēgšanas laiks ir izvēlēts 17:00 un jūsu e-pircēji skata jūsu interneta veikalu plkst. 17:01, visi UPS plānotie piegādes datumi un laiks tiks aprēķināts no nākamās darba dienas. Pieņemot lēmumu par šo pārtraukšanas laiku, lūdzu, nodrošiniet, lai jums būtu pietiekami daudz laika, lai izpildītu pasūtījumu pirms UPS plānotā saņemšanas vai arī jūs varat nodot pakas UPS Access Point™ vietā."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Ja neesat pārliecināts par klientu pasūtījumu izpildi tajā pašā dienā, varat izvēlēties “Atspējot”, kā rezultātā e-pircējs redzēs katra pieejamā pakalpojuma aptuvenos piegādes datumus."
+Save,Saglabāt
+Please select at least one shipping service.,"Lūdzu, atlasiet vismaz vienu piegādes pakalpojumu."
+UPS Access Point™ Economy,UPS Access Point™ Ekonomika
+UPS® Standard,UPS® standarts
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Saņemt pēc piegādes (COD)
+Collect on Delivery (COD),Saņemt pēc piegādes (COD)
+You have the official Magento COD module enabled!,Jums ir iespējots oficiālais Magento COD modulis!
+Only show Access Points supporting COD shipments?,"Vai rādīt tikai tos piekļuves punktus, kas atbalsta COD sūtījumus?"
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Atlasiet “JĀ”, ja plānojat piedāvāt COD sūtījumus uz UPS Access Point™"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Šī spraudņa COD piegādes pakalpojums ir automātiski savietojams ar oficiālo Magento moduli Savākšana pie piegādes (COD).
+You do not have the official Magento COD module installed and/or enabled!,Jums nav instalēts un/vai iespējots oficiālais Magento COD modulis!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Šī spraudņa COD piegādes pakalpojums ir automātiski saderīgs ar Magento oficiālo Cash on Delivery (COD) moduli.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Ja vēlaties, lai UPS piegādes modulis automātiski noteiktu COD sūtījumus, <strong>lūdzu, pārliecinieties, vai esat instalējis Magento's Collect on Delivery (COD)</strong>. Ja jums jau ir instalēts Magento's Collect on Delivery (COD) modulis, <strong>lūdzu, pārliecinieties, vai modulis ir iespējots</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Noklikšķiniet šeit</a>], lai iegūtu detalizētus norādījumus."
+COD Option,COD opcija
+//======================= Package Dimensions page,//======================= Pakas izmēru lapa
+Package Dimensions,Iepakojuma izmēri
+Default Package Setting,Noklusējuma pakotnes iestatījums
+Default package setting,Noklusējuma pakotnes iestatījums
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Lūdzu, ievadiet šeit sava iepakojuma svaru un izmērus. Varat pievienot vairākus iepakojuma izmērus, kurus var viegli atlasīt nolaižamajā opcijā, veidojot sūtījumus spraudnī."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Ja nolemjat e-pircējiem parādīt reāllaika UPS piegādes likmi (kas tiks konfigurēta nākamajā ekrānā), spraudnis izmantos pirmo paketi, kas tiek dēvēta par ""Noklusējuma paketi"", kas tiek parādīta zemāk. Noklusētās pakas svars un izmēri tiks izmantoti, lai aprēķinātu UPS piegādes tarifus, kas tiks parādīti e-pircējiem."
+Add New Package,Pievienot jaunu paketi
+Package name,Pakas nosaukums
+"Example: Standard, Large, Phone box, etc.","Piemērs: standarta, liela, tālruņa kaste utt."
+Weight,Svars
+Unit,Vienība
+Dimension,Izmērs
+Add Package,Pievienot paketi
+Length,Garums
+Width,Platums
+Height,Augstums
+The name Package is exist.,Nosaukums Package pastāv.
+Edit,Rediģēt
+Delete,Dzēst
+Editing Default Package,Noklusējuma pakotnes rediģēšana
+Remove Package,Noņemt paketi
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Jūs gatavojaties noņemt šo noklusējuma pakotni no sava profila. Noklikšķiniet uz Labi, lai apstiprinātu, aizveriet dialoglodziņu, lai atceltu."
+OK,labi
+Please input at least one default package to continue.,"Lai turpinātu, lūdzu, ievadiet vismaz vienu noklusējuma pakotni."
+Please select an option,"Lūdzu, atlasiet opciju"
+Basic (number of items in the e-shopper order determine the package size),Pamata (preču skaits e-pircēja pasūtījumā nosaka iepakojuma izmēru)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Papildu (e-pircēja pasūtījumā preču svars un izmēri nosaka iepakojuma izmēru)
+Package dimensions:,Iepakojuma izmēri:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Piezīme: spraudnis izveidos pielāgotu iepakojuma izmēru, ja e-pircēja pasūtījums ir lielāks par jūsu ievadītajām pakām"
+Warning! To use this option you must enter product weights in the product settings of your shop.,"Brīdinājums! Lai izmantotu šo opciju, veikala preču iestatījumos ir jāievada preču svars."
+Include dimensions in rating,Novērtējumā iekļaujiet izmērus
+Yes,Jā
+No,Nē
+Number of items in order,Preču skaits kārtībā
+Add Backup Rate,Pievienojiet rezerves ātrumu
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Ja iestatīts uz “Nē”, cenas tiks noteiktas, pamatojoties tikai uz produktu svaru.&nbsp; Ja iestatīts uz “Jā”, preces izmēri jāievada veikala preču iestatījumos"
+Name,Vārds
+Length,Garums
+Width,Platums
+Height,Augstums
+Weight,Svars
+Max Weight,Maksimālais svars
+Backup rate:,Rezerves ātrums:
+Service Name,Pakalpojuma nosaukums
+Rate,Likme
+Add Backup Rate,Pievienojiet rezerves ātrumu
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Rezerves likme tiks parādīta e-pircējiem tikai tad, ja produkta iestatījumos ir kāda problēma, piemēram, trūkst svara vai ja svars/izmēri pārsniedz UPS ierobežojumus."
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Pievienojiet noklusējuma pakas, ja vēlaties, lai vērtēšanai izmantotais iepakojuma lielums mainītos atkarībā no preču skaita e-pircēja pasūtījumā"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Piezīme: ja preču skaits e-pircēja pasūtījumā neatbilst nevienam no jūsu ievadītajiem ierakstiem, tad vērtēšanai izmantotā iepakojuma izmērs tiks noteikts, pamatojoties uz lielāko preču skaitu, ko pārsniedzis e-pircēja pasūtījums."
+//======================= Checkout Shipping Rates page,//======================= Izrakstīšanās Piegādes tarifu lapa
+Checkout Shipping Rates,Pārbaudiet piegādes tarifus
+Ship to UPS Access Point&trade;,Nosūtiet uz UPS Access Point™ atrašanās vietu
+Flat rates,Vienotas likmes
+Real time shipping rates,Reāllaika piegādes tarifi
+Delivery rates is,Piegādes tarifi ir
+% of UPS shipping rates,% no UPS piegādes tarifiem
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,"E-pircējs redzēs UPS reāllaika tarifu procentus. Šīs likmes tiek aprēķinātas, izmantojot noklusējuma pakas svaru un izmērus, ko konfigurējāt iepriekšējā ekrānā (Pakas izmēri)."
+Ship to Address,Sūtīt uz adresi
+Order Value Threshold,Pasūtījuma vērtības slieksnis
+Delivery rates,Piegādes tarifi
+The minimum thresholds can not be the same.,Minimālie sliekšņi nevar būt vienādi.
+//======================= Complete Configuration page,//======================= Pabeigt konfigurācijas lapu
+Complete Configuration,Pilnīga konfigurācija
+You can start shipping now!,Jūs varat sākt piegādi tūlīt!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,"Noklikšķiniet uz pogas ""Pabeigt konfigurāciju"", lai pabeigtu spraudņa konfigurēšanu un sāktu piedāvāt UPS piegādes pakalpojumus savā vietnē."
+"If you are new to UPS, please refer to the following FAQs for additional information:","Ja esat jauns UPS lietotājs, lūdzu, skatiet tālāk norādītos FAQ, lai iegūtu papildinformāciju:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Kā iegūt plašāku informāciju par savu jauno UPS piegādes kontu?<br />Ja atvērāt jaunu UPS piegādes kontu, izmantojot spraudni, uz e-pasta adresi, kuru ievadījāt, tiks nosūtīts apstiprinājuma e-pasts ar plašāku informāciju. izveidojot jaunu kontu."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Kā sagatavot pakas UPS savākšanai vai nodot uz UPS Access Point™ atrašanās vietu?<br />Skatiet iepakojuma sagatavošanas ieteikumus šajā saitē - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Kā es varu nodot savas pakas UPS?<br />Jūs varat nodot savu paku jebkurā pilnvarotā UPS vietā, piemēram, UPS Access Point™ vietā. Noklikšķiniet tālāk, lai meklētu ērtu atrašanās vietu netālu no jums"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Varat arī lūgt UPS paņemt pakas no jūsu noliktavas vai uzņēmuma adreses. Ja jums ir nepieciešama neregulāra saņemšana, varat tieši ieplānot saņemšanu no UPS.COM, izmantojot šo saiti - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Ja jums ir UPS paketes lielākajā daļā darbadienu un vēlaties saņemt parastu UPS saņemšanu, varat sazināties ar UPS, zvanot uz tālruņa numuru, kas norādīts sadaļā Norēķinu jautājumi <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>šeit</a>. Pēc tam UPS pārstāvis sazināsies ar jums, lai apspriestu ikdienas UPS saņemšanu."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Ja jums ir UPS paketes lielākajā daļā darbadienu un dodat priekšroku parastam UPS saņemšanai, lūdzu, skatiet šo saiti, lai iegūtu norādījumus par ikdienas saņemšanas grafiku: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Kādas darbības man jāveic, lai iestatītu pakalpojumu UPS Collect on Delivery (COD)?<br />Varat sazināties ar UPS, zvanot uz tālruņa numuru, kas norādīts sadaļā Norēķinu jautājumi <a href='https://www. .ups.com/%1/%2/help-center/contact.page' target='_blank'>šeit</a>. Pēc tam ar jums sazināsies UPS pārstāvis, lai apspriestu COD pakalpojumu."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Kādas darbības man jāveic, lai iestatītu pakalpojumu UPS Collect on Delivery (COD)?<br />Ja vēlaties izmantot UPS Collect on Delivery (COD) pakalpojumus, lūdzu, skatiet šo saiti, lai iegūtu sīkāku informāciju: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Meklēt atrašanās vietas
+Print form,Drukas veidlapa
+//======================= E-shopper page,//======================= E-pircēja lapa
+Deliver to an UPS Access Point<sup>TM</sup>,Piegādājiet uz UPS Access Point™ atrašanās vietu
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Jūsu pakete tiks piegādāta UPS Access Point™ vietā
+Open 24 hours,Atvērts 24 stundas diennaktī
+The address is required,Adrese ir nepieciešama
+Please select an Access Point to process,"Lūdzu, atlasiet apstrādājamo piekļuves punktu"
+Operating Hours,Darba laiks
+Open,Atvērt
+Close,Aizvērt
+Monday,pirmdiena
+Closed,Slēgts
+Tuesday,otrdiena
+Wednesday,trešdiena
+Thursday,ceturtdiena
+Friday,piektdiena
+Saturday,sestdiena
+Sunday,svētdiena
+Search for the UPS Access Point<sup>TM</sup>,Meklējiet UPS Access Point™ atrašanās vietas
+Near,Netālu
+Delivered by End of Business Day,Piegādāts līdz Darba dienas beigām
+"Address line, City, State, Postcode","Adreses rinda, pilsēta, valsts, pasta indekss"
+"Address line,City,State,Postcode","Adreses rinda, pilsēta, štats, pasta indekss"
+Use my delivery address,Izmantojiet manu piegādes adresi
+Search,Meklēt
+Results,Rezultāti
+Select,Izvēlieties
+Deliver to Your Address,Piegādāt uz Jūsu adresi
+Your package will be delivered to your address,Jūsu paka tiks piegādāta uz jūsu adresi
+UPS SHIPPING,UPS PIEGĀDE
+Delivery today!,Piegāde jau šodien!
+Delivery next day!,Piegāde nākamajā dienā!
+Next two days!,Nākamās divas dienas!
+Next three days!,Nākamās trīs dienas!
+Next four days!,Nākamās četras dienas!
+Next five days!,Nākamās piecas dienas!
+Next six days!,Nākamās sešas dienas!
+Next seven days!,Nākamās septiņas dienas!
+Next eight days!,Nākamās astoņas dienas!
+Next nine days!,Nākamās deviņas dienas!
+Next ten days!,Nākamās desmit dienas!
+delivered by,piegādāja
+Delivered by,Piegādāja
+January,janvārī
+February,februāris
+March,marts
+April,aprīlis
+May,maijā
+June,jūnijs
+July,jūlijā
+August,augusts
+September,septembris
+November,novembris
+October,oktobris
+December,decembris
+//======================= Open Order page,//======================= Atvērt pasūtījuma lapu
+Open Orders,Atvērt pasūtījumus
+Create Single Shipments,Izveidojiet atsevišķus sūtījumus
+Create Batch Shipments,Izveidojiet pakešu sūtījumus
+Export All Orders,Eksportēt visus pasūtījumus
+Export Orders,Eksporta pasūtījumi
+Archive Orders,Pasūtījumu arhīvs
+Order ID,Pasūtījuma ID
+Order Date,Pasūtījuma datums
+Product,Produkts
+Delivery Address,Piegādes adrese
+Shipping Service,Piegādes pakalpojums
+COD,COD
+Action,Darbība
+No results!,Nav rezultātu!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Brīdinājums. Arhivējot pasūtījumus, jūsu pasūtījumi tiks pārvietoti uz cilni Arhīvs, un jūs vairs nevarat apstrādāt šos pasūtījumus. Noklikšķiniet uz ""OK"", lai turpinātu, un uz ""Atcelt"", lai atgrieztos ekrānā"
+Cancel,Atcelt
+//======================= Detail Order page,//======================= Detalizēta pasūtījuma lapa
+Order,Pasūtiet
+Order #,Pasūtījuma nr.
+Customer,Klients
+Order value,Pasūtījuma vērtība
+Payment status,Maksājuma statuss
+Access Point,Piekļuves punkts
+//======================= Create single shipment page,//======================= Izveidot vienu sūtījuma lapu
+Process Shipment,Apstrādāt sūtījumu
+Ship From,Sūtīt no
+Ship To,Nosūtīt uz
+Accessorial service,Papildu pakalpojums*
+Packaging,Iepakojums
+Package #1,Pakete #1
+Package #,Iepakojuma Nr.
+Add package,Pievienot paketi
+View estimated shipping fee and delivery date,Skatiet aptuveno piegādes maksu un piegādes datumu
+Edit,Rediģēt
+Create Shipment,Izveidot sūtījumu
+Custom Package,Pielāgota pakotne
+Name,Vārds
+Address,Adrese
+State,Valsts
+Note: Insufficient or incorrect address may increase the shipping fee,Piezīme. Nepietiekama vai nepareiza adrese var palielināt piegādes maksu
+Additional Handling,Papildu apstrāde
+Additional handling,Papildu apstrāde
+Quantum View Ship Notification,Quantum View Ship Paziņojums
+Quantum View Delivery Notification,Quantum View piegādes paziņojums
+Residential Address,Dzīvesvietas adrese
+Saturday Delivery,Sestdienas piegāde
+Carbon Neutral,Oglekļa neitrāls
+Direct Delivery Only,Tikai tiešā piegāde
+Declared value,Deklarētā vērtība
+Signature Required,Nepieciešams paraksts
+Adult Signature Required,Nepieciešams pieaugušo paraksts
+To Home COD,Uz mājām COD
+Cancel Editing,Atcelt rediģēšanu
+To Access Point COD,Piekļuves punkta COD
+Orders to be processed,"Pasūtījumi, kas jāapstrādā"
+The name is not empty,Nosaukums nav tukšs
+The address is required,Adrese ir nepieciešama
+The postal code is empty or invalid,Pasta indekss ir tukšs vai nederīgs
+The city is not empty,Pilsēta nav tukša
+Invalid email format,Nederīgs e-pasta formāts
+The phone is not empty,Telefons nav tukšs
+Some of the data you entered is not valid. Please check again.,"Daži jūsu ievadītie dati nav derīgi. Lūdzu, pārbaudiet vēlreiz."
+There are errors connecting to the UPS API servers. Please try again.,"Veidojot savienojumu ar UPS API serveriem, radās kļūdas. Lūdzu mēģiniet vēlreiz."
+//======================= Shipment page,//======================= Sūtījuma lapa
+Shipments,Sūtījumi
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Atlasot jebkuru pasūtījumu šajā sūtījuma cilnē, es piekrītu <a href='javascrip:void(0);' id='term-condition'>Pakalpojumu sniegšanas noteikumi.</a>"
+UPS Tracking Terms and Conditions,UPS izsekošanas noteikumi un nosacījumi
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","PAZIŅOJUMS: UPS paku izsekošanas sistēmas, kurām piekļūst, izmantojot šo pakalpojumu (""Izsekošanas sistēmas"") un izsekošanas informācija, kas iegūta, izmantojot šo pakalpojumu (""Informācija"") ir UPS privātīpašums. UPS pilnvaro jūs izmantot izsekošanas sistēmas tikai, lai izsekotu sūtījumus, ko UPS piedāvājis vai kas jums ir iesniegts piegādei, un nekam citam nolūkam. Bez ierobežojumiem jums nav tiesību darīt informāciju pieejamu nevienā tīmekļa vietnē vai citādi reproducēt, izplatīt, kopēt, uzglabāt, izmantot vai pārdot Informāciju komerciāla labuma gūšanai bez nepārprotamas rakstiskas UPS piekrišanas. Šis ir personisks pakalpojums, tāpēc jūsu tiesības izmantot izsekošanas sistēmas vai informāciju nav nododamas. Jebkura piekļuve vai izmantošana, kas neatbilst šiem noteikumiem, ir neatļauta un stingri aizliegta."
+Download PDF Label,Lejupielādēt PDF etiķeti
+Download ZPL Label,Lejupielādēt ZPL etiķeti
+Export Shipment Data,Eksportēt sūtījuma datus
+Cancel Shipments,Atcelt sūtījumus
+ID Shipment,ID sūtījums
+Tracking Number,Izsekošanas numurs
+Date,Datums
+Estimated Shipping Fee,Paredzamā piegādes maksa
+Shipment #,Sūtījuma nr.
+Order #ID reference,Pasūtījuma #ID atsauce
+Package details,Sīkāka informācija par iepakojumu
+Are you sure you want to cancel selected shipment(s)?,Vai tiešām vēlaties atcelt izvēlēto(-s) sūtījumu(-us)?
+Shipment Canceled,Sūtījums atcelts
+Archived Orders,Arhivētie pasūtījumi
+//======================= Additional,//======================= Papildu
+Packaging:,Iepakojums:
+Access Point display setting:,UPS piekļuves punkta displeja iestatījums:
+Number of Access Points visible to customers:,Klientiem redzamo piekļuves punktu skaits:
+Display all the Access Points in range of:,Parādīt visus piekļuves punktus diapazonā:
+Title:,Nosaukums:
+Company:,Uzņēmums:
+Email:,E-pasts:
+Phone &nbsp number:,Tālruņa &nbsp numurs:
+Phone &nbsp;number:,Tālruņa &nbsp;numurs:
+Address type:,Adreses veids:
+Address:,Adrese:
+Postal code:,Pasta indekss:
+City:,Pilsēta:
+Country:,Valsts:
+Account Name:,Konta vārds:
+Account Number:,Konta numurs:
+Account number:,Konta numurs:
+Invoice Number:,Rēķina numurs:
+Invoice Amount:,Rēķina summa:
+Currency:,Valūta:
+Invoice date:,Rēķina datums:
+Name:,Vārds:
+Phone:,Tālrunis:
+Customer:,Klients:
+Product:,Produkts:
+Shipping service:,Piegādes pakalpojums:
+Order value:,Pasūtījuma vērtība:
+Payment status:,Maksājuma statuss:
+Access Point:,Piekļuves punkts:
+Payment Status:,Maksājuma statuss:
+Phone number:,Telefona numurs:
+Package:,Iepakojums:
+Estimated Shipping fee:,Paredzamā piegādes maksa:
+Estimated Shipping Fee:,Paredzamā piegādes maksa:
+Orders to be processed:,Apstrādājamie pasūtījumi:
+Order #ID reference:,Pasūtījuma Nr. ID atsauce:
+Package details:,Sīkāka informācija par iepakojumu:
+Tracking number:,Izsekošanas numurs:
+Accessorial Service:,Papildu pakalpojums:
+Accessorial service:,Papildu pakalpojums:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Ja esat jauns UPS lietotājs, lūdzu, skatiet tālāk norādītos FAQ, lai iegūtu papildinformāciju:"
+VAT Number:,PVN numurs:
+Promo Code:,Reklāmas kods:
+Country/Territory:,Valsts/teritorija:
+End of Business Day,Darba dienas beigas
+//==============================Security Enhancement page,
+Security Enhancement,Drošības uzlabošana
+SECURITY ENHANCEMENTS ACTIVATION,DROŠĪBAS UZLABOJUMU AKTIVIZĒŠANA
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","Instalējot UPS spraudni, jūs ieguvāt šo ērto iespēju savā e-veikalā lietot UPS ieteiktos drošības uzlabojumus. Iespējojot noteiktus drošības uzlabojumus zemāk, jūs varat padarīt savu e-veikalu mazāk neaizsargātu pret dažiem izplatītiem hakeru uzbrukumiem."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Aizsardzība pret klikšķiem
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Plašāku informāciju skatiet vietnē [wikipedia|https://en.wikipedia.org/wiki/Clickjacking]. Ja iespējosit šo aizsardzību, UPS spraudnis nodrošinās jūsu veikala drošību, paziņojot lietotāja pārlūkprogrammai ietvaru politiku, izmantojot HTTP atbildes galveni X-Frame-Options: Sameorigin un ievadot mantotajām pārlūkprogrammām java skriptu ""frame-breaker"".- UPS spraudnis. var aizsargāt jūsu e-veikala Front Office lapas saskaņā ar OWASP ieteikto Clickjacking Defense Cheat Sheet Atspējojiet šo aizsardzību, ja vēlaties iespējot sava e-veikala GUI kadrēšanu trešo pušu vietnēs; vai ja jūs jau esat ieviesis šo aizsardzību savādāk."
+Use X-Frame-Options response header,Izmantojiet X-Frame-Options atbildes galveni
+Do not use,Nelietojiet
+Deny,Noliegt
+SameOrigin,Tāda patiIzcelsme
+Use frame-killer script:,Izmantojiet kadru killer skriptu:
+Use Content-Security-Policy response header,Izmantojiet atbildes galveni Content-Security-Policy
+frame-ancestors 'none',"rāmis-senči ""nav"""
+frame-ancestors 'sefl',"rāmis-senči ""sefl"""
+Content Sniffing Prevention,Satura šņaukšanas novēršana
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Lai iegūtu sīkāku informāciju, skatiet Wikipedia. Ja atzīmēsit šo opciju, UPS spraudnis nodrošinās jūsu e-veikala Front Office, piemērojot <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","HTTP atbildes galvene visām Magento Front Office lapām. Tas neļaus klienta pārlūkprogrammai (īpaši Internet Explorer) MIME izsmelt atbildi no deklarētā satura veida. Jums tas var nebūt vajadzīgs, jo jūsu lietotājiem nav jāaugšupielādē jūsu e-veikalā iespējami kaitīgi faili (piemēram, JavaScript attēla vietā). Tomēr joprojām ir laba prakse iespējot šo īpašo drošības galveni, jo ar to nav saistīts darbības sods."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,"Iespējo starpvietņu skriptu filtrus pārlūkprogrammās, kas atbalsta direktīvu X-XSS-Protection"
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Sīkāku informāciju skatiet wikipedia. Ja atzīmēsit šo opciju, UPS spraudnis nodrošinās jūsu e-veikala Front Office aizsardzību, izmantojot <br />X-XSS-Protection: '1; mode=block' <br />HTTP atbildes galvene visām Magento Front Office lapām."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Aizsargājiet savu e-veikala vietni pret protokolu pazemināšanas uzbrukumiem un sīkfailu nolaupīšanu
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Plašāku informāciju skatiet wikipedia Ja atzīmēsiet šo opciju, UPS spraudnis nodrošinās jūsu e-veikala Front Office, piemērojot <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains <br />HTTP atbildes galvene uz visām Magento Front Office lapām."
+Prevent sensitive pages from caching by browser.,Neļaujiet sensitīvām lapām saglabāt pārlūkprogrammas kešatmiņu.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Plašāku informāciju skatiet OWASP BUJ. Ja atzīmēsit šo opciju, UPS spraudnis nodrošinās Checkout procesu, piemērojot<br />Cache-Control: bez kešatmiņas, bez veikala <br />Derīguma termiņš: 0 <br />Pragma: bez kešatmiņas <br /> HTTP atbildes galvenes uz attiecīgajām lapām"
+Apply to pages,Piesakies lapām
+All,Visi
+Checkout only,Tikai izrakstīšanās
+Data saved successfully.,Dati veiksmīgi saglabāti.
+We couldn't find any records,Mēs nevarējām atrast nevienu ierakstu
+Please wait…,Lūdzu uzgaidiet…
+Archiving Orders,Pasūtījumu arhivēšana
+There is no shipping service for the above address,Iepriekš norādītajai adresei nav piegādes pakalpojuma
+The email is not empty,E-pasts nav tukšs
+The country is not empty,Valsts nav tukša
+Select all,Izvēlēties visus
+Unselect all,Noņemiet visu atlasi
+Do not have label for this Tracking ID,Šim izsekošanas ID nav etiķetes
+Print Label or download file.,Drukāt etiķeti vai lejupielādēt failu.
+"Connection error, try later to install and configure","Savienojuma kļūda, mēģiniet vēlāk instalēt un konfigurēt"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Šobrīd mēs nevaram anulēt šo sūtījumu. Vēlāk varat mēģināt anulēt sūtījumu. Tomēr jums netiks iekasēts rēķins par šo sūtījumu, ja neizmantosiet piegādes etiķeti"
+Estimated Fee,Paredzamā maksa
+Shipping fee,Piegādes maksa
+Poland,Polija
+United Kingdom,Apvienotā Karaliste
+France,Francija
+Germany,Vācija
+Italy,Itālija
+Netherlands,Nīderlande
+Spain,Spānija
+Belgium,Beļģija
+Shipment Manager,Sūtījumu vadītājs
+Default Package,Noklusējuma pakotne
+Order Time,Pasūtījuma laiks
+Time,Laiks
+Warning,Brīdinājums
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Kļūda! Iepakojums pārsniedz maksimāli pieļaujamo izmēru 400 cm jeb 157,48 collas (maksimālā pieļaujamā izmēra aprēķins = garums + 2 * platums + 2 * augstums)."
+Access Points Address will be used as an alternative shipping address,Piekļuves punktu adrese tiks izmantota kā alternatīva piegādes adrese
+Ship To (UPS Access Point),Nosūtīt uz (UPS piekļuves punkts)

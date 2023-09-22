@@ -1,0 +1,470 @@
+//======================= About page,//======================= O strani
+About,O tem
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"UPS je sklenil partnerstvo z Magento, da bi ponudil brezplačno pošiljanje UPS in modul UPS Access Point™, ki vam bo omogočil integracijo in ponudbo širokega nabora rešitev pošiljanja in dostave UPS neposredno v procesu odjave na vašem spletnem mestu! Ta uradni modul UPS za Magento omogoča vašim strankam dostop do našega obsežnega omrežja UPS Access Point in storitev dostave."
+Features of this product,Značilnosti tega izdelka
+Front Office,Front Office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,"Preprost in enostaven zemljevidni vmesnik za vaše stranke, da izberejo dostopno točko UPS po svojih željah."
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,"Uporabniku prijazen vmesnik za vaše stranke, da preklopijo z dostave dostopne točke na dostavo na dom."
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Stopnja pošiljanja UPS v realnem času ali pavšalni stroški za vsako razpoložljivo storitev (glede na nastavitve zaledne pisarne trgovca).
+Back Office,Zaledna pisarna
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Razpon možnosti za nastavitev stopenj dostave, ki jih bodo videle vaše stranke (na primer: brezplačna dostava, cene dostave v realnem času ali pavšalne cene glede na pragove vrednosti košarice)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Možnost odprtja UPS računa direktno v samem modulu, če ga nimate."
+Easy PDF label generation.,Enostavno ustvarjanje nalepk PDF.
+Real time tracking information.,Informacije o sledenju v realnem času.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Možnost izvoza odprtih naročil, tako da jih lahko obdelate v drugih aplikacijah za bolj zapletene potrebe."
+Module version number and release date,Številka različice modula in datum izdaje
+Module version v,Različica modula v
+Release date,Datum izdaje
+Changelog,Dnevnik sprememb
+Platform compatibility statement,Izjava o združljivosti platforme
+"Compatible with Magento versions 2.1, 2.2, 2.3","Združljivo z različicami Magento 2.1, 2.2, 2.3"
+UPS Shipping Module website,Spletno mesto UPS Shipping Module
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,Za več informacij obiščite <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,Za več informacij obiščite
+Support information,Informacije o podpori
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Za pomoč pri namestitvi, nadgradnji ali uporabi UPS Shipping Module se obrnite na UPS na -"
+Poland +48 (0) 22 203 03 21,Poljska +48 (0) 22 203 03 21
+UPS Shipping Module,Modul pošiljanja UPS
+UPS Shipping,Pošiljanje UPS
+Shipment management,Upravljanje pošiljk
+//======================= Country page,//======================= Stran države
+Country setting,Nastavitev države
+Country Setting,Nastavitev države
+Please select your country/territory,Izberite svojo državo/ozemlje
+Continue,Nadaljuj
+//======================= Terms and Condition page,//======================= Stran s pogoji in določili
+UPS Terms and Conditions,Pogoji in določila UPS
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Strinjam se s tehnološko pogodbo UPS in potrjujem, da sem imel dovolj časa, da jo preberem in razumem, da vsebuje pomembne pogoje o moji uporabi tehnologij UPS, kot je omejevanje odgovornosti UPS in moje strinjanje o tem, kako se bodo reševali spori med UPS in mano. obdelan"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Strinjam se s tehnološko pogodbo UPS in potrjujem, da sem imel dovolj časa, da jo preberem in razumem, da vsebuje pomembne pogoje o moji uporabi tehnologij UPS,"
+like,kot
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled," omejitev odgovornosti UPS in moj dogovor o tem, kako se bodo obravnavali spori med UPS in mano."
+Print,Tiskanje
+Cannot get Term & Condition,Ni mogoče dobiti določil in pogojev
+//======================= Account Page,//======================= Stran računa
+Account,račun
+ACCOUNT,RAČUN
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),Za več informacij o vtičnikih UPS kliknite <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>to povezavo< /a> (odpre se v novem oknu brskalnika)
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,"Izpolnite spodnji obrazec, da začnete konfigurirati vtičnik UPS za vaše spletno mesto za e-trgovino"
+Title,Naslov
+Full name,Polno ime
+Full Name,Polno ime
+Company,Podjetje
+Email,E-naslov
+Phone number,Telefonska številka
+Address type,Tip naslova
+Address,Naslov
+Postal code,Poštna številka
+City,Mesto
+Country/Territory,Država/ozemlje
+"Example: Warehouse, Branch #1, etc.","Primer: skladišče, podružnica št. 1 itd."
+"Example: Warehouse, Branch #1","Primer: skladišče, podružnica št. 1"
+Street Address,Naslov ceste
+"Apartment, Suite, Unit, Building, Floor, etc.","Stanovanje, apartma, enota, stavba, nadstropje itd."
+"Department, c/o, etc.","Oddelek, c/o itd."
+Mr,gospod
+Miss,Zgrešiti
+Mrs,ga
+Ms,gospa
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Imam številko računa UPS Z računom, ki se je pojavil v zadnjih 45 dneh (90 dni, če je vaš račun v ZDA ali Kanadi)"
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Imam številko računa UPS BREZ računa, ki se je pojavil v zadnjih 45 dneh (90 dni, če je vaš račun v ZDA ali Kanadi)"
+I do not have a UPS Account Number and would like to get one from the plug-in,Nimam številke računa UPS in bi rad dobil enega z znižanimi cenami iz vtičnika
+I don’t have a UPS account number and would,Nimam številke računa UPS in bi jo imel
+like,kot
+to get one with discounted rates from the plug-in,da dobite enega po znižanih cenah iz vtičnika
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"Račun mora biti kateri koli od zadnjih 3 izdanih s strani UPS v zadnjih 45 dneh (90 dni, če je vaš račun v ZDA ali Kanadi)"
+Account name,Ime računa
+Account number,Številka računa
+Invoice number,Številka računa
+Invoice amount,Znesek računa
+Currency,Valuta
+Invoice date,Datum računa
+VAT number,Davčna številka
+Promo Code,Promocijska koda
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,"Prosimo, upoštevajte: pošiljateljem je prepovedano pošiljati nevarno blago ali nevarne materiale z uporabo računa, odprtega v tej aplikaciji."
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Vaš račun bo podpiral dostave na pooblaščene lokacije UPS Access Point™ po 24 urah.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,"Več informacij o nevarnem blagu in o tem, kako vam lahko UPS pomaga pri pošiljanju, najdete na tej povezavi <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>"
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Referenčno ime, ki bo povezano z računom. Na primer skladišče 1, skladišče 2, trgovina 1, trgovina 2 itd. Poljubno lahko izberete ime glede na vaše zahteve"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Poštna številka ali poštna številka, povezana z vašim računom UPS. Najdete ga na vrhu vsake strani vašega računa UPS pod 'Kupec'"
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Ime, povezano z vašim računom UPS. Najdete ga na vrhu vsake strani vašega računa UPS pod 'Kupec'"
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,"Edinstvena šestmestna alfanumerična številka, ki identificira vaš račun. Najdete ga na zgornji levi strani na vsaki strani vašega računa UPS"
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,"Edinstvena 12-mestna številka, ki jo UPS dodeli računu. Najdete ga na zgornji levi strani na vsaki strani vašega računa UPS"
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Skupni dolgovani znesek za dani račun. Najdete ga v tabeli 'Povzetek stroškov' na prvi strani računa
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Datum izstavitve računa. Najdete ga na zgornji levi strani na vsaki strani vašega računa UPS
+Get started,Začeti
+Some of the data you entered is not valid. Please check again.,"Nekateri podatki, ki ste jih vnesli, niso veljavni. Preverite še enkrat."
+Cannot create new Account Number,Nove številke računa ni mogoče ustvariti
+Email is not correct format,E-pošta ni v pravilni obliki
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"Vaša zahteva za ustvarjanje računa za pošiljanje UPS ni bila uspešna. Prosimo, preverite vrednosti »Mesto« in »Poštna številka«, ki ste ju vnesli. Tukaj je nekaj predlogov o mestu in poštni številki, ki sta veljavni kombinaciji –"
+Please update the city and postal code values with one of these selections and click Get Started,Posodobite vrednosti mesta in poštne številke z eno od teh izbir in kliknite Začni
+Configuration,Konfiguracija
+//======================= Account Success Page,//======================= Stran z uspehom računa
+Your UPS Profile,Vaš profil UPS
+Your Payment Account,Vaš plačilni račun
+Add another account number,Dodajte drugo številko računa
+Please enter the address attached to your account number,"Vnesite naslov, priložen številki vašega računa"
+Phone,Telefon
+Verify,Preveri
+Next,Naslednji
+Remove,Odstrani
+Account number already exists in 'Your Payment Account',Številka računa že obstaja v 'Vašem plačilnem računu'
+Full name:,Polno ime:
+Remove Account,Odstrani račun
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Ta račun bo odstranjen. Kliknite V redu za potrditev, zaprete pogovorno okno za preklic."
+Your UPS account has been successfull registered,Vaš račun UPS je bil uspešno registriran
+//======================= Shipping Services page,//======================= Stran s storitvami pošiljanja
+Shipping Services,Storitve pošiljanja
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Izberite storitve UPS, za katere želite, da so vidne na blagajni vašim e-kupcem. Če želite izvedeti več o storitvah UPS, si oglejte tarife/določila in pogoje storitve UPS na UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Pošljite na lokacijo UPS Access Point™ (dostava na AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","UPS dostavi paket na lokacijo UPS Access Point™, ki jo izbere stranka, da jo lahko prevzame, ko jim ustreza"
+Yes,ja
+No,št
+Set as default shipping option,Nastavi kot privzeto možnost pošiljanja
+Select the shipping services for your customers to choose,"Izberite storitve pošiljanja, ki jih lahko izberejo vaše stranke"
+"International shipping only - visible, when shipping address is outside of EU","Samo mednarodno pošiljanje – vidno, ko je naslov za pošiljanje zunaj EU"
+Access Point display setting:,Nastavitev zaslona dostopne točke UPS:
+Number of Access Points visible to customers:,"Število lokacij, vidnih strankam:"
+Display all the Access Points in range of:,Prikaži vse lokacije v obsegu:
+kilometer around consignee's selected address,Milje okoli izbranega naslova prejemnika
+Choose Account Number for this option,Za to možnost izberite številko računa
+Deliver to consignee address (to-address delivery),Dostava na naslov prejemnika (dostava na naslov)
+UPS delivers the parcel to the shipping address provided by customer.,"UPS dostavi paket na naslov za pošiljanje, ki ga navede stranka."
+Cut off time,Prekinitev časa
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Tukaj izbrani presečni čas bo uporabljen pri izračunu datuma in ure urnika dostave, ki bosta prikazana na blagajni vašega spletnega mesta."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Na primer, če je končni čas izbran kot 17.00 in si vaši e-kupci ogledajo vašo spletno trgovino ob 17.01, bodo vsi načrtovani datumi in čas dostave UPS izračunani od naslednjega delovnega dne. Ko se odločate za ta presečni čas, se prepričajte, da imate dovolj časa za izpolnitev naročila pred načrtovanim prevzemom UPS ali da lahko oddate pakete na lokaciji UPS Access Point™."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Če niste prepričani o izpolnjevanju naročil strank na isti dan, lahko izberete »Onemogoči«, zaradi česar bo e-kupec videl približne datume dostave za vsako razpoložljivo storitev."
+Save,Shrani
+Please select at least one shipping service.,Izberite vsaj eno dostavno službo.
+UPS Access Point™ Economy,UPS Access Point™ Economy
+UPS® Standard,Standard UPS®
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Stran Prevzem po povzetju (COD)
+Collect on Delivery (COD),Prevzem po povzetju (COD)
+You have the official Magento COD module enabled!,Imate omogočen uradni modul Magento COD!
+Only show Access Points supporting COD shipments?,"Prikaži samo dostopne točke, ki podpirajo pošiljke s COD?"
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Izberite 'DA', če nameravate ponuditi pošiljke s COD na UPS Access Point™"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Storitev pošiljanja COD tega vtičnika je samodejno združljiva z uradnim modulom Prevzem po povzetju (COD) družbe Magento.
+You do not have the official Magento COD module installed and/or enabled!,Nimate nameščenega in/ali omogočenega uradnega modula Magento COD!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Storitev pošiljanja s COD tega vtičnika je samodejno združljiva z uradnim modulom Plačilo ob dostavi (COD) podjetja Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Če želite, da modul UPS Shipping samodejno zazna pošiljke s COD, <strong>prepričajte se, da ste namestili Magento's Collect on Delivery (COD)</strong>. Če že imate nameščen modul Magento Collect on Delivery (COD), <strong>prepričajte se, da je modul omogočen</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Kliknite tukaj</a>] za podrobna navodila."
+COD Option,Možnost COD
+//======================= Package Dimensions page,//======================= Stran z dimenzijami paketa
+Package Dimensions,Dimenzije paketa
+Default Package Setting,Privzeta nastavitev paketa
+Default package setting,Privzeta nastavitev paketa
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Tukaj vnesite težo in dimenzije vaše embalaže. Dodate lahko več dimenzij paketa, ki jih lahko preprosto izberete v spustnem meniju pri ustvarjanju pošiljk v vtičniku."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Če se odločite, da boste e-kupcem prikazali stopnjo pošiljanja UPS v realnem času (ki jo boste konfigurirali na naslednjem zaslonu), bo vtičnik uporabil prvi paket, imenovan »privzeti paket«, ki je prikazan spodaj. Teža in mere privzetega paketa bodo uporabljene za izračun stroškov pošiljanja UPS, ki bodo prikazane e-kupcem."
+Add New Package,Dodaj nov paket
+Package name,Ime paketa
+"Example: Standard, Large, Phone box, etc.","Primer: Standard, Large, Phone box itd."
+Weight,Utež
+Unit,Enota
+Dimension,Dimenzija
+Add Package,Dodaj paket
+Length,Dolžina
+Width,Premer
+Height,Višina
+The name Package is exist.,Ime Paket obstaja.
+Edit,Uredi
+Delete,Izbriši
+Editing Default Package,Urejanje privzetega paketa
+Remove Package,Odstrani paket
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Ta privzeti paket boste odstranili iz svojega profila. Kliknite V redu za potrditev, zaprete pogovorno okno za preklic."
+OK,v redu
+Please input at least one default package to continue.,Za nadaljevanje vnesite vsaj en privzeti paket.
+Please select an option,Izberite možnost
+Basic (number of items in the e-shopper order determine the package size),Osnovno (število artiklov v naročilu e-nakupovalca določa velikost paketa)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Napredno (teža in dimenzija izdelkov v naročilu e-nakupovalca določata velikost paketa)
+Package dimensions:,Dimenzije paketa:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Opomba: vtičnik bo ustvaril velikost paketa po meri, če je naročilo e-kupovalca večje od paketov, ki jih vnesete"
+Warning! To use this option you must enter product weights in the product settings of your shop.,Opozorilo! Za uporabo te možnosti morate vnesti težo izdelkov v nastavitvah izdelkov v vaši trgovini.
+Include dimensions in rating,Vključite dimenzije v oceno
+Yes,ja
+No,št
+Number of items in order,Število elementov v vrstnem redu
+Add Backup Rate,Dodaj rezervno stopnjo
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Če je nastavljeno na »Ne«, bodo cene temeljile samo na teži izdelkov.&nbsp; Če je nastavljeno na »Da«, je treba dimenzije izdelka vnesti v nastavitvah izdelka v vaši trgovini"
+Name,Ime
+Length,Dolžina
+Width,Premer
+Height,Višina
+Weight,Utež
+Max Weight,Največja teža
+Backup rate:,Hitrost varnostnega kopiranja:
+Service Name,Ime storitve
+Rate,Oceniti
+Add Backup Rate,Dodaj rezervno stopnjo
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Rezervna stopnja bo e-kupcem prikazana le, če je v nastavitvah izdelka težava, na primer manjkajoče teže ali če teže/mere presegajo omejitve UPS."
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Dodajte privzete pakete, če želite, da se velikost paketa, ki se uporablja za ocenjevanje, spremeni glede na število artiklov v naročilu e-kupca"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Opomba: če se število artiklov v naročilu e-kupovalca ne ujema z nobenim od vaših vnosov, bo velikost paketa, uporabljenega za ocenjevanje, temeljila na največjem številu artiklov, ki ga je preseglo naročilo e-kupovalca."
+//======================= Checkout Shipping Rates page,//======================= Stran s cenami dostave na blagajni
+Checkout Shipping Rates,Cene pošiljanja na blagajni
+Ship to UPS Access Point&trade;,Pošljite na lokacijo UPS Access Point™
+Flat rates,Pavšalne stopnje
+Real time shipping rates,Cene pošiljanja v realnem času
+Delivery rates is,Cene dostave so
+% of UPS shipping rates,% cen pošiljanja UPS
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,"E-kupec bo videl % realnih tarif UPS. Te cene so izračunane z uporabo privzete teže in mer paketa, ki ste jih konfigurirali na prejšnjem zaslonu (Dimenzije paketa)."
+Ship to Address,Pošlji na naslov
+Order Value Threshold,Prag vrednosti naročila
+Delivery rates,Cene dostave
+The minimum thresholds can not be the same.,Minimalni pragovi ne morejo biti enaki.
+//======================= Complete Configuration page,//======================= Popolna konfiguracijska stran
+Complete Configuration,Popolna konfiguracija
+You can start shipping now!,Zdaj lahko začnete pošiljati!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,"Kliknite gumb 'Popolna konfiguracija', da dokončate konfiguracijo vtičnika in začnete ponujati storitve pošiljanja UPS na svojem spletnem mestu."
+"If you are new to UPS, please refer to the following FAQs for additional information:","Če ste nov uporabnik UPS, si za dodatne informacije oglejte naslednja pogosta vprašanja:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Kako dobim več informacij o svojem novem računu za pošiljanje UPS?<br />Če ste odprli nov račun za pošiljanje UPS z vtičnikom, bo potrditveno e-poštno sporočilo z več informacijami poslano na e-poštni naslov, ki ste ga vnesli med ustvarjanje novega računa."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Kako pripravim svoje pakete za prevzem UPS ali oddajo na lokacijo UPS Access Point™?<br />Glejte priporočila za pripravo paketov na tej povezavi - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Kako predam svoje pakete UPS-u?<br />Paket lahko oddate na kateri koli pooblaščeni lokaciji UPS, kot je lokacija UPS Access Point™. Kliknite spodaj, da poiščete primerno lokacijo v vaši bližini"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Prav tako lahko zahtevate, da UPS prevzame pakete iz vašega skladišča ali poslovnega naslova. Če potrebujete občasen prevzem, lahko neposredno načrtujete prevzem na UPS.COM s to povezavo - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Če imate pakete UPS večino delovnih dni in bi raje prejeli običajni prevzem UPS, se lahko obrnete na UPS tako, da pokličete telefonsko številko, ki je navedena pod Vprašanji o zaračunavanju <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>tukaj</a>. Nato bo z vami stopil v stik predstavnik UPS, da se pogovorimo o dnevnem prevzemu UPS."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Če imate pakete UPS večino delovnih dni in vam je ljubši običajni prevzem UPS, si oglejte to povezavo za navodila o načrtovanju dnevnih prevzemov: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Katere korake moram narediti, da vzpostavim storitev UPS po povzetju (COD)?<br />Na UPS lahko stopite v stik tako, da pokličete telefonsko številko, ki je navedena pod Vprašanji o obračunavanju <a href='https://www .ups.com/%1/%2/help-center/contact.page' target='_blank'>tukaj</a>. Nato bo predstavnik UPS stopil v stik z vami in se pogovoril o storitvi COD."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Katere korake moram narediti za vzpostavitev storitve UPS Prevzem ob dostavi (COD)?<br />Če vas zanima uporaba storitev UPS Prevzem ob dostavi (COD), si oglejte to povezavo za podrobnosti: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Iskanje lokacij
+Print form,Tiskanje obrazca
+//======================= E-shopper page,//======================= Stran e-nakupovalca
+Deliver to an UPS Access Point<sup>TM</sup>,Dostavite na lokacijo UPS Access Point™
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Vaš paket bo dostavljen na lokacijo UPS Access Point™
+Open 24 hours,Odprto 24 ur
+The address is required,Naslov je obvezen
+Please select an Access Point to process,Izberite dostopno točko za obdelavo
+Operating Hours,Delovni čas
+Open,Odprto
+Close,Zapri
+Monday,ponedeljek
+Closed,Zaprto
+Tuesday,torek
+Wednesday,sreda
+Thursday,četrtek
+Friday,Petek
+Saturday,sobota
+Sunday,nedelja
+Search for the UPS Access Point<sup>TM</sup>,Poiščite lokacije UPS Access Point™
+Near,blizu
+Delivered by End of Business Day,Dostavljeno do konca delovnega dne
+"Address line, City, State, Postcode","Vrstica naslova, mesto, država, poštna številka"
+"Address line,City,State,Postcode","Vrstica naslova, mesto, država, poštna številka"
+Use my delivery address,Uporabi moj naslov za dostavo
+Search,Iskanje
+Results,Rezultati
+Select,Izberite
+Deliver to Your Address,Dostava na vaš naslov
+Your package will be delivered to your address,Vaš paket bo dostavljen na vaš naslov
+UPS SHIPPING,POŠILJANJE UPS
+Delivery today!,Dostava danes!
+Delivery next day!,Dostava naslednji dan!
+Next two days!,Naslednja dva dni!
+Next three days!,Naslednji trije dnevi!
+Next four days!,Naslednji štirje dnevi!
+Next five days!,Naslednjih pet dni!
+Next six days!,Naslednjih šest dni!
+Next seven days!,Naslednjih sedem dni!
+Next eight days!,Naslednjih osem dni!
+Next nine days!,Naslednjih devet dni!
+Next ten days!,Naslednjih deset dni!
+delivered by,dostavil
+Delivered by,Dostavil
+January,januarja
+February,februar
+March,marec
+April,aprila
+May,maja
+June,junija
+July,julija
+August,avgusta
+September,septembra
+November,novembra
+October,oktobra
+December,decembra
+//======================= Open Order page,//======================= Odprite stran za naročilo
+Open Orders,Odprta naročila
+Create Single Shipments,Ustvarite posamezne pošiljke
+Create Batch Shipments,Ustvarite paketne pošiljke
+Export All Orders,Izvozi vsa naročila
+Export Orders,Izvozna naročila
+Archive Orders,Arhiviraj naročila
+Order ID,Številka naročila
+Order Date,Datum naročila
+Product,Izdelek
+Delivery Address,Dostavni naslov
+Shipping Service,Storitev pošiljanja
+COD,COD
+Action,Akcija
+No results!,Brez rezultatov!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Opozorilo – arhiviranje naročil bo premaknilo vaša naročila v zavihek Arhiv in teh naročil ne boste mogli več obdelati. Za nadaljevanje kliknite »V redu«, za vrnitev na zaslon pa »Prekliči«."
+Cancel,Prekliči
+//======================= Detail Order page,//======================= Stran s podrobnostmi o naročilu
+Order,naročilo
+Order #,št. naročila
+Customer,Stranka
+Order value,Vrednost naročila
+Payment status,Stanje plačila
+Access Point,Dostopna točka
+//======================= Create single shipment page,//======================= Ustvari stran za eno pošiljko
+Process Shipment,Obdelaj pošiljko
+Ship From,Pošiljanje iz
+Ship To,Poslati v
+Accessorial service,Dodatna storitev*
+Packaging,Pakiranje
+Package #1,Paket #1
+Package #,Paket št.
+Add package,Dodaj paket
+View estimated shipping fee and delivery date,Oglejte si ocenjeno ceno pošiljanja in datum dostave
+Edit,Uredi
+Create Shipment,Ustvari pošiljko
+Custom Package,Paket po meri
+Name,Ime
+Address,Naslov
+State,Država
+Note: Insufficient or incorrect address may increase the shipping fee,Opomba: Nezadosten ali nepravilen naslov lahko poveča stroške pošiljanja
+Additional Handling,Dodatno ravnanje
+Additional handling,Dodatno ravnanje
+Quantum View Ship Notification,Obvestilo o ladji Quantum View
+Quantum View Delivery Notification,Obvestilo o dostavi Quantum View
+Residential Address,Naslov bivališča
+Saturday Delivery,Sobotna dostava
+Carbon Neutral,Ogljično nevtralen
+Direct Delivery Only,Samo neposredna dostava
+Declared value,Določena vrednost
+Signature Required,Zahtevan podpis
+Adult Signature Required,Potreben je podpis odrasle osebe
+To Home COD,Na dom COD
+Cancel Editing,Prekliči urejanje
+To Access Point COD,Na dostopno točko COD
+Orders to be processed,Naročila za obdelavo
+The name is not empty,Ime ni prazno
+The address is required,Naslov je obvezen
+The postal code is empty or invalid,Poštna številka je prazna ali neveljavna
+The city is not empty,Mesto ni prazno
+Invalid email format,Neveljavna oblika elektronske pošte
+The phone is not empty,Telefon ni prazen
+Some of the data you entered is not valid. Please check again.,"Nekateri podatki, ki ste jih vnesli, niso veljavni. Preverite še enkrat."
+There are errors connecting to the UPS API servers. Please try again.,Pri povezovanju s strežniki UPS API prihaja do napak. Prosim poskusite ponovno.
+//======================= Shipment page,//======================= Stran za pošiljanje
+Shipments,Pošiljke
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>",Z izbiro katerega koli naročila v tem zavihku za pošiljanje se strinjam z <a href='javascrip:void(0);' id='term-condition'>Določila in pogoji.</a>
+UPS Tracking Terms and Conditions,Pogoji in določila sledenja UPS
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","OBVESTILO: Sistemi za sledenje paketov UPS, do katerih dostopate prek te storitve (»Sistemi za sledenje«), in informacije o sledenju, pridobljene s to storitvijo (»Informacije«), so zasebna last UPS. UPS vas pooblašča, da sisteme za sledenje uporabljate izključno za sledenje pošiljkam, ki jih UPS odda za dostavo ali za vas, in za noben drug namen. Brez omejitev niste pooblaščeni, da bi informacije dali na voljo na kateri koli spletni strani ali kako drugače reproducirali, distribuirali, kopirali, shranjevali, uporabljali ali prodajali informacije za komercialne koristi brez izrecnega pisnega soglasja UPS. To je osebna storitev, zato vaše pravice do uporabe sistemov za sledenje ali informacij ni mogoče dodeliti. Vsak dostop ali uporaba, ki ni v skladu s temi pogoji, je nepooblaščen in strogo prepovedan."
+Download PDF Label,Prenesite oznako PDF
+Download ZPL Label,Prenesite oznako ZPL
+Export Shipment Data,Izvoz podatkov o pošiljki
+Cancel Shipments,Prekliči pošiljke
+ID Shipment,ID pošiljke
+Tracking Number,Številka za sledenje
+Date,Datum
+Estimated Shipping Fee,Predvidena cena pošiljanja
+Shipment #,št. pošiljke
+Order #ID reference,Referenca ID # naročila
+Package details,Podrobnosti paketa
+Are you sure you want to cancel selected shipment(s)?,"Ali ste prepričani, da želite preklicati izbrane pošiljke?"
+Shipment Canceled,Pošiljka preklicana
+Archived Orders,Arhivirana naročila
+//======================= Additional,//======================= Dodatno
+Packaging:,Pakiranje:
+Access Point display setting:,Nastavitev zaslona dostopne točke UPS:
+Number of Access Points visible to customers:,"Število dostopnih točk, vidnih strankam:"
+Display all the Access Points in range of:,Prikažite vse dostopne točke v obsegu:
+Title:,Naslov:
+Company:,Podjetje:
+Email:,E-naslov:
+Phone &nbsp number:,Telefonska &nbsp številka:
+Phone &nbsp;number:,Telefonska &nbsp;številka:
+Address type:,Tip naslova:
+Address:,Naslov:
+Postal code:,Poštna številka:
+City:,mesto:
+Country:,Država:
+Account Name:,Ime računa:
+Account Number:,Številka računa:
+Account number:,Številka računa:
+Invoice Number:,Številka računa:
+Invoice Amount:,Znesek računa:
+Currency:,Valuta:
+Invoice date:,Datum računa:
+Name:,ime:
+Phone:,telefon:
+Customer:,Stranka:
+Product:,izdelek:
+Shipping service:,Dostava:
+Order value:,Vrednost naročila:
+Payment status:,Stanje plačila:
+Access Point:,Dostopna točka:
+Payment Status:,Status plačila:
+Phone number:,Telefonska številka:
+Package:,Paket:
+Estimated Shipping fee:,Predvidena cena pošiljanja:
+Estimated Shipping Fee:,Predvidena cena pošiljanja:
+Orders to be processed:,Naročila za obdelavo:
+Order #ID reference:,Sklic na ID naročila:
+Package details:,Podrobnosti paketa:
+Tracking number:,Številka za sledenje:
+Accessorial Service:,Dodatna storitev:
+Accessorial service:,Dodatna storitev:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Če ste nov uporabnik UPS, si za dodatne informacije oglejte naslednja pogosta vprašanja:"
+VAT Number:,Davčna številka:
+Promo Code:,Promocijska koda:
+Country/Territory:,Država/ozemlje:
+End of Business Day,Konec delovnega dne
+//==============================Security Enhancement page,
+Security Enhancement,Izboljšanje varnosti
+SECURITY ENHANCEMENTS ACTIVATION,AKTIVACIJA IZBOLJŠAV VARNOSTI
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","Z namestitvijo vtičnika UPS ste pridobili to priročno možnost za uporabo varnostnih izboljšav, ki jih priporoča UPS, za vašo e-trgovino. Če omogočite določene varnostne izboljšave spodaj, lahko naredite svojo e-trgovino manj ranljivo za nekatere običajne napade hekerjev."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking obramba
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Za več podrobnosti si oglejte [wikipedia|https://en.wikipedia.org/wiki/Clickjacking]. Če omogočite to obrambo, bo vtičnik UPS zavaroval vašo trgovino s sporočanjem politike okvirjanja uporabnikovemu brskalniku prek glave odziva HTTP 'X-Frame-Options: Sameorigin' in z vstavljanjem java skripta 'razbijalec okvirjev' za starejše brskalnike. - Vtičnik UPS lahko zavaruje vaše strani sprednje pisarne e-trgovine v skladu s priporočili OWASP Varovalni list za zaščito pred vgrajevanjem klikov Onemogočite to obrambo, če želite omogočiti uokvirjanje GUI vaše e-trgovine na spletnih mestih tretjih oseb; ali če ste to obrambo že izvedli drugače."
+Use X-Frame-Options response header,Uporabite glavo odgovora X-Frame-Options
+Do not use,Ne uporabljajte
+Deny,Zanikati
+SameOrigin,SameOrigin
+Use frame-killer script:,Uporabite skript za ubijanje okvirjev:
+Use Content-Security-Policy response header,Uporabite glavo odgovora Content-Security-Policy
+frame-ancestors 'none',okvir-predniki 'brez'
+frame-ancestors 'sefl',okvir-predniki 'sefl'
+Content Sniffing Prevention,Preprečevanje vohanja vsebine
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Za več podrobnosti si oglejte wikipedijo. Če označite to možnost, bo vtičnik UPS zaščitil vašo e-trgovino Front Office z uporabo <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Glava odziva HTTP za vse strani Front Officea Magento. To bo odjemalčevemu brskalniku (zlasti Internet Explorerju) preprečilo, da bi MIME zavohal odgovor stran od deklarirane vrste vsebine. Tega morda res ne potrebujete, saj vaši uporabniki ne bi smeli nalagati morebitnih škodljivih datotek v vašo e-trgovino (npr. JavaScript namesto slike). Vendar je še vedno dobra praksa, da omogočite to posebno varnostno glavo, saj z njo ni povezana nobena kazen za zmogljivost."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,"Omogoča filtre za skriptiranje med spletnimi mesti v brskalnikih, ki podpirajo direktivo X-XSS-Protection"
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Za več podrobnosti glejte wikipedijo. Če označite to možnost, bo vtičnik UPS zaščitil vašo e-trgovino Front Office z uporabo <br />X-XSS-Protection: '1; mode=block' <br />Glava odziva HTTP na vse strani Magento Front Office."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Zaščitite svojo spletno stran e-trgovine pred napadi na znižanje protokola in ugrabitvijo piškotkov
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Za več podrobnosti si oglejte wikipedijo. Če označite to možnost, bo vtičnik UPS zaščitil vašo e-trgovino Front Office z uporabo <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains <br />glava odziva HTTP na vse strani Magento Front Office."
+Prevent sensitive pages from caching by browser.,Preprečite občutljivim stranem predpomnjenje v brskalniku.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Za več podrobnosti si oglejte pogosta vprašanja OWASP. Če označite to možnost, bo vtičnik UPS zavaroval postopek odjave z uporabo<br />Cache-Control: no-cache, no-store <br />Poteče: 0 <br />Pragma: no-cache <br /> Glave odzivov HTTP na ustrezne strani"
+Apply to pages,Uporabi na straneh
+All,Vse
+Checkout only,Samo blagajna
+Data saved successfully.,Podatki uspešno shranjeni.
+We couldn't find any records,Nismo mogli najti nobenega zapisa
+Please wait…,Prosim počakaj…
+Archiving Orders,Arhiviranje naročil
+There is no shipping service for the above address,Za zgornji naslov ni storitve pošiljanja
+The email is not empty,E-poštno sporočilo ni prazno
+The country is not empty,Država ni prazna
+Select all,Izberi vse
+Unselect all,Prekliči izbor vseh
+Do not have label for this Tracking ID,Nimate oznake za ta ID sledenja
+Print Label or download file.,Natisnite nalepko ali prenesite datoteko.
+"Connection error, try later to install and configure","Napaka pri povezavi, poskusite pozneje namestiti in konfigurirati"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Te pošiljke trenutno ne moremo razveljaviti. Pošiljko lahko poskusite razveljaviti pozneje. Vendar vam te pošiljke ne bomo zaračunali, če ne uporabite nalepke za pošiljanje"
+Estimated Fee,Ocenjena pristojbina
+Shipping fee,Poštnina
+Poland,Poljska
+United Kingdom,Združeno kraljestvo
+France,Francija
+Germany,Nemčija
+Italy,Italija
+Netherlands,Nizozemska
+Spain,Španija
+Belgium,Belgija
+Shipment Manager,Vodja pošiljanja
+Default Package,Privzeti paket
+Order Time,Čas naročila
+Time,Čas
+Warning,Opozorilo
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Napaka! Paket presega največjo dovoljeno velikost 400 cm ali 157,48 palca (izračun največje dovoljene velikosti = dolžina + 2 * širina + 2 * višina)."
+Access Points Address will be used as an alternative shipping address,Naslov dostopne točke bo uporabljen kot alternativni naslov za dostavo
+Ship To (UPS Access Point),Pošiljanje (dostopna točka UPS)

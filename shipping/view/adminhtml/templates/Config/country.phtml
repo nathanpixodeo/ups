@@ -1,0 +1,125 @@
+<?php
+$pre_flight_check = true;
+$url_1 = $block->check_url_1();
+$url_2 = $block->check_url_2();
+$url_3 = $block->check_url_3();
+$maintenance_off = $block->check_maintenance();
+$ssl = $block->check_curr_url_ssl();
+
+//html status
+$url_1_html = "<b>✔️</b>";
+$url_2_html = "<b>✔️</b>";
+$url_3_html = "<b>✔️</b>";
+$maintenance_off_html = "<b>✔️</b>";
+$ssl_html = "<b>✔️</b>";
+
+//update  flight check
+if (!$url_1) {
+    $pre_flight_check = false;
+    $url_1_html = "<b>❌</b>";
+}
+if (!$url_2) {
+    $pre_flight_check = false;
+    $url_2_html = "<b>❌</b>";
+}
+if (!$url_3) {
+    $pre_flight_check = false;
+    $url_3_html = "<b>❌</b>";
+}
+if (!$maintenance_off) {
+    $pre_flight_check = false;
+    $maintenance_off_html = "<b>❌</b>";
+}
+if (!$ssl) {
+    $pre_flight_check = false;
+    $ssl_html = "<b>❌</b>";
+}
+
+if (!$pre_flight_check) {
+?>
+    <div class="flight_check"><b>Some Requirements were missing...</b></div>
+    <table cellspacing="15">
+        <tbody>
+            <tr>
+                <th>Settings</th>
+                <th class="pfc_status">Status</th>
+            </tr>
+            <tr>
+                <td>
+                    SSL
+                    <div class="ups_tooltip"><p>❔</p><span class="ups_tooltiptext">SSL is required</span></div>
+                </td>
+                <td class="pfc_status"><?php echo __($ssl_html) ?></td>
+            </tr>
+            <tr>
+                <td>
+                    Maintenance Mode OFF
+                    <div class="ups_tooltip"><p>❔</p><span class="ups_tooltiptext">Maintenance mode should be disabled</span></div>
+                </td>
+                <td class="pfc_status"><?php echo __($maintenance_off_html) ?></td>
+            </tr>
+            <tr>
+                <td>
+                    https://fa-ecptools-prd.azurewebsites.net
+                    <div class="ups_tooltip"><p>❔</p><span class="ups_tooltiptext">Url should not be blocked in any manner</span></div>
+                </td>
+                <td class="pfc_status"><?php echo __($url_1_html) ?></td>
+            </tr>
+            <tr>
+                <td>
+                    https://onlinetools.ups.com
+                    <div class="ups_tooltip"><p>❔</p><span class="ups_tooltiptext">Url should not be blocked in any manner</span></div>
+                </td>
+                <td class="pfc_status"><?php echo __($url_2_html) ?></td>
+            </tr>
+            <tr>
+                <td>
+                    https://fa-ecpanalytics-prd.azurewebsites.net
+                    <div class="ups_tooltip"><p>❔</p><span class="ups_tooltiptext">Url should not be blocked in any manner</span></div>
+                </td>
+                <td class="pfc_status"><?php echo __($url_3_html) ?></td>
+            </tr>
+        </tbody>
+    </table>
+
+<?php
+} else {
+?>
+<div class="entry-edit form-inline">
+    <form action="<?php echo $block->getUrl('upsshipping/config/saveCountry') ?>" method="post" id="config-edit-form">
+        <fieldset class="fieldset admin__fieldset ">
+            <legend class="admin__legend legend">
+                <span><?php echo __('Country Setting') ?></span>
+            </legend>
+            <br>
+            <div class="admin__field field">
+                <label class="label admin__field-label"><span><?php echo __('Please select your country/territory') ?>
+            </span></label>
+                <div class="admin__field-control control">
+                <select id="country_id" name="country_id" class="select select admin__control-select"
+                style="width: 100%;">
+                        <?php $countryCode = $block->isCountryCode(); ?>
+                        <?php foreach ($block->getListContry() as $country) {?>
+                        <option value="<?php echo $country['id']; ?>" <?php if ($country['id'] == $countryCode) {
+                            echo "selected";} ?>><?php echo $country['value']; ?></option>
+                        <?php } ?>
+                </select>
+                </div>
+            </div>
+        </fieldset>
+        <div class="admin__field page-main-actions">
+            <div class="page-actions">
+                <button type="submit" name="submit_country"
+                class="button-next action-default primary ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only"  role="button" aria-disabled="false">
+                    <span class="ui-button-text">
+                        <span><?= __('Continue') ?></span>
+                    </span>
+                </button>
+            </div>
+        </div>
+        <input name="form_key" type="hidden" value="<?php echo $block->getFormKey();?>">
+    </form>
+</div>
+<?php
+}
+?>

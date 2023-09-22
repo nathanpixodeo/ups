@@ -1,0 +1,470 @@
+//======================= About page,//======================= O stránke
+About,O
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"Spoločnosť UPS sa spojila so spoločnosťou Magento, aby ponúkla bezplatný modul UPS Shipping a UPS Access Point™, ktorý vám umožní integrovať a ponúkať širokú škálu riešení pre odosielanie a doručovanie UPS priamo na vašom webe! Tento oficiálny modul UPS pre Magento poskytuje vašim zákazníkom prístup k našej rozsiahlej sieti UPS Access Point a doručovacím službám."
+Features of this product,Vlastnosti tohto produktu
+Front Office,Front Office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,Jednoduché a jednoduché mapové rozhranie pre vašich zákazníkov na výber UPS Access Point podľa ich preferencií.
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,Užívateľsky prívetivé rozhranie pre vašich zákazníkov na prechod z doručenia cez prístupový bod na doručenie domov.
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Sadzba za dopravu UPS v reálnom čase alebo paušálne sadzby pre každú dostupnú službu (podľa nastavení back office obchodníka).
+Back Office,Back Office
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Rozsah možností nastavenia sadzieb za doručenie, ktoré uvidia vaši zákazníci (napríklad: bezplatná doprava, sadzby za dopravu v reálnom čase alebo paušálne sadzby podľa prahových hodnôt hodnoty košíka)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Možnosť založenia UPS konta priamo v samotnom module, ak ho nemáte."
+Easy PDF label generation.,Jednoduché generovanie štítkov PDF.
+Real time tracking information.,Informácie o sledovaní v reálnom čase.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Možnosť exportovať otvorené objednávky, aby ste ich mohli spracovať v iných aplikáciách pre komplexnejšie potreby."
+Module version number and release date,Číslo verzie modulu a dátum vydania
+Module version v,Verzia modulu v
+Release date,Dátum vydania
+Changelog,Denník zmien
+Platform compatibility statement,Vyhlásenie o kompatibilite platformy
+"Compatible with Magento versions 2.1, 2.2, 2.3","Kompatibilné s Magento verziami 2.1, 2.2, 2.3"
+UPS Shipping Module website,Webová stránka modulu UPS Shipping Module
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,Ďalšie informácie nájdete na stránke <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,Pre viac informácií navštívte
+Support information,Informácie o podpore
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Ak potrebujete pomoc s inštaláciou, inováciou alebo používaním modulu UPS Shipping Module, kontaktujte spoločnosť UPS na adrese -"
+Poland +48 (0) 22 203 03 21,Poľsko +48 (0) 22 203 03 21
+UPS Shipping Module,Prepravný modul UPS
+UPS Shipping,Preprava UPS
+Shipment management,Správa zásielok
+//======================= Country page,//======================== Stránka krajiny
+Country setting,Nastavenie krajiny
+Country Setting,Nastavenie krajiny
+Please select your country/territory,Vyberte svoju krajinu/územie
+Continue,ďalej
+//======================= Terms and Condition page,//======================= Stránka so zmluvnými podmienkami
+UPS Terms and Conditions,Zmluvné podmienky UPS
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Súhlasím s technologickou dohodou UPS a potvrdzujem, že som dostal dostatok času na jej prečítanie a rozumiem, že obsahuje dôležité podmienky týkajúce sa môjho používania Technológií UPS, ako je obmedzenie zodpovednosti UPS a moja dohoda o tom, ako budú spory medzi UPS a mnou prebiehať. spracované"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Súhlasím s dohodou o technológii UPS a potvrdzujem, že som dostal dostatok času na jej prečítanie a rozumiem tomu, že obsahuje dôležité podmienky týkajúce sa môjho používania technológií UPS,"
+like,Páči sa mi to
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled," obmedzenie zodpovednosti UPS a moja dohoda o tom, ako sa budú riešiť spory medzi UPS a mnou."
+Print,Tlačiť
+Cannot get Term & Condition,Nie je možné získať podmienky
+//======================= Account Page,//======================= Stránka účtu
+Account,účtu
+ACCOUNT,ÚČET
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),Pre viac informácií o doplnkoch UPS kliknite na <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>tento odkaz< /a> (otvorí sa v novom okne prehliadača)
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,Vyplňte nižšie uvedený formulár a začnite konfigurovať UPS plug-in pre vašu webovú stránku elektronického obchodu
+Title,Názov
+Full name,Celé meno
+Full Name,Celé meno
+Company,Spoločnosť
+Email,Email
+Phone number,Telefónne číslo
+Address type,Typ adresy
+Address,Adresa
+Postal code,Poštové smerovacie číslo
+City,Mesto
+Country/Territory,Krajina/územie
+"Example: Warehouse, Branch #1, etc.","Príklad: sklad, pobočka č. 1 atď."
+"Example: Warehouse, Branch #1","Príklad: Sklad, Pobočka č. 1"
+Street Address,Ulica
+"Apartment, Suite, Unit, Building, Floor, etc.","Byt, apartmán, jednotka, budova, poschodie atď."
+"Department, c/o, etc.","oddelenie, c/o atď."
+Mr,Pán
+Miss,Chýbať
+Mrs,Pani
+Ms,pani
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Mám číslo účtu UPS S faktúrou za posledných 45 dní (90 dní, ak je váš účet v USA alebo Kanade)"
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Mám číslo účtu UPS BEZ faktúry za posledných 45 dní (90 dní, ak je váš účet v USA alebo Kanade)"
+I do not have a UPS Account Number and would like to get one from the plug-in,Nemám číslo účtu UPS a chcel by som ho získať so zľavnenými sadzbami z doplnku
+I don’t have a UPS account number and would,Nemám číslo účtu UPS a mal by som
+like,Páči sa mi to
+to get one with discounted rates from the plug-in,získať jeden so zľavnenými sadzbami z doplnku
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"Faktúra by mala byť ktorákoľvek z posledných 3 vystavených spoločnosťou UPS za posledných 45 dní (90 dní, ak je váš účet v USA alebo Kanade)"
+Account name,Názov účtu
+Account number,Číslo účtu
+Invoice number,Číslo faktúry
+Invoice amount,Fakturovaná suma
+Currency,mena
+Invoice date,Dátum vystavenia faktúry
+VAT number,identifikačné číslo DPH
+Promo Code,Propagačný kód
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Poznámka: Prepravcovia majú zakázané posielať nebezpečný tovar alebo nebezpečné materiály pomocou účtu otvoreného v tejto aplikácii.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Váš účet bude podporovať dodávky na autorizované miesta UPS Access Point™ po 24 hodinách.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,"Viac informácií o nebezpečnom tovare a o tom, ako vám UPS môže pomôcť pri jeho preprave, nájdete na tomto odkaze <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>"
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Referenčný názov, ktorý bude priradený k účtu. Napríklad sklad 1, sklad 2, predajňa 1, predajňa 2 atď. Názov si môžete ľubovoľne zvoliť podľa svojich požiadaviek"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',Poštové smerovacie číslo alebo PSČ priradené k vášmu účtu UPS. Nájdete ho v hornej časti každej strany vašej faktúry UPS v časti „Nákupca“
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',Meno spojené s vaším účtom UPS. Nájdete ho v hornej časti každej strany vašej faktúry UPS v časti „Nákupca“
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,"Jedinečné šesťmiestne alfanumerické číslo, ktoré identifikuje váš účet. Nájdete ho v ľavej hornej časti každej strany vašej faktúry UPS"
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,Jedinečné 12-miestne číslo pridelené spoločnosťou UPS k faktúre. Nájdete ho v ľavej hornej časti každej strany vašej faktúry UPS
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Celková splatná suma za danú faktúru. Nájdete ho v tabuľke „Prehľad poplatkov“ na prvej strane faktúry
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Dátum vystavenia faktúry. Nájdete ho v ľavej hornej časti každej strany vašej faktúry UPS
+Get started,Začať
+Some of the data you entered is not valid. Please check again.,Niektoré zo zadaných údajov nie sú platné. Skontrolujte to znova.
+Cannot create new Account Number,Nie je možné vytvoriť nové číslo účtu
+Email is not correct format,E-mail nemá správny formát
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"Vaša žiadosť o vytvorenie UPS Shipping Account nebola úspešná. Skontrolujte hodnoty „Mesto“ a „Poštové smerovacie číslo“, ktoré ste zadali. Tu je niekoľko návrhov týkajúcich sa mesta a PSČ, ktoré sú platnou kombináciou -"
+Please update the city and postal code values with one of these selections and click Get Started,Aktualizujte hodnoty mesta a PSČ jedným z týchto výberov a kliknite na Začať
+Configuration,Konfigurácia
+//======================= Account Success Page,//======================== Stránka úspechu účtu
+Your UPS Profile,Váš profil UPS
+Your Payment Account,Váš platobný účet
+Add another account number,Pridajte ďalšie číslo účtu
+Please enter the address attached to your account number,Zadajte adresu pripojenú k číslu vášho účtu
+Phone,Telefón
+Verify,Overiť
+Next,Ďalšie
+Remove,Odstrániť
+Account number already exists in 'Your Payment Account',Číslo účtu už existuje v časti „Váš platobný účet“
+Full name:,Celé meno:
+Remove Account,Odstrániť účet
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Tento účet bude odstránený. Kliknutím na tlačidlo OK potvrďte, zatvorte dialógové okno pre zrušenie."
+Your UPS account has been successfull registered,Váš účet UPS bol úspešne zaregistrovaný
+//======================= Shipping Services page,//======================== Stránka prepravných služieb
+Shipping Services,Prepravné služby
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Vyberte služby UPS, ktoré chcete, aby boli viditeľné v pokladni pre vašich e-shopárov. Ak sa chcete dozvedieť viac o službách UPS, pozrite si Tarifa/Zmluvné podmienky UPS na UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Pošlite na miesto UPS Access Point™ (doručenie do AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","UPS doručí balík na miesto UPS Access Point™, ktoré si vyberie zákazník, aby si ho mohol vyzdvihnúť podľa vlastného uváženia"
+Yes,Áno
+No,Nie
+Set as default shipping option,Nastaviť ako predvolenú možnosť dopravy
+Select the shipping services for your customers to choose,"Vyberte prepravné služby, ktoré si môžu vybrať vaši zákazníci"
+"International shipping only - visible, when shipping address is outside of EU","Len medzinárodná doprava - viditeľné, ak je dodacia adresa mimo EÚ"
+Access Point display setting:,Nastavenie zobrazenia prístupového bodu UPS:
+Number of Access Points visible to customers:,Počet miest viditeľných pre zákazníkov:
+Display all the Access Points in range of:,Zobraziť všetky miesta v rozsahu:
+kilometer around consignee's selected address,Míle okolo vybranej adresy príjemcu
+Choose Account Number for this option,Pre túto možnosť vyberte Číslo účtu
+Deliver to consignee address (to-address delivery),Doručiť na adresu príjemcu (doručiť na adresu)
+UPS delivers the parcel to the shipping address provided by customer.,"UPS doručí balík na dodaciu adresu, ktorú uviedol zákazník."
+Cut off time,Odrezať čas
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Tu vybraný čas uzávierky sa použije pri výpočte dátumu a času plánovaného doručenia, ktorý sa zobrazí pri pokladni na vašom webe."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Napríklad, ak je čas uzávierky vybraný na 17:00 a vaši e-shopári si prezerajú váš internetový obchod o 17:01, všetky plánované dátumy a časy doručenia UPS sa budú počítať od nasledujúceho pracovného dňa. Pri rozhodovaní o tejto uzávierke sa prosím uistite, že máte dostatok času na splnenie objednávky pred plánovaným vyzdvihnutím UPS alebo že budete môcť balíky odovzdať na mieste UPS Access Point™."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Ak si nie ste istí vybavovaním zákazníckych objednávok v ten istý deň, môžete vybrať možnosť „Zakázať“, čo spôsobí, že e-shoper uvidí približné dátumy dodania pre každú dostupnú službu."
+Save,Uložiť
+Please select at least one shipping service.,Vyberte aspoň jednu prepravnú službu.
+UPS Access Point™ Economy,UPS Access Point™ Economy
+UPS® Standard,Štandard UPS®
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================== Stránka Vyzdvihnutie na dobierku (COD)
+Collect on Delivery (COD),Vyzdvihnutie na dobierku (COD)
+You have the official Magento COD module enabled!,Máte povolený oficiálny Magento COD modul!
+Only show Access Points supporting COD shipments?,Zobrazovať iba prístupové body podporujúce zásielky na dobierku?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Vyberte „ÁNO“, ak plánujete ponúkať zásielky na dobierku na UPS Access Point™"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Služba zasielania na dobierku tohto doplnku je automaticky kompatibilná s oficiálnym modulom na dobierku (COD) od Magento.
+You do not have the official Magento COD module installed and/or enabled!,Nemáte nainštalovaný a/alebo povolený oficiálny modul Magento COD!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Služba prepravy na dobierku tohto pluginu je automaticky kompatibilná s oficiálnym modulom na dobierku (COD) od Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Ak chcete, aby modul UPS Shipping automaticky zisťoval zásielky na dobierku, <strong>uistite sa, že ste si nainštalovali Magento's Collect on Delivery (COD)</strong>. Ak už máte nainštalovaný modul Magento's Collect on Delivery (COD), <strong>uistite sa, že je modul povolený</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Kliknutím sem</a>] získate podrobné pokyny."
+COD Option,Možnosť dobierky
+//======================= Package Dimensions page,//======================== Stránka Rozmery balíka
+Package Dimensions,Rozmery balenia
+Default Package Setting,Predvolené nastavenie balíka
+Default package setting,Predvolené nastavenie balíka
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Tu zadajte hmotnosť a rozmery vášho balenia. Môžete pridať viacero rozmerov balíka, ktoré sa dajú jednoducho vybrať v rozbaľovacej možnosti pri vytváraní zásielok v zásuvnom module."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","V prípade, že sa rozhodnete ukázať e-shoperom sadzbu za zásielku UPS v reálnom čase (ktorá sa nastaví na ďalšej obrazovke), doplnok použije prvý balík, ktorý sa označuje ako „Predvolený balík“, ktorý je zobrazený nižšie. Hmotnosť a rozmery predvoleného balíka sa použijú na výpočet prepravných sadzieb UPS, ktoré sa zobrazia e-shoperom."
+Add New Package,Pridať nový balík
+Package name,Názov balíka
+"Example: Standard, Large, Phone box, etc.","Príklad: Štandardná, Veľká, Telefónna schránka atď."
+Weight,Hmotnosť
+Unit,Jednotka
+Dimension,Rozmer
+Add Package,Pridať balík
+Length,Dĺžka
+Width,šírka
+Height,Výška
+The name Package is exist.,Názov Balík existuje.
+Edit,Upraviť
+Delete,Odstrániť
+Editing Default Package,Úprava predvoleného balíka
+Remove Package,Odstrániť balík
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Tento predvolený balík sa chystáte odstrániť zo svojho profilu. Kliknutím na tlačidlo OK potvrďte, zatvorte dialógové okno pre zrušenie."
+OK,OK
+Please input at least one default package to continue.,"Ak chcete pokračovať, zadajte aspoň jeden predvolený balík."
+Please select an option,Vyberte možnosť
+Basic (number of items in the e-shopper order determine the package size),Základné (počet položiek v objednávke e-shopára určuje veľkosť balenia)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Pokročilé (o veľkosti balenia rozhodujú váhy a rozmery produktov v objednávke e-shopu)
+Package dimensions:,Rozmery balenia:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Poznámka: Doplnok vytvorí vlastnú veľkosť balíka, ak je objednávka e-shoppera väčšia ako vami zadané balíky"
+Warning! To use this option you must enter product weights in the product settings of your shop.,"POZOR! Ak chcete použiť túto možnosť, musíte zadať hmotnosť produktu v nastaveniach produktu vo vašom obchode."
+Include dimensions in rating,Do hodnotenia uveďte rozmery
+Yes,Áno
+No,Nie
+Number of items in order,Počet položiek v objednávke
+Add Backup Rate,Pridať záložnú rýchlosť
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Ak je nastavené na „Nie“, sadzby budú založené iba na hmotnosti produktu.&nbsp; Ak je nastavené na „Áno“, rozmery produktu musia byť zadané v nastaveniach produktu vášho obchodu"
+Name,názov
+Length,Dĺžka
+Width,šírka
+Height,Výška
+Weight,Hmotnosť
+Max Weight,Maximálna hmotnosť
+Backup rate:,Záložná rýchlosť:
+Service Name,Názov služby
+Rate,ohodnotiť
+Add Backup Rate,Pridať záložnú rýchlosť
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Záložná rýchlosť sa e-shopom zobrazí iba vtedy, ak sa vyskytne problém v nastaveniach produktu, napríklad chýbajúce hmotnosti alebo ak hmotnosti/rozmery prekračujú limity UPS"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Pridajte predvolené balíčky, ak chcete, aby sa veľkosť balíčka použitá na hodnotenie menila na základe počtu položiek v objednávke e-shopára"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Poznámka: Ak sa počet položiek v objednávke e-shopera nezhoduje so žiadnou z vašich položiek, potom bude veľkosť balíka použitá na hodnotenie vychádzať z najväčšieho počtu položiek prekročeného objednávkou e-shopera."
+//======================= Checkout Shipping Rates page,//======================== Stránka Sadzby dopravy pri pokladni
+Checkout Shipping Rates,Sadzby za dopravu v pokladni
+Ship to UPS Access Point&trade;,Pošlite na miesto UPS Access Point™
+Flat rates,Paušálne sadzby
+Real time shipping rates,Ceny dopravy v reálnom čase
+Delivery rates is,Ceny za doručenie sú
+% of UPS shipping rates,% z prepravných sadzieb UPS
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,"E-shoper uvidí % sadzieb UPS v reálnom čase. Tieto sadzby sa vypočítavajú pomocou predvolenej hmotnosti a rozmerov balíka, ktoré ste nakonfigurovali na predchádzajúcej obrazovke (Rozmery balíka)."
+Ship to Address,Doručiť na adresu
+Order Value Threshold,Prah hodnoty objednávky
+Delivery rates,Sadzby za doručenie
+The minimum thresholds can not be the same.,Minimálne prahové hodnoty nemôžu byť rovnaké.
+//======================= Complete Configuration page,//======================= Stránka Kompletná konfigurácia
+Complete Configuration,Kompletná konfigurácia
+You can start shipping now!,Môžete začať odosielať už teraz!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,Kliknutím na tlačidlo „Dokončiť konfiguráciu“ dokončíte konfiguráciu doplnku a začnete ponúkať prepravné služby UPS na svojej webovej lokalite.
+"If you are new to UPS, please refer to the following FAQs for additional information:","Ak ste novým používateľom UPS, ďalšie informácie nájdete v nasledujúcich často kladených otázkach:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Ako získam viac informácií o svojom novom prepravnom účte UPS?<br />Ak ste si z doplnku otvorili nový prepravný účet UPS, na e-mailovú adresu, ktorú ste zadali, bude odoslaný potvrdzujúci e-mail s ďalšími informáciami. vytvorenie nového účtu."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Ako pripravím svoje balíky na vyzdvihnutie UPS alebo ich odošlem na miesto UPS Access Point™?<br />Pozrite si odporúčania na prípravu balíka na tomto odkaze - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Ako odovzdám svoje balíky spoločnosti UPS?<br />Váš balík môžete odovzdať na akomkoľvek autorizovanom mieste UPS, ako je napríklad miesto UPS Access Point™. Kliknite nižšie a vyhľadajte vhodnú polohu vo vašej blízkosti"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Môžete tiež požiadať UPS o vyzdvihnutie balíkov z vášho skladu alebo adresy vašej firmy. Ak potrebujete príležitostné vyzdvihnutie, môžete priamo naplánovať vyzdvihnutie z UPS.COM pomocou tohto odkazu - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Ak máte balíky UPS počas väčšiny pracovných dní a uprednostňujete pravidelné vyzdvihnutie UPS, môžete kontaktovať spoločnosť UPS zavolaním na telefónne číslo uvedené v časti Otázky týkajúce sa fakturácie <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>tu</a>. Potom sa s vami spojí zástupca UPS, aby prediskutoval denné vyzdvihnutie UPS."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Ak máte balíky UPS počas väčšiny pracovných dní a uprednostňujete pravidelné vyzdvihnutie UPS, pokyny na plánovanie denných vyzdvihnutí nájdete na tomto odkaze: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Aké kroky musím podniknúť na nastavenie služby UPS Collect on Delivery (COD)?<br />Službu UPS môžete kontaktovať zavolaním na telefónne číslo uvedené v časti Otázky týkajúce sa fakturácie <a href='https://www .ups.com/%1/%2/help-center/contact.page' target='_blank'>tu</a>. Potom sa s vami spojí zástupca UPS, aby prediskutoval službu COD."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Aké kroky musím podniknúť na nastavenie služby UPS Collect on Delivery (COD)?<br />Ak máte záujem využívať služby UPS Collect on Delivery (COD), podrobnosti nájdete na tomto odkaze: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Vyhľadajte miesta
+Print form,Tlačový formulár
+//======================= E-shopper page,//======================== stránka elektronického nakupovania
+Deliver to an UPS Access Point<sup>TM</sup>,Doručte na miesto UPS Access Point™
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Váš balík bude doručený na miesto UPS Access Point™
+Open 24 hours,Otvorené 24 hodín
+The address is required,Adresa je povinná
+Please select an Access Point to process,Vyberte prístupový bod na spracovanie
+Operating Hours,Prevádzkové hodiny
+Open,OTVORENÉ
+Close,Zavrieť
+Monday,pondelok
+Closed,ZATVORENÉ
+Tuesday,utorok
+Wednesday,streda
+Thursday,štvrtok
+Friday,piatok
+Saturday,sobota
+Sunday,nedeľu
+Search for the UPS Access Point<sup>TM</sup>,Vyhľadajte miesta UPS Access Point™
+Near,Blízko
+Delivered by End of Business Day,Doručené do konca pracovného dňa
+"Address line, City, State, Postcode","Riadok adresy, mesto, štát, PSČ"
+"Address line,City,State,Postcode","Riadok adresy, Mesto, Štát, PSČ"
+Use my delivery address,Použite moju dodaciu adresu
+Search,Vyhľadávanie
+Results,Výsledky
+Select,Vyberte
+Deliver to Your Address,Doručiť na Vašu adresu
+Your package will be delivered to your address,Balík Vám bude doručený na Vašu adresu
+UPS SHIPPING,DOPRAVA UPS
+Delivery today!,Doručenie ešte dnes!
+Delivery next day!,Doručenie nasledujúci deň!
+Next two days!,Nasledujúce dva dni!
+Next three days!,Nasledujúce tri dni!
+Next four days!,Nasledujúce štyri dni!
+Next five days!,Ďalších päť dní!
+Next six days!,Ďalších šesť dní!
+Next seven days!,Ďalších sedem dní!
+Next eight days!,Ďalších osem dní!
+Next nine days!,Ďalších deväť dní!
+Next ten days!,Ďalších desať dní!
+delivered by,doručené
+Delivered by,Doručené
+January,januára
+February,februára
+March,marca
+April,apríla
+May,Smieť
+June,júna
+July,júla
+August,augusta
+September,septembra
+November,novembra
+October,októbra
+December,December
+//======================= Open Order page,//======================== Otvoriť stránku objednávky
+Open Orders,Otvorené objednávky
+Create Single Shipments,Vytvárajte jednotlivé zásielky
+Create Batch Shipments,Vytvorte dávkové zásielky
+Export All Orders,Exportovať všetky objednávky
+Export Orders,Exportné objednávky
+Archive Orders,Archivovať objednávky
+Order ID,Číslo objednávky
+Order Date,Dátum objednávky
+Product,Produkt
+Delivery Address,Adresa dodania
+Shipping Service,Prepravná služba
+COD,TRESKA
+Action,Akcia
+No results!,Žiadne výsledky!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Upozornenie - Archiváciou objednávok sa vaše objednávky presunú v záložke Archív a tieto objednávky už nemôžete spracovávať. Kliknite na 'OK' pre pokračovanie, 'Cancel' pre návrat na obrazovku"
+Cancel,Zrušiť
+//======================= Detail Order page,//======================= Stránka podrobnej objednávky
+Order,objednať
+Order #,Objednať #
+Customer,Zákazník
+Order value,Hodnota objednávky
+Payment status,Stav platby
+Access Point,Prístupový bod
+//======================= Create single shipment page,//======================== Vytvoriť stránku s jednou zásielkou
+Process Shipment,Spracovať zásielku
+Ship From,Odoslať z
+Ship To,Odoslať do
+Accessorial service,Doplnková služba*
+Packaging,Balenie
+Package #1,Balíček č. 1
+Package #,Balík č.
+Add package,Pridajte balík
+View estimated shipping fee and delivery date,Pozrite si odhadovaný poplatok za dopravu a dátum doručenia
+Edit,Upraviť
+Create Shipment,Vytvoriť zásielku
+Custom Package,Vlastný balík
+Name,názov
+Address,Adresa
+State,Štát
+Note: Insufficient or incorrect address may increase the shipping fee,Poznámka: Nedostatočná alebo nesprávna adresa môže zvýšiť poštovné
+Additional Handling,Dodatočná manipulácia
+Additional handling,Dodatočná manipulácia
+Quantum View Ship Notification,Oznámenie o lodi Quantum View
+Quantum View Delivery Notification,Oznámenie o doručení Quantum View
+Residential Address,Adresa bydliska
+Saturday Delivery,Sobotné doručenie
+Carbon Neutral,Uhlíkovo neutrálne
+Direct Delivery Only,Iba priame doručenie
+Declared value,Deklarovaná hodnota
+Signature Required,Vyžaduje sa podpis
+Adult Signature Required,Vyžaduje sa podpis dospelej osoby
+To Home COD,Na dobierku domov
+Cancel Editing,Zrušiť úpravy
+To Access Point COD,K prístupovému bodu COD
+Orders to be processed,Objednávky na spracovanie
+The name is not empty,Názov nie je prázdny
+The address is required,Adresa je povinná
+The postal code is empty or invalid,PSČ je prázdne alebo neplatné
+The city is not empty,Mesto nie je prázdne
+Invalid email format,Neplatný formát e-mailu
+The phone is not empty,Telefón nie je prázdny
+Some of the data you entered is not valid. Please check again.,Niektoré zo zadaných údajov nie sú platné. Skontrolujte to znova.
+There are errors connecting to the UPS API servers. Please try again.,Vyskytli sa chyby pri pripájaní k serverom API UPS. Prosím skúste znova.
+//======================= Shipment page,//======================== Stránka so zásielkou
+Shipments,Zásielky
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>",Výberom akejkoľvek objednávky na tejto karte zásielky súhlasím s <a href='javascrip:void(0);' id='term-condition'>Zmluvné podmienky.</a>
+UPS Tracking Terms and Conditions,Podmienky sledovania UPS
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","UPOZORNENIE: Systémy sledovania zásielok UPS, ku ktorým sa pristupuje prostredníctvom tejto služby (ďalej len ""Sledovacie systémy"") a informácie o sledovaní získané prostredníctvom tejto služby (ďalej len ""Informácie""), sú súkromným vlastníctvom spoločnosti UPS. Spoločnosť UPS vás oprávňuje používať sledovacie systémy výlučne na sledovanie zásielok, ktoré vám alebo pre vás predkladá spoločnosť UPS na doručenie, a na žiadny iný účel. Bez obmedzenia nie ste oprávnený sprístupniť Informácie na žiadnej webovej stránke alebo inak reprodukovať, distribuovať, kopírovať, uchovávať, používať alebo predávať Informácie na komerčný zisk bez výslovného písomného súhlasu UPS. Toto je osobná služba, preto je vaše právo na používanie Sledovacích systémov alebo informácií neprevoditeľné. Akýkoľvek prístup alebo použitie, ktoré nie je v súlade s týmito podmienkami, je neoprávnené a prísne zakázané."
+Download PDF Label,Stiahnite si štítok PDF
+Download ZPL Label,Stiahnite si štítok ZPL
+Export Shipment Data,Export údajov o zásielke
+Cancel Shipments,Zrušiť zásielky
+ID Shipment,ID zásielka
+Tracking Number,Sledovacie číslo
+Date,Dátum
+Estimated Shipping Fee,Odhadovaný poplatok za dopravu
+Shipment #,Náklad #
+Order #ID reference,Referenčné číslo objednávky
+Package details,Podrobnosti o balíku
+Are you sure you want to cancel selected shipment(s)?,Naozaj chcete zrušiť vybrané zásielky?
+Shipment Canceled,Zásielka zrušená
+Archived Orders,Archivované objednávky
+//======================= Additional,//======================== Ďalšie
+Packaging:,Balenie:
+Access Point display setting:,Nastavenie zobrazenia prístupového bodu UPS:
+Number of Access Points visible to customers:,Počet prístupových bodov viditeľných pre zákazníkov:
+Display all the Access Points in range of:,Zobrazte všetky prístupové body v rozsahu:
+Title:,názov:
+Company:,Spoločnosť:
+Email:,Email:
+Phone &nbsp number:,Telefónne &nbsp číslo:
+Phone &nbsp;number:,Telefónne &nbsp;číslo:
+Address type:,Typ adresy:
+Address:,Adresa:
+Postal code:,Poštové smerovacie číslo:
+City:,Mesto:
+Country:,Krajina:
+Account Name:,Názov účtu:
+Account Number:,Číslo účtu:
+Account number:,Číslo účtu:
+Invoice Number:,Číslo faktúry:
+Invoice Amount:,Fakturovaná suma:
+Currency:,mena:
+Invoice date:,Dátum vystavenia faktúry:
+Name:,Názov:
+Phone:,Telefón:
+Customer:,Zákazník:
+Product:,Produkt:
+Shipping service:,Prepravná služba:
+Order value:,Hodnota objednávky:
+Payment status:,Stav platby:
+Access Point:,Prístupový bod:
+Payment Status:,Stav platby:
+Phone number:,Telefónne číslo:
+Package:,Balíček:
+Estimated Shipping fee:,Odhadovaný poplatok za dopravu:
+Estimated Shipping Fee:,Odhadovaný poplatok za dopravu:
+Orders to be processed:,Objednávky na spracovanie:
+Order #ID reference:,Referenčné číslo objednávky:
+Package details:,Podrobnosti o balíku:
+Tracking number:,Sledovacie číslo:
+Accessorial Service:,Doplnková služba:
+Accessorial service:,Doplnková služba:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Ak ste novým používateľom UPS, ďalšie informácie nájdete v nasledujúcich často kladených otázkach:"
+VAT Number:,Identifikačné číslo DPH:
+Promo Code:,Promo kód:
+Country/Territory:,Krajina/územie:
+End of Business Day,Koniec pracovného dňa
+//==============================Security Enhancement page,
+Security Enhancement,Vylepšenie bezpečnosti
+SECURITY ENHANCEMENTS ACTIVATION,AKTIVÁCIA BEZPEČNOSTNÝCH DOPLNKOV
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",Inštaláciou UPS Pluginu ste získali túto pohodlnú možnosť použiť UPS odporúčané bezpečnostné vylepšenia na váš e-shop. Povolením konkrétnych bezpečnostných vylepšení nižšie môžete urobiť váš e-shop menej zraniteľný voči niektorým bežným útokom hackerov.
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Defense
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Ďalšie podrobnosti nájdete na stránke [wikipedia|https://en.wikipedia.org/wiki/Clickjacking]. Ak povolíte túto obranu, doplnok UPS zabezpečí váš obchod komunikovaním rámcovej politiky do prehliadača používateľa prostredníctvom hlavičky odpovede HTTP „X-Frame-Options: Sameorigin“ a vložením skriptu java „frame-breaker“ pre staršie prehliadače.- UPS Plugin dokáže zabezpečiť stránky Front Office vášho e-shopu v súlade s odporúčaním OWASP Clickjacking Defense Cheat Sheet Zakážte túto obranu, ak chcete povoliť rámovanie GUI vášho e-shopu na webových stránkach tretích strán; alebo ak ste už túto obranu implementovali inak."
+Use X-Frame-Options response header,Použite hlavičku odpovede X-Frame-Options
+Do not use,Nepoužívať
+Deny,Odmietnuť
+SameOrigin,SameOrigin
+Use frame-killer script:,Použiť skript frame-killer:
+Use Content-Security-Policy response header,Použite hlavičku odpovede Content-Security-Policy
+frame-ancestors 'none',rám-predkovia 'žiadny'
+frame-ancestors 'sefl',rám-predkovia 'sefl'
+Content Sniffing Prevention,Prevencia sniffovania obsahu
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Viac podrobností nájdete na wikipédii. Ak zaškrtnete túto možnosť, UPS plugin zabezpečí váš e-shop Front Office použitím <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Hlavička odpovede HTTP na všetky stránky Magento Front Office. To zabráni prehliadaču klienta (predovšetkým Internet Exploreru) v MIME odpočúvaní odpovede od deklarovaného typu obsahu. Možno to naozaj nepotrebujete, pretože vaši používatelia by nemali do vášho e-shopu vkladať žiadne potenciálne škodlivé súbory (napr. JavaScript namiesto obrázka). Stále je však dobrou praxou povoliť túto špeciálnu hlavičku zabezpečenia, pretože s ňou nie je spojená žiadna penalizácia za výkon."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,"Povolí filtre skriptovania medzi stránkami v prehliadačoch, ktoré podporujú direktívu X-XSS-Protection"
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Viac podrobností nájdete na wikipédii. Ak zaškrtnete túto možnosť, UPS plugin zabezpečí Front Office vášho e-shopu použitím <br />X-XSS-Protection: '1; mode=block' <br />Hlavička odpovede HTTP na všetky stránky Magento Front Office."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Chráňte web svojho e-shopu pred útokmi na downgrade protokolu a napadnutím súborov cookie
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Viac podrobností nájdete na wikipédii Ak zaškrtnete túto možnosť, doplnok UPS zabezpečí Front Office vášho e-shopu použitím <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />hlavička odpovede HTTP na všetky stránky Magento Front Office."
+Prevent sensitive pages from caching by browser.,Zabráňte ukladaniu citlivých stránok do vyrovnávacej pamäte prehliadačom.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Ďalšie podrobnosti nájdete v často kladených otázkach OWASP. Ak začiarknete túto možnosť, doplnok UPS zabezpečí proces Checkout použitím<br />Cache-Control: no-cache, no-store <br />Platnosť: 0 <br />Pragma: no-cache <br /> HTTP hlavičky odpovede na zodpovedajúce stránky"
+Apply to pages,Použiť na stránky
+All,Všetky
+Checkout only,Iba pokladňa
+Data saved successfully.,Údaje boli úspešne uložené.
+We couldn't find any records,Nenašli sme žiadne záznamy
+Please wait…,Prosím čakajte…
+Archiving Orders,Archivácia objednávok
+There is no shipping service for the above address,Pre vyššie uvedenú adresu neexistuje žiadna prepravná služba
+The email is not empty,E-mail nie je prázdny
+The country is not empty,Krajina nie je prázdna
+Select all,Vybrať všetko
+Unselect all,Odznačiť všetko
+Do not have label for this Tracking ID,Nemáte štítok pre toto ID sledovania
+Print Label or download file.,Vytlačiť štítok alebo stiahnuť súbor.
+"Connection error, try later to install and configure","Chyba pripojenia, skúste inštaláciu a konfiguráciu neskôr"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Túto zásielku momentálne nemôžeme zrušiť. Zásielku sa môžete pokúsiť zrušiť neskôr. Ak však nepoužijete prepravný štítok, táto zásielka vám nebude účtovaná"
+Estimated Fee,Odhadovaný poplatok
+Shipping fee,Poplatok za dopravu
+Poland,Poľsko
+United Kingdom,Spojene kralovstvo
+France,Francúzsko
+Germany,Nemecko
+Italy,Taliansko
+Netherlands,Holandsko
+Spain,Španielsko
+Belgium,Belgicko
+Shipment Manager,Manažér zásielky
+Default Package,Predvolený balík
+Order Time,Čas objednávky
+Time,Čas
+Warning,POZOR
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Chyba! Balík presahuje maximálnu povolenú veľkosť 400 cm alebo 157,48 palcov (výpočet maximálnej povolenej veľkosti = dĺžka + 2 * šírka + 2 * výška)."
+Access Points Address will be used as an alternative shipping address,Adresa prístupových bodov sa použije ako alternatívna dodacia adresa
+Ship To (UPS Access Point),Odoslať na (prístupový bod UPS)

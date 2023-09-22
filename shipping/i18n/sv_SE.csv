@@ -1,0 +1,470 @@
+//======================= About page,//======================== Om sidan
+About,Handla om
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,UPS har samarbetat med Magento för att erbjuda en gratis UPS-frakt- och UPS Access Point™-modul som gör att du kan integrera och erbjuda ett brett utbud av UPS-frakt- och leveranslösningar direkt på din hemsidas utcheckningsprocess! Denna officiella UPS-modul för Magento ger dina kunder tillgång till vårt expansiva UPS Access Point-nätverk och leveranstjänster.
+Features of this product,Funktioner hos denna produkt
+Front Office,Front Office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,Enkelt och lätt kartgränssnitt för dina kunder att välja UPS Access Point enligt deras önskemål.
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,Användarvänligt gränssnitt för dina kunder att byta från Access Point-leverans till hemleverans.
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,UPS-fraktpris i realtid eller fasta priser för varje tillgänglig tjänst (enligt säljarens back office-inställningar).
+Back Office,Back Office
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Mängd alternativ för att ställa in leveranspriser som dina kunder kommer att se (till exempel: fri frakt, realtidsfraktpriser eller schablonpriser enligt gränsvärden för varukorg)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Möjlighet att öppna ett UPS-konto direkt i själva modulen, om du inte har ett."
+Easy PDF label generation.,Enkel generering av PDF-etiketter.
+Real time tracking information.,Spårningsinformation i realtid.
+Ability to export open orders so that you can process them in other applications for more complex needs.,Möjlighet att exportera öppna beställningar så att du kan bearbeta dem i andra applikationer för mer komplexa behov.
+Module version number and release date,Modulversionsnummer och releasedatum
+Module version v,Modulversion v
+Release date,Utgivningsdatum
+Changelog,Ändringslogg
+Platform compatibility statement,Uttalande om plattformskompatibilitet
+"Compatible with Magento versions 2.1, 2.2, 2.3","Kompatibel med Magento versionerna 2.1, 2.2, 2.3"
+UPS Shipping Module website,UPS Shipping Modules webbplats
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,För mer information besök <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,För mer information besök
+Support information,Supportinformation
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","För hjälp med att installera, uppgradera eller använda UPS Shipping Module, kontakta UPS på -"
+Poland +48 (0) 22 203 03 21,Polen +48 (0) 22 203 03 21
+UPS Shipping Module,UPS fraktmodul
+UPS Shipping,UPS frakt
+Shipment management,Transporthantering
+//======================= Country page,//======================== Landssida
+Country setting,Landsinställning
+Country Setting,Landsinställning
+Please select your country/territory,Välj ditt land/område
+Continue,Fortsätta
+//======================= Terms and Condition page,//======================== Användarvillkor sida
+UPS Terms and Conditions,UPS regler och villkor
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Jag godkänner UPS Technology Agreement och bekräftar att jag har fått tillräckligt med tid att läsa det och förstå att det innehåller viktiga villkor om min användning av UPS Technologies, som att begränsa UPS:s ansvar och mitt avtal om hur tvister mellan UPS och mig kommer att vara hanteras"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Jag samtycker till UPS Technology Agreement och bekräftar att jag har fått tillräckligt med tid att läsa det och förstå att det innehåller viktiga villkor om min användning av UPS Technologies,"
+like,tycka om
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,begränsar UPS ansvar och mitt avtal om hur tvister mellan UPS och mig kommer att hanteras.
+Print,Skriva ut
+Cannot get Term & Condition,Kan inte få Term & Condition
+//======================= Account Page,//======================== Kontosida
+Account,konto
+ACCOUNT,KONTO
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),"För mer information om UPS Plugins, klicka på <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>den här länken< /a> (öppnas i ett nytt webbläsarfönster)"
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,Fyll i formuläret nedan för att börja konfigurera UPS plug-in för din e-handelswebbplats
+Title,Titel
+Full name,Fullständiga namn
+Full Name,Fullständiga namn
+Company,Företag
+Email,E-post
+Phone number,Telefonnummer
+Address type,Adresstyp
+Address,Adress
+Postal code,Postnummer
+City,Stad
+Country/Territory,Land/Territori
+"Example: Warehouse, Branch #1, etc.","Exempel: lager, filial #1, etc."
+"Example: Warehouse, Branch #1","Exempel: lager, filial #1"
+Street Address,Gatuadress
+"Apartment, Suite, Unit, Building, Floor, etc.","Lägenhet, svit, enhet, byggnad, våning, etc."
+"Department, c/o, etc.","Avdelning, c/o osv."
+Mr,herr
+Miss,Fröken
+Mrs,Fru
+Ms,Fröken
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Jag har ett UPS-kontonummer MED en faktura som skett under de senaste 45 dagarna (90 dagar om ditt konto är i USA eller Kanada)
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),Jag har ett UPS-kontonummer UTAN en faktura inträffade under de senaste 45 dagarna (90 dagar om ditt konto är i USA eller Kanada)
+I do not have a UPS Account Number and would like to get one from the plug-in,Jag har inget UPS-kontonummer och skulle vilja ha ett med rabatterade priser från plugin-programmet
+I don’t have a UPS account number and would,Jag har inget UPS-kontonummer och skulle göra det
+like,tycka om
+to get one with discounted rates from the plug-in,för att få en med rabatterade priser från plugin-programmet
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),Fakturan ska vara någon av de 3 senaste utfärdade av UPS under de senaste 45 dagarna (90 dagar om ditt konto är i USA eller Kanada)
+Account name,Kontonamn
+Account number,Kontonummer
+Invoice number,Fakturanummer
+Invoice amount,Fakturabelopp
+Currency,Valuta
+Invoice date,Fakturadatum
+VAT number,Momsregistreringsnummer
+Promo Code,Rabattkod
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Observera: Avsändare är förbjudna att skicka farligt gods eller farligt material med det konto som öppnats i den här applikationen.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Ditt konto kommer att stödja leveranser till auktoriserade UPS Access Point™-platser efter 24 timmar.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,Du kan hitta mer information om farligt gods och hur UPS kan hjälpa dig att skicka det på den här länken <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Referensnamn som kommer att associeras med ett konto. Till exempel lager 1, lager 2, butik 1, butik 2 etc. Du kan fritt välja namn enligt dina krav"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Det postnummer eller postnummer som är kopplat till ditt UPS-konto. Den finns överst på varje sida av din UPS-faktura under ""Köpare"""
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Namnet som är kopplat till ditt UPS-konto. Den finns överst på varje sida av din UPS-faktura under ""Köpare"""
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,Ett unikt sexteckens alfanumeriskt nummer som identifierar ditt konto. Den finns längst upp till vänster på varje sida av din UPS-faktura
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,Ett unikt 12-siffrigt nummer tilldelat av UPS till en faktura. Den finns längst upp till vänster på varje sida av din UPS-faktura
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,"Totalt belopp som ska betalas för den givna fakturan. Den finns i tabellen ""Sammanfattning av avgifter"" på första sidan på fakturan"
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Datum för utfärdande av faktura. Den finns längst upp till vänster på varje sida av din UPS-faktura
+Get started,Komma igång
+Some of the data you entered is not valid. Please check again.,En del av de uppgifter du angett är inte giltiga. Försök igen tack.
+Cannot create new Account Number,Det går inte att skapa nytt kontonummer
+Email is not correct format,E-post är inte korrekt format
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"Din begäran om att skapa ett UPS-fraktkonto lyckades inte. Kontrollera värdena för ""Stad"" och ""Postnummer"" som du angav. Här är några förslag på stad och postnummer som är en giltig kombination -"
+Please update the city and postal code values with one of these selections and click Get Started,Uppdatera värdena för stad och postnummer med något av dessa val och klicka på Kom igång
+Configuration,Konfiguration
+//======================= Account Success Page,//======================== Kontots framgångssida
+Your UPS Profile,Din UPS-profil
+Your Payment Account,Ditt betalningskonto
+Add another account number,Lägg till ett annat kontonummer
+Please enter the address attached to your account number,Vänligen ange adressen bifogad ditt kontonummer
+Phone,Telefon
+Verify,Kontrollera
+Next,Nästa
+Remove,Ta bort
+Account number already exists in 'Your Payment Account',"Kontonumret finns redan i ""Ditt betalningskonto"""
+Full name:,Fullständiga namn:
+Remove Account,Ta bort konto
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Detta konto kommer att tas bort. Klicka på Ok för att bekräfta, stäng dialogrutan för att avbryta."
+Your UPS account has been successfull registered,Ditt UPS-konto har registrerats
+//======================= Shipping Services page,//======================== Frakttjänster sida
+Shipping Services,Frakttjänster
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Välj de UPS-tjänster som du vill ska vara synliga i kassan för dina e-handlare. För att lära dig mer om UPS-tjänster, se UPS Tariff/Användarvillkor på UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Skicka till en UPS Access Point™-plats (leverans till AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there",UPS levererar paketet till en UPS Access Point™-plats som valts av kunden för att de ska hämta när det passar dem
+Yes,Ja
+No,Nej
+Set as default shipping option,Ställ in som standard fraktalternativ
+Select the shipping services for your customers to choose,Välj frakttjänster för dina kunder att välja
+"International shipping only - visible, when shipping address is outside of EU",Endast internationell frakt - synlig när leveransadressen är utanför EU
+Access Point display setting:,UPS Access Point visningsinställning:
+Number of Access Points visible to customers:,Antal platser som är synliga för kunder:
+Display all the Access Points in range of:,Visa alla platser inom räckhåll för:
+kilometer around consignee's selected address,Miles runt mottagarens valda adress
+Choose Account Number for this option,Välj Kontonummer för detta alternativ
+Deliver to consignee address (to-address delivery),Leverera till mottagarens adress (till-adress leverans)
+UPS delivers the parcel to the shipping address provided by customer.,UPS levererar paketet till den leveransadress som kunden angett.
+Cut off time,Stäng av tiden
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Den bryttid som väljs här kommer att användas för att beräkna schemat för leveransdatum och tid, som kommer att visas i din webbkassa."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Om t.ex. stopptiden är vald som 17.00 och dina e-handlare tittar på din webbutik kl. 17.01, kommer alla UPS schemalagda leveransdatum och tider att beräknas från följande arbetsdag. När du bestämmer denna stopptid, se till att du har tillräckligt med tid för att fullgöra beställningen innan UPS schemalagda hämtning eller så kan du lämna paketen på en UPS Access Point™-plats."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Om du är osäker på att fullfölja kundorder samma dag kan du välja ""Inaktivera"" vilket kommer att resultera i att e-handlaren ser ungefärliga leveransdatum för varje tillgänglig tjänst."
+Save,Spara
+Please select at least one shipping service.,Välj minst en frakttjänst.
+UPS Access Point™ Economy,UPS Access Point™ Ekonomi
+UPS® Standard,UPS® Standard
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Sidan Hämta vid leverans (COD)
+Collect on Delivery (COD),Hämta vid leverans (COD)
+You have the official Magento COD module enabled!,Du har den officiella Magento COD-modulen aktiverad!
+Only show Access Points supporting COD shipments?,Visa endast åtkomstpunkter som stöder efterkravsförsändelser?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Välj ""JA"" om du planerar att erbjuda efterkravsförsändelser till en UPS Access Point™"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,COD-frakttjänsten för detta plugin är automatiskt kompatibel med den officiella Collect on Delivery (COD)-modulen från Magento.
+You do not have the official Magento COD module installed and/or enabled!,Du har inte den officiella Magento COD-modulen installerad och/eller aktiverad!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Postförskottstjänsten för detta plugin är automatiskt kompatibel med den officiella postförskottsmodulen (COD) från Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Om du vill att UPS Shipping-modulen automatiskt ska upptäcka efterkravsförsändelser, <strong>se till att du har installerat Magento's Collect on Delivery (COD)</strong>. Om du redan har Magento's Collect on Delivery (COD)-modul installerad, <strong>se till att modulen är aktiverad</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Klicka här</a>] för detaljerad vägledning."
+COD Option,COD-alternativ
+//======================= Package Dimensions page,//======================== Sidan Paketmått
+Package Dimensions,Paketets mått
+Default Package Setting,Standardpaketinställning
+Default package setting,Standardpaketinställning
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Ange vikt och mått på din förpackning här. Du kan lägga till flera paketdimensioner, som enkelt kan väljas i ett dropdown-alternativ när du skapar försändelser i plug-in."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Om du bestämmer dig för att visa UPS-fraktpriset i realtid (som konfigureras på nästa skärm) för e-handlare, kommer plugin-programmet att använda det första paketet, kallat ""Standardpaketet"" som visas nedan. Standardpaketets vikt och dimensioner kommer att användas för att beräkna UPS-fraktpriserna som kommer att visas för e-handlare."
+Add New Package,Lägg till nytt paket
+Package name,Paketnamn
+"Example: Standard, Large, Phone box, etc.","Exempel: Standard, Stor, Telefonbox, etc."
+Weight,Vikt
+Unit,Enhet
+Dimension,Dimensionera
+Add Package,Lägg till paket
+Length,Längd
+Width,Bredd
+Height,Höjd
+The name Package is exist.,Namnet Paketet finns.
+Edit,Redigera
+Delete,Radera
+Editing Default Package,Redigera standardpaket
+Remove Package,Ta bort paket
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Du kommer att ta bort detta standardpaket från din profil. Klicka på Ok för att bekräfta, stäng dialogrutan för att avbryta."
+OK,OK
+Please input at least one default package to continue.,Ange minst ett standardpaket för att fortsätta.
+Please select an option,Var god välj ett alternativ
+Basic (number of items in the e-shopper order determine the package size),Basic (antal artiklar i e-shopper-ordern bestämmer paketstorleken)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Avancerat (vikter och mått på produkter i e-shopper-ordern bestämmer förpackningsstorleken)
+Package dimensions:,Paketets mått:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,Obs: plugin kommer att skapa en anpassad paketstorlek om en e-shopper-order är större än paketen du anger
+Warning! To use this option you must enter product weights in the product settings of your shop.,Varning! För att använda detta alternativ måste du ange produktvikter i produktinställningarna i din butik.
+Include dimensions in rating,Inkludera dimensioner i betyg
+Yes,Ja
+No,Nej
+Number of items in order,Antal artiklar i ordning
+Add Backup Rate,Lägg till backuphastighet
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Om inställt på ""Nej"", kommer priserna att baseras enbart på produktvikter.&nbsp; Om inställt på ""Ja"", måste produktmått anges i produktinställningarna i din butik"
+Name,namn
+Length,Längd
+Width,Bredd
+Height,Höjd
+Weight,Vikt
+Max Weight,Maximal vikt
+Backup rate:,Säkerhetskopieringshastighet:
+Service Name,Service namn
+Rate,Betygsätta
+Add Backup Rate,Lägg till backuphastighet
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Backup Rate visas endast för e-handlare om det finns ett problem i produktinställningarna, som att vikter saknas eller om vikter/mått överskrider UPS-gränserna"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,Lägg till standardpaket om du vill att paketstorleken som används för betyg ska ändras baserat på antalet varor i e-handlarens beställning
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Obs: om antalet artiklar i e-shopper-ordern inte stämmer överens med någon av dina poster, kommer storleken på paketet som används för att betygsätta att baseras på storleken på det högsta varantalet som överskrids av e-shopper-ordern."
+//======================= Checkout Shipping Rates page,//======================== Kassa Fraktpriser sida
+Checkout Shipping Rates,Kassa Fraktpriser
+Ship to UPS Access Point&trade;,Skicka till UPS Access Point™-plats
+Flat rates,Fasta priser
+Real time shipping rates,Realtidsfraktpriser
+Delivery rates is,Leveranspriser är
+% of UPS shipping rates,% av UPS fraktpriser
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,E-handlaren kommer att se % av UPS-priser i realtid. Dessa priser beräknas med hjälp av standardpaketets vikt och dimensioner som du konfigurerade i föregående skärm (Paketmått).
+Ship to Address,Skicka till adress
+Order Value Threshold,Beställningsvärdesgräns
+Delivery rates,Leveranspriser
+The minimum thresholds can not be the same.,Minimigränserna kan inte vara desamma.
+//======================= Complete Configuration page,//======================== Komplett konfigurationssida
+Complete Configuration,Komplett konfiguration
+You can start shipping now!,Du kan börja skicka nu!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,"Klicka på knappen ""Slutför konfiguration"" för att slutföra konfigurationen av plugin-programmet och börja erbjuda UPS-frakttjänster på din webbplats."
+"If you are new to UPS, please refer to the following FAQs for additional information:","Om du är ny på UPS, se följande vanliga frågor för ytterligare information:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.",1) Hur får jag mer information om mitt nya UPS-fraktkonto?<br />Om du öppnade ett nytt UPS-fraktkonto från plugin-programmet kommer ett bekräftelsemail med mer information att skickas till den e-postadress som du angav medan skapa det nya kontot.
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Hur förbereder jag mina paket för UPS-upphämtning eller lämnar av till en UPS Access Point™-plats?<br />Se rekommendationerna för paketförberedelser på den här länken - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Hur ger jag mina paket till UPS?<br />Du kan lämna ditt paket på vilken auktoriserad UPS-plats som helst, till exempel en UPS Access Point™-plats. Klicka nedan för att söka efter en lämplig plats nära dig"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>",Du kan också be UPS att hämta paket från ditt lager eller företagsadress. Om du behöver en tillfällig hämtning kan du schemalägga en hämtning direkt från UPS.COM med den här länken - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Om du har UPS-paket de flesta arbetsdagar och föredrar en vanlig UPS-upphämtning, kan du kontakta UPS genom att ringa på telefonnumret som anges under Faktureringsfrågor <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>här</a>. Sedan kommer en UPS-representant att kontakta dig för att diskutera en daglig UPS-upphämtning."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Om du har UPS-paket de flesta arbetsdagar och föredrar en vanlig UPS-upphämtning, se denna länk för instruktioner om hur du schemalägger dagliga upphämtningar: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,4. Vilka steg måste jag vidta för att konfigurera en UPS Collect on Delivery-tjänst (COD)?<br />Du kan kontakta UPS genom att ringa på telefonnumret som anges under Faktureringsfrågor <a href='https://www .ups.com/%1/%2/help-center/contact.page' target='_blank'>här</a>. Sedan kommer en UPS-representant att kontakta dig för att diskutera COD-tjänsten.
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Vilka steg måste jag vidta för att konfigurera en UPS Collect on Delivery (COD)-tjänst?<br />Om du är intresserad av att använda UPS Collect on Delivery (COD)-tjänster, se denna länk för detaljer: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Sök platser
+Print form,Skriv ut formulär
+//======================= E-shopper page,//======================= E-shopper sida
+Deliver to an UPS Access Point<sup>TM</sup>,Leverera till en UPS Access Point™-plats
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Ditt paket kommer att levereras till en UPS Access Point™-plats
+Open 24 hours,Öppet 24 timmar
+The address is required,Adressen är obligatorisk
+Please select an Access Point to process,Välj en åtkomstpunkt att bearbeta
+Operating Hours,Öppettider
+Open,Öppna
+Close,Stänga
+Monday,måndag
+Closed,Stängd
+Tuesday,tisdag
+Wednesday,onsdag
+Thursday,torsdag
+Friday,fredag
+Saturday,lördag
+Sunday,söndag
+Search for the UPS Access Point<sup>TM</sup>,Sök efter UPS Access Point™-platser
+Near,Nära
+Delivered by End of Business Day,Levereras före arbetsdagens slut
+"Address line, City, State, Postcode","Adressrad, stad, stat, postnummer"
+"Address line,City,State,Postcode","Adressrad, stad, stat, postnummer"
+Use my delivery address,Använd min leveransadress
+Search,Sök
+Results,Resultat
+Select,Välj
+Deliver to Your Address,Leverera till din adress
+Your package will be delivered to your address,Ditt paket kommer att levereras till din adress
+UPS SHIPPING,UPS FRAKT
+Delivery today!,Leverans idag!
+Delivery next day!,Leverans nästa dag!
+Next two days!,Nästa två dagar!
+Next three days!,Nästa tre dagar!
+Next four days!,Nästa fyra dagar!
+Next five days!,Nästa fem dagar!
+Next six days!,Nästa sex dagar!
+Next seven days!,Nästa sju dagar!
+Next eight days!,Nästa åtta dagar!
+Next nine days!,Nästa nio dagar!
+Next ten days!,Nästa tio dagar!
+delivered by,levererad av
+Delivered by,Levererad av
+January,januari
+February,februari
+March,Mars
+April,april
+May,Maj
+June,juni
+July,juli
+August,augusti
+September,september
+November,november
+October,oktober
+December,december
+//======================= Open Order page,//======================== Öppna beställningssidan
+Open Orders,Öppna beställningar
+Create Single Shipments,Skapa enstaka försändelser
+Create Batch Shipments,Skapa batchförsändelser
+Export All Orders,Exportera alla beställningar
+Export Orders,Exportera beställningar
+Archive Orders,Arkivbeställningar
+Order ID,Beställnings-ID
+Order Date,Orderdatum
+Product,Produkt
+Delivery Address,Leveransadress
+Shipping Service,Fraktservice
+COD,TORSK
+Action,Handling
+No results!,Inga resultat!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Varning - Arkivering av beställningar kommer att flytta dina beställningar på fliken Arkiv och du kan inte längre behandla dessa beställningar. Klicka på ""OK"" för att fortsätta, ""Avbryt"" för att gå tillbaka till skärmen"
+Cancel,Avbryt
+//======================= Detail Order page,//======================== Detalj beställningssida
+Order,Ordning
+Order #,Ordning #
+Customer,Kund
+Order value,Beställningsvärde
+Payment status,Betalningsstatus
+Access Point,Åtkomstpunkt
+//======================= Create single shipment page,//======================= Skapa en enkel leveranssida
+Process Shipment,Bearbeta leverans
+Ship From,Skicka från
+Ship To,Frakta till
+Accessorial service,Tillbehörsservice*
+Packaging,Förpackning
+Package #1,Paket #1
+Package #,Paketnummer
+Add package,Lägg till paket
+View estimated shipping fee and delivery date,Se beräknad fraktavgift och leveransdatum
+Edit,Redigera
+Create Shipment,Skapa försändelse
+Custom Package,Anpassat paket
+Name,namn
+Address,Adress
+State,stat
+Note: Insufficient or incorrect address may increase the shipping fee,Obs: Otillräcklig eller felaktig adress kan öka fraktavgiften
+Additional Handling,Ytterligare hantering
+Additional handling,Ytterligare hantering
+Quantum View Ship Notification,Quantum View Ship Notification
+Quantum View Delivery Notification,Quantum View-leveransmeddelande
+Residential Address,Bostadsadress
+Saturday Delivery,Lördagsleverans
+Carbon Neutral,Koldioxid neutral
+Direct Delivery Only,Endast direktleverans
+Declared value,Angivet värde
+Signature Required,Signatur krävs
+Adult Signature Required,Vuxensignatur krävs
+To Home COD,Hemma COD
+Cancel Editing,Avbryt redigering
+To Access Point COD,Till Access Point COD
+Orders to be processed,Beställningar som ska behandlas
+The name is not empty,Namnet är inte tomt
+The address is required,Adressen är obligatorisk
+The postal code is empty or invalid,Postnummeret är tomt eller ogiltigt
+The city is not empty,Staden är inte tom
+Invalid email format,Ogiltigt e-postformat
+The phone is not empty,Telefonen är inte tom
+Some of the data you entered is not valid. Please check again.,En del av de uppgifter du angett är inte giltiga. Försök igen tack.
+There are errors connecting to the UPS API servers. Please try again.,Det finns fel vid anslutning till UPS API-servrar. Var god försök igen.
+//======================= Shipment page,//======================== Leveranssida
+Shipments,Försändelser
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>",Genom att välja valfri beställning på den här fraktfliken godkänner jag <a href='javascrip:void(0);' id='term-condition'>Användarvillkor.</a>
+UPS Tracking Terms and Conditions,UPS-spårningsvillkor
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","MEDDELANDE: UPS-paketspårningssystem som nås via den här tjänsten (""Spårningssystemen &quot;) och spårningsinformation som erhålls via denna tjänst (""Informationen &quot;) är UPS privata egendom. UPS tillåter dig att använda spårningssystemen enbart för att spåra försändelser som lämnats in av eller för dig till UPS för leverans och för inget annat ändamål. Utan begränsning är du inte behörig att göra informationen tillgänglig på någon webbplats eller på annat sätt reproducera, distribuera, kopiera, lagra, använda eller sälja informationen för kommersiell vinning utan uttryckligt skriftligt medgivande från UPS. Detta är en personlig tjänst, så din rätt att använda spårningssystemen eller informationen kan inte överlåtas. All åtkomst eller användning som är oförenlig med dessa villkor är obehörig och strängt förbjuden."
+Download PDF Label,Ladda ner PDF-etikett
+Download ZPL Label,Ladda ner ZPL Label
+Export Shipment Data,Exportera leveransdata
+Cancel Shipments,Avbryt leveranser
+ID Shipment,ID-försändelse
+Tracking Number,Spårningsnummer
+Date,Datum
+Estimated Shipping Fee,Beräknad fraktavgift
+Shipment #,Sändning #
+Order #ID reference,Beställningsnummer ID-referens
+Package details,Paketdetaljer
+Are you sure you want to cancel selected shipment(s)?,Är du säker på att du vill avbryta valda försändelser?
+Shipment Canceled,Leverans avbruten
+Archived Orders,Arkiverade beställningar
+//======================= Additional,//======================== Ytterligare
+Packaging:,Förpackning:
+Access Point display setting:,UPS Access Point visningsinställning:
+Number of Access Points visible to customers:,Antal åtkomstpunkter som är synliga för kunder:
+Display all the Access Points in range of:,Visa alla åtkomstpunkter inom området:
+Title:,Titel:
+Company:,Företag:
+Email:,E-post:
+Phone &nbsp number:,Telefon &nbsp nummer:
+Phone &nbsp;number:,Telefon &nbsp;nummer:
+Address type:,Adresstyp:
+Address:,Adress:
+Postal code:,Postnummer:
+City:,Stad:
+Country:,Land:
+Account Name:,Kontonamn:
+Account Number:,Kontonummer:
+Account number:,Kontonummer:
+Invoice Number:,Fakturanummer:
+Invoice Amount:,Fakturabelopp:
+Currency:,Valuta:
+Invoice date:,Fakturadatum:
+Name:,Namn:
+Phone:,Telefon:
+Customer:,Kund:
+Product:,Produkt:
+Shipping service:,Fraktservice:
+Order value:,Beställningsvärde:
+Payment status:,Betalningsstatus:
+Access Point:,Åtkomstpunkt:
+Payment Status:,Betalningsstatus:
+Phone number:,Telefonnummer:
+Package:,Paket:
+Estimated Shipping fee:,Beräknad fraktavgift:
+Estimated Shipping Fee:,Beräknad fraktavgift:
+Orders to be processed:,Beställningar som ska behandlas:
+Order #ID reference:,Beställningsnummer ID-referens:
+Package details:,Paketdetaljer:
+Tracking number:,Spårningsnummer:
+Accessorial Service:,Tillbehörsservice:
+Accessorial service:,Tillbehörsservice:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Om du är ny på UPS, se följande vanliga frågor för ytterligare information:"
+VAT Number:,Momsregistreringsnummer:
+Promo Code:,Rabattkod:
+Country/Territory:,Land/territorium:
+End of Business Day,Slutet på arbetsdagen
+//==============================Security Enhancement page,
+Security Enhancement,Säkerhetsförbättring
+SECURITY ENHANCEMENTS ACTIVATION,AKTIVERING AV SÄKERHETSFÖRBÄTTRINGAR
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",Genom att installera UPS Plugin fick du det här bekväma alternativet att tillämpa UPS rekommenderade säkerhetsförbättringar på din e-butik. Genom att aktivera särskilda säkerhetsförbättringar nedan kan du göra din e-butik mindre sårbar för vissa vanliga hackares attacker.
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Defense
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Se [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] för mer information. Om du aktiverar det här försvaret kommer UPS-plugin-programmet att säkra din butik genom att kommunicera inramningspolicy till användarens webbläsare genom ""X-Frame-Options: Sameorigin"" HTTP-svarshuvud och genom att injicera ""frame-breaker"" javascript för äldre webbläsare.- UPS Plugin kan säkra din e-butik Front Office-sidor i enlighet med OWASPs rekommenderade Clickjacking Defense Cheat Sheet Inaktivera detta försvar om du vill aktivera inramning av ditt e-shop GUI på tredje parts webbplatser; eller om du redan har implementerat detta försvar annorlunda."
+Use X-Frame-Options response header,Använd svarshuvudet för X-Frame-Options
+Do not use,Använd inte
+Deny,Förneka
+SameOrigin,Samma ursprung
+Use frame-killer script:,Använd frame-killer script:
+Use Content-Security-Policy response header,Använd svarshuvudet Content-Security-Policy
+frame-ancestors 'none',ram-förfäder 'ingen'
+frame-ancestors 'sefl',frame-förfäder 'sefl'
+Content Sniffing Prevention,Förebyggande av sniffning av innehåll
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff",Se wikipedia för mer information. Om du markerar det här alternativet kommer UPS plugin att säkra din e-butik Front Office genom att använda <br />X-Content-Type-Options: nosniff
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.",HTTP-svarshuvud till alla Magento Front Office-sidor. Det kommer att förhindra klientens webbläsare (särskilt Internet Explorer) från att MIME-sniffa ett svar bort från den deklarerade innehållstypen. Du kanske inte riktigt behöver detta eftersom dina användare inte ska ladda upp några potentiellt skadliga filer till din e-butik (t.ex. JavaScript istället för en bild). Det är dock fortfarande god praxis att aktivera denna speciella säkerhetsrubrik eftersom det inte finns någon prestationsstraff förknippad med den.
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,Aktiverar cross-site scripting-filter i webbläsare som stöder X-XSS-Protection-direktivet
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.",Se wikipedia för mer information. Om du markerar det här alternativet kommer UPS plugin att säkra din e-shop Front Office genom att använda <br />X-XSS-Protection: '1; mode=block' <br />HTTP-svarshuvud till alla Magento Front Office-sidor.
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Skydda din e-butikswebbplats mot protokollnedgraderingsattacker och cookie-kapning
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.",Se wikipedia för mer information Om du markerar det här alternativet kommer UPS plugin att säkra din e-shop Front Office genom att använda <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains <br />HTTP-svarshuvud till alla Magento Front Office-sidor.
+Prevent sensitive pages from caching by browser.,Förhindra att känsliga sidor cachelagras av webbläsaren.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Se OWASP FAQs för mer information. Om du markerar det här alternativet kommer UPS plugin att säkra utcheckningsprocessen genom att använda<br />Cache-kontroll: no-cache, no-store <br />Upphör att gälla: 0 <br />Pragma: no-cache <br /> HTTP-svarsrubriker till motsvarande sidor"
+Apply to pages,Applicera på sidor
+All,Allt
+Checkout only,Endast utcheckning
+Data saved successfully.,Data har sparats.
+We couldn't find any records,Vi kunde inte hitta några register
+Please wait…,Vänta…
+Archiving Orders,Arkivering av beställningar
+There is no shipping service for the above address,Det finns ingen fraktservice för ovanstående adress
+The email is not empty,E-postmeddelandet är inte tomt
+The country is not empty,Landet är inte tomt
+Select all,Välj alla
+Unselect all,Avmarkera alla
+Do not have label for this Tracking ID,Har ingen etikett för detta spårnings-ID
+Print Label or download file.,Skriv ut etikett eller ladda ner fil.
+"Connection error, try later to install and configure","Anslutningsfel, försök senare att installera och konfigurera"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,Vi kan inte annullera denna försändelse just nu. Du kan försöka ogiltigförklara försändelsen senare. Du kommer dock inte att faktureras för denna försändelse förutsatt att du inte använder fraktetiketten
+Estimated Fee,Beräknad avgift
+Shipping fee,Fraktavgift
+Poland,Polen
+United Kingdom,Storbritannien
+France,Frankrike
+Germany,Tyskland
+Italy,Italien
+Netherlands,Nederländerna
+Spain,Spanien
+Belgium,Belgien
+Shipment Manager,Transportansvarig
+Default Package,Standardpaket
+Order Time,Beställningstid
+Time,Tid
+Warning,Varning
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Fel! Paketet överskrider den högsta tillåtna storleken på 400 cm eller 157,48 tum (den högsta tillåtna storleksberäkningen = längd + 2 * bredd + 2 * höjd)."
+Access Points Address will be used as an alternative shipping address,Access Points Adress kommer att användas som en alternativ leveransadress
+Ship To (UPS Access Point),Skicka till (UPS Access Point)

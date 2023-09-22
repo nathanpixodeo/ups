@@ -1,0 +1,470 @@
+//======================= About page,//======================= Apie puslapį
+About,Apie
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"UPS bendradarbiauja su Magento, kad pasiūlytų nemokamą UPS siuntimo ir UPS Access Point™ modulį, kuris leis integruoti ir pasiūlyti platų UPS siuntimo ir pristatymo sprendimų asortimentą tiesiogiai jūsų svetainės išsiregistravimo procese! Šis oficialus Magento UPS modulis suteikia jūsų klientams prieigą prie mūsų plataus UPS prieigos taško tinklo ir pristatymo paslaugų."
+Features of this product,Šio gaminio savybės
+Front Office,Front Office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,"Paprasta ir lengva žemėlapio sąsaja, skirta jūsų klientams pasirinkti UPS prieigos tašką pagal savo pageidavimus."
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,"Patogi vartotojo sąsaja, skirta klientams pereiti nuo pristatymo prieigos taške prie pristatymo į namus."
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Realaus laiko UPS pristatymo tarifas arba fiksuoti įkainiai kiekvienai galimai paslaugai (pagal prekybininko „back office“ nustatymus).
+Back Office,Back Office
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Daugybė parinkčių, leidžiančių nustatyti pristatymo įkainius, kuriuos matys jūsų klientai (pavyzdžiui, nemokamas pristatymas, pristatymo įkainiai realiuoju laiku arba fiksuoti įkainiai pagal krepšelio vertės slenksčius)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Galimybė atidaryti UPS sąskaitą tiesiogiai pačiame modulyje, jei jos neturite."
+Easy PDF label generation.,Lengvas PDF etikečių generavimas.
+Real time tracking information.,Sekimo informacija realiuoju laiku.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Galimybė eksportuoti atvirus užsakymus, kad galėtumėte juos apdoroti kitose programose sudėtingesniems poreikiams."
+Module version number and release date,Modulio versijos numeris ir išleidimo data
+Module version v,Modulio versija v
+Release date,Išleidimo data
+Changelog,Pakeitimų žurnalas
+Platform compatibility statement,Platformos suderinamumo pareiškimas
+"Compatible with Magento versions 2.1, 2.2, 2.3","Suderinamas su Magento 2.1, 2.2, 2.3 versijomis"
+UPS Shipping Module website,UPS siuntimo modulio svetainė
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,"Norėdami gauti daugiau informacijos, apsilankykite <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>"
+For more information visit,"Norėdami gauti daugiau informacijos, apsilankykite"
+Support information,Pagalbos informacija
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Jei reikia pagalbos diegiant, atnaujinant arba naudojant UPS siuntimo modulį, susisiekite su UPS adresu -"
+Poland +48 (0) 22 203 03 21,Lenkija +48 (0) 22 203 03 21
+UPS Shipping Module,UPS siuntimo modulis
+UPS Shipping,UPS siuntimas
+Shipment management,Siuntų valdymas
+//======================= Country page,//======================= Šalies puslapis
+Country setting,Šalies nustatymas
+Country Setting,Šalies nustatymas
+Please select your country/territory,Pasirinkite savo šalį/teritoriją
+Continue,Tęsti
+//======================= Terms and Condition page,//======================= Sąlygų ir sąlygų puslapis
+UPS Terms and Conditions,UPS taisyklės ir sąlygos
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Sutinku su UPS technologijų sutartimi ir patvirtinu, kad man buvo suteikta pakankamai laiko ją perskaityti ir suprasti, kad joje yra svarbių sąlygų, susijusių su mano naudojimusi UPS technologijomis, pvz., UPS atsakomybės ribojimas ir mano susitarimas dėl ginčų tarp UPS ir manęs sprendimo būdų. tvarkomi"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Sutinku su UPS technologijų sutartimi ir patvirtinu, kad man buvo suteikta pakankamai laiko ją perskaityti ir suprasti, kad joje yra svarbių sąlygų, susijusių su mano naudojimu UPS technologijomis,"
+like,Kaip
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled," ribojant UPS atsakomybę ir mano susitarimą dėl to, kaip bus sprendžiami ginčai tarp UPS ir manęs."
+Print,Spausdinti
+Cannot get Term & Condition,Negaliu gauti terminų ir sąlygų
+//======================= Account Page,//======================= Paskyros puslapis
+Account,sąskaita
+ACCOUNT,PASKYRA
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),"Norėdami gauti daugiau informacijos apie UPS papildinius, spustelėkite <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>šią nuorodą< /a> (atsidaro naujame naršyklės lange)"
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,"Užpildykite žemiau esančią formą, kad pradėtumėte konfigūruoti UPS papildinį savo el. prekybos svetainei"
+Title,Pavadinimas
+Full name,Pilnas vardas
+Full Name,Pilnas vardas
+Company,Įmonė
+Email,El. paštas
+Phone number,Telefono numeris
+Address type,Adreso tipas
+Address,Adresas
+Postal code,Pašto kodas
+City,Miestas
+Country/Territory,Šalis/teritorija
+"Example: Warehouse, Branch #1, etc.","Pavyzdys: sandėlis, filialas Nr. 1 ir kt."
+"Example: Warehouse, Branch #1","Pavyzdys: sandėlis, filialas Nr. 1"
+Street Address,Gatvės adresas
+"Apartment, Suite, Unit, Building, Floor, etc.","Butas, apartamentai, vienetas, pastatas, aukštas ir kt."
+"Department, c/o, etc.","Skyrius, c/o ir kt."
+Mr,Ponas
+Miss,Ponia
+Mrs,Ponia
+Ms,ponia
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Turiu UPS sąskaitos numerį, SU sąskaita faktūra, gauta per paskutines 45 dienas (90 dienų, jei paskyra yra JAV arba Kanadoje)"
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Turiu UPS sąskaitos numerį BE sąskaitos faktūros, gautos per pastarąsias 45 dienas (90 dienų, jei jūsų sąskaita yra JAV arba Kanadoje)"
+I do not have a UPS Account Number and would like to get one from the plug-in,Neturiu UPS sąskaitos numerio ir norėčiau jį gauti su nuolaida iš papildinio
+I don’t have a UPS account number and would,Neturiu UPS sąskaitos numerio ir turėčiau
+like,Kaip
+to get one with discounted rates from the plug-in,kad gautumėte jį su nuolaidomis iš papildinio
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"Sąskaita faktūra turi būti bet kuri iš 3 paskutinių UPS išrašytų per paskutines 45 dienas (90 dienų, jei paskyra yra JAV arba Kanadoje)."
+Account name,Paskyros vardas
+Account number,Paskyros numeris
+Invoice number,Sąskaitos numeris
+Invoice amount,Sąskaitos faktūros suma
+Currency,Valiuta
+Invoice date,Sąskaitos data
+VAT number,PVM numeris
+Promo Code,Reklamos kodas
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Atkreipkite dėmesį: siuntėjams draudžiama gabenti pavojingus krovinius ar pavojingas medžiagas naudojant šioje programoje atidarytą paskyrą.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Jūsų paskyra palaikys pristatymą į įgaliotas UPS Access Point™ vietas po 24 valandų.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,"Daugiau informacijos apie pavojingus krovinius ir tai, kaip UPS gali padėti jums juos gabenti, rasite paspaudę šią nuorodą <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page> [https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>"
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Nuorodos pavadinimas, kuris bus susietas su paskyra. Pavyzdžiui, 1 sandėlis, 2 sandėlis, 1 parduotuvė, 2 parduotuvė ir tt Jūs galite laisvai pasirinkti pavadinimą pagal savo poreikius"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Pašto kodas arba pašto kodas, susietas su jūsų UPS paskyra. Jį galite rasti kiekvieno UPS sąskaitos faktūros puslapio viršuje, skiltyje „Pirkėjas“"
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Vardas, susietas su jūsų UPS paskyra. Jį galite rasti kiekvieno UPS sąskaitos faktūros puslapio viršuje, skiltyje „Pirkėjas“"
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,"Unikalus šešių simbolių raidinis ir skaitinis numeris, identifikuojantis jūsų paskyrą. Jį galite rasti kiekvieno UPS sąskaitos faktūros puslapio viršuje, kairėje"
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,"Unikalus 12 skaitmenų numeris, kurį UPS priskyrė sąskaitai faktūrai. Jį galite rasti kiekvieno UPS sąskaitos faktūros puslapio viršuje, kairėje"
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,"Bendra mokėtina suma už nurodytą sąskaitą. Jį galite rasti lentelėje „Mokesčių suvestinė“, esančioje pirmame sąskaitos faktūros puslapyje"
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,"Sąskaitos faktūros išrašymo data. Jį galite rasti kiekvieno UPS sąskaitos faktūros puslapio viršuje, kairėje"
+Get started,Pradėti
+Some of the data you entered is not valid. Please check again.,Kai kurie jūsų įvesti duomenys negalioja. Prašau patikrinti dar kartą.
+Cannot create new Account Number,Negalima sukurti naujo sąskaitos numerio
+Email is not correct format,Netinkamas el. pašto formatas
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"Jūsų užklausa sukurti UPS siuntimo paskyrą nebuvo sėkminga. Patikrinkite įvestas reikšmes „Miestas“ ir „Pašto kodas“. Štai keletas pasiūlymų dėl miesto ir pašto kodo, kurie yra tinkamas derinys –"
+Please update the city and postal code values with one of these selections and click Get Started,Atnaujinkite miesto ir pašto kodo reikšmes naudodami vieną iš šių pasirinkimų ir spustelėkite Pradėti
+Configuration,Konfigūracija
+//======================= Account Success Page,//======================= Paskyros sėkmės puslapis
+Your UPS Profile,Jūsų UPS profilis
+Your Payment Account,Jūsų mokėjimo sąskaita
+Add another account number,Pridėkite kitą sąskaitos numerį
+Please enter the address attached to your account number,Įveskite prie savo sąskaitos numerio pridėtą adresą
+Phone,Telefonas
+Verify,Patvirtinti
+Next,Kitas
+Remove,Pašalinti
+Account number already exists in 'Your Payment Account',Sąskaitos numeris jau yra „Jūsų mokėjimo sąskaitoje“
+Full name:,Pilnas vardas:
+Remove Account,Pašalinti paskyrą
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Ši paskyra bus pašalinta. Spustelėkite Gerai, kad patvirtintumėte, uždarykite dialogo langą, kad atšauktumėte."
+Your UPS account has been successfull registered,Jūsų UPS paskyra sėkmingai užregistruota
+//======================= Shipping Services page,//======================= Siuntimo paslaugų puslapis
+Shipping Services,Siuntimo paslaugos
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Kasoje pasirinkite UPS paslaugas, kurias norite matyti savo el. pirkėjams. Norėdami sužinoti daugiau apie UPS paslaugas, žr. UPS tarifus / paslaugų teikimo sąlygas UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Pristatymas į UPS Access Point™ vietą (pristatymas į AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","UPS pristato siuntą į kliento pasirinktą UPS Access Point™ vietą, kad galėtų atsiimti jam patogiu metu"
+Yes,Taip
+No,Nr
+Set as default shipping option,Nustatyti kaip numatytąją pristatymo parinktį
+Select the shipping services for your customers to choose,"Pasirinkite siuntimo paslaugas, kurias galės pasirinkti klientai"
+"International shipping only - visible, when shipping address is outside of EU","Tik tarptautinis siuntimas – matomas, kai siuntimo adresas yra už ES ribų"
+Access Point display setting:,UPS prieigos taško rodymo nustatymas:
+Number of Access Points visible to customers:,Klientams matomų vietų skaičius:
+Display all the Access Points in range of:,Rodyti visas vietas diapazone:
+kilometer around consignee's selected address,Kilometrai aplink pasirinktą gavėjo adresą
+Choose Account Number for this option,Šiai parinkčiai pasirinkite Sąskaitos numerį
+Deliver to consignee address (to-address delivery),Pristatymas gavėjo adresu (pristatymas į adresą)
+UPS delivers the parcel to the shipping address provided by customer.,UPS pristato siuntą kliento nurodytu pristatymo adresu.
+Cut off time,Sutraukite laiką
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Čia pasirinktas išjungimo laikas bus naudojamas apskaičiuojant pristatymo grafiko datą ir laiką, kuris bus rodomas jūsų svetainės kasoje."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Pavyzdžiui, jei pasirinktas terminas 17 val., o jūsų el. pirkėjai jūsų internetinę parduotuvę peržiūri 17:01 val., visos UPS numatytos pristatymo datos ir laikas bus skaičiuojami nuo kitos darbo dienos. Priimdami sprendimą dėl šio termino, įsitikinkite, kad turite pakankamai laiko įvykdyti užsakymą prieš suplanuotą UPS paėmimą arba galėsite atiduoti siuntinius UPS Access Point™ vietoje."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Jei nesate tikri dėl klientų užsakymų įvykdymo tą pačią dieną, galite pasirinkti „Išjungti“, todėl el. pirkėjas matys apytiksles kiekvienos galimos paslaugos pristatymo datas."
+Save,Sutaupyti
+Please select at least one shipping service.,Pasirinkite bent vieną siuntimo paslaugą.
+UPS Access Point™ Economy,UPS Access Point™ Ekonomika
+UPS® Standard,UPS® standartas
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Surinkti pristačius (COD) puslapis
+Collect on Delivery (COD),Atsiimti pristatymo metu (COD)
+You have the official Magento COD module enabled!,Įjungtas oficialus Magento COD modulis!
+Only show Access Points supporting COD shipments?,"Rodyti tik prieigos taškus, palaikančius COD siuntas?"
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Pasirinkite „TAIP“, jei planuojate pasiūlyti COD siuntas į UPS Access Point™"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Šio papildinio COD siuntimo paslauga automatiškai suderinama su oficialiu Magento moduliu surinkti pristatymo metu (COD).
+You do not have the official Magento COD module installed and/or enabled!,Neturite įdiegto ir (arba) neįjungto oficialaus Magento COD modulio!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Šio įskiepio pristatymo paslauga COD automatiškai suderinama su oficialiu Magento moduliu „Cash on Delivery“ (COD).
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Jei norite, kad UPS siuntimo modulis automatiškai aptiktų COD siuntas, <strong>įsitikinkite, kad įdiegėte Magento's Collect on Delivery (COD)</strong>. Jei jau esate įdiegę Magento's Collect on Delivery (COD) modulį, <strong>įsitikinkite, kad modulis įgalintas</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Spustelėkite čia</a>], jei norite gauti išsamių nurodymų."
+COD Option,COD variantas
+//======================= Package Dimensions page,//======================= Paketo matmenų puslapis
+Package Dimensions,Pakuotės matmenys
+Default Package Setting,Numatytasis paketo nustatymas
+Default package setting,Numatytasis paketo nustatymas
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Čia įveskite pakuotės svorį ir matmenis. Galite pridėti kelis pakuotės matmenis, kuriuos galite lengvai pasirinkti išskleidžiamajame meniu kurdami siuntas papildinyje."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Jei nuspręsite elektroniniams pirkėjams parodyti realaus laiko UPS pristatymo tarifą (konfigūruoti kitame ekrane), papildinys naudos pirmąjį paketą, vadinamą „Numatytuoju paketu“, kuris rodomas žemiau. Numatytosios pakuotės svoris ir matmenys bus naudojami apskaičiuojant UPS siuntimo įkainius, kurie bus rodomi el. pirkėjams."
+Add New Package,Pridėti naują paketą
+Package name,Paketo pavadinimas
+"Example: Standard, Large, Phone box, etc.","Pavyzdys: standartinis, didelis, telefono dėžutė ir kt."
+Weight,Svoris
+Unit,Vienetas
+Dimension,Matmenys
+Add Package,Pridėti paketą
+Length,Ilgis
+Width,Plotis
+Height,Aukštis
+The name Package is exist.,Pavadinimas Paketas egzistuoja.
+Edit,Redaguoti
+Delete,Ištrinti
+Editing Default Package,Redaguoti numatytąjį paketą
+Remove Package,Pašalinti paketą
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Šį numatytąjį paketą ketinate pašalinti iš savo profilio. Spustelėkite Gerai, kad patvirtintumėte, uždarykite dialogo langą, kad atšauktumėte."
+OK,Gerai
+Please input at least one default package to continue.,"Norėdami tęsti, įveskite bent vieną numatytąjį paketą."
+Please select an option,Pasirinkite parinktį
+Basic (number of items in the e-shopper order determine the package size),Pagrindinis (prekių skaičius el. pirkėjo užsakyme lemia pakuotės dydį)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Išplėstinė (elektroninio pirkėjo užsakymo prekių svoriai ir matmenys nustato pakuotės dydį)
+Package dimensions:,Pakuotės matmenys:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Pastaba: papildinys sukurs pasirinktinį pakuotės dydį, jei el. pirkėjo užsakymas bus didesnis nei įvestos pakuotės"
+Warning! To use this option you must enter product weights in the product settings of your shop.,"Įspėjimas! Norėdami naudoti šią parinktį, savo parduotuvės gaminio nustatymuose turite įvesti produkto svorį."
+Include dimensions in rating,Į įvertinimą įtraukite matmenis
+Yes,Taip
+No,Nr
+Number of items in order,Prekių skaičius eilės tvarka
+Add Backup Rate,Pridėti atsarginį koeficientą
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Jei nustatyta „Ne“, įkainiai bus pagrįsti tik produktų svoriais.&nbsp; Jei nustatyta „Taip“, prekės matmenys turi būti įvesti savo parduotuvės prekės nustatymuose"
+Name,vardas
+Length,Ilgis
+Width,Plotis
+Height,Aukštis
+Weight,Svoris
+Max Weight,Maksimalus svoris
+Backup rate:,Atsarginės kopijos rodiklis:
+Service Name,Paslaugos pavadinimas
+Rate,Įvertink
+Add Backup Rate,Pridėti atsarginį koeficientą
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Atsarginis rodiklis bus rodomas tik el. pirkėjams, jei produkto nustatymuose yra problemų, pvz., trūksta svorio arba jei svoris / matmenys viršija UPS ribas"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Pridėkite numatytuosius paketus, jei norite, kad įvertinimui naudojamas pakuotės dydis keistųsi atsižvelgiant į prekių skaičių el. pirkėjo užsakyme"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Pastaba: jei prekių skaičius elektroninio pirkėjo užsakyme nesutampa nei su vienu iš Jūsų įrašų, vertinimui naudojamas pakuotės dydis bus nustatomas pagal didžiausią prekių skaičių, kurį viršijo elektroninio pirkėjo užsakymas."
+//======================= Checkout Shipping Rates page,//======================= Patikrinimo pristatymo tarifų puslapis
+Checkout Shipping Rates,Patikrinkite pristatymo kainas
+Ship to UPS Access Point&trade;,Išsiųskite į UPS Access Point™ vietą
+Flat rates,Fiksuoti tarifai
+Real time shipping rates,Siuntimo įkainiai realiu laiku
+Delivery rates is,Pristatymo įkainiai yra
+% of UPS shipping rates,% UPS siuntimo tarifų
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,"El. pirkėjas matys UPS įkainių % realiu laiku. Šie įkainiai apskaičiuojami naudojant numatytąjį pakuotės svorį ir matmenis, kuriuos sukonfigūravote ankstesniame ekrane (Paketo matmenys)."
+Ship to Address,Siųsti adresu
+Order Value Threshold,Užsakymo vertės slenkstis
+Delivery rates,Pristatymo įkainiai
+The minimum thresholds can not be the same.,Minimalios ribos negali būti vienodos.
+//======================= Complete Configuration page,//======================= Užbaigti konfigūracijos puslapį
+Complete Configuration,Pilna konfigūracija
+You can start shipping now!,Pristatymą galite pradėti jau dabar!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,"Spustelėkite mygtuką „Visa konfigūracija“, kad užbaigtumėte papildinio konfigūravimą ir pradėtumėte siūlyti UPS siuntimo paslaugas savo svetainėje."
+"If you are new to UPS, please refer to the following FAQs for additional information:","Jei nesate naujokas UPS, papildomos informacijos rasite šiuose DUK:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Kaip gauti daugiau informacijos apie savo naują UPS siuntimo paskyrą?<br />Jei atidarėte naują UPS siuntimo paskyrą naudodami papildinį, el. pašto adresu, kurį įvedėte, bus išsiųstas patvirtinimo el. laiškas su daugiau informacijos. sukurti naują paskyrą."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Kaip paruošti paketus UPS paėmimui arba atiduoti į UPS Access Point™ vietą?<br />Paketo paruošimo rekomendacijas rasite šioje nuorodoje – <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Kaip atiduoti siuntinius UPS?<br />Paketą galite atiduoti bet kurioje įgaliotoje UPS vietoje, pvz., UPS Access Point™ vietoje. Spustelėkite žemiau ir ieškokite patogios vietos šalia jūsų"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Taip pat galite paprašyti UPS pasiimti paketus iš jūsų sandėlio arba įmonės adreso. Jei jums reikia retkarčiais pasiimti, galite tiesiogiai suplanuoti paėmimą iš UPS.COM naudodami šią nuorodą – <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Jei UPS paketus turite daugumą darbo dienų ir norėtumėte įprasto UPS atsiėmimo, galite susisiekti su UPS telefono numeriu, nurodytu skiltyje Atsiskaitymo klausimai <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>čia</a>. Tada UPS atstovas susisieks su jumis ir aptars kasdienį UPS atsiėmimą."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Jei UPS paketus turite daugumą darbo dienų ir pageidaujate įprasto UPS atsiėmimo, žr. šią nuorodą, kad sužinotumėte, kaip planuoti kasdienius paėmimus: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Kokių veiksmų turiu imtis, kad nustatyčiau UPS surinkimo pristačius (COD) paslaugą?<br />Su UPS galite susisiekti paskambinę telefono numeriu, nurodytu skiltyje Atsiskaitymo klausimai <a href='https://www. .ups.com/%1/%2/help-center/contact.page' target='_blank'>čia</a>. Tada UPS atstovas susisieks su jumis ir aptars COD paslaugą."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Kokius veiksmus turiu atlikti, kad nustatyčiau UPS „Colect on Delivery“ (COD) paslaugą?<br />Jei norite naudotis „UPS Collect on Delivery“ (COD) paslaugomis, daugiau informacijos rasite paspaudę šią nuorodą: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Ieškokite vietų
+Print form,Spausdinimo forma
+//======================= E-shopper page,//======================= El. pirkėjo puslapis
+Deliver to an UPS Access Point<sup>TM</sup>,Pristatykite į UPS Access Point™ vietą
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Jūsų paketas bus pristatytas į UPS Access Point™ vietą
+Open 24 hours,Dirba 24 valandas
+The address is required,Adresas būtinas
+Please select an Access Point to process,"Pasirinkite prieigos tašką, kurį norite apdoroti"
+Operating Hours,Darbo valandos
+Open,Atviras
+Close,Uždaryti
+Monday,pirmadienis
+Closed,Uždaryta
+Tuesday,antradienis
+Wednesday,trečiadienį
+Thursday,ketvirtadienis
+Friday,penktadienis
+Saturday,šeštadienis
+Sunday,sekmadienis
+Search for the UPS Access Point<sup>TM</sup>,Ieškokite UPS Access Point™ vietų
+Near,Netoliese
+Delivered by End of Business Day,Pristatoma iki darbo pabaigos dienos
+"Address line, City, State, Postcode","Adreso eilutė, miestas, valstija, pašto kodas"
+"Address line,City,State,Postcode","Adreso eilutė, miestas, valstija, pašto indeksas"
+Use my delivery address,Naudokite mano pristatymo adresą
+Search,Paieška
+Results,Rezultatai
+Select,Pasirinkite
+Deliver to Your Address,Pristatykite Jūsų adresu
+Your package will be delivered to your address,Jūsų pakuotė bus pristatyta jūsų nurodytu adresu
+UPS SHIPPING,UPS SIUNTIMAS
+Delivery today!,Pristatymas šiandien!
+Delivery next day!,Pristatymas kitą dieną!
+Next two days!,Kitas dvi dienas!
+Next three days!,Kitas tris dienas!
+Next four days!,Kitas keturias dienas!
+Next five days!,Kitas penkias dienas!
+Next six days!,Kitas šešias dienas!
+Next seven days!,Kitos septynios dienos!
+Next eight days!,Kitos aštuonios dienos!
+Next nine days!,Kitas devynias dienas!
+Next ten days!,Kitas dešimt dienų!
+delivered by,pristatė
+Delivered by,Pristatė
+January,sausio mėn
+February,vasario mėn
+March,Kovas
+April,Balandis
+May,Gegužė
+June,birželio mėn
+July,liepos mėn
+August,Rugpjūtis
+September,rugsėjis
+November,lapkritis
+October,Spalio mėn
+December,gruodį
+//======================= Open Order page,//======================= Atidaryti užsakymo puslapį
+Open Orders,Atidaryti užsakymus
+Create Single Shipments,Kurti pavienes siuntas
+Create Batch Shipments,Sukurkite paketines siuntas
+Export All Orders,Eksportuoti visus užsakymus
+Export Orders,Eksporto užsakymai
+Archive Orders,Archyvuoti užsakymus
+Order ID,Užsakymo ID
+Order Date,Užsakymo data
+Product,Produktas
+Delivery Address,Pristatymo adresas
+Shipping Service,Siuntimo paslauga
+COD,MENKĖ
+Action,Veiksmas
+No results!,Jokių rezultatų!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Įspėjimas – archyvuojant užsakymus užsakymai bus perkelti į skirtuką Archyvas ir šių užsakymų nebegalėsite apdoroti. Jei norite tęsti, spustelėkite „Gerai“, o norėdami grįžti į ekraną spustelėkite „Atšaukti“."
+Cancel,Atšaukti
+//======================= Detail Order page,//======================= Išsamus užsakymo puslapis
+Order,Įsakymas
+Order #,Įsakymas #
+Customer,Klientas
+Order value,Užsakymo vertė
+Payment status,Mokėjimo būsena
+Access Point,Prieigos taškas
+//======================= Create single shipment page,//======================= Sukurti vieną siuntos puslapį
+Process Shipment,Apdorokite siuntą
+Ship From,Laivas iš
+Ship To,Siųsti į
+Accessorial service,Papildoma paslauga*
+Packaging,Pakuotė
+Package #1,1 paketas
+Package #,Paketo Nr.
+Add package,Pridėti paketą
+View estimated shipping fee and delivery date,Peržiūrėkite numatomą pristatymo mokestį ir pristatymo datą
+Edit,Redaguoti
+Create Shipment,Sukurti siuntą
+Custom Package,Individualus paketas
+Name,vardas
+Address,Adresas
+State,valstybė
+Note: Insufficient or incorrect address may increase the shipping fee,Pastaba: Nepakankamas arba neteisingas adresas gali padidinti pristatymo mokestį
+Additional Handling,Papildomas tvarkymas
+Additional handling,Papildomas tvarkymas
+Quantum View Ship Notification,„Quantum View“ laivo pranešimas
+Quantum View Delivery Notification,Quantum View pristatymo pranešimas
+Residential Address,Gyvenamosios vietos adresas
+Saturday Delivery,Šeštadienio pristatymas
+Carbon Neutral,Anglies neutralus
+Direct Delivery Only,Tik tiesioginis pristatymas
+Declared value,Deklaruojama vertė
+Signature Required,Reikalingas parašas
+Adult Signature Required,Reikalingas suaugusiojo parašas
+To Home COD,Į namus COD
+Cancel Editing,Atšaukti redagavimą
+To Access Point COD,Prieigos taško COD
+Orders to be processed,"Užsakymai, kuriuos reikia apdoroti"
+The name is not empty,Pavadinimas nėra tuščias
+The address is required,Adresas būtinas
+The postal code is empty or invalid,Pašto kodas tuščias arba neteisingas
+The city is not empty,Miestas nėra tuščias
+Invalid email format,Netinkamas el. pašto formatas
+The phone is not empty,Telefonas nėra tuščias
+Some of the data you entered is not valid. Please check again.,Kai kurie jūsų įvesti duomenys negalioja. Prašau patikrinti dar kartą.
+There are errors connecting to the UPS API servers. Please try again.,"Prisijungiant prie UPS API serverių įvyko klaidų. Prašau, pabandykite dar kartą."
+//======================= Shipment page,//======================= Siuntimo puslapis
+Shipments,Siuntos
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Pasirinkdamas bet kurį užsakymą šiame siuntimo skirtuke, sutinku su <a href='javascrip:void(0);' id='term-condition'>Taisyklės ir sąlygos.</a>"
+UPS Tracking Terms and Conditions,UPS sekimo taisyklės ir sąlygos
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","PRANEŠIMAS: UPS siuntų sekimo sistemos, pasiekiamos naudojant šią paslaugą (""Sekimo sistemos"") ir sekimo informacija, gauta naudojant šią paslaugą (""Informacija"") yra privati ​​UPS nuosavybė. UPS įgalioja jus naudoti sekimo sistemas tik siuntoms, kurias UPS pateikė arba jums teikia pristatymui, ir jokiu kitu tikslu sekti. Be apribojimų, jūs neturite teisės pateikti informacijos jokioje svetainėje arba kitaip atgaminti, platinti, kopijuoti, saugoti, naudoti ar parduoti Informacijos siekiant komercinės naudos be aiškaus rašytinio UPS sutikimo. Tai yra asmeninė paslauga, todėl jūsų teisė naudotis Sekimo sistemomis ar informacija yra neperleidžiama. Bet kokia prieiga ar naudojimas, neatitinkantis šių sąlygų, yra neteisėtas ir griežtai draudžiamas."
+Download PDF Label,Atsisiųskite PDF etiketę
+Download ZPL Label,Atsisiųskite ZPL etiketę
+Export Shipment Data,Eksportuoti siuntos duomenis
+Cancel Shipments,Atšaukti siuntas
+ID Shipment,ID siuntimas
+Tracking Number,Sekimo numeris
+Date,Data
+Estimated Shipping Fee,Numatomas siuntimo mokestis
+Shipment #,Siuntos Nr.
+Order #ID reference,Užsakymo Nr. ID nuoroda
+Package details,Informacija apie pakuotę
+Are you sure you want to cancel selected shipment(s)?,Ar tikrai norite atšaukti pasirinktą (-as) siuntą (-as)?
+Shipment Canceled,Siuntimas atšauktas
+Archived Orders,Archyvuoti užsakymai
+//======================= Additional,//======================= Papildoma
+Packaging:,Pakuotė:
+Access Point display setting:,UPS prieigos taško rodymo nustatymas:
+Number of Access Points visible to customers:,Klientams matomų prieigos taškų skaičius:
+Display all the Access Points in range of:,Rodyti visus prieigos taškus diapazone:
+Title:,Pavadinimas:
+Company:,Įmonė:
+Email:,El. paštas:
+Phone &nbsp number:,Telefono &nbsp numeris:
+Phone &nbsp;number:,Telefono &nbsp;numeris:
+Address type:,Adreso tipas:
+Address:,Adresas:
+Postal code:,Pašto kodas:
+City:,Miestas:
+Country:,Šalis:
+Account Name:,Paskyros vardas:
+Account Number:,Paskyros numeris:
+Account number:,Paskyros numeris:
+Invoice Number:,Sąskaitos numeris:
+Invoice Amount:,Sąskaitos faktūros suma:
+Currency:,Valiuta:
+Invoice date:,Sąskaitos data:
+Name:,Vardas:
+Phone:,Telefonas:
+Customer:,Klientas:
+Product:,Produktas:
+Shipping service:,Siuntimo paslauga:
+Order value:,Užsakymo vertė:
+Payment status:,Mokėjimo būsena:
+Access Point:,Prieigos taškas:
+Payment Status:,Mokėjimo būsena:
+Phone number:,Telefono numeris:
+Package:,Paketas:
+Estimated Shipping fee:,Numatomas siuntimo mokestis:
+Estimated Shipping Fee:,Numatomas siuntimo mokestis:
+Orders to be processed:,Apdorojami užsakymai:
+Order #ID reference:,Užsakymo Nr. ID nuoroda:
+Package details:,Informacija apie pakuotę:
+Tracking number:,Sekimo numeris:
+Accessorial Service:,Papildoma paslauga:
+Accessorial service:,Papildoma paslauga:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Jei nesate naujokas UPS, papildomos informacijos rasite šiuose DUK:"
+VAT Number:,PVM numeris:
+Promo Code:,Reklamos kodas:
+Country/Territory:,Šalis/teritorija:
+End of Business Day,Darbo dienos pabaiga
+//==============================Security Enhancement page,
+Security Enhancement,Saugumo didinimas
+SECURITY ENHANCEMENTS ACTIVATION,SAUGOS PAtobulinimų aktyvinimas
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",Įdiegę UPS įskiepį įgijote šią patogią galimybę pritaikyti UPS rekomenduojamus saugos patobulinimus savo el. parduotuvėje. Įjungę tam tikrus toliau pateiktus saugos patobulinimus galite padaryti savo el. parduotuvę mažiau pažeidžiamą kai kurių įprastų įsilaužėlių atakų.
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking gynyba
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Daugiau informacijos rasite [wikipedia|https://en.wikipedia.org/wiki/Clickjacking]. Jei įjungsite šią apsaugą, UPS papildinys apsaugo jūsų parduotuvę, perkeldamas kadravimo politiką į vartotojo naršyklę per HTTP atsako antraštę „X-Frame-Options: Sameorigin“ ir įvesdamas „frame-breaker“ java scenarijų senoms naršyklėms. – UPS papildinys. gali apsaugoti jūsų el. parduotuvės „Front Office“ puslapius pagal OWASP rekomenduojamą „Clickjacking Defence Cheat Sheet“ Išjunkite šią apsaugą, jei norite įjungti savo el. parduotuvės GUI kadravimą trečiųjų šalių svetainėse; arba jei šią gynybą jau įgyvendinote kitaip."
+Use X-Frame-Options response header,Naudokite X-Frame-Options atsakymo antraštę
+Do not use,Nenaudokite
+Deny,Neigti
+SameOrigin,Ta pati kilmė
+Use frame-killer script:,Naudokite kadrų žudiko scenarijų:
+Use Content-Security-Policy response header,Naudokite atsakymo antraštę „Content-Security-Policy“.
+frame-ancestors 'none',"rėmo protėviai ""nėra"""
+frame-ancestors 'sefl',"rėmo protėviai ""sefl"""
+Content Sniffing Prevention,Turinio uostymo prevencija
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Daugiau informacijos rasite Vikipedijoje. Jei pažymėsite šią parinktį, UPS papildinys apsaugo jūsų el. parduotuvę Front Office, taikydamas <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","HTTP atsakymo antraštė į visus Magento Front Office puslapius. Tai neleis kliento naršyklei (ypač „Internet Explorer“) MIME užuosti atsakymą iš deklaruoto turinio tipo. Galbūt jums to tikrai neprireiks, nes jūsų vartotojai neturėtų įkelti į jūsų el. parduotuvę potencialiai žalingų failų (pvz., JavaScript vietoj vaizdo). Tačiau vis tiek yra gera praktika įjungti šią specialią saugos antraštę, nes su ja nesusijusios nuobaudos dėl našumo."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,"Įgalinami kelių svetainių scenarijų filtrai naršyklėse, kurios palaiko X-XSS apsaugos direktyvą"
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Daugiau informacijos rasite wikipedijoje. Jei pažymėsite šią parinktį, UPS įskiepis apsaugos jūsų el. parduotuvę Front Office, taikydamas <br />X-XSS-Protection: '1; mode=block' <br />HTTP atsakymo antraštė į visus Magento Front Office puslapius."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Apsaugokite savo elektroninės parduotuvės svetainę nuo protokolo pažeminimo atakų ir slapukų užgrobimo
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Daugiau informacijos rasite wikipedijoje Jei pažymėsite šią parinktį, UPS įskiepis apsaugos jūsų el. parduotuvę Front Office, taikydamas <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains <br />HTTP atsakymo antraštė į visus Magento Front Office puslapius."
+Prevent sensitive pages from caching by browser.,Neleiskite slaptiems puslapiams išsaugoti naršyklės talpyklą.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Daugiau informacijos rasite OWASP DUK. Jei pažymėsite šią parinktį, UPS papildinys užtikrins patikros procesą taikydamas<br />Cache-Control: no-cache, no-store <br />Galiojimo laikas: 0 <br />Pragma: be talpyklos <br /> HTTP atsakymų antraštės į atitinkamus puslapius"
+Apply to pages,Taikyti puslapiams
+All,Visi
+Checkout only,Tik patikra
+Data saved successfully.,Duomenys sėkmingai išsaugoti.
+We couldn't find any records,Nepavyko rasti jokių įrašų
+Please wait…,Prašau palauk…
+Archiving Orders,Užsakymų archyvavimas
+There is no shipping service for the above address,Siuntimo paslaugos aukščiau nurodytu adresu neteikiamos
+The email is not empty,Laiškas nėra tuščias
+The country is not empty,Šalis nėra tuščia
+Select all,Pasirinkti viską
+Unselect all,Atšaukti visų pasirinkimą
+Do not have label for this Tracking ID,Nėra šio stebėjimo ID etiketės
+Print Label or download file.,Spausdinti etiketę arba atsisiųsti failą.
+"Connection error, try later to install and configure","Ryšio klaida, bandykite vėliau įdiegti ir konfigūruoti"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Šiuo metu negalime anuliuoti šios siuntos. Vėliau galėsite bandyti anuliuoti siuntą. Tačiau jums nereikės mokėti už šią siuntą, jei nenaudosite siuntimo etiketės"
+Estimated Fee,Numatomas mokestis
+Shipping fee,Pristatymo mokestis
+Poland,Lenkija
+United Kingdom,Jungtinė Karalystė
+France,Prancūzija
+Germany,Vokietija
+Italy,Italija
+Netherlands,Nyderlandai
+Spain,Ispanija
+Belgium,Belgija
+Shipment Manager,Siuntų vadybininkas
+Default Package,Numatytasis paketas
+Order Time,Užsakymo laikas
+Time,Laikas
+Warning,Įspėjimas
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Klaida! Pakuotė viršija didžiausią leistiną 400 cm arba 157,48 colio dydį (maksimalaus leistino dydžio skaičiavimas = ilgis + 2 * plotis + 2 * aukštis)."
+Access Points Address will be used as an alternative shipping address,Prieigos taškų adresas bus naudojamas kaip alternatyvus pristatymo adresas
+Ship To (UPS Access Point),Siųsti į (UPS prieigos tašką)

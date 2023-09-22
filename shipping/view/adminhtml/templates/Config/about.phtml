@@ -1,0 +1,113 @@
+<?php
+$localCode = $block->getAdminLanguageCode();
+setlocale(LC_ALL, $localCode);
+$releaseDate = \UPS\Shipping\Helper\Config::DATE_RELEASE;
+$language = $languageCheck = 'en';
+$allowChange = \UPS\Shipping\Helper\Config::LISTEULANGUAGES;
+$country = strtolower($block->getCountryCode());
+if (!empty($localCode)) {
+    $arrayLanguages = explode("_", $localCode);
+    $checkLanguage = $country . '_' . $arrayLanguages[1];
+    if (in_array($localCode, $allowChange)) {
+        $languageCheck = $arrayLanguages[0];
+    }
+}
+$languagePL = ('pl' == $languageCheck) ? 'pl' : 'en';
+$languageUK = 'en';
+$languageDE = ('de' == $languageCheck) ? 'de' : 'en';
+$languageFR = ('fr' == $languageCheck) ? 'fr' : 'en';
+$languageES = ('es' == $languageCheck) ? 'es' : 'en';
+$languageIT = ('it' == $languageCheck) ? 'it' : 'en';
+$languageNL = ('nl' == $languageCheck) ? 'nl' : 'en';
+$languageBE = 'en';
+if (in_array($languageCheck, ['nl', 'fr'])) {
+    $languageBE = $languageCheck;
+}
+?>
+<div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+    <div class="page-main-actions">
+        <h2 style="margin-bottom:0%"><?php echo __('About') ?></h2>
+    </div>
+</div>
+<div class="admin__field admin__field-option">
+    <h2 style="margin-bottom:0%"><strong><?=__('Module version number and release date') ?></strong></h2>
+</div>
+<div class="admin__field admin__field-option">
+    <label><?= __("Module version v") . \UPS\Shipping\Helper\Config::VERSION_PLUGIN ?></label>
+    <br />
+    <label><?= __("Release date ") . utf8_encode(date('d M Y', strtotime($releaseDate))) ?></label>
+</div>
+<br/>
+<div class="admin__field admin__field-option">
+    <h2 style="margin-bottom:0%"><strong><?=__('Changelog') ?></strong></h2>
+</div>
+<div class="admin__field admin__field-option">
+    <label><?= __("Minor fixes.") ?></label>
+</div>
+<br/>
+<div class="admin__field admin__field-option">
+    <h2 style="margin-bottom:0%"><strong><?=__('Platform compatibility statement') ?></strong></h2>
+</div>
+<div class="admin__field admin__field-option">
+    <label> <?= __("Compatible with Magento versions 2.2, 2.3, 2.4") ?></label>
+</div>
+<br/>
+<div class="admin__field admin__field-option">
+    <h2 style="margin-bottom:0%"><strong><?=__('UPS Shipping Module website') ?></strong></h2>
+</div>
+<div class="admin__field admin__field-option">
+    <label>
+        <?=__("For more information visit") . " " . __("<a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>", ['be',$languageBE]) ?><?=__('Belgium')?></a>
+        <?=__("<a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>", ['fr',$languageFR]) ?><?=__('France')?></a>
+        <?=__("<a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>", ['de',$languageDE]) ?><?=__('Germany')?></a>
+        <?=__("<a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>", ['it',$languageIT]) ?><?=__('Italy')?></a>
+        <?=__("<a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>", ['nl',$languageNL]) ?><?=__('Netherlands')?></a>
+        <?=__("<a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>", ['pl',$languagePL]) ?><?=__('Poland')?></a>
+        <?=__("<a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>", ['es',$languageES]) ?><?=__('Spain')?></a>
+        <?=__("<a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>", ['gb',$languageUK]) ?><?=__('United Kingdom') ?></a>
+        <?php if ($languageCheck != 'en') { echo __("Netherlands_no_delete");}?>
+</label>
+</div>
+<br/>
+<div class="admin__field admin__field-option">
+    <h2 style="margin-bottom:0%"><strong><?=__('Support information') ?></strong></h2>
+</div>
+<div class="admin__field admin__field-option">
+    <h4 style="margin-bottom:0%"><strong><?=__('Documentation') ?></strong></h4>
+    <label>
+        <?=__("Get information about installation, configuration and uninstallation from ") . " " . __("<a href='https://support.ecommerce.help/hc/en-us/sections/4405590568977-Official-Extension-for-Magento-' target='_blank'>") ?><?=__('documentation page.')?></a>
+    </label>
+</div>
+<div class="admin__field admin__field-option">
+    <h4 style="margin-bottom:0%"><strong><?=__('Techincal support') ?></strong></h4>
+    <label>
+        <?=__("For technical support please visit") . " " . __("<a href='https://ecommerce.help/product/ups-plugins' target='_blank'>") ?><?=__('here')?></a><?=__(' and open up a support case. Our support team will take care of your issue.')?>
+    </label>
+</div>
+<div class="admin__field admin__field-option">
+    <h4 style="margin-bottom:0%"><strong><?=__('Non-Techincal support') ?></strong></h4>
+    <label> <?= __("For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -") ?></label>
+    <ul>
+        <li>Belgium: +32 78 48 49 16</li>
+        <li>France: +33 805 11 96 92</li>
+        <li>Germany: +49 32 221097485</li>
+        <li>Italy: +39 800 725 920</li>
+        <li>Netherlands: +31 85 107 0232</li>
+        <li>Poland: +48 22 103 24 55</li>
+        <li>Spain: +34 518 90 05 99</li>
+        <li>United Kingdom: +44 808 258 0323</li>
+        <li>Others: +49 32 221097485</li>
+    </ul>
+</div>
+<div class="admin__field admin__field-option">
+    <h2 style="margin-bottom:0%"><strong><?=__('Download Log') ?></strong></h2>
+</div>
+<form method="POST" action="<?php echo $block->getUrl('upsshipping/config/downloadLog') ?>">
+    <div class="admin__field admin__field-option">
+        <label> <?= __("Get logs by clicking the below button...") ?></label>
+        <br/><br/>
+        <button class="primary" name="dwnld_ups_api_log">Download UPS API log</button>
+    </div>
+<br/>
+<input name="form_key" type="hidden" value="<?php echo $block->getFormKey();?>">
+</form>

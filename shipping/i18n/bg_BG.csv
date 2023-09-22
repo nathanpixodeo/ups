@@ -1,0 +1,470 @@
+//======================= About page,//======================= Страница за
+About,относно
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"UPS си партнира с Magento, за да предложи безплатна доставка на UPS и UPS Access Point™ модул, който ще ви позволи да интегрирате и предложите широка гама от решения за доставка и доставка на UPS директно в процеса на плащане на вашия уебсайт! Този официален UPS модул за Magento дава на вашите клиенти достъп до нашата широка UPS Access Point мрежа и услуги за доставка."
+Features of this product,Характеристики на този продукт
+Front Office,Фронт офис
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,"Прост и лесен картографски интерфейс за вашите клиенти, за да изберат UPS точка за достъп според предпочитанията си."
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,"Удобен за потребителя интерфейс за вашите клиенти, за да превключат от доставка с точка за достъп към доставка до дома."
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,UPS тарифа за доставка в реално време или фиксирани ставки за всяка налична услуга (според настройките на бек офиса на търговеца).
+Back Office,Бек офис
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Обхват от опции за настройка на тарифи за доставка, които вашите клиенти ще виждат (например: безплатна доставка, тарифи за доставка в реално време или фиксирани тарифи според праговете на стойността на кошницата)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Възможност за отваряне на UPS акаунт директно в самия модул, ако нямате такъв."
+Easy PDF label generation.,Лесно генериране на PDF етикети.
+Real time tracking information.,Информация за проследяване в реално време.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Възможност за експортиране на отворени поръчки, така че да можете да ги обработвате в други приложения за по-сложни нужди."
+Module version number and release date,Номер на версията на модула и дата на издаване
+Module version v,Версия на модул v
+Release date,Дата на излизане
+Changelog,Дневник на промените
+Platform compatibility statement,Изявление за съвместимост на платформата
+"Compatible with Magento versions 2.1, 2.2, 2.3","Съвместим с Magento версии 2.1, 2.2, 2.3"
+UPS Shipping Module website,Уебсайт на модула за доставка на UPS
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,За повече информация посетете <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,За повече информация посетете
+Support information,Информация за поддръжка
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","За помощ при инсталиране, надграждане или използване на UPS Shipping Module, моля, свържете се с UPS на -"
+Poland +48 (0) 22 203 03 21,Полша +48 (0) 22 203 03 21
+UPS Shipping Module,UPS модул за доставка
+UPS Shipping,UPS доставка
+Shipment management,Управление на пратката
+//======================= Country page,//======================= Страница на страната
+Country setting,Настройка на държавата
+Country Setting,Настройка на държавата
+Please select your country/territory,"Моля, изберете вашата държава/територия"
+Continue,продължи
+//======================= Terms and Condition page,//======================= Страница с правила и условия
+UPS Terms and Conditions,Правила и условия на UPS
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Съгласен съм с Технологичното споразумение на UPS и потвърждавам, че ми беше дадено достатъчно време да го прочета и да разбера, че то съдържа важни условия относно използването на UPS Technologies от моя страна, като ограничаване на отговорността на UPS и моето съгласие за това как ще се разрешават спорове между UPS и мен обработван"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Съгласен съм с Технологичното споразумение на UPS и потвърждавам, че ми беше дадено достатъчно време да го прочета и разбера, че съдържа важни условия относно използването на UPS Technologies от мен,"
+like,като
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,ограничаване на отговорността на UPS и моето съгласие за това как ще се третират споровете между UPS и мен.
+Print,Печат
+Cannot get Term & Condition,Не могат да бъдат получени Правила и условия
+//======================= Account Page,//======================= Страница на акаунта
+Account,Сметка
+ACCOUNT,СМЕТКА
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),"За повече информация относно UPS Plugins, моля, щракнете върху <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>тази връзка< /a> (отваря се в нов прозорец на браузъра)"
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,"Моля, попълнете формуляра по-долу, за да започнете да конфигурирате UPS плъгин за вашия уебсайт за електронна търговия"
+Title,Заглавие
+Full name,Пълно име
+Full Name,Пълно име
+Company,Търговско дружество
+Email,електронна поща
+Phone number,Телефонен номер
+Address type,Вид адрес
+Address,Адрес
+Postal code,Пощенски код
+City,град
+Country/Territory,Държава/Територия
+"Example: Warehouse, Branch #1, etc.","Пример: Склад, Клон №1 и т.н."
+"Example: Warehouse, Branch #1","Пример: Склад, клон №1"
+Street Address,Адрес на улица
+"Apartment, Suite, Unit, Building, Floor, etc.","Апартамент, апартамент, единица, сграда, етаж и др."
+"Department, c/o, etc.","Отдел, с/к и др."
+Mr,г-н
+Miss,мис
+Mrs,г-жа
+Ms,Госпожица
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Имам UPS номер на акаунт С фактура, настъпила през последните 45 дни (90 дни, ако акаунтът ви е в САЩ или Канада)"
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Имам UPS номер на сметка БЕЗ фактура през последните 45 дни (90 дни, ако акаунтът ви е в САЩ или Канада)"
+I do not have a UPS Account Number and would like to get one from the plug-in,Нямам номер на акаунт в UPS и бих искал да получа такъв с отстъпка от приставката
+I don’t have a UPS account number and would,Нямам номер на акаунт в UPS и бих го направил
+like,като
+to get one with discounted rates from the plug-in,за да получите такъв с отстъпка от приставката
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"Фактурата трябва да е която и да е от последните 3, издадени от UPS през последните 45 дни (90 дни, ако акаунтът ви е в САЩ или Канада)"
+Account name,Име на акаунта
+Account number,Номер на сметка
+Invoice number,Номер на фактура
+Invoice amount,Сума на фактурата
+Currency,Валута
+Invoice date,Датата на фактурата
+VAT number,ДДС номер
+Promo Code,Промо код
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,"Моля, обърнете внимание: На спедиторите е забранено да изпращат опасни товари или опасни материали, като използват акаунта, отворен в това приложение."
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Вашият акаунт ще поддържа доставки до оторизирани местоположения на UPS Access Point™ след 24 часа.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,Можете да намерите повече информация за опасните стоки и как UPS може да ви помогне да ги изпратите на тази връзка <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Референтно име, което ще бъде свързано с акаунт. Например склад 1, склад 2, магазин 1, магазин 2 и т.н. Можете свободно да изберете името според вашите изисквания"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Пощенският код или пощенският код, свързан с вашия UPS акаунт. Може да се намери в горната част на всяка страница от вашата UPS фактура под „Купувач“"
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',"Името, свързано с вашия UPS акаунт. Може да се намери в горната част на всяка страница от вашата UPS фактура под „Купувач“"
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,"Уникален шест знаков буквено-цифров номер, който идентифицира вашия акаунт. Може да се намери в горния ляв ъгъл на всяка страница от вашата UPS фактура"
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,"Уникален 12-цифрен номер, присвоен от UPS на фактура. Може да се намери в горния ляв ъгъл на всяка страница от вашата UPS фактура"
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Обща дължима сума за дадената фактура. Може да се намери в таблицата „Обобщение на таксите“ на първата страница на фактурата
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,Дата на издаване на фактурата. Може да се намери в горния ляв ъгъл на всяка страница от вашата UPS фактура
+Get started,Първи стъпки
+Some of the data you entered is not valid. Please check again.,Някои от въведените от вас данни не са валидни. Моля проверете отново.
+Cannot create new Account Number,Не може да се създаде нов номер на акаунт
+Email is not correct format,Имейлът не е в правилния формат
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"Вашата заявка за създаване на UPS акаунт за доставка не беше успешна. Моля, проверете стойностите „Град“ и „Пощенски код“, които сте въвели. Ето някои предложения за град и пощенски код, които са валидна комбинация -"
+Please update the city and postal code values with one of these selections and click Get Started,"Моля, актуализирайте стойностите на града и пощенския код с една от тези селекции и щракнете върху Първи стъпки"
+Configuration,Конфигурация
+//======================= Account Success Page,//======================= Страница за успех на акаунта
+Your UPS Profile,Вашият UPS профил
+Your Payment Account,Вашата разплащателна сметка
+Add another account number,Добавете друг номер на акаунт
+Please enter the address attached to your account number,"Моля, въведете адреса, прикачен към номера на вашата сметка"
+Phone,Телефон
+Verify,Проверете
+Next,Следващия
+Remove,Премахване
+Account number already exists in 'Your Payment Account',Номерът на сметката вече съществува във „Вашата сметка за плащане“
+Full name:,Пълно име:
+Remove Account,Премахване на акаунт
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Този акаунт ще бъде премахнат. Щракнете върху OK, за да потвърдите, затворете диалоговия прозорец, за да отмените."
+Your UPS account has been successfull registered,Вашият UPS акаунт е регистриран успешно
+//======================= Shipping Services page,//======================= Страница с услуги за доставка
+Shipping Services,Транспортни услуги
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Изберете UPS услугите, които искате да бъдат видими в касата за вашите електронни купувачи. За да научите повече за услугите на UPS, вижте Тарифите/Правилата и условията на UPS на UPS.COM"
+Deliver to UPS Access Point™ (to-AP delivery),Изпратете до местоположение на UPS Access Point™ (доставка до AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","UPS доставя колета до място на UPS Access Point™, избрано от клиента, за да го вземе, когато им е удобно"
+Yes,да
+No,Не
+Set as default shipping option,Задайте като опция за доставка по подразбиране
+Select the shipping services for your customers to choose,"Изберете услугите за доставка, които вашите клиенти да изберат"
+"International shipping only - visible, when shipping address is outside of EU","Само международна доставка - видима, когато адресът за доставка е извън ЕС"
+Access Point display setting:,Настройка на дисплея на UPS Access Point:
+Number of Access Points visible to customers:,"Брой местоположения, видими за клиентите:"
+Display all the Access Points in range of:,Показване на всички местоположения в диапазона от:
+kilometer around consignee's selected address,Мили около избрания адрес на получателя
+Choose Account Number for this option,Изберете номер на сметка за тази опция
+Deliver to consignee address (to-address delivery),Доставяне до адреса на получателя (доставка до адрес)
+UPS delivers the parcel to the shipping address provided by customer.,"UPS доставя колета до адреса за доставка, предоставен от клиента."
+Cut off time,Прекъснете времето
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Крайният час, избран тук, ще се използва при изчисляване на датата и часа на доставка по график, които ще бъдат показани на касата на вашия уебсайт."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Например, ако крайният час е избран като 17:00 ч. и вашите електронни купувачи преглеждат вашия уеб магазин в 17:01 ч., всички дати и час на UPS планирани доставки ще бъдат изчислени от следващия работен ден. Когато решавате това крайно време, моля, уверете се, че разполагате с достатъчно време, за да изпълните поръчката преди планираното вземане от UPS или можете да оставите пакетите на място на UPS Access Point™."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Ако не сте сигурни относно изпълнението на клиентските поръчки в същия ден, можете да изберете „Деактивиране“, което ще доведе до това електронният купувач да вижда приблизителни дати за доставка за всяка налична услуга."
+Save,Запазване
+Please select at least one shipping service.,"Моля, изберете поне една услуга за доставка."
+UPS Access Point™ Economy,UPS Access Point™ Economy
+UPS® Standard,UPS® Standard
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Страница за получаване при доставка (COD)
+Collect on Delivery (COD),Вземане при доставка (COD)
+You have the official Magento COD module enabled!,Имате активиран официалния модул Magento COD!
+Only show Access Points supporting COD shipments?,"Показване само на точки за достъп, поддържащи пратки с наложен платеж?"
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Изберете „ДА“, ако планирате да предлагате пратки с наложен платеж до UPS Access Point™"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Услугата за доставка на COD на този плъгин е автоматично съвместима с официалния модул за събиране при доставка (COD) от Magento.
+You do not have the official Magento COD module installed and/or enabled!,Нямате инсталиран и/или активиран официалния модул Magento COD!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Услугата за доставка с наложен платеж на този плъгин е автоматично съвместима с официалния модул за наложен платеж (COD) от Magento.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Ако искате модулът за доставка на UPS автоматично да открива пратки с наложен платеж, <strong>моля, уверете се, че сте инсталирали събиране при доставка (COD) на Magento</strong>. Ако вече имате инсталиран модул за събиране при доставка (COD) на Magento, <strong>моля, уверете се, че модулът е активиран</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Щракнете тук</a>] за подробни указания."
+COD Option,COD опция
+//======================= Package Dimensions page,//======================= Страница с размери на опаковката
+Package Dimensions,Размери на опаковката
+Default Package Setting,Настройка на пакета по подразбиране
+Default package setting,Настройка на пакета по подразбиране
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Моля, въведете теглото и размерите на вашата опаковка тук. Можете да добавите множество размери на пакета, които могат лесно да бъдат избрани в падаща опция, когато създавате пратки в приставката."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","В случай, че решите да покажете тарифата за доставка на UPS в реално време (която ще бъде конфигурирана на следващия екран) на електронните купувачи, приставката ще използва първия пакет, наричан „Пакет по подразбиране“, който се показва по-долу. Теглото и размерите на пакета по подразбиране ще се използват за изчисляване на тарифите за доставка на UPS, които ще се показват на електронните купувачи."
+Add New Package,Добавете нов пакет
+Package name,Име на пакета
+"Example: Standard, Large, Phone box, etc.","Пример: Стандартен, Голям, Телефонна кутия и др."
+Weight,Тегло
+Unit,Мерна единица
+Dimension,Измерение
+Add Package,Добавяне на пакет
+Length,Дължина
+Width,ширина
+Height,Височина
+The name Package is exist.,Името Пакет съществува.
+Edit,редактиране
+Delete,Изтрий
+Editing Default Package,Редактиране на пакета по подразбиране
+Remove Package,Премахване на пакета
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","Ще премахнете този пакет по подразбиране от вашия профил. Щракнете върху OK, за да потвърдите, затворете диалоговия прозорец, за да отмените."
+OK,Добре
+Please input at least one default package to continue.,"Моля, въведете поне един пакет по подразбиране, за да продължите."
+Please select an option,Моля изберете опция
+Basic (number of items in the e-shopper order determine the package size),Основен (броят артикули в поръчката на електронния купувач определя размера на пакета)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Разширено (теглото и размерите на продуктите в поръчката на електронния купувач определят размера на опаковката)
+Package dimensions:,Размери на опаковката:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Забележка: плъгинът ще създаде персонализиран размер на пакета, ако поръчката на електронния купувач е по-голяма от пакетите, които въвеждате"
+Warning! To use this option you must enter product weights in the product settings of your shop.,"Внимание! За да използвате тази опция, трябва да въведете теглото на продукта в продуктовите настройки на вашия магазин."
+Include dimensions in rating,Включете размерите в оценката
+Yes,да
+No,Не
+Number of items in order,Брой артикули в ред
+Add Backup Rate,Добавете резервна скорост
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Ако е зададено на „Не“, тарифите ще се основават само на теглото на продукта.&nbsp; Ако е зададено на „Да“, размерите на продукта трябва да бъдат въведени в продуктовите настройки на вашия магазин"
+Name,Име
+Length,Дължина
+Width,ширина
+Height,Височина
+Weight,Тегло
+Max Weight,Максимално тегло
+Backup rate:,Скорост на архивиране:
+Service Name,Име на услугата
+Rate,Оценете
+Add Backup Rate,Добавете резервна скорост
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","Резервната скорост ще се показва на електронните купувачи само ако има проблем в настройките на продукта, като например липсващи тегла или ако теглата/размерите надвишават лимитите на UPS"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Добавете пакети по подразбиране, ако искате размерът на пакета, използван за оценка, да се променя въз основа на броя артикули в поръчката на електронния купувач"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Забележка: ако броят на артикулите в поръчката на електронния купувач не съответства на нито един от вашите записи, тогава размерът на пакета, използван за оценка, ще се основава на този на най-големия брой артикули, надвишен от поръчката на електронния пазарувач."
+//======================= Checkout Shipping Rates page,//======================= Страница с тарифи за доставка
+Checkout Shipping Rates,Тарифи за доставка при плащане
+Ship to UPS Access Point&trade;,Изпратете до местоположението на UPS Access Point™
+Flat rates,Единни ставки
+Real time shipping rates,Тарифи за доставка в реално време
+Delivery rates is,Тарифите за доставка са
+% of UPS shipping rates,% от тарифите за доставка на UPS
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,"Електронният купувач ще види % от тарифите на UPS в реално време. Тези тарифи се изчисляват с помощта на теглото и размерите на пакета по подразбиране, които сте конфигурирали в предишния екран (Размери на пакета)."
+Ship to Address,Изпращане до адрес
+Order Value Threshold,Праг на стойността на поръчката
+Delivery rates,Тарифи за доставка
+The minimum thresholds can not be the same.,Минималните прагове не могат да бъдат еднакви.
+//======================= Complete Configuration page,//======================= Пълна страница за конфигурация
+Complete Configuration,Пълна конфигурация
+You can start shipping now!,Можете да започнете да изпращате сега!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,"Щракнете върху бутона „Пълна конфигурация“, за да завършите конфигурацията на приставката и да започнете да предлагате UPS услуги за доставка на вашия уебсайт."
+"If you are new to UPS, please refer to the following FAQs for additional information:","Ако сте нов в UPS, моля, вижте следните ЧЗВ за допълнителна информация:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Как да получа повече информация за моя нов UPS акаунт за доставка?<br />Ако сте отворили нов UPS акаунт за доставка от приставката, имейл за потвърждение с повече информация ще бъде изпратен на имейл адреса, който сте въвели, докато създаване на новия акаунт."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Как да подготвя пакетите си за вземане от UPS или да ги оставя до местоположение на UPS Access Point™?<br />Вижте препоръките за подготовка на пакети на тази връзка - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Как да предам пакетите си на UPS?<br />Можете да оставите пакета си на всяко оторизирано място на UPS, като например местоположение на UPS Access Point™. Щракнете по-долу, за да потърсите удобно място близо до вас"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Можете също така да поискате от UPS да вземе пакети от вашия склад или бизнес адрес. Ако имате нужда от случайно вземане, можете директно да насрочите вземане от UPS.COM, като използвате тази връзка - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Ако имате UPS пакети през повечето работни дни и бихте предпочели редовно вземане от UPS, можете да се свържете с UPS, като се обадите на телефонния номер, предоставен под Въпроси за таксуване <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>тук</a>. Тогава представител на UPS ще се свърже с вас, за да обсъдим ежедневно вземане от UPS."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Ако имате UPS пакети през повечето работни дни и предпочитате редовно вземане от UPS, моля, вижте тази връзка за инструкции относно насрочването на ежедневно вземане: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Какви стъпки трябва да предприема, за да настроя услуга на UPS за събиране при доставка (COD)?<br />Можете да се свържете с UPS, като се обадите на телефонния номер, предоставен във Въпроси за таксуване <a href='https://www .ups.com/%1/%2/help-center/contact.page' target='_blank'>тук</a>. Тогава представител на UPS ще се свърже с вас, за да обсъдим услугата COD."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Какви стъпки трябва да предприема, за да настроя услугата на UPS за събиране при доставка (COD)?<br />Ако се интересувате от използването на услугите на UPS за събиране при доставка (COD), моля, вижте тази връзка за подробности: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Търсете местоположения
+Print form,Формуляр за печат
+//======================= E-shopper page,//======================= Страница на електронния купувач
+Deliver to an UPS Access Point<sup>TM</sup>,Доставете до местоположение на UPS Access Point™
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Вашият пакет ще бъде доставен до местоположение на UPS Access Point™
+Open 24 hours,Отворен 24 часа
+The address is required,Адресът е задължителен
+Please select an Access Point to process,"Моля, изберете точка за достъп за обработка"
+Operating Hours,Работно време
+Open,Отворете
+Close,Близо
+Monday,понеделник
+Closed,Затворено
+Tuesday,вторник
+Wednesday,сряда
+Thursday,четвъртък
+Friday,петък
+Saturday,Събота
+Sunday,неделя
+Search for the UPS Access Point<sup>TM</sup>,Търсете местоположения на UPS Access Point™
+Near,Близо до
+Delivered by End of Business Day,Доставя се до края на работния ден
+"Address line, City, State, Postcode","Адресен ред, град, щат, пощенски код"
+"Address line,City,State,Postcode","Адресен ред, град, щат, пощенски код"
+Use my delivery address,Използвайте моя адрес за доставка
+Search,Търсене
+Results,Резултати
+Select,Изберете
+Deliver to Your Address,Доставка до вашия адрес
+Your package will be delivered to your address,Вашият пакет ще бъде доставен до вашия адрес
+UPS SHIPPING,UPS ДОСТАВКА
+Delivery today!,Доставка днес!
+Delivery next day!,Доставка на следващия ден!
+Next two days!,Следващите два дни!
+Next three days!,Следващите три дни!
+Next four days!,Следващите четири дни!
+Next five days!,Следващите пет дни!
+Next six days!,Следващите шест дни!
+Next seven days!,Следващите седем дни!
+Next eight days!,Следващите осем дни!
+Next nine days!,Следващите девет дни!
+Next ten days!,Следващите десет дни!
+delivered by,доставено от
+Delivered by,Доставено от
+January,януари
+February,февруари
+March,Март
+April,април
+May,Може
+June,юни
+July,Юли
+August,Август
+September,Септември
+November,ноември
+October,октомври
+December,декември
+//======================= Open Order page,//======================= Отворете страницата за поръчка
+Open Orders,Отворени поръчки
+Create Single Shipments,Създаване на единични пратки
+Create Batch Shipments,Създаване на партидни пратки
+Export All Orders,Експортиране на всички поръчки
+Export Orders,Експортни поръчки
+Archive Orders,Архивиране на поръчки
+Order ID,ID на поръчката
+Order Date,Дата на поръчка
+Product,Продукт
+Delivery Address,Адрес за доставка
+Shipping Service,Доставка
+COD,COD
+Action,Действие
+No results!,Няма резултати!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Предупреждение - Архивирането на поръчки ще премести вашите поръчки в раздела Архив и повече не можете да обработвате тези поръчки. Щракнете върху „OK“, за да продължите, „Отказ“, за да се върнете към екрана"
+Cancel,Отказ
+//======================= Detail Order page,//======================= Страница с подробности за поръчката
+Order,Поръчка
+Order #,Поръчка #
+Customer,Клиент
+Order value,Стойност на поръчката
+Payment status,Статус на плащането
+Access Point,Точка за достъп
+//======================= Create single shipment page,//======================= Създаване на страница за една пратка
+Process Shipment,Обработете пратката
+Ship From,Изпращане от
+Ship To,Изпращане до
+Accessorial service,Допълнителна услуга*
+Packaging,Опаковка
+Package #1,Пакет №1
+Package #,Пакет #
+Add package,Добавете пакет
+View estimated shipping fee and delivery date,Вижте прогнозната такса за доставка и датата на доставка
+Edit,редактиране
+Create Shipment,Създаване на пратка
+Custom Package,Персонализиран пакет
+Name,Име
+Address,Адрес
+State,състояние
+Note: Insufficient or incorrect address may increase the shipping fee,Забележка: Недостатъчен или неправилен адрес може да увеличи таксата за доставка
+Additional Handling,Допълнителна обработка
+Additional handling,Допълнителна обработка
+Quantum View Ship Notification,Известие за кораб Quantum View
+Quantum View Delivery Notification,Известие за доставка на Quantum View
+Residential Address,Жилищен адрес
+Saturday Delivery,Съботна доставка
+Carbon Neutral,Въглеродно неутрален
+Direct Delivery Only,Само директна доставка
+Declared value,Декларирана стойност
+Signature Required,Изисква се подпис
+Adult Signature Required,Изисква се подпис на възрастен
+To Home COD,До дома COD
+Cancel Editing,Отказ от редактиране
+To Access Point COD,До точка за достъп COD
+Orders to be processed,Поръчки за обработка
+The name is not empty,Името не е празно
+The address is required,Адресът е задължителен
+The postal code is empty or invalid,Пощенският код е празен или невалиден
+The city is not empty,Градът не е празен
+Invalid email format,Невалиден имейл формат
+The phone is not empty,Телефонът не е празен
+Some of the data you entered is not valid. Please check again.,Някои от въведените от вас данни не са валидни. Моля проверете отново.
+There are errors connecting to the UPS API servers. Please try again.,"Има грешки при свързване към UPS API сървърите. Моля, опитайте отново."
+//======================= Shipment page,//======================= Страница за пратка
+Shipments,Пратки
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>","Избирайки която и да е поръчка в този раздел за пратка, аз се съгласявам с <a href='javascrip:void(0);' id='term-condition'>Общи условия.</a>"
+UPS Tracking Terms and Conditions,Правила и условия за проследяване на UPS
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","ЗАБЕЛЕЖКА: Системите за проследяване на пратки на UPS, достъпни чрез тази услуга („Системите за проследяване“) и информацията за проследяване, получена чрез тази услуга („Информация“), са частна собственост на UPS. UPS ви разрешава да използвате системите за проследяване единствено за проследяване на пратки, изпратени от или за вас на UPS за доставка и за никаква друга цел. Без ограничение, не сте упълномощени да правите Информацията достъпна на който и да е уеб сайт или по друг начин да възпроизвеждате, разпространявате, копирате, съхранявате, използвате или продавате Информацията за търговска печалба без изричното писмено съгласие на UPS. Това е лична услуга, поради което правото ви да използвате системите за проследяване или информацията не може да се преотстъпва. Всеки достъп или използване, което не е в съответствие с тези условия, е неразрешено и строго забранено."
+Download PDF Label,Изтеглете PDF етикет
+Download ZPL Label,Изтеглете ZPL етикет
+Export Shipment Data,Експортиране на данни за пратката
+Cancel Shipments,Анулиране на пратки
+ID Shipment,ID пратка
+Tracking Number,Номер за проследяване
+Date,Дата
+Estimated Shipping Fee,Приблизителна такса за доставка
+Shipment #,номер на пратка
+Order #ID reference,Номер на поръчката ID справка
+Package details,Подробности за пакета
+Are you sure you want to cancel selected shipment(s)?,"Сигурни ли сте, че искате да анулирате избрани пратки?"
+Shipment Canceled,Пратката е анулирана
+Archived Orders,Архивирани поръчки
+//======================= Additional,//======================= Допълнително
+Packaging:,Опаковка:
+Access Point display setting:,Настройка на дисплея на UPS Access Point:
+Number of Access Points visible to customers:,"Брой точки за достъп, видими за клиентите:"
+Display all the Access Points in range of:,Показване на всички точки за достъп в обхвата на:
+Title:,Заглавие:
+Company:,Търговско дружество:
+Email:,Електронна поща:
+Phone &nbsp number:,Телефонен &nbsp номер:
+Phone &nbsp;number:,Телефонен &nbsp;номер:
+Address type:,Вид адрес:
+Address:,адрес:
+Postal code:,Пощенски код:
+City:,град:
+Country:,Държава:
+Account Name:,Име на акаунта:
+Account Number:,Номер на сметка:
+Account number:,Номер на сметка:
+Invoice Number:,Номер на фактура:
+Invoice Amount:,Сума на фактурата:
+Currency:,Валута:
+Invoice date:,Датата на фактурата:
+Name:,Име:
+Phone:,телефон:
+Customer:,клиент:
+Product:,продукт:
+Shipping service:,Доставка:
+Order value:,Стойност на поръчката:
+Payment status:,Статус на плащането:
+Access Point:,Точка за достъп:
+Payment Status:,Статус на плащането:
+Phone number:,Телефонен номер:
+Package:,Пакет:
+Estimated Shipping fee:,Очаквана такса за доставка:
+Estimated Shipping Fee:,Очаквана такса за доставка:
+Orders to be processed:,Поръчки за обработка:
+Order #ID reference:,Справка за ID на поръчката:
+Package details:,Подробности за пакета:
+Tracking number:,Номер за проследяване:
+Accessorial Service:,Допълнителна услуга:
+Accessorial service:,Допълнителна услуга:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Ако сте нов в UPS, моля, вижте следните ЧЗВ за допълнителна информация:"
+VAT Number:,Номер по ДДС:
+Promo Code:,Промо код:
+Country/Territory:,Държава/територия:
+End of Business Day,Край на работния ден
+//==============================Security Enhancement page,
+Security Enhancement,Подобряване на сигурността
+SECURITY ENHANCEMENTS ACTIVATION,АКТИВИРАНЕ НА ПОДОБРЕНИЯ НА СИГУРНОСТТА
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","С инсталирането на UPS Plugin вие получавате тази удобна опция за прилагане на препоръчаните от UPS подобрения на сигурността към вашия електронен магазин. Като активирате определени подобрения на сигурността по-долу, можете да направите своя електронен магазин по-малко уязвим на някои често срещани хакерски атаки."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Защита от кликджакинг
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","Вижте [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] за повече подробности. Ако активирате тази защита, тогава приставката на UPS ще защити вашия магазин, като съобщи политиката за рамкиране на браузъра на потребителя чрез заглавката на HTTP отговора „X-Frame-Options: Sameorigin“ и чрез инжектиране на Java скрипт „разбивач на рамки“ за наследени браузъри. - Приставката на UPS може да защити страниците на Front Office на вашия електронен магазин в съответствие с препоръчания от OWASP Cheat Sheet за защита срещу Clickjacking Деактивирайте тази защита, ако искате да активирате рамкиране на GUI на вашия електронен магазин на уебсайтове на трети страни; или ако вече сте приложили тази защита по различен начин."
+Use X-Frame-Options response header,Използвайте заглавката на отговора на X-Frame-Options
+Do not use,Не използвай
+Deny,Откажи
+SameOrigin,SameOrigin
+Use frame-killer script:,Използвайте скрипт за убиване на кадри:
+Use Content-Security-Policy response header,Използвайте заглавката на отговора Content-Security-Policy
+frame-ancestors 'none',рамка-предци 'няма'
+frame-ancestors 'sefl',рамка-предци 'sefl'
+Content Sniffing Prevention,Предотвратяване на снифинг на съдържание
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","Вижте wikipedia за повече подробности. Ако поставите отметка на тази опция, UPS плъгинът ще защити Front Office на вашия електронен магазин, като приложи <br />X-Content-Type-Options: nosniff"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","Заглавка на HTTP отговор към всички страници на Magento Front Office. Това ще попречи на браузъра на клиента (по-специално Internet Explorer) от MIME-снифтинг отговор извън декларирания тип съдържание. Може наистина да не се нуждаете от това, тъй като вашите потребители не трябва да качват потенциално опасни файлове във вашия електронен магазин (напр. JavaScript вместо изображение). Въпреки това все още е добра практика да активирате тази специална защитна заглавка, тъй като няма свързана с нея грешка в производителността."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,"Активира филтри за междусайтови скриптове в браузъри, които поддържат директивата X-XSS-Protection"
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","Вижте wikipedia за повече подробности. Ако поставите отметка на тази опция, UPS плъгинът ще защити Front Office на вашия електронен магазин, като приложи <br />X-XSS-Protection: '1; mode=block' <br />Заглавка на HTTP отговор към всички страници на Magento Front Office."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Защитете уебсайта на вашия електронен магазин срещу атаки за понижаване на протокола и отвличане на бисквитки
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","Вижте wikipedia за повече подробности. Ако поставите отметка на тази опция, UPS плъгинът ще защити Вашия Front Office на електронния магазин, като приложи <br />Strict-Transport-Security 'max-age=31536000; заглавка на <br />HTTP отговора на includeSubDomains към всички страници на Magento Front Office."
+Prevent sensitive pages from caching by browser.,Предотвратете кеширането на чувствителни страници от браузъра.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","Вижте ЧЗВ за OWASP за повече подробности. Ако поставите отметка на тази опция, UPS плъгинът ще защити процеса на плащане, като приложи<br />Cache-Control: no-cache, no-store <br />Изтича: 0 <br />Pragma: no-cache <br /> Заглавки на HTTP отговор към съответните страници"
+Apply to pages,Приложете към страници
+All,всичко
+Checkout only,Само плащане
+Data saved successfully.,Данните са запазени успешно.
+We couldn't find any records,Не можахме да намерим никакви записи
+Please wait…,Моля Изчакай…
+Archiving Orders,Архивиране на поръчки
+There is no shipping service for the above address,Няма услуга за доставка за горния адрес
+The email is not empty,Имейлът не е празен
+The country is not empty,Страната не е празна
+Select all,Избери всички
+Unselect all,Деселектирайте всички
+Do not have label for this Tracking ID,Няма етикет за този ID за проследяване
+Print Label or download file.,Отпечатайте етикет или изтеглете файл.
+"Connection error, try later to install and configure","Грешка при свързване, опитайте по-късно да инсталирате и конфигурирате"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"В момента не можем да анулираме тази пратка. Можете да опитате да анулирате пратката по-късно. Въпреки това няма да бъдете таксувани за тази пратка, при условие че не използвате етикета за доставка"
+Estimated Fee,Очаквана такса
+Shipping fee,Такса за доставка
+Poland,Полша
+United Kingdom,Великобритания
+France,Франция
+Germany,Германия
+Italy,Италия
+Netherlands,Холандия
+Spain,Испания
+Belgium,Белгия
+Shipment Manager,Мениджър на пратката
+Default Package,Пакет по подразбиране
+Order Time,Време за поръчка
+Time,време
+Warning,Внимание
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"грешка! Пакетът надвишава максимално допустимия размер от 400 см или 157,48 инча (изчислението на максимално допустимия размер = дължина + 2 * ширина + 2 * височина)."
+Access Points Address will be used as an alternative shipping address,Адресът на точките за достъп ще се използва като алтернативен адрес за доставка
+Ship To (UPS Access Point),

@@ -1,0 +1,470 @@
+//======================= About page,//======================= Névjegy oldal
+About,Ról ről
+UPS has partnered up with Magento to offer a free UPS Shipping and UPS Access Point™ Module that will allow you to integrate and offer a wide range of UPS shipping & delivery solutions directly on your website check-out process! This official UPS Module for Magento gives your customers access to our expansive UPS Access Point network and delivery services.,"A UPS együttműködött a Magentoval, hogy ingyenes UPS szállítási és UPS Access Point™ modult kínáljon, amely lehetővé teszi a UPS szállítási és kézbesítési megoldások széles skálájának integrálását és kínálását közvetlenül a webhely kijelentkezési folyamatában! Ez a hivatalos Magento UPS-modul hozzáférést biztosít ügyfelei számára kiterjedt UPS Access Point hálózatunkhoz és szállítási szolgáltatásainkhoz."
+Features of this product,A termék jellemzői
+Front Office,Front Office
+Simple & easy map interface for your customers to select UPS Access Point as per their preference.,"Egyszerű és könnyű térképes felület, amellyel ügyfelei igényeik szerint választhatják ki a UPS Access Pointot."
+User-friendly interface for your customers to switch from Access Point delivery to home delivery.,"Felhasználóbarát felület, amellyel ügyfelei áttérhetnek az Access Point szállításról a házhozszállításra."
+Real time UPS shipping rate or flat rates for each available service (as per merchant’s back office settings).,Valós idejű UPS szállítási díj vagy átalánydíjak az egyes elérhető szolgáltatásokhoz (a kereskedő háttérirodája beállításai szerint).
+Back Office,Hátsó iroda
+"Range of options to set up delivery rates that your customers will see (for example: free shipping, real time shipping rates, or flat rates as per basket value thresholds).","Lehetőségek széles skálája az ügyfelek számára látható szállítási díjak beállítására (például: ingyenes szállítás, valós idejű szállítási díjak vagy átalánydíjak a kosárérték küszöbértékei szerint)."
+"Possibility to open a UPS account directly in the module itself, if you do not have one.","Lehetőség UPS-fiók megnyitására közvetlenül a modulban, ha nem rendelkezik ilyennel."
+Easy PDF label generation.,Egyszerű PDF címkegenerálás.
+Real time tracking information.,Valós idejű nyomkövetési információk.
+Ability to export open orders so that you can process them in other applications for more complex needs.,"Lehetőség nyílt rendelések exportálására, hogy azokat más alkalmazásokban is feldolgozhassa, összetettebb igényekhez."
+Module version number and release date,Modul verziószáma és kiadási dátuma
+Module version v,Modul verzió v
+Release date,Kiadási dátum
+Changelog,Változási napló
+Platform compatibility statement,Platform kompatibilitási nyilatkozat
+"Compatible with Magento versions 2.1, 2.2, 2.3","Kompatibilis a Magento 2.1, 2.2, 2.3 verzióival"
+UPS Shipping Module website,A UPS szállítási modul webhelye
+For more information visit <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>,További információért látogasson el a következő oldalra: <a href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page' target='_blank'>https://www.ups. .com/%1/%2/services/technology-integration/ecommerce-plugins.page</a>
+For more information visit,További információért látogasson el
+Support information,Támogatási információk
+"For assistance with installing, upgrading, or using UPS Shipping Module, please contact UPS at -","Ha segítségre van szüksége a UPS szállítási modul telepítéséhez, frissítéséhez vagy használatához, forduljon a UPS-hez a következő címen:"
+Poland +48 (0) 22 203 03 21,Lengyelország +48 (0) 22 203 03 21
+UPS Shipping Module,UPS szállítási modul
+UPS Shipping,UPS szállítás
+Shipment management,Szállítmánykezelés
+//======================= Country page,//======================= Országoldal
+Country setting,Ország beállítása
+Country Setting,Ország beállítása
+Please select your country/territory,"Kérjük, válassza ki országát/területét"
+Continue,Folytatni
+//======================= Terms and Condition page,//======================= Általános Szerződési Feltételek oldal
+UPS Terms and Conditions,UPS Általános Szerződési Feltételek
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies, like limiting UPS's liability and my agreement on how disputes between UPS and me will be handled","Elfogadom a UPS Technológiai Megállapodást, és megerősítem, hogy elegendő időt kaptam, hogy elolvassam, és megértsem, hogy fontos feltételeket tartalmaz a UPS Technologies használatára vonatkozóan, például a UPS felelősségének korlátozását és a UPS és köztem fennálló viták rendezésére vonatkozó megállapodásomat. kezelt"
+"I agree to the UPS Technology Agreement and confirm that I've been given enough time to read it and understand that it contains important terms about my use of UPS Technologies,","Elfogadom a UPS Technológiai Megállapodást, és megerősítem, hogy elegendő időt kaptam, hogy elolvassam, és megértsem, hogy fontos feltételeket tartalmaz a UPS Technologies használatára vonatkozóan,"
+like,tetszik
+limiting UPS's liability and my agreement on how disputes between UPS and me will be handled,a UPS felelősségének korlátozása és az én megállapodásom a UPS és köztem fennálló viták kezeléséről.
+Print,Nyomtatás
+Cannot get Term & Condition,Nem kapható meg az Általános Szerződési Feltétel
+//======================= Account Page,//======================= Fiókoldal
+Account,fiók
+ACCOUNT,FIÓK
+For more information on UPS Plugins please click <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>this link</a> (opens in a new browser window),A UPS beépülő modulokkal kapcsolatos további információkért kattintson <a target='_blank' href='https://www.ups.com/%1/%2/services/technology-integration/ecommerce-plugins.page'>erre a linkre< /a> (új böngészőablakban nyílik meg)
+Please fill the form below to start configuring UPS plug-in for your e-commerce website,"Kérjük, töltse ki az alábbi űrlapot, hogy megkezdje a UPS beépülő modul konfigurálását e-kereskedelmi webhelyéhez"
+Title,Cím
+Full name,Teljes név
+Full Name,Teljes név
+Company,Vállalat
+Email,Email
+Phone number,Telefonszám
+Address type,Cím típusa
+Address,Cím
+Postal code,irányítószám
+City,Város
+Country/Territory,Ország/Terület
+"Example: Warehouse, Branch #1, etc.","Példa: Raktár, 1. fiók stb."
+"Example: Warehouse, Branch #1","Példa: Raktár, 1. fiók"
+Street Address,Cím
+"Apartment, Suite, Unit, Building, Floor, etc.","Lakás, Lakosztály, Egység, Épület, Emelet stb."
+"Department, c/o, etc.","Osztály, c/o stb."
+Mr,úr
+Miss,Hiányzik
+Mrs,Asszony
+Ms,Kisasszony
+I have a UPS Account Number WITH an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Van egy UPS-számlaszámom, AZ elmúlt 45 napban (90 nap, ha fiókja az Egyesült Államokban vagy Kanadában van)"
+I have a UPS Account Number WITHOUT an invoice occurred in the last 45 days (90 days if your account is in the US or Canada),"Van egy UPS számlaszámom, NÉLKÜL számla, amely az elmúlt 45 napban történt (90 nap, ha fiókja az Egyesült Államokban vagy Kanadában van)"
+I do not have a UPS Account Number and would like to get one from the plug-in,"Nincs UPS-számlaszámom, és szeretnék egyet kedvezményes áron beszerezni a beépülő modulból"
+I don’t have a UPS account number and would,"Nincs UPS számlaszámom, és lenne"
+like,tetszik
+to get one with discounted rates from the plug-in,hogy kedvezményes áron szerezzen be egyet a beépülő modulból
+The invoice should be 1 of the last 3 issued by UPS in last 45 days (90 days if your account is in the US or Canada),"A számla a UPS által az elmúlt 45 napban (90 nap, ha a fiókja az Egyesült Államokban vagy Kanadában van) a UPS által kibocsátott utolsó 3 számla valamelyikének kell lennie."
+Account name,Felhasználónév
+Account number,Számlaszám
+Invoice number,Számlaszám
+Invoice amount,Számla összeg
+Currency,Valuta
+Invoice date,Számla kiállítási dátuma
+VAT number,Adószám
+Promo Code,Promóciós kód
+Please Note: Shippers are prohibited from shipping dangerous goods or hazardous materials using the account opened in this application.,Megjegyzés: A feladóknak tilos veszélyes árukat vagy veszélyes anyagokat szállítani az alkalmazásban megnyitott fiók használatával.
+Your account will support deliveries to authorized UPS Access Point™ locations after 24 hours.,Az Ön fiókja 24 óra elteltével támogatja a kiszállításokat az engedélyezett UPS Access Point™ helyekre.
+You can find more information on dangerous goods and how UPS can support you shipping them on this link <br /><a target='_blank' href=https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page]</a>,"Ezen a linken talál további információt a veszélyes árukról és arról, hogy a UPS hogyan tud segíteni szállításukban: <br /><a target='_blank' href=https://www.ups.com/%1/%2/help- center/packaging-and-supplies/special-care-shipments/global-dangerous-goods.page>[https://www.ups.com/%1/%2/help-center/packaging-and-supplies/special -care-shipments/global-dangerous-goods.page]</a>"
+"Reference name that will be associate with an account. For example warehouse 1, warehouse 2,  Store 1, Store 2 etc. You can freely chose the name as per your requirement","Hivatkozási név, amely egy fiókhoz lesz társítva. Például 1. raktár, 2. raktár, 1. üzlet, 2. üzlet stb. Szabadon választhatja meg a nevet az igényei szerint"
+The postal code or zip code associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',A UPS-fiókjához tartozó irányítószám vagy irányítószám. Megtalálható a UPS számla minden oldalának tetején a „Vásárló” alatt.
+The name associated with your UPS account. It can be found on the top on each page of your UPS invoice under 'Purchaser',A UPS-fiókjához társított név. Megtalálható a UPS számla minden oldalának tetején a „Vásárló” alatt.
+A unique six character alphanumeric number that identifies your account. It can be found on the top left side on each page of your UPS invoice,"Egyedi hat karakterből álló alfanumerikus szám, amely azonosítja fiókját. Ez a UPS számla minden oldalának bal felső sarkában található"
+A unique 12 digit number assigned by UPS to an invoice. It can be found on the top left side on each page of your UPS invoice,"Egyedi, 12 jegyű szám, amelyet a UPS rendelt a számlához. Ez a UPS számla minden oldalának bal felső sarkában található"
+Total Amount Due for the given invoice. It can be found on the 'Summary of Charges' table on the first page on the invoice,Az adott számla teljes esedékes összege. A számla első oldalán található „Díjösszesítő” táblázatban található
+Date of issuing the invoice. It can be found on the top left side on each page of your UPS invoice,A számla kiállításának dátuma. Ez a UPS számla minden oldalának bal felső sarkában található
+Get started,Fogj neki
+Some of the data you entered is not valid. Please check again.,A megadott adatok egy része nem érvényes. Kérlek nézd meg újra.
+Cannot create new Account Number,Nem lehet új számlaszámot létrehozni
+Email is not correct format,Az e-mail formátum nem megfelelő
+Your request to create a UPS Shipping Account was not successful. Please check the 'City' and 'Postal code' values that you entered. Here are some suggestions on the City and Postal code that are a valid combination -,"A UPS szállítási fiók létrehozására vonatkozó kérése nem volt sikeres. Kérjük, ellenőrizze a megadott „Város” és „Irányítószám” értékeket. Íme néhány javaslat a városra és az irányítószámra, amelyek érvényes kombinációk -"
+Please update the city and postal code values with one of these selections and click Get Started,"Kérjük, frissítse a város és az irányítószám értékeit ezen választások egyikével, majd kattintson az Első lépések gombra"
+Configuration,Konfiguráció
+//======================= Account Success Page,//======================= Fiók sikerének oldala
+Your UPS Profile,Az Ön UPS-profilja
+Your Payment Account,Az Ön fizetési számlája
+Add another account number,Adjon hozzá egy másik számlaszámot
+Please enter the address attached to your account number,"Kérjük, adja meg a számlaszámához csatolt címet"
+Phone,Telefon
+Verify,Ellenőrizze
+Next,Következő
+Remove,Távolítsa el
+Account number already exists in 'Your Payment Account',A számlaszám már létezik a „Fizetési számlájában”
+Full name:,Teljes név:
+Remove Account,Fiók törlése
+"This account will be removed. Click Ok to confirm, close the dialog to cancel.","Ezt a fiókot eltávolítjuk. Kattintson az OK gombra a megerősítéshez, zárja be a párbeszédpanelt a visszavonáshoz."
+Your UPS account has been successfull registered,UPS-fiókját sikeresen regisztráltuk
+//======================= Shipping Services page,//======================= Szállítási szolgáltatások oldal
+Shipping Services,Szállítási szolgáltatások
+"Select the UPS services you want to be visible in the checkout for your e-shoppers. To learn more about UPS services, refer UPS Tariff/Terms and Conditions of Service on UPS.COM","Válassza ki azokat az UPS-szolgáltatásokat, amelyeket meg szeretne jeleníteni a pénztárnál az e-vásárlók számára. Ha többet szeretne megtudni a UPS szolgáltatásokról, olvassa el a UPS tarifáit/szolgáltatási feltételeit a UPS.COM oldalon."
+Deliver to UPS Access Point™ (to-AP delivery),Szállítás egy UPS Access Point™ helyre (szállítási ponthoz AP)
+"UPS delivers the parcel to a UPS Access Point™ that the customer selected, then customer picks up their order there","A UPS a csomagot az ügyfél által kiválasztott UPS Access Point™ helyre szállítja, ahol átveheti a számukra kényelmes"
+Yes,Igen
+No,Nem
+Set as default shipping option,Beállítás alapértelmezett szállítási lehetőségként
+Select the shipping services for your customers to choose,Válassza ki a szállítási szolgáltatásokat ügyfelei számára
+"International shipping only - visible, when shipping address is outside of EU","Csak nemzetközi szállítás - látható, ha a szállítási cím az EU-n kívül van"
+Access Point display setting:,UPS Access Point kijelző beállítása:
+Number of Access Points visible to customers:,Az ügyfelek számára látható helyek száma:
+Display all the Access Points in range of:,Az összes helyszín megjelenítése a következő tartományban:
+kilometer around consignee's selected address,Mérföldekre a címzett kiválasztott címe körül
+Choose Account Number for this option,Ehhez az opcióhoz válassza a Számlaszámot
+Deliver to consignee address (to-address delivery),Kézbesítés a címzett címére (címre történő kézbesítés)
+UPS delivers the parcel to the shipping address provided by customer.,A UPS a csomagot az ügyfél által megadott szállítási címre kézbesíti.
+Cut off time,Vágja le az időt
+"The cut off time selected here will be used in calculating the schedule delivery date and time, which will be displayed on your website checkout.","Az itt kiválasztott határidõt a rendszer az ütemterv szállítási dátum és idõ kiszámításához fogja használni, amely megjelenik a webhelyen történõ pénztárnál."
+"For example, if the cut off time is selected as 5 PM and your e-shoppers views your webstore at 5.01 PM, all UPS scheduled delivery dates and time will be calculated from the following business day. When deciding this cut off time, please ensure that you have sufficient time to fulfill the order before the UPS scheduled pick up or you are able to drop off the packages at a UPS Access Point™.","Például, ha a határidő 17:00-ra van beállítva, és az Ön e-vásárlói 17:01-kor tekintik meg az Ön webáruházát, a UPS összes ütemezett szállítási dátumát és időpontját a következő munkanaptól számítjuk. Amikor ezt a határidőt választja, ügyeljen arra, hogy elegendő ideje legyen a rendelés teljesítésére a UPS ütemezett átvétele előtt, vagy hogy fel tudja adni a csomagokat egy UPS Access Point™ helyen."
+"If you are unsure about fulfilling customer orders on the same day, you can select 'Disable' which will result in the e-shopper seeing a generic delivery schedule for each available UPS service. For Example; 'UPS® Standard - In most cases, delivered within 1 to 3 business days in Europe.'","Ha nem biztos abban, hogy a vásárlói rendeléseket még aznap teljesíti-e, akkor válassza a „Letiltás” lehetőséget, ami azt eredményezi, hogy az e-vásárló minden elérhető szolgáltatáshoz hozzávetőleges szállítási dátumot lát."
+Save,Megment
+Please select at least one shipping service.,"Kérjük, válasszon legalább egy szállítási szolgáltatást."
+UPS Access Point™ Economy,UPS Access Point™ Economy
+UPS® Standard,UPS® szabvány
+UPS Expedited®,UPS Expedited®
+UPS Express Saver®,UPS Express Saver®
+UPS Express®,UPS Express®
+UPS Express Plus®,UPS Express Plus®
+//======================= Collect on Delivery (COD) page,//======================= Átvételkor (COD) oldal
+Collect on Delivery (COD),Átvétel utánvét (utánvét)
+You have the official Magento COD module enabled!,Engedélyezve van a hivatalos Magento COD modul!
+Only show Access Points supporting COD shipments?,Csak az utánvétes szállítást támogató hozzáférési pontokat jelenítse meg?
+Select 'YES' if you plan to offer COD shipments to a UPS Access Point™,"Válassza az 'IGEN'-t, ha UPS Access Point™-hoz szeretne utánvéttel szállítani"
+The COD Shipping service of this plug-in is automatically compatible with the official Collect on Delivery (COD) module by Magento.,Ennek a beépülő modulnak az utánvétes szállítási szolgáltatása automatikusan kompatibilis a Magento hivatalos Átvételkor (COD) moduljával.
+You do not have the official Magento COD module installed and/or enabled!,Nincs telepítve és/vagy engedélyezve a hivatalos Magento COD modul!
+The COD Shipping service of this plugin is automatically compatible with the official Cash on Delivery (COD) module by Magento.,Ennek a bővítménynek az utánvétes szállítási szolgáltatása automatikusan kompatibilis a Magento hivatalos Utánvét (COD) moduljával.
+"If you want the UPS Shipping module to automatically detect COD shipments, <strong>please make sure that you have installed Magento's Collect on Delivery (COD)</strong>. If you already have Magento's Collect on Delivery (COD) module installed, <strong>please make sure that the module is enabled</strong>. [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Click here</a>] for detailed guidance.","Ha azt szeretné, hogy a UPS Shipping modul automatikusan észlelje az utánvétes küldeményeket, <strong>kérjük, győződjön meg arról, hogy telepítette a Magento's Collect on Delivery (COD)</strong> szolgáltatást. Ha már telepítve van a Magento's Collect on Delivery (COD) modul, <strong>kérjük, győződjön meg arról, hogy a modul engedélyezve van</strong>. Részletes útmutatásért [<a href='https://docs.magento.com/m2/ce/user_guide/payment/cash-on-delivery.html' target='_blank'>Kattintson ide</a>]."
+COD Option,COD opció
+//======================= Package Dimensions page,//======================= Csomag méretei oldal
+Package Dimensions,A csomag méretei
+Default Package Setting,Alapértelmezett csomagbeállítás
+Default package setting,Alapértelmezett csomagbeállítás
+"Please enter weight and dimensions of your packaging here. You can add multiple package dimensions, which can be easily selected in a dropdown option when creating shipments in the plug-in.","Kérjük, ide írja be a csomagolás súlyát és méreteit. Több csomagméretet is felvehet, amelyeket könnyedén kiválaszthat egy legördülő menüben, amikor szállítmányokat hoz létre a beépülő modulban."
+"In case you decide to show the real time UPS shipping rate (to be configured in the next screen) to the e-shoppers, the plug-in will use the first package, referred to as the 'Default Package' that is displayed below. The Default Package's weight and dimensions will be used to calculate the UPS shipping rates that will be displayed to the e-shoppers.","Abban az esetben, ha úgy dönt, hogy a valós idejű UPS szállítási díját (amelyet a következő képernyőn kell konfigurálni) megjeleníteni az e-vásárlók számára, a beépülő modul az első csomagot fogja használni, amelyet alább „Alapértelmezett csomagként” nevezünk. Az alapértelmezett csomag súlya és méretei alapján számítják ki a UPS szállítási díjait, amelyek megjelennek az e-vásárlók számára."
+Add New Package,Új csomag hozzáadása
+Package name,Csomag név
+"Example: Standard, Large, Phone box, etc.","Példa: Normál, Nagy, Telefondoboz stb."
+Weight,Súly
+Unit,Mértékegység
+Dimension,Dimenzió
+Add Package,Csomag hozzáadása lehetőségre
+Length,Hossz
+Width,Szélesség
+Height,Magasság
+The name Package is exist.,A Package név létezik.
+Edit,Szerkesztés
+Delete,Töröl
+Editing Default Package,Alapértelmezett csomag szerkesztése
+Remove Package,Csomag eltávolítása
+"You are going to remove this default package from your profile. Click Ok to confirm, close the dialog to cancel.","El fogja távolítani ezt az alapértelmezett csomagot a profiljából. Kattintson az OK gombra a megerősítéshez, zárja be a párbeszédpanelt a visszavonáshoz."
+OK,rendben
+Please input at least one default package to continue.,A folytatáshoz adjon meg legalább egy alapértelmezett csomagot.
+Please select an option,kérem válasszon egy opciót
+Basic (number of items in the e-shopper order determine the package size),Alap (az e-shopper rendelésben szereplő tételek száma határozza meg a csomag méretét)
+Advanced (weights and dimensions of products in the e-shopper order determine the package size),Haladó (az e-shopper rendelésben szereplő termékek súlya és mérete határozza meg a csomag méretét)
+Package dimensions:,Csomag méretei:
+Note: the plugin will create a custom package size if an e-shopper order is larger than the packages you enter,"Megjegyzés: a bővítmény egyéni csomagméretet hoz létre, ha az e-shopper rendelése nagyobb, mint a megadott csomagok"
+Warning! To use this option you must enter product weights in the product settings of your shop.,Figyelem! Ennek az opciónak a használatához meg kell adnia a termék súlyát az üzlet termékbeállításaiban.
+Include dimensions in rating,A méreteket adja meg az értékelésben
+Yes,Igen
+No,Nem
+Number of items in order,Rendben lévő tételek száma
+Add Backup Rate,Add Backup Rate
+"If set to “No”, rates will be based on product weights only.&nbsp; If set to “Yes”, product dimensions must be entered in the product settings of your shop","Ha „Nem” értékre van állítva, az árak csak a termékek súlyán alapulnak.&nbsp; Ha „Igen”-re van állítva, a termék méreteit meg kell adni az üzlet termékbeállításai között"
+Name,Név
+Length,Hossz
+Width,Szélesség
+Height,Magasság
+Weight,Súly
+Max Weight,Maximális súly
+Backup rate:,Biztonsági sebesség:
+Service Name,szolgáltatás neve
+Rate,Mérték
+Add Backup Rate,Add Backup Rate
+"Backup rate will only display to e-shoppers if there is an issue within product settings, such as weights missing or if weights/dimensions exceed UPS limits","A tartalék arány csak akkor jelenik meg az e-vásárlók számára, ha probléma van a termékbeállításokkal, például hiányzik a súly, vagy ha a súlyok/méretek meghaladják az UPS határait"
+Add default packages if you would like the package size used for rating to change based on the number of items in the e-shopper’s order,"Adjon hozzá alapértelmezett csomagokat, ha azt szeretné, hogy az értékeléshez használt csomag mérete az e-vásárló rendelésében szereplő cikkek száma alapján változzon"
+"Note: if the number of items in the e-shopper order do not match any of your entries, then the size of the package used for rating will be based on that of the highest item count exceeded by the e-shopper order.","Megjegyzés: ha az e-shopper rendelésben szereplő tételek száma nem egyezik az Ön által megadott adatokkal, akkor az értékeléshez használt csomag mérete az e-shopper rendelés által túlhaladott legmagasabb tételszám alapján történik."
+//======================= Checkout Shipping Rates page,//======================= Fizetési díjak oldal
+Checkout Shipping Rates,Ellenőrizze a szállítási árakat
+Ship to UPS Access Point&trade;,Szállítás a UPS Access Point™ helyére
+Flat rates,Átalánydíjak
+Real time shipping rates,Valós idejű szállítási díjak
+Delivery rates is,Szállítási díjak
+% of UPS shipping rates,A UPS szállítási díjainak %-a
+The e-shopper will see the % of real time UPS rates. These rates are calculated using the default package weight and dimensions that you configured in the previous screen (Package Dimensions).,Az e-vásárló látni fogja a valós idejű UPS-díjak %-át. Ezeket az árakat a rendszer az előző képernyőn (Csomagméretek) beállított alapértelmezett csomagsúly és -méretek alapján számítja ki.
+Ship to Address,Szállítás a címre
+Order Value Threshold,Rendelési érték küszöbértéke
+Delivery rates,Szállítási díjak
+The minimum thresholds can not be the same.,A minimális küszöbök nem lehetnek azonosak.
+//======================= Complete Configuration page,//======================= Teljes konfigurációs oldal
+Complete Configuration,Teljes konfiguráció
+You can start shipping now!,Most elkezdheti a szállítást!
+Click on the 'Complete Configuration' button to finish the configuration of the plug-in and start offering UPS shipping services on your website.,"Kattintson a „Teljes konfigurálás” gombra, hogy befejezze a beépülő modul konfigurálását, és megkezdje a UPS szállítási szolgáltatásainak kínálását webhelyén."
+"If you are new to UPS, please refer to the following FAQs for additional information:","Ha új a UPS-ben, kérjük, olvassa el a következő GYIK-et további információkért:"
+"1) How do I get more information about my new UPS shipping account?<br />If you opened a new UPS shipping account from the plug-in, a confirmation email with more information will be sent to the email address that you entered while creating the new account.","1) Hogyan kaphatok további információkat az új UPS-szállítási fiókomról?<br />Ha új UPS-szállítási fiókot nyitott a beépülő modulból, egy megerősítő e-mailt küldünk a további információkkal arra az e-mail címre, amelyet megadott az új fiók létrehozása."
+2) How do I prepare my packages for UPS collection or drop off to a UPS Access Point™?<br />Refer to the package preparation recommendations at this link - <a href='https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing-to-ship.page</a>,2. Hogyan készíthetem elő a csomagjaimat a UPS átvételére vagy a UPS Access Point™ helyre történő leadására?<br />Tekintse meg a csomag elkészítésére vonatkozó ajánlásokat ezen a linken - <a href='https://www.ups.com /%1/%2/services/individual-shipper/preparing-to-ship.page' target='_blank'>https://www.ups.com/%1/%2/services/individual-shipper/preparing -to-ship.page</a>
+3) How do I give my packages to UPS?<br />You can drop you packages at any authorized UPS location such as a UPS Access Point™. Click below to search for a convenient access point location near you.,"3. Hogyan adhatom át a csomagjaimat a UPS-nek?<br />Csomagját bármely engedélyezett UPS helyen, például UPS Access Point™ helyen leadhatja. Kattintson az alábbiakra, ha kényelmes helyet szeretne keresni az Ön közelében"
+"You can also ask UPS to pickup packages from your warehouse or business address. If you need an occasional pickup, you can directly schedule a pickup from UPS.COM using this link - <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank'>https://wwwapps.ups.com/pickup/schedule?loc=%1</a>","Arra is kérheti a UPS-t, hogy vegye át a csomagokat az Ön raktárából vagy üzleti címéről. Ha időnkénti átvételre van szüksége, közvetlenül ütemezhet átvételt a UPS.COM webhelyről a következő link segítségével: <a href='https://wwwapps.ups.com/pickup/schedule?loc=%1' target='_blank' >https://wwwapps.ups.com/pickup/schedule?loc=%1</a>"
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can email a completed and signed Pickup form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Ha a legtöbb munkanapon UPS-csomagjai vannak, és a szokásos UPS-átvételt részesíti előnyben, felveheti a kapcsolatot a UPS-szel a Számlázási kérdések alatt megadott telefonszámon <a href='https://www.ups.com/%1/% 2/help-center/contact.page' target='_blank'>itt</a>. Ezután a UPS képviselője felveszi Önnel a kapcsolatot, hogy megbeszéljék a napi UPS átvételt."
+"If you have UPS packages on most business days and would prefer a regular UPS pickup, you can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss a daily UPS pickup.","Ha a legtöbb munkanapon UPS-csomagjai vannak, és a szokásos UPS-átvételt részesíti előnyben, kérjük, tekintse meg ezt a linket a napi átvétel ütemezéséhez: <a href='https://www.ups.com/us/en/shipping/services /value-added/daily-pickup.page' target='_blank'>https://www.ups.com/us/en/shipping/services/value-added/daily-pickup.page</a>"
+4. What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can contact UPS by calling at the phone number provided under Billing Questions <a href='https://www.ups.com/%1/%2/help-center/contact.page' target='_blank'>here</a>. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Milyen lépéseket kell tennem a UPS Collect on Delivery (COD) szolgáltatás beállításához?<br />A UPS-sel felveheti a kapcsolatot a Számlázási kérdések alatt megadott telefonszámon <a href='https://www. .ups.com/%1/%2/help-center/contact.page' target='_blank'>itt</a>. Ezután a UPS képviselője felveszi Önnel a kapcsolatot, hogy megbeszéljék az utánvétes szolgáltatást."
+4) What steps do I need to take to set up a UPS Collect on Delivery (COD) service?<br />You can email a completed and signed COD form to the following email address - konto@ups.com. Then a UPS representative will be in touch with you to discuss the COD service.,"4. Milyen lépéseket kell megtennem a UPS Collect on Delivery (COD) szolgáltatás létrehozásához?<br />Ha a UPS Collect on Delivery (COD) szolgáltatást szeretné használni, kérjük, tekintse meg ezt a hivatkozást a részletekért: < a href='https://www.ups.com/%1/%2/shipping/services/value-added/cod.page' target='_blank'>https://www.ups.com/%1 /%2/shipping/services/value-added/cod.page</a>"
+Search UPS Access Point™,Helyek keresése
+Print form,Nyomtatási űrlap
+//======================= E-shopper page,//======================= E-vásárló oldal
+Deliver to an UPS Access Point<sup>TM</sup>,Szállítás UPS Access Point™ helyre
+Your package will be delivered to an UPS Access Point<sup>TM</sup>,Csomagját egy UPS Access Point™ helyre szállítjuk
+Open 24 hours,24 órán keresztül nyitva
+The address is required,A cím megadása kötelező
+Please select an Access Point to process,Válassza ki a feldolgozandó hozzáférési pontot
+Operating Hours,Üzemidő
+Open,Nyisd ki
+Close,Bezárás
+Monday,hétfő
+Closed,Zárva
+Tuesday,kedd
+Wednesday,szerda
+Thursday,csütörtök
+Friday,péntek
+Saturday,szombat
+Sunday,vasárnap
+Search for the UPS Access Point<sup>TM</sup>,UPS Access Point™ helyek keresése
+Near,Közel
+Delivered by End of Business Day,Munkanap végéig kézbesítjük
+"Address line, City, State, Postcode","Címsor, város, állam, irányítószám"
+"Address line,City,State,Postcode","Címsor, Város, Állam, Irányítószám"
+Use my delivery address,Használja a szállítási címemet
+Search,Keresés
+Results,Eredmények
+Select,Válassza ki
+Deliver to Your Address,Kézbesítés az Ön címére
+Your package will be delivered to your address,Csomagját az Ön címére kézbesítjük
+UPS SHIPPING,UPS SZÁLLÍTÁS
+Delivery today!,Szállítás még ma!
+Delivery next day!,Szállítás másnap!
+Next two days!,Következő két nap!
+Next three days!,Következő három nap!
+Next four days!,Következő négy nap!
+Next five days!,Következő öt nap!
+Next six days!,Következő hat nap!
+Next seven days!,Következő hét nap!
+Next eight days!,Következő nyolc nap!
+Next nine days!,A következő kilenc nap!
+Next ten days!,Következő tíz nap!
+delivered by,által szállított
+Delivered by,szállította
+January,január
+February,február
+March,március
+April,április
+May,Lehet
+June,június
+July,július
+August,augusztus
+September,szeptember
+November,november
+October,október
+December,december
+//======================= Open Order page,//======================= Megrendelési oldal megnyitása
+Open Orders,Nyissa meg a rendeléseket
+Create Single Shipments,Egyedi szállítmányok létrehozása
+Create Batch Shipments,Hozzon létre kötegelt szállítmányokat
+Export All Orders,Minden rendelés exportálása
+Export Orders,Megrendelések exportálása
+Archive Orders,Megrendelések archiválása
+Order ID,Rendelés azonosító
+Order Date,Rendelés dátuma
+Product,Termék
+Delivery Address,Szállítási cím
+Shipping Service,Szállítási szolgáltatás
+COD,TŐKEHAL
+Action,Akció
+No results!,Nincs eredmény!
+"Warning - Archiving orders will move your orders in the Archive tab and you can no longer process these orders. Click 'OK' to continue, 'Cancel' to go back to the screen","Figyelmeztetés – A rendelések archiválása áthelyezi rendeléseit az Archívum lapra, és ezeket a rendeléseket a továbbiakban nem tudja feldolgozni. Kattintson az „OK” gombra a folytatáshoz, a „Mégse” gombra a képernyőre való visszatéréshez"
+Cancel,Megszünteti
+//======================= Detail Order page,//======================= Részletes Megrendelés oldal
+Order,Rendelés
+Order #,Rendelés #
+Customer,Vevő
+Order value,Rendelés értéke
+Payment status,Fizetési állapot
+Access Point,Hozzáférési pont
+//======================= Create single shipment page,//======================= Egyetlen szállítmányoldal létrehozása
+Process Shipment,Szállítás feldolgozása
+Ship From,Innen szállítva
+Ship To,Kiszállítás
+Accessorial service,Kiegészítő szolgáltatás*
+Packaging,Csomagolás
+Package #1,1. csomag
+Package #,csomag száma
+Add package,Csomag hozzáadása
+View estimated shipping fee and delivery date,Tekintse meg a becsült szállítási díjat és a szállítási dátumot
+Edit,Szerkesztés
+Create Shipment,Szállítás létrehozása
+Custom Package,Egyedi csomag
+Name,Név
+Address,Cím
+State,Állapot
+Note: Insufficient or incorrect address may increase the shipping fee,Megjegyzés: Az elégtelen vagy helytelen cím megadása növelheti a szállítási díjat
+Additional Handling,Kiegészítő kezelés
+Additional handling,Kiegészítő kezelés
+Quantum View Ship Notification,Quantum View Ship Notification
+Quantum View Delivery Notification,Quantum View szállítási értesítés
+Residential Address,Lakcím
+Saturday Delivery,szombati kiszállítás
+Carbon Neutral,Szén-semleges
+Direct Delivery Only,Csak közvetlen szállítás
+Declared value,Deklarált érték
+Signature Required,Aláírás szükséges
+Adult Signature Required,Felnőtt aláírás szükséges
+To Home COD,Haza COD
+Cancel Editing,Szerkesztés megszakítása
+To Access Point COD,Az Access Point COD-hoz
+Orders to be processed,Feldolgozandó megrendelések
+The name is not empty,A név nem üres
+The address is required,A cím megadása kötelező
+The postal code is empty or invalid,Az irányítószám üres vagy érvénytelen
+The city is not empty,A város nem üres
+Invalid email format,érvénytelen e-mail formátum
+The phone is not empty,A telefon nem üres
+Some of the data you entered is not valid. Please check again.,A megadott adatok egy része nem érvényes. Kérlek nézd meg újra.
+There are errors connecting to the UPS API servers. Please try again.,Hiba történt a UPS API-kiszolgálókhoz való kapcsolódás során. Kérlek próbáld újra.
+//======================= Shipment page,//======================= Szállítás oldal
+Shipments,Szállítmányok
+"By selecting any order in this shipment tab, I agree to the <a href='javascrip:void(0);' id='term-condition'>Terms and Conditions.</a>",Bármely rendelés kiválasztásával ezen a Szállítás lapon elfogadom a <a href='javascrip:void(0);' id='term-condition'>Általános Szerződési Feltételek.</a>
+UPS Tracking Terms and Conditions,UPS nyomon követési feltételek
+"NOTICE: The UPS package tracking systems accessed via this service (the &quot; Tracking Systems &quot;) and tracking information obtained through this service (the &quot; Information &quot;) is the private property of UPS. UPS authorizes you to use the Tracking Systems solely to track shipments tendered by or for you to UPS for delivery and for no other purpose. Without limitation, you are not authorized to make the Information available on any web site or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. This is a personal service, thus your right to use the Tracking Systems or Information is non-assignable. Any access or use that is inconsistent with these terms is unauthorized and strictly prohibited.","FIGYELMEZTETÉS: Az ezen a szolgáltatáson keresztül elérhető UPS-csomagkövető rendszerek (""Követőrendszerek"") és a szolgáltatáson keresztül szerzett nyomkövetési információk (""Információ"") a UPS magántulajdona. A UPS felhatalmazza Önt, hogy a nyomkövető rendszereket kizárólag a UPS által kézbesítésre felajánlott küldemények nyomon követésére használja, és semmilyen más célra nem. Korlátozás nélkül, Ön nem jogosult az Információkat bármely weboldalon elérhetővé tenni, vagy más módon reprodukálni, terjeszteni, másolni, tárolni, felhasználni vagy értékesíteni az Információkat kereskedelmi haszonszerzés céljából a UPS kifejezett írásos hozzájárulása nélkül. Ez egy személyes szolgáltatás, így az Ön Nyomkövető Rendszerek vagy Információk használatára vonatkozó joga nem ruházható át. Bármilyen hozzáférés vagy használat, amely nem egyeztethető össze ezekkel a feltételekkel, jogosulatlan és szigorúan tilos."
+Download PDF Label,PDF címke letöltése
+Download ZPL Label,Töltse le a ZPL címkét
+Export Shipment Data,Szállítási adatok exportálása
+Cancel Shipments,Szállítások törlése
+ID Shipment,ID Szállítás
+Tracking Number,Nyomon követési szám
+Date,Dátum
+Estimated Shipping Fee,Becsült szállítási díj
+Shipment #,Szállítás száma
+Order #ID reference,Rendelési számazonosító hivatkozás
+Package details,A csomag részletei
+Are you sure you want to cancel selected shipment(s)?,"Biztos benne, hogy törölni szeretné a kiválasztott szállítmány(oka)t?"
+Shipment Canceled,Szállítás törölve
+Archived Orders,Archivált rendelések
+//======================= Additional,//======================= További
+Packaging:,Csomagolás:
+Access Point display setting:,UPS Access Point kijelző beállítása:
+Number of Access Points visible to customers:,Az ügyfelek számára látható hozzáférési pontok száma:
+Display all the Access Points in range of:,Az összes hozzáférési pont megjelenítése a következő tartományban:
+Title:,Cím:
+Company:,Vállalat:
+Email:,Email:
+Phone &nbsp number:,Telefon &nbsp szám:
+Phone &nbsp;number:,Telefonszám:
+Address type:,Cím típusa:
+Address:,Cím:
+Postal code:,Irányítószám:
+City:,Város:
+Country:,Ország:
+Account Name:,Felhasználónév:
+Account Number:,Számlaszám:
+Account number:,Számlaszám:
+Invoice Number:,Számlaszám:
+Invoice Amount:,Számla összeg:
+Currency:,Valuta:
+Invoice date:,Számla kiállítási dátuma:
+Name:,Név:
+Phone:,Telefon:
+Customer:,Vevő:
+Product:,Termék:
+Shipping service:,Szállítási szolgáltatás:
+Order value:,Rendelés értéke:
+Payment status:,Fizetési állapot:
+Access Point:,Hozzáférési pont:
+Payment Status:,Fizetési állapot:
+Phone number:,Telefonszám:
+Package:,Csomag:
+Estimated Shipping fee:,Becsült szállítási díj:
+Estimated Shipping Fee:,Becsült szállítási díj:
+Orders to be processed:,Feldolgozandó rendelések:
+Order #ID reference:,Rendelési azonosító hivatkozás:
+Package details:,A csomag részletei:
+Tracking number:,Nyomon követési szám:
+Accessorial Service:,Kiegészítő szolgáltatás:
+Accessorial service:,Kiegészítő szolgáltatás:
+"If you are new to UPS, please refer to the following FAQs for additional information:","Ha új a UPS-ben, kérjük, olvassa el a következő GYIK-et további információkért:"
+VAT Number:,Adószám:
+Promo Code:,Promóciós kód:
+Country/Territory:,Ország/Térség:
+End of Business Day,Munkanap vége
+//==============================Security Enhancement page,
+Security Enhancement,Biztonsági javítás
+SECURITY ENHANCEMENTS ACTIVATION,BIZTONSÁGI FEJLESZTÉSEK AKTIVÁLÁSA
+By installing UPS Plugin you gained this convenient option to apply UPS recommended Security Enhancements to your e-shop.By enabling particular security enhancements below you can make your e-shop less vulnerable to some common hackers' attacks.,
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).","A UPS beépülő modul telepítésével megszerezte ezt a kényelmes lehetőséget, amellyel a UPS által javasolt biztonsági fejlesztéseket alkalmazhatja e-shopjában. Az alábbi biztonsági fejlesztések engedélyezésével kevésbé sebezhetővé teheti e-áruházát néhány gyakori hackertámadással szemben."
+"Note, you can keep UPS recommended Security Enhancements disabled if you have already implemented these security measures in other way (by tweaking your web servers configurations properly, by coding own Magento hooks or by using some other plugin that aims to implement the similar enhancements).",
+Clickjacking Defense,Clickjacking Defense
+"See [wikipedia|https://en.wikipedia.org/wiki/Clickjacking] for more details. If you enable this defense, then UPS plugin will secure your store by communicating framing policy to user's browser through 'X-Frame-Options: Sameorigin' HTTP response header and by injecting 'frame-breaker' java script for legacy browsers.- UPS Plugin can secure your e-shop Front Office pages in accordance with OWASP recommended Clickjacking Defense Cheat Sheet Disable this defense if you wish to enable framing of your e-shop GUI on 3rd party websites; or if you have already implemented this defense differently.","További részletekért lásd: [wikipedia|https://en.wikipedia.org/wiki/Clickjacking]. Ha engedélyezi ezt a védelmet, akkor a UPS beépülő modul megvédi az áruházat azáltal, hogy keretezési szabályzatot közöl a felhasználó böngészőjével az „X-Frame-Options: Sameorigin” HTTP válaszfejlécen keresztül, és „frame-breaker” java szkriptet injektál a régebbi böngészőkhöz.- UPS Plugin biztonságossá teheti az e-shop Front Office oldalait az OWASP által javasolt Clickjacking Defense Cheat Sheet szerint. Tiltsa le ezt a védelmet, ha engedélyezni szeretné az e-shop grafikus felhasználói felületének keretezését harmadik fél webhelyein; vagy ha ezt a védekezést már másképp valósította meg."
+Use X-Frame-Options response header,Használja az X-Frame-Options válaszfejlécet
+Do not use,Ne használja
+Deny,Tagadni
+SameOrigin,Ugyanaz az eredet
+Use frame-killer script:,Frame-killer szkript használata:
+Use Content-Security-Policy response header,Használja a Content-Security-Policy válaszfejlécet
+frame-ancestors 'none',"keret-ősök ""nincs"""
+frame-ancestors 'sefl',"keret-ősök ""sefl"""
+Content Sniffing Prevention,Tartalom szippantás megelőzése
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-Content-Type-Options: nosniff","További részletekért tekintse meg a wikipédiát. Ha bejelöli ezt a lehetőséget, a UPS beépülő modul az <br />X-Content-Type-Options: nosniff alkalmazással megvédi az e-shop Front Office-t"
+"HTTP Response Header to all Magento Front Office pages. That will prevent the client's browser (notably Internet Explorer) from MIME-sniffing a response away from the declared content-type. You may not really need this as your users are not supposed to upload any potentially harmful files to your e-shop (e.g. JavaScript instead of an Image). However, it is still good practice to enable this special security header as there is no performance penalty associated with it.","HTTP válaszfejléc minden Magento Front Office oldalhoz. Ez megakadályozza, hogy a kliens böngészője (különösen az Internet Explorer) a deklarált tartalomtípustól eltérő választ kapjon a MIME-től. Lehetséges, hogy erre nincs igazán szüksége, mivel a felhasználóknak nem szabad potenciálisan káros fájlokat feltölteniük az e-shopba (például kép helyett JavaScriptet). Mindazonáltal továbbra is bevált gyakorlat engedélyezni ezt a speciális biztonsági fejlécet, mivel nem jár hozzá teljesítménybüntetés."
+Enables cross-site scripting filters in browsers that support the X-XSS-Protection directive,Engedélyezi a helyek közötti parancsfájl-szűrőket az X-XSS-Protection direktívát támogató böngészőkben
+"See wikipedia for more details.If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />X-XSS-Protection: '1; mode=block' <br />HTTP response header to all Magento Front Office pages.","További részletekért tekintse meg a wikipédiát. Ha bejelöli ezt a lehetőséget, a UPS beépülő modul az <br />X-XSS-Protection: '1; mode=block' <br />HTTP válaszfejléc minden Magento Front Office oldalra."
+Protect your e-shop website against protocol downgrade attacks and cookie hijacking,Védje meg e-shop webhelyét a protokoll leminősítésével és a cookie-k eltérítésével szemben
+"See wikipedia for more details If you check this option, UPS plugin will secure your e-shop Front Office by applying <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains' <br />HTTP response header to all Magento Front Office pages.","További részletekért tekintse meg a wikipédiát Ha bejelöli ezt a lehetőséget, a UPS beépülő modul megvédi e-shop Front Office-ját a <br />Strict-Transport-Security 'max-age=31536000; includeSubDomains <br />HTTP válaszfejléce minden Magento Front Office oldalra."
+Prevent sensitive pages from caching by browser.,Megakadályozza az érzékeny oldalak böngésző általi gyorsítótárazását.
+"See OWASP FAQs for more details. If you check this option, UPS plugin will secure the Checkout process by applying <br />Cache-Control: no-cache, no-store<br />Expires: 0 <br />Pragma: no-cache<br />HTTP response headers to the corresponding pages","További részletekért tekintse meg az OWASP GYIK-et. Ha bejelöli ezt a lehetőséget, a UPS beépülő modul biztosítja a Checkout folyamatot a<br />Cache-Control: nincs gyorsítótár, nincs áruház <br />Lejár: 0 <br />Pragma: nincs gyorsítótár <br /> HTTP válaszfejlécek a megfelelő oldalakhoz"
+Apply to pages,Alkalmazás oldalakra
+All,Összes
+Checkout only,Csak fizetés
+Data saved successfully.,Az adatok mentése sikeres volt.
+We couldn't find any records,Nem találtunk rekordokat
+Please wait…,Kérlek várj…
+Archiving Orders,Megrendelések archiválása
+There is no shipping service for the above address,A fenti címre nincs szállítási szolgáltatás
+The email is not empty,Az e-mail nem üres
+The country is not empty,Az ország nem üres
+Select all,Mindet kiválaszt
+Unselect all,Minden kijelölés megszüntetése
+Do not have label for this Tracking ID,Nincs címke ehhez a követési azonosítóhoz
+Print Label or download file.,Címke nyomtatása vagy fájl letöltése.
+"Connection error, try later to install and configure","Csatlakozási hiba, próbálja meg később telepíteni és konfigurálni"
+We are unable to void this shipment at this time. You may attempt to void the shipment later. However you will not be billed for this shipment provided that you do not use the shipping label,"Ezt a szállítmányt jelenleg nem tudjuk érvényteleníteni. Később megpróbálhatja érvényteleníteni a küldeményt. Azonban nem számlázunk ki ezért a szállítmányért, ha nem használja a szállítási címkét"
+Estimated Fee,Becsült díj
+Shipping fee,Szállítási költség
+Poland,Lengyelország
+United Kingdom,Egyesült Királyság
+France,Franciaország
+Germany,Németország
+Italy,Olaszország
+Netherlands,Hollandia
+Spain,Spanyolország
+Belgium,Belgium
+Shipment Manager,Szállítás menedzser
+Default Package,Alapértelmezett csomag
+Order Time,Rendelési idő
+Time,Idő
+Warning,Figyelem
+Error! Package exceeds the maximum allowable size of 400 cm or 157.48 inches (the maximum allowable size calculation = length + 2 * width + 2 * height).,"Hiba! A csomag meghaladja a 400 cm-es vagy 157,48 hüvelykes maximálisan megengedett méretet (a megengedett legnagyobb méret számítása = hosszúság + 2 * szélesség + 2 * magasság)."
+Access Points Address will be used as an alternative shipping address,A hozzáférési pontok címe alternatív szállítási címként lesz használva
+Ship To (UPS Access Point),Szállítás ide (UPS Access Point)
